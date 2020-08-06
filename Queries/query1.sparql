@@ -1,0 +1,17 @@
+PREFIX db: <http://dbpedia.org/ontology/> 
+PREFIX ont: <http://webprotege.stanford.edu/projectOntology#> 
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> 
+SELECT ?num ?county ?price WHERE { 
+    ?z ont:CountyName ?county . 
+    ?z ont:NumOfHomeless ?num . 
+    ?z db:Year '2010' . 
+    ?x ont:MeanPrice ?price . 
+    ?x ont:CountyName ?county .
+                           
+    {SELECT ?price WHERE {
+        ?x db:Year '2010' . 
+        ?x ont:MeanPrice ?price .
+        ?x ont:CountyName ?county . 
+        ?x ont:HousingPricesType 'Execution' .
+    }ORDER BY DESC(xsd:float(?price)) LIMIT 1
+}}

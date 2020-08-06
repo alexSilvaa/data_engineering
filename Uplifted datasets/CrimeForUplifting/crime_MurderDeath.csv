@@ -1,0 +1,1531 @@
+count,county,crime,division,year
+3.0,Donegal,Homicide offences,Donegal Garda Division,2003
+4.0,Donegal,Homicide offences,Donegal Garda Division,2004
+13.0,Donegal,Homicide offences,Donegal Garda Division,2005
+4.0,Donegal,Homicide offences,Donegal Garda Division,2006
+4.0,Donegal,Homicide offences,Donegal Garda Division,2007
+5.0,Donegal,Homicide offences,Donegal Garda Division,2008
+5.0,Donegal,Homicide offences,Donegal Garda Division,2009
+11.0,Donegal,Homicide offences,Donegal Garda Division,2010
+1.0,Donegal,Homicide offences,Donegal Garda Division,2011
+5.0,Donegal,Homicide offences,Donegal Garda Division,2012
+6.0,Donegal,Homicide offences,Donegal Garda Division,2013
+6.0,Donegal,Homicide offences,Donegal Garda Division,2014
+3.0,Donegal,Homicide offences,Donegal Garda Division,2015
+3.0,Donegal,Homicide offences,Donegal Garda Division,2016
+1.0,Donegal,Homicide offences,Donegal Garda Division,2017
+6.0,Donegal,Homicide offences,Donegal Garda Division,2018
+7.0,Donegal,Homicide offences,Donegal Garda Division,2019
+4.0,Louth,Homicide offences,Louth  Garda Division,2003
+5.0,Louth,Homicide offences,Louth  Garda Division,2004
+8.0,Louth,Homicide offences,Louth  Garda Division,2005
+6.0,Louth,Homicide offences,Louth  Garda Division,2006
+7.0,Louth,Homicide offences,Louth  Garda Division,2007
+1.0,Louth,Homicide offences,Louth  Garda Division,2008
+1.0,Louth,Homicide offences,Louth  Garda Division,2009
+5.0,Louth,Homicide offences,Louth  Garda Division,2010
+3.0,Louth,Homicide offences,Louth  Garda Division,2011
+3.0,Louth,Homicide offences,Louth  Garda Division,2012
+1.0,Louth,Homicide offences,Louth  Garda Division,2013
+2.0,Louth,Homicide offences,Louth  Garda Division,2014
+3.0,Louth,Homicide offences,Louth  Garda Division,2015
+2.0,Louth,Homicide offences,Louth  Garda Division,2016
+5.0,Louth,Homicide offences,Louth  Garda Division,2017
+5.0,Louth,Homicide offences,Louth  Garda Division,2018
+6.0,Louth,Homicide offences,Louth  Garda Division,2019
+5.0,Clare,Homicide offences,Clare Garda Division,2003
+3.0,Clare,Homicide offences,Clare Garda Division,2004
+6.0,Clare,Homicide offences,Clare Garda Division,2005
+2.0,Clare,Homicide offences,Clare Garda Division,2006
+9.0,Clare,Homicide offences,Clare Garda Division,2007
+0.0,Clare,Homicide offences,Clare Garda Division,2008
+2.0,Clare,Homicide offences,Clare Garda Division,2009
+2.0,Clare,Homicide offences,Clare Garda Division,2010
+2.0,Clare,Homicide offences,Clare Garda Division,2011
+1.0,Clare,Homicide offences,Clare Garda Division,2012
+1.0,Clare,Homicide offences,Clare Garda Division,2013
+3.0,Clare,Homicide offences,Clare Garda Division,2014
+0.0,Clare,Homicide offences,Clare Garda Division,2015
+2.0,Clare,Homicide offences,Clare Garda Division,2016
+3.0,Clare,Homicide offences,Clare Garda Division,2017
+4.0,Clare,Homicide offences,Clare Garda Division,2018
+4.0,Clare,Homicide offences,Clare Garda Division,2019
+2.0,Mayo,Homicide offences,Mayo Garda Division,2003
+2.0,Mayo,Homicide offences,Mayo Garda Division,2004
+1.0,Mayo,Homicide offences,Mayo Garda Division,2005
+1.0,Mayo,Homicide offences,Mayo Garda Division,2006
+1.0,Mayo,Homicide offences,Mayo Garda Division,2007
+3.0,Mayo,Homicide offences,Mayo Garda Division,2008
+5.0,Mayo,Homicide offences,Mayo Garda Division,2009
+3.0,Mayo,Homicide offences,Mayo Garda Division,2010
+1.0,Mayo,Homicide offences,Mayo Garda Division,2011
+3.0,Mayo,Homicide offences,Mayo Garda Division,2012
+9.0,Mayo,Homicide offences,Mayo Garda Division,2013
+1.0,Mayo,Homicide offences,Mayo Garda Division,2014
+4.0,Mayo,Homicide offences,Mayo Garda Division,2015
+3.0,Mayo,Homicide offences,Mayo Garda Division,2016
+2.0,Mayo,Homicide offences,Mayo Garda Division,2017
+0.0,Mayo,Homicide offences,Mayo Garda Division,2018
+2.0,Mayo,Homicide offences,Mayo Garda Division,2019
+3.0,Galway,Homicide offences,Galway Garda Division,2003
+8.0,Galway,Homicide offences,Galway Garda Division,2004
+8.0,Galway,Homicide offences,Galway Garda Division,2005
+7.0,Galway,Homicide offences,Galway Garda Division,2006
+5.0,Galway,Homicide offences,Galway Garda Division,2007
+9.0,Galway,Homicide offences,Galway Garda Division,2008
+5.0,Galway,Homicide offences,Galway Garda Division,2009
+1.0,Galway,Homicide offences,Galway Garda Division,2010
+5.0,Galway,Homicide offences,Galway Garda Division,2011
+3.0,Galway,Homicide offences,Galway Garda Division,2012
+2.0,Galway,Homicide offences,Galway Garda Division,2013
+2.0,Galway,Homicide offences,Galway Garda Division,2014
+2.0,Galway,Homicide offences,Galway Garda Division,2015
+1.0,Galway,Homicide offences,Galway Garda Division,2016
+1.0,Galway,Homicide offences,Galway Garda Division,2017
+4.0,Galway,Homicide offences,Galway Garda Division,2018
+5.0,Galway,Homicide offences,Galway Garda Division,2019
+3.0,Cork,Homicide offences,Cork City Garda Division,2003
+2.0,Cork,Homicide offences,Cork City Garda Division,2004
+5.0,Cork,Homicide offences,Cork City Garda Division,2005
+6.0,Cork,Homicide offences,Cork City Garda Division,2006
+3.0,Cork,Homicide offences,Cork City Garda Division,2007
+6.0,Cork,Homicide offences,Cork City Garda Division,2008
+2.0,Cork,Homicide offences,Cork City Garda Division,2009
+8.0,Cork,Homicide offences,Cork City Garda Division,2010
+3.0,Cork,Homicide offences,Cork City Garda Division,2011
+5.0,Cork,Homicide offences,Cork City Garda Division,2012
+6.0,Cork,Homicide offences,Cork City Garda Division,2013
+0.0,Cork,Homicide offences,Cork City Garda Division,2014
+3.0,Cork,Homicide offences,Cork City Garda Division,2015
+4.0,Cork,Homicide offences,Cork City Garda Division,2016
+6.0,Cork,Homicide offences,Cork City Garda Division,2017
+5.0,Cork,Homicide offences,Cork City Garda Division,2018
+7.0,Cork,Homicide offences,Cork City Garda Division,2019
+2.0,Cork,Homicide offences,Cork North Garda Division,2003
+0.0,Cork,Homicide offences,Cork North Garda Division,2004
+2.0,Cork,Homicide offences,Cork North Garda Division,2005
+5.0,Cork,Homicide offences,Cork North Garda Division,2006
+3.0,Cork,Homicide offences,Cork North Garda Division,2007
+1.0,Cork,Homicide offences,Cork North Garda Division,2008
+4.0,Cork,Homicide offences,Cork North Garda Division,2009
+3.0,Cork,Homicide offences,Cork North Garda Division,2010
+1.0,Cork,Homicide offences,Cork North Garda Division,2011
+2.0,Cork,Homicide offences,Cork North Garda Division,2012
+0.0,Cork,Homicide offences,Cork North Garda Division,2013
+8.0,Cork,Homicide offences,Cork North Garda Division,2014
+5.0,Cork,Homicide offences,Cork North Garda Division,2015
+1.0,Cork,Homicide offences,Cork North Garda Division,2016
+2.0,Cork,Homicide offences,Cork North Garda Division,2017
+2.0,Cork,Homicide offences,Cork North Garda Division,2018
+2.0,Cork,Homicide offences,Cork North Garda Division,2019
+1.0,Cork,Homicide offences,Cork West Garda Division,2003
+5.0,Cork,Homicide offences,Cork West Garda Division,2004
+3.0,Cork,Homicide offences,Cork West Garda Division,2005
+2.0,Cork,Homicide offences,Cork West Garda Division,2006
+3.0,Cork,Homicide offences,Cork West Garda Division,2007
+3.0,Cork,Homicide offences,Cork West Garda Division,2008
+2.0,Cork,Homicide offences,Cork West Garda Division,2009
+1.0,Cork,Homicide offences,Cork West Garda Division,2010
+6.0,Cork,Homicide offences,Cork West Garda Division,2011
+3.0,Cork,Homicide offences,Cork West Garda Division,2012
+3.0,Cork,Homicide offences,Cork West Garda Division,2013
+1.0,Cork,Homicide offences,Cork West Garda Division,2014
+0.0,Cork,Homicide offences,Cork West Garda Division,2015
+3.0,Cork,Homicide offences,Cork West Garda Division,2016
+2.0,Cork,Homicide offences,Cork West Garda Division,2017
+3.0,Cork,Homicide offences,Cork West Garda Division,2018
+5.0,Cork,Homicide offences,Cork West Garda Division,2019
+1.0,Kerry,Homicide offences,Kerry Garda Division,2003
+8.0,Kerry,Homicide offences,Kerry Garda Division,2004
+4.0,Kerry,Homicide offences,Kerry Garda Division,2005
+10.0,Kerry,Homicide offences,Kerry Garda Division,2006
+2.0,Kerry,Homicide offences,Kerry Garda Division,2007
+5.0,Kerry,Homicide offences,Kerry Garda Division,2008
+2.0,Kerry,Homicide offences,Kerry Garda Division,2009
+1.0,Kerry,Homicide offences,Kerry Garda Division,2010
+6.0,Kerry,Homicide offences,Kerry Garda Division,2011
+3.0,Kerry,Homicide offences,Kerry Garda Division,2012
+7.0,Kerry,Homicide offences,Kerry Garda Division,2013
+4.0,Kerry,Homicide offences,Kerry Garda Division,2014
+3.0,Kerry,Homicide offences,Kerry Garda Division,2015
+3.0,Kerry,Homicide offences,Kerry Garda Division,2016
+3.0,Kerry,Homicide offences,Kerry Garda Division,2017
+1.0,Kerry,Homicide offences,Kerry Garda Division,2018
+2.0,Kerry,Homicide offences,Kerry Garda Division,2019
+10.0,Limerick,Homicide offences,Limerick Garda Division,2003
+10.0,Limerick,Homicide offences,Limerick Garda Division,2004
+5.0,Limerick,Homicide offences,Limerick Garda Division,2005
+10.0,Limerick,Homicide offences,Limerick Garda Division,2006
+10.0,Limerick,Homicide offences,Limerick Garda Division,2007
+8.0,Limerick,Homicide offences,Limerick Garda Division,2008
+11.0,Limerick,Homicide offences,Limerick Garda Division,2009
+12.0,Limerick,Homicide offences,Limerick Garda Division,2010
+5.0,Limerick,Homicide offences,Limerick Garda Division,2011
+2.0,Limerick,Homicide offences,Limerick Garda Division,2012
+3.0,Limerick,Homicide offences,Limerick Garda Division,2013
+3.0,Limerick,Homicide offences,Limerick Garda Division,2014
+6.0,Limerick,Homicide offences,Limerick Garda Division,2015
+5.0,Limerick,Homicide offences,Limerick Garda Division,2016
+4.0,Limerick,Homicide offences,Limerick Garda Division,2017
+5.0,Limerick,Homicide offences,Limerick Garda Division,2018
+5.0,Limerick,Homicide offences,Limerick Garda Division,2019
+2.0,Meath,Homicide offences,Meath  Garda Division,2003
+2.0,Meath,Homicide offences,Meath  Garda Division,2004
+5.0,Meath,Homicide offences,Meath  Garda Division,2005
+7.0,Meath,Homicide offences,Meath  Garda Division,2006
+12.0,Meath,Homicide offences,Meath  Garda Division,2007
+1.0,Meath,Homicide offences,Meath  Garda Division,2008
+4.0,Meath,Homicide offences,Meath  Garda Division,2009
+1.0,Meath,Homicide offences,Meath  Garda Division,2010
+1.0,Meath,Homicide offences,Meath  Garda Division,2011
+0.0,Meath,Homicide offences,Meath  Garda Division,2012
+4.0,Meath,Homicide offences,Meath  Garda Division,2013
+7.0,Meath,Homicide offences,Meath  Garda Division,2014
+6.0,Meath,Homicide offences,Meath  Garda Division,2015
+4.0,Meath,Homicide offences,Meath  Garda Division,2016
+2.0,Meath,Homicide offences,Meath  Garda Division,2017
+2.0,Meath,Homicide offences,Meath  Garda Division,2018
+3.0,Meath,Homicide offences,Meath  Garda Division,2019
+4.0,Wicklow,Homicide offences,Wicklow  Garda Division,2003
+1.0,Wicklow,Homicide offences,Wicklow  Garda Division,2004
+2.0,Wicklow,Homicide offences,Wicklow  Garda Division,2005
+3.0,Wicklow,Homicide offences,Wicklow  Garda Division,2006
+7.0,Wicklow,Homicide offences,Wicklow  Garda Division,2007
+0.0,Wicklow,Homicide offences,Wicklow  Garda Division,2008
+6.0,Wicklow,Homicide offences,Wicklow  Garda Division,2009
+4.0,Wicklow,Homicide offences,Wicklow  Garda Division,2010
+0.0,Wicklow,Homicide offences,Wicklow  Garda Division,2011
+0.0,Wicklow,Homicide offences,Wicklow  Garda Division,2012
+3.0,Wicklow,Homicide offences,Wicklow  Garda Division,2013
+3.0,Wicklow,Homicide offences,Wicklow  Garda Division,2014
+4.0,Wicklow,Homicide offences,Wicklow  Garda Division,2015
+1.0,Wicklow,Homicide offences,Wicklow  Garda Division,2016
+2.0,Wicklow,Homicide offences,Wicklow  Garda Division,2017
+2.0,Wicklow,Homicide offences,Wicklow  Garda Division,2018
+3.0,Wicklow,Homicide offences,Wicklow  Garda Division,2019
+3.0,Westmeath,Homicide offences,Westmeath  Garda Division,2003
+1.0,Westmeath,Homicide offences,Westmeath  Garda Division,2004
+4.0,Westmeath,Homicide offences,Westmeath  Garda Division,2005
+4.0,Westmeath,Homicide offences,Westmeath  Garda Division,2006
+4.0,Westmeath,Homicide offences,Westmeath  Garda Division,2007
+2.0,Westmeath,Homicide offences,Westmeath  Garda Division,2008
+1.0,Westmeath,Homicide offences,Westmeath  Garda Division,2009
+3.0,Westmeath,Homicide offences,Westmeath  Garda Division,2010
+3.0,Westmeath,Homicide offences,Westmeath  Garda Division,2011
+1.0,Westmeath,Homicide offences,Westmeath  Garda Division,2012
+1.0,Westmeath,Homicide offences,Westmeath  Garda Division,2013
+1.0,Westmeath,Homicide offences,Westmeath  Garda Division,2014
+2.0,Westmeath,Homicide offences,Westmeath  Garda Division,2015
+3.0,Westmeath,Homicide offences,Westmeath  Garda Division,2016
+0.0,Westmeath,Homicide offences,Westmeath  Garda Division,2017
+1.0,Westmeath,Homicide offences,Westmeath  Garda Division,2018
+1.0,Westmeath,Homicide offences,Westmeath  Garda Division,2019
+0.0,Kildare,Homicide offences,Kildare  Garda Division,2003
+4.0,Kildare,Homicide offences,Kildare  Garda Division,2004
+7.0,Kildare,Homicide offences,Kildare  Garda Division,2005
+6.0,Kildare,Homicide offences,Kildare  Garda Division,2006
+4.0,Kildare,Homicide offences,Kildare  Garda Division,2007
+2.0,Kildare,Homicide offences,Kildare  Garda Division,2008
+2.0,Kildare,Homicide offences,Kildare  Garda Division,2009
+4.0,Kildare,Homicide offences,Kildare  Garda Division,2010
+4.0,Kildare,Homicide offences,Kildare  Garda Division,2011
+3.0,Kildare,Homicide offences,Kildare  Garda Division,2012
+6.0,Kildare,Homicide offences,Kildare  Garda Division,2013
+2.0,Kildare,Homicide offences,Kildare  Garda Division,2014
+12.0,Kildare,Homicide offences,Kildare  Garda Division,2015
+2.0,Kildare,Homicide offences,Kildare  Garda Division,2016
+5.0,Kildare,Homicide offences,Kildare  Garda Division,2017
+4.0,Kildare,Homicide offences,Kildare  Garda Division,2018
+6.0,Kildare,Homicide offences,Kildare  Garda Division,2019
+2.0,Tipperary,Homicide offences,Tipperary Garda Division,2003
+3.0,Tipperary,Homicide offences,Tipperary Garda Division,2004
+2.0,Tipperary,Homicide offences,Tipperary Garda Division,2005
+5.0,Tipperary,Homicide offences,Tipperary Garda Division,2006
+9.0,Tipperary,Homicide offences,Tipperary Garda Division,2007
+9.0,Tipperary,Homicide offences,Tipperary Garda Division,2008
+2.0,Tipperary,Homicide offences,Tipperary Garda Division,2009
+1.0,Tipperary,Homicide offences,Tipperary Garda Division,2010
+2.0,Tipperary,Homicide offences,Tipperary Garda Division,2011
+4.0,Tipperary,Homicide offences,Tipperary Garda Division,2012
+2.0,Tipperary,Homicide offences,Tipperary Garda Division,2013
+1.0,Tipperary,Homicide offences,Tipperary Garda Division,2014
+0.0,Tipperary,Homicide offences,Tipperary Garda Division,2015
+3.0,Tipperary,Homicide offences,Tipperary Garda Division,2016
+2.0,Tipperary,Homicide offences,Tipperary Garda Division,2017
+2.0,Tipperary,Homicide offences,Tipperary Garda Division,2018
+2.0,Tipperary,Homicide offences,Tipperary Garda Division,2019
+2.0,Wexford,Homicide offences,Wexford  Garda Division,2003
+6.0,Wexford,Homicide offences,Wexford  Garda Division,2004
+7.0,Wexford,Homicide offences,Wexford  Garda Division,2005
+5.0,Wexford,Homicide offences,Wexford  Garda Division,2006
+9.0,Wexford,Homicide offences,Wexford  Garda Division,2007
+8.0,Wexford,Homicide offences,Wexford  Garda Division,2008
+2.0,Wexford,Homicide offences,Wexford  Garda Division,2009
+3.0,Wexford,Homicide offences,Wexford  Garda Division,2010
+3.0,Wexford,Homicide offences,Wexford  Garda Division,2011
+7.0,Wexford,Homicide offences,Wexford  Garda Division,2012
+3.0,Wexford,Homicide offences,Wexford  Garda Division,2013
+3.0,Wexford,Homicide offences,Wexford  Garda Division,2014
+2.0,Wexford,Homicide offences,Wexford  Garda Division,2015
+0.0,Wexford,Homicide offences,Wexford  Garda Division,2016
+2.0,Wexford,Homicide offences,Wexford  Garda Division,2017
+1.0,Wexford,Homicide offences,Wexford  Garda Division,2018
+2.0,Wexford,Homicide offences,Wexford  Garda Division,2019
+5.0,Waterford,Homicide offences,Waterford  Garda Division,2003
+6.0,Waterford,Homicide offences,Waterford  Garda Division,2004
+6.0,Waterford,Homicide offences,Waterford  Garda Division,2005
+5.0,Waterford,Homicide offences,Waterford  Garda Division,2006
+2.0,Waterford,Homicide offences,Waterford  Garda Division,2007
+3.0,Waterford,Homicide offences,Waterford  Garda Division,2008
+0.0,Waterford,Homicide offences,Waterford  Garda Division,2009
+2.0,Waterford,Homicide offences,Waterford  Garda Division,2010
+3.0,Waterford,Homicide offences,Waterford  Garda Division,2011
+3.0,Waterford,Homicide offences,Waterford  Garda Division,2012
+1.0,Waterford,Homicide offences,Waterford  Garda Division,2013
+6.0,Waterford,Homicide offences,Waterford  Garda Division,2014
+0.0,Waterford,Homicide offences,Waterford  Garda Division,2015
+3.0,Waterford,Homicide offences,Waterford  Garda Division,2016
+4.0,Waterford,Homicide offences,Waterford  Garda Division,2017
+4.0,Waterford,Homicide offences,Waterford  Garda Division,2018
+5.0,Waterford,Homicide offences,Waterford  Garda Division,2019
+36.0,Dublin,Homicide offences,Dublin Region,2003
+30.0,Dublin,Homicide offences,Dublin Region,2004
+31.0,Dublin,Homicide offences,Dublin Region,2005
+43.0,Dublin,Homicide offences,Dublin Region,2006
+38.0,Dublin,Homicide offences,Dublin Region,2007
+29.0,Dublin,Homicide offences,Dublin Region,2008
+35.0,Dublin,Homicide offences,Dublin Region,2009
+35.0,Dublin,Homicide offences,Dublin Region,2010
+19.0,Dublin,Homicide offences,Dublin Region,2011
+23.0,Dublin,Homicide offences,Dublin Region,2012
+27.0,Dublin,Homicide offences,Dublin Region,2013
+40.0,Dublin,Homicide offences,Dublin Region,2014
+19.0,Dublin,Homicide offences,Dublin Region,2015
+27.0,Dublin,Homicide offences,Dublin Region,2016
+31.0,Dublin,Homicide offences,Dublin Region,2017
+18.0,Dublin,Homicide offences,Dublin Region,2018
+35.0,Dublin,Homicide offences,Dublin Region,2019
+0.0,Donegal,Murder,Donegal Garda Division,2003
+1.0,Donegal,Murder,Donegal Garda Division,2004
+1.0,Donegal,Murder,Donegal Garda Division,2005
+1.0,Donegal,Murder,Donegal Garda Division,2006
+1.0,Donegal,Murder,Donegal Garda Division,2007
+1.0,Donegal,Murder,Donegal Garda Division,2008
+0.0,Donegal,Murder,Donegal Garda Division,2009
+0.0,Donegal,Murder,Donegal Garda Division,2010
+0.0,Donegal,Murder,Donegal Garda Division,2011
+2.0,Donegal,Murder,Donegal Garda Division,2012
+2.0,Donegal,Murder,Donegal Garda Division,2013
+2.0,Donegal,Murder,Donegal Garda Division,2014
+0.0,Donegal,Murder,Donegal Garda Division,2015
+0.0,Donegal,Murder,Donegal Garda Division,2016
+1.0,Donegal,Murder,Donegal Garda Division,2017
+0.0,Donegal,Murder,Donegal Garda Division,2018
+1.0,Donegal,Murder,Donegal Garda Division,2019
+2.0,Louth,Murder,Louth  Garda Division,2003
+2.0,Louth,Murder,Louth  Garda Division,2004
+1.0,Louth,Murder,Louth  Garda Division,2005
+2.0,Louth,Murder,Louth  Garda Division,2006
+3.0,Louth,Murder,Louth  Garda Division,2007
+1.0,Louth,Murder,Louth  Garda Division,2008
+0.0,Louth,Murder,Louth  Garda Division,2009
+4.0,Louth,Murder,Louth  Garda Division,2010
+2.0,Louth,Murder,Louth  Garda Division,2011
+3.0,Louth,Murder,Louth  Garda Division,2012
+1.0,Louth,Murder,Louth  Garda Division,2013
+2.0,Louth,Murder,Louth  Garda Division,2014
+3.0,Louth,Murder,Louth  Garda Division,2015
+0.0,Louth,Murder,Louth  Garda Division,2016
+0.0,Louth,Murder,Louth  Garda Division,2017
+4.0,Louth,Murder,Louth  Garda Division,2018
+5.0,Louth,Murder,Louth  Garda Division,2019
+1.0,Clare,Murder,Clare Garda Division,2003
+1.0,Clare,Murder,Clare Garda Division,2004
+2.0,Clare,Murder,Clare Garda Division,2005
+0.0,Clare,Murder,Clare Garda Division,2006
+3.0,Clare,Murder,Clare Garda Division,2007
+0.0,Clare,Murder,Clare Garda Division,2008
+1.0,Clare,Murder,Clare Garda Division,2009
+0.0,Clare,Murder,Clare Garda Division,2010
+2.0,Clare,Murder,Clare Garda Division,2011
+1.0,Clare,Murder,Clare Garda Division,2012
+1.0,Clare,Murder,Clare Garda Division,2013
+3.0,Clare,Murder,Clare Garda Division,2014
+0.0,Clare,Murder,Clare Garda Division,2015
+0.0,Clare,Murder,Clare Garda Division,2016
+0.0,Clare,Murder,Clare Garda Division,2017
+1.0,Clare,Murder,Clare Garda Division,2018
+1.0,Clare,Murder,Clare Garda Division,2019
+0.0,Mayo,Murder,Mayo Garda Division,2003
+0.0,Mayo,Murder,Mayo Garda Division,2004
+0.0,Mayo,Murder,Mayo Garda Division,2005
+0.0,Mayo,Murder,Mayo Garda Division,2006
+0.0,Mayo,Murder,Mayo Garda Division,2007
+0.0,Mayo,Murder,Mayo Garda Division,2008
+2.0,Mayo,Murder,Mayo Garda Division,2009
+0.0,Mayo,Murder,Mayo Garda Division,2010
+1.0,Mayo,Murder,Mayo Garda Division,2011
+1.0,Mayo,Murder,Mayo Garda Division,2012
+7.0,Mayo,Murder,Mayo Garda Division,2013
+0.0,Mayo,Murder,Mayo Garda Division,2014
+1.0,Mayo,Murder,Mayo Garda Division,2015
+2.0,Mayo,Murder,Mayo Garda Division,2016
+1.0,Mayo,Murder,Mayo Garda Division,2017
+0.0,Mayo,Murder,Mayo Garda Division,2018
+1.0,Mayo,Murder,Mayo Garda Division,2019
+1.0,Galway,Murder,Galway Garda Division,2003
+0.0,Galway,Murder,Galway Garda Division,2004
+2.0,Galway,Murder,Galway Garda Division,2005
+2.0,Galway,Murder,Galway Garda Division,2006
+2.0,Galway,Murder,Galway Garda Division,2007
+3.0,Galway,Murder,Galway Garda Division,2008
+2.0,Galway,Murder,Galway Garda Division,2009
+0.0,Galway,Murder,Galway Garda Division,2010
+3.0,Galway,Murder,Galway Garda Division,2011
+0.0,Galway,Murder,Galway Garda Division,2012
+1.0,Galway,Murder,Galway Garda Division,2013
+0.0,Galway,Murder,Galway Garda Division,2014
+0.0,Galway,Murder,Galway Garda Division,2015
+0.0,Galway,Murder,Galway Garda Division,2016
+1.0,Galway,Murder,Galway Garda Division,2017
+1.0,Galway,Murder,Galway Garda Division,2018
+1.0,Galway,Murder,Galway Garda Division,2019
+1.0,Cork,Murder,Cork City Garda Division,2003
+1.0,Cork,Murder,Cork City Garda Division,2004
+1.0,Cork,Murder,Cork City Garda Division,2005
+3.0,Cork,Murder,Cork City Garda Division,2006
+2.0,Cork,Murder,Cork City Garda Division,2007
+3.0,Cork,Murder,Cork City Garda Division,2008
+2.0,Cork,Murder,Cork City Garda Division,2009
+3.0,Cork,Murder,Cork City Garda Division,2010
+2.0,Cork,Murder,Cork City Garda Division,2011
+2.0,Cork,Murder,Cork City Garda Division,2012
+2.0,Cork,Murder,Cork City Garda Division,2013
+0.0,Cork,Murder,Cork City Garda Division,2014
+2.0,Cork,Murder,Cork City Garda Division,2015
+1.0,Cork,Murder,Cork City Garda Division,2016
+2.0,Cork,Murder,Cork City Garda Division,2017
+2.0,Cork,Murder,Cork City Garda Division,2018
+2.0,Cork,Murder,Cork City Garda Division,2019
+0.0,Cork,Murder,Cork North Garda Division,2003
+0.0,Cork,Murder,Cork North Garda Division,2004
+0.0,Cork,Murder,Cork North Garda Division,2005
+3.0,Cork,Murder,Cork North Garda Division,2006
+0.0,Cork,Murder,Cork North Garda Division,2007
+0.0,Cork,Murder,Cork North Garda Division,2008
+0.0,Cork,Murder,Cork North Garda Division,2009
+3.0,Cork,Murder,Cork North Garda Division,2010
+1.0,Cork,Murder,Cork North Garda Division,2011
+1.0,Cork,Murder,Cork North Garda Division,2012
+0.0,Cork,Murder,Cork North Garda Division,2013
+3.0,Cork,Murder,Cork North Garda Division,2014
+1.0,Cork,Murder,Cork North Garda Division,2015
+0.0,Cork,Murder,Cork North Garda Division,2016
+1.0,Cork,Murder,Cork North Garda Division,2017
+2.0,Cork,Murder,Cork North Garda Division,2018
+2.0,Cork,Murder,Cork North Garda Division,2019
+0.0,Cork,Murder,Cork West Garda Division,2003
+0.0,Cork,Murder,Cork West Garda Division,2004
+0.0,Cork,Murder,Cork West Garda Division,2005
+0.0,Cork,Murder,Cork West Garda Division,2006
+3.0,Cork,Murder,Cork West Garda Division,2007
+0.0,Cork,Murder,Cork West Garda Division,2008
+1.0,Cork,Murder,Cork West Garda Division,2009
+0.0,Cork,Murder,Cork West Garda Division,2010
+2.0,Cork,Murder,Cork West Garda Division,2011
+0.0,Cork,Murder,Cork West Garda Division,2012
+1.0,Cork,Murder,Cork West Garda Division,2013
+0.0,Cork,Murder,Cork West Garda Division,2014
+0.0,Cork,Murder,Cork West Garda Division,2015
+0.0,Cork,Murder,Cork West Garda Division,2016
+2.0,Cork,Murder,Cork West Garda Division,2017
+2.0,Cork,Murder,Cork West Garda Division,2018
+4.0,Cork,Murder,Cork West Garda Division,2019
+0.0,Kerry,Murder,Kerry Garda Division,2003
+2.0,Kerry,Murder,Kerry Garda Division,2004
+2.0,Kerry,Murder,Kerry Garda Division,2005
+2.0,Kerry,Murder,Kerry Garda Division,2006
+1.0,Kerry,Murder,Kerry Garda Division,2007
+2.0,Kerry,Murder,Kerry Garda Division,2008
+2.0,Kerry,Murder,Kerry Garda Division,2009
+0.0,Kerry,Murder,Kerry Garda Division,2010
+1.0,Kerry,Murder,Kerry Garda Division,2011
+2.0,Kerry,Murder,Kerry Garda Division,2012
+3.0,Kerry,Murder,Kerry Garda Division,2013
+0.0,Kerry,Murder,Kerry Garda Division,2014
+1.0,Kerry,Murder,Kerry Garda Division,2015
+1.0,Kerry,Murder,Kerry Garda Division,2016
+1.0,Kerry,Murder,Kerry Garda Division,2017
+1.0,Kerry,Murder,Kerry Garda Division,2018
+1.0,Kerry,Murder,Kerry Garda Division,2019
+7.0,Limerick,Murder,Limerick Garda Division,2003
+4.0,Limerick,Murder,Limerick Garda Division,2004
+1.0,Limerick,Murder,Limerick Garda Division,2005
+6.0,Limerick,Murder,Limerick Garda Division,2006
+5.0,Limerick,Murder,Limerick Garda Division,2007
+5.0,Limerick,Murder,Limerick Garda Division,2008
+4.0,Limerick,Murder,Limerick Garda Division,2009
+7.0,Limerick,Murder,Limerick Garda Division,2010
+4.0,Limerick,Murder,Limerick Garda Division,2011
+1.0,Limerick,Murder,Limerick Garda Division,2012
+1.0,Limerick,Murder,Limerick Garda Division,2013
+0.0,Limerick,Murder,Limerick Garda Division,2014
+3.0,Limerick,Murder,Limerick Garda Division,2015
+1.0,Limerick,Murder,Limerick Garda Division,2016
+2.0,Limerick,Murder,Limerick Garda Division,2017
+2.0,Limerick,Murder,Limerick Garda Division,2018
+2.0,Limerick,Murder,Limerick Garda Division,2019
+1.0,Meath,Murder,Meath  Garda Division,2003
+1.0,Meath,Murder,Meath  Garda Division,2004
+0.0,Meath,Murder,Meath  Garda Division,2005
+0.0,Meath,Murder,Meath  Garda Division,2006
+5.0,Meath,Murder,Meath  Garda Division,2007
+0.0,Meath,Murder,Meath  Garda Division,2008
+1.0,Meath,Murder,Meath  Garda Division,2009
+0.0,Meath,Murder,Meath  Garda Division,2010
+0.0,Meath,Murder,Meath  Garda Division,2011
+0.0,Meath,Murder,Meath  Garda Division,2012
+4.0,Meath,Murder,Meath  Garda Division,2013
+4.0,Meath,Murder,Meath  Garda Division,2014
+3.0,Meath,Murder,Meath  Garda Division,2015
+1.0,Meath,Murder,Meath  Garda Division,2016
+1.0,Meath,Murder,Meath  Garda Division,2017
+0.0,Meath,Murder,Meath  Garda Division,2018
+0.0,Meath,Murder,Meath  Garda Division,2019
+0.0,Wicklow,Murder,Wicklow  Garda Division,2003
+0.0,Wicklow,Murder,Wicklow  Garda Division,2004
+2.0,Wicklow,Murder,Wicklow  Garda Division,2005
+1.0,Wicklow,Murder,Wicklow  Garda Division,2006
+3.0,Wicklow,Murder,Wicklow  Garda Division,2007
+0.0,Wicklow,Murder,Wicklow  Garda Division,2008
+4.0,Wicklow,Murder,Wicklow  Garda Division,2009
+3.0,Wicklow,Murder,Wicklow  Garda Division,2010
+0.0,Wicklow,Murder,Wicklow  Garda Division,2011
+0.0,Wicklow,Murder,Wicklow  Garda Division,2012
+2.0,Wicklow,Murder,Wicklow  Garda Division,2013
+2.0,Wicklow,Murder,Wicklow  Garda Division,2014
+1.0,Wicklow,Murder,Wicklow  Garda Division,2015
+0.0,Wicklow,Murder,Wicklow  Garda Division,2016
+0.0,Wicklow,Murder,Wicklow  Garda Division,2017
+2.0,Wicklow,Murder,Wicklow  Garda Division,2018
+3.0,Wicklow,Murder,Wicklow  Garda Division,2019
+1.0,Westmeath,Murder,Westmeath  Garda Division,2003
+0.0,Westmeath,Murder,Westmeath  Garda Division,2004
+1.0,Westmeath,Murder,Westmeath  Garda Division,2005
+0.0,Westmeath,Murder,Westmeath  Garda Division,2006
+1.0,Westmeath,Murder,Westmeath  Garda Division,2007
+2.0,Westmeath,Murder,Westmeath  Garda Division,2008
+0.0,Westmeath,Murder,Westmeath  Garda Division,2009
+0.0,Westmeath,Murder,Westmeath  Garda Division,2010
+1.0,Westmeath,Murder,Westmeath  Garda Division,2011
+0.0,Westmeath,Murder,Westmeath  Garda Division,2012
+0.0,Westmeath,Murder,Westmeath  Garda Division,2013
+1.0,Westmeath,Murder,Westmeath  Garda Division,2014
+1.0,Westmeath,Murder,Westmeath  Garda Division,2015
+0.0,Westmeath,Murder,Westmeath  Garda Division,2016
+0.0,Westmeath,Murder,Westmeath  Garda Division,2017
+0.0,Westmeath,Murder,Westmeath  Garda Division,2018
+0.0,Westmeath,Murder,Westmeath  Garda Division,2019
+0.0,Kildare,Murder,Kildare  Garda Division,2003
+0.0,Kildare,Murder,Kildare  Garda Division,2004
+2.0,Kildare,Murder,Kildare  Garda Division,2005
+1.0,Kildare,Murder,Kildare  Garda Division,2006
+0.0,Kildare,Murder,Kildare  Garda Division,2007
+0.0,Kildare,Murder,Kildare  Garda Division,2008
+1.0,Kildare,Murder,Kildare  Garda Division,2009
+1.0,Kildare,Murder,Kildare  Garda Division,2010
+0.0,Kildare,Murder,Kildare  Garda Division,2011
+2.0,Kildare,Murder,Kildare  Garda Division,2012
+2.0,Kildare,Murder,Kildare  Garda Division,2013
+1.0,Kildare,Murder,Kildare  Garda Division,2014
+2.0,Kildare,Murder,Kildare  Garda Division,2015
+2.0,Kildare,Murder,Kildare  Garda Division,2016
+3.0,Kildare,Murder,Kildare  Garda Division,2017
+3.0,Kildare,Murder,Kildare  Garda Division,2018
+5.0,Kildare,Murder,Kildare  Garda Division,2019
+0.0,Tipperary,Murder,Tipperary Garda Division,2003
+0.0,Tipperary,Murder,Tipperary Garda Division,2004
+1.0,Tipperary,Murder,Tipperary Garda Division,2005
+2.0,Tipperary,Murder,Tipperary Garda Division,2006
+6.0,Tipperary,Murder,Tipperary Garda Division,2007
+1.0,Tipperary,Murder,Tipperary Garda Division,2008
+2.0,Tipperary,Murder,Tipperary Garda Division,2009
+1.0,Tipperary,Murder,Tipperary Garda Division,2010
+0.0,Tipperary,Murder,Tipperary Garda Division,2011
+2.0,Tipperary,Murder,Tipperary Garda Division,2012
+1.0,Tipperary,Murder,Tipperary Garda Division,2013
+0.0,Tipperary,Murder,Tipperary Garda Division,2014
+0.0,Tipperary,Murder,Tipperary Garda Division,2015
+0.0,Tipperary,Murder,Tipperary Garda Division,2016
+0.0,Tipperary,Murder,Tipperary Garda Division,2017
+0.0,Tipperary,Murder,Tipperary Garda Division,2018
+0.0,Tipperary,Murder,Tipperary Garda Division,2019
+0.0,Wexford,Murder,Wexford  Garda Division,2003
+0.0,Wexford,Murder,Wexford  Garda Division,2004
+2.0,Wexford,Murder,Wexford  Garda Division,2005
+0.0,Wexford,Murder,Wexford  Garda Division,2006
+4.0,Wexford,Murder,Wexford  Garda Division,2007
+3.0,Wexford,Murder,Wexford  Garda Division,2008
+1.0,Wexford,Murder,Wexford  Garda Division,2009
+0.0,Wexford,Murder,Wexford  Garda Division,2010
+2.0,Wexford,Murder,Wexford  Garda Division,2011
+2.0,Wexford,Murder,Wexford  Garda Division,2012
+0.0,Wexford,Murder,Wexford  Garda Division,2013
+0.0,Wexford,Murder,Wexford  Garda Division,2014
+0.0,Wexford,Murder,Wexford  Garda Division,2015
+0.0,Wexford,Murder,Wexford  Garda Division,2016
+0.0,Wexford,Murder,Wexford  Garda Division,2017
+0.0,Wexford,Murder,Wexford  Garda Division,2018
+0.0,Wexford,Murder,Wexford  Garda Division,2019
+1.0,Waterford,Murder,Waterford  Garda Division,2003
+2.0,Waterford,Murder,Waterford  Garda Division,2004
+4.0,Waterford,Murder,Waterford  Garda Division,2005
+2.0,Waterford,Murder,Waterford  Garda Division,2006
+1.0,Waterford,Murder,Waterford  Garda Division,2007
+0.0,Waterford,Murder,Waterford  Garda Division,2008
+0.0,Waterford,Murder,Waterford  Garda Division,2009
+2.0,Waterford,Murder,Waterford  Garda Division,2010
+0.0,Waterford,Murder,Waterford  Garda Division,2011
+3.0,Waterford,Murder,Waterford  Garda Division,2012
+0.0,Waterford,Murder,Waterford  Garda Division,2013
+2.0,Waterford,Murder,Waterford  Garda Division,2014
+0.0,Waterford,Murder,Waterford  Garda Division,2015
+2.0,Waterford,Murder,Waterford  Garda Division,2016
+3.0,Waterford,Murder,Waterford  Garda Division,2017
+3.0,Waterford,Murder,Waterford  Garda Division,2018
+4.0,Waterford,Murder,Waterford  Garda Division,2019
+17.0,Dublin,Murder,Dublin Region,2003
+12.0,Dublin,Murder,Dublin Region,2004
+26.0,Dublin,Murder,Dublin Region,2005
+29.0,Dublin,Murder,Dublin Region,2006
+31.0,Dublin,Murder,Dublin Region,2007
+22.0,Dublin,Murder,Dublin Region,2008
+26.0,Dublin,Murder,Dublin Region,2009
+29.0,Dublin,Murder,Dublin Region,2010
+15.0,Dublin,Murder,Dublin Region,2011
+20.0,Dublin,Murder,Dublin Region,2012
+20.0,Dublin,Murder,Dublin Region,2013
+25.0,Dublin,Murder,Dublin Region,2014
+10.0,Dublin,Murder,Dublin Region,2015
+18.0,Dublin,Murder,Dublin Region,2016
+20.0,Dublin,Murder,Dublin Region,2017
+16.0,Dublin,Murder,Dublin Region,2018
+31.0,Dublin,Murder,Dublin Region,2019
+0.0,Donegal,Manslaughter,Donegal Garda Division,2003
+0.0,Donegal,Manslaughter,Donegal Garda Division,2004
+0.0,Donegal,Manslaughter,Donegal Garda Division,2005
+0.0,Donegal,Manslaughter,Donegal Garda Division,2006
+0.0,Donegal,Manslaughter,Donegal Garda Division,2007
+0.0,Donegal,Manslaughter,Donegal Garda Division,2008
+2.0,Donegal,Manslaughter,Donegal Garda Division,2009
+0.0,Donegal,Manslaughter,Donegal Garda Division,2010
+0.0,Donegal,Manslaughter,Donegal Garda Division,2011
+0.0,Donegal,Manslaughter,Donegal Garda Division,2012
+0.0,Donegal,Manslaughter,Donegal Garda Division,2013
+0.0,Donegal,Manslaughter,Donegal Garda Division,2014
+0.0,Donegal,Manslaughter,Donegal Garda Division,2015
+0.0,Donegal,Manslaughter,Donegal Garda Division,2016
+0.0,Donegal,Manslaughter,Donegal Garda Division,2017
+0.0,Donegal,Manslaughter,Donegal Garda Division,2018
+0.0,Donegal,Manslaughter,Donegal Garda Division,2019
+1.0,Louth,Manslaughter,Louth  Garda Division,2003
+1.0,Louth,Manslaughter,Louth  Garda Division,2004
+3.0,Louth,Manslaughter,Louth  Garda Division,2005
+1.0,Louth,Manslaughter,Louth  Garda Division,2006
+1.0,Louth,Manslaughter,Louth  Garda Division,2007
+0.0,Louth,Manslaughter,Louth  Garda Division,2008
+0.0,Louth,Manslaughter,Louth  Garda Division,2009
+0.0,Louth,Manslaughter,Louth  Garda Division,2010
+0.0,Louth,Manslaughter,Louth  Garda Division,2011
+0.0,Louth,Manslaughter,Louth  Garda Division,2012
+0.0,Louth,Manslaughter,Louth  Garda Division,2013
+0.0,Louth,Manslaughter,Louth  Garda Division,2014
+0.0,Louth,Manslaughter,Louth  Garda Division,2015
+0.0,Louth,Manslaughter,Louth  Garda Division,2016
+0.0,Louth,Manslaughter,Louth  Garda Division,2017
+0.0,Louth,Manslaughter,Louth  Garda Division,2018
+0.0,Louth,Manslaughter,Louth  Garda Division,2019
+0.0,Clare,Manslaughter,Clare Garda Division,2003
+0.0,Clare,Manslaughter,Clare Garda Division,2004
+0.0,Clare,Manslaughter,Clare Garda Division,2005
+1.0,Clare,Manslaughter,Clare Garda Division,2006
+0.0,Clare,Manslaughter,Clare Garda Division,2007
+0.0,Clare,Manslaughter,Clare Garda Division,2008
+1.0,Clare,Manslaughter,Clare Garda Division,2009
+0.0,Clare,Manslaughter,Clare Garda Division,2010
+0.0,Clare,Manslaughter,Clare Garda Division,2011
+0.0,Clare,Manslaughter,Clare Garda Division,2012
+0.0,Clare,Manslaughter,Clare Garda Division,2013
+0.0,Clare,Manslaughter,Clare Garda Division,2014
+0.0,Clare,Manslaughter,Clare Garda Division,2015
+0.0,Clare,Manslaughter,Clare Garda Division,2016
+1.0,Clare,Manslaughter,Clare Garda Division,2017
+0.0,Clare,Manslaughter,Clare Garda Division,2018
+0.0,Clare,Manslaughter,Clare Garda Division,2019
+0.0,Mayo,Manslaughter,Mayo Garda Division,2003
+2.0,Mayo,Manslaughter,Mayo Garda Division,2004
+0.0,Mayo,Manslaughter,Mayo Garda Division,2005
+0.0,Mayo,Manslaughter,Mayo Garda Division,2006
+0.0,Mayo,Manslaughter,Mayo Garda Division,2007
+1.0,Mayo,Manslaughter,Mayo Garda Division,2008
+0.0,Mayo,Manslaughter,Mayo Garda Division,2009
+0.0,Mayo,Manslaughter,Mayo Garda Division,2010
+0.0,Mayo,Manslaughter,Mayo Garda Division,2011
+0.0,Mayo,Manslaughter,Mayo Garda Division,2012
+0.0,Mayo,Manslaughter,Mayo Garda Division,2013
+0.0,Mayo,Manslaughter,Mayo Garda Division,2014
+0.0,Mayo,Manslaughter,Mayo Garda Division,2015
+0.0,Mayo,Manslaughter,Mayo Garda Division,2016
+0.0,Mayo,Manslaughter,Mayo Garda Division,2017
+0.0,Mayo,Manslaughter,Mayo Garda Division,2018
+0.0,Mayo,Manslaughter,Mayo Garda Division,2019
+2.0,Galway,Manslaughter,Galway Garda Division,2003
+0.0,Galway,Manslaughter,Galway Garda Division,2004
+1.0,Galway,Manslaughter,Galway Garda Division,2005
+0.0,Galway,Manslaughter,Galway Garda Division,2006
+0.0,Galway,Manslaughter,Galway Garda Division,2007
+0.0,Galway,Manslaughter,Galway Garda Division,2008
+0.0,Galway,Manslaughter,Galway Garda Division,2009
+0.0,Galway,Manslaughter,Galway Garda Division,2010
+0.0,Galway,Manslaughter,Galway Garda Division,2011
+0.0,Galway,Manslaughter,Galway Garda Division,2012
+0.0,Galway,Manslaughter,Galway Garda Division,2013
+0.0,Galway,Manslaughter,Galway Garda Division,2014
+0.0,Galway,Manslaughter,Galway Garda Division,2015
+0.0,Galway,Manslaughter,Galway Garda Division,2016
+0.0,Galway,Manslaughter,Galway Garda Division,2017
+0.0,Galway,Manslaughter,Galway Garda Division,2018
+0.0,Galway,Manslaughter,Galway Garda Division,2019
+1.0,Cork,Manslaughter,Cork City Garda Division,2003
+0.0,Cork,Manslaughter,Cork City Garda Division,2004
+1.0,Cork,Manslaughter,Cork City Garda Division,2005
+1.0,Cork,Manslaughter,Cork City Garda Division,2006
+1.0,Cork,Manslaughter,Cork City Garda Division,2007
+1.0,Cork,Manslaughter,Cork City Garda Division,2008
+0.0,Cork,Manslaughter,Cork City Garda Division,2009
+1.0,Cork,Manslaughter,Cork City Garda Division,2010
+1.0,Cork,Manslaughter,Cork City Garda Division,2011
+2.0,Cork,Manslaughter,Cork City Garda Division,2012
+1.0,Cork,Manslaughter,Cork City Garda Division,2013
+0.0,Cork,Manslaughter,Cork City Garda Division,2014
+1.0,Cork,Manslaughter,Cork City Garda Division,2015
+1.0,Cork,Manslaughter,Cork City Garda Division,2016
+0.0,Cork,Manslaughter,Cork City Garda Division,2017
+0.0,Cork,Manslaughter,Cork City Garda Division,2018
+0.0,Cork,Manslaughter,Cork City Garda Division,2019
+0.0,Cork,Manslaughter,Cork North Garda Division,2003
+0.0,Cork,Manslaughter,Cork North Garda Division,2004
+1.0,Cork,Manslaughter,Cork North Garda Division,2005
+1.0,Cork,Manslaughter,Cork North Garda Division,2006
+0.0,Cork,Manslaughter,Cork North Garda Division,2007
+0.0,Cork,Manslaughter,Cork North Garda Division,2008
+1.0,Cork,Manslaughter,Cork North Garda Division,2009
+0.0,Cork,Manslaughter,Cork North Garda Division,2010
+0.0,Cork,Manslaughter,Cork North Garda Division,2011
+0.0,Cork,Manslaughter,Cork North Garda Division,2012
+0.0,Cork,Manslaughter,Cork North Garda Division,2013
+2.0,Cork,Manslaughter,Cork North Garda Division,2014
+0.0,Cork,Manslaughter,Cork North Garda Division,2015
+1.0,Cork,Manslaughter,Cork North Garda Division,2016
+0.0,Cork,Manslaughter,Cork North Garda Division,2017
+0.0,Cork,Manslaughter,Cork North Garda Division,2018
+0.0,Cork,Manslaughter,Cork North Garda Division,2019
+0.0,Cork,Manslaughter,Cork West Garda Division,2003
+0.0,Cork,Manslaughter,Cork West Garda Division,2004
+1.0,Cork,Manslaughter,Cork West Garda Division,2005
+1.0,Cork,Manslaughter,Cork West Garda Division,2006
+0.0,Cork,Manslaughter,Cork West Garda Division,2007
+1.0,Cork,Manslaughter,Cork West Garda Division,2008
+0.0,Cork,Manslaughter,Cork West Garda Division,2009
+0.0,Cork,Manslaughter,Cork West Garda Division,2010
+2.0,Cork,Manslaughter,Cork West Garda Division,2011
+0.0,Cork,Manslaughter,Cork West Garda Division,2012
+0.0,Cork,Manslaughter,Cork West Garda Division,2013
+0.0,Cork,Manslaughter,Cork West Garda Division,2014
+0.0,Cork,Manslaughter,Cork West Garda Division,2015
+0.0,Cork,Manslaughter,Cork West Garda Division,2016
+0.0,Cork,Manslaughter,Cork West Garda Division,2017
+0.0,Cork,Manslaughter,Cork West Garda Division,2018
+0.0,Cork,Manslaughter,Cork West Garda Division,2019
+0.0,Kerry,Manslaughter,Kerry Garda Division,2003
+2.0,Kerry,Manslaughter,Kerry Garda Division,2004
+1.0,Kerry,Manslaughter,Kerry Garda Division,2005
+0.0,Kerry,Manslaughter,Kerry Garda Division,2006
+0.0,Kerry,Manslaughter,Kerry Garda Division,2007
+0.0,Kerry,Manslaughter,Kerry Garda Division,2008
+0.0,Kerry,Manslaughter,Kerry Garda Division,2009
+0.0,Kerry,Manslaughter,Kerry Garda Division,2010
+0.0,Kerry,Manslaughter,Kerry Garda Division,2011
+0.0,Kerry,Manslaughter,Kerry Garda Division,2012
+0.0,Kerry,Manslaughter,Kerry Garda Division,2013
+0.0,Kerry,Manslaughter,Kerry Garda Division,2014
+0.0,Kerry,Manslaughter,Kerry Garda Division,2015
+0.0,Kerry,Manslaughter,Kerry Garda Division,2016
+0.0,Kerry,Manslaughter,Kerry Garda Division,2017
+0.0,Kerry,Manslaughter,Kerry Garda Division,2018
+1.0,Kerry,Manslaughter,Kerry Garda Division,2019
+1.0,Limerick,Manslaughter,Limerick Garda Division,2003
+0.0,Limerick,Manslaughter,Limerick Garda Division,2004
+2.0,Limerick,Manslaughter,Limerick Garda Division,2005
+0.0,Limerick,Manslaughter,Limerick Garda Division,2006
+2.0,Limerick,Manslaughter,Limerick Garda Division,2007
+2.0,Limerick,Manslaughter,Limerick Garda Division,2008
+1.0,Limerick,Manslaughter,Limerick Garda Division,2009
+0.0,Limerick,Manslaughter,Limerick Garda Division,2010
+0.0,Limerick,Manslaughter,Limerick Garda Division,2011
+0.0,Limerick,Manslaughter,Limerick Garda Division,2012
+1.0,Limerick,Manslaughter,Limerick Garda Division,2013
+0.0,Limerick,Manslaughter,Limerick Garda Division,2014
+0.0,Limerick,Manslaughter,Limerick Garda Division,2015
+2.0,Limerick,Manslaughter,Limerick Garda Division,2016
+1.0,Limerick,Manslaughter,Limerick Garda Division,2017
+0.0,Limerick,Manslaughter,Limerick Garda Division,2018
+0.0,Limerick,Manslaughter,Limerick Garda Division,2019
+0.0,Meath,Manslaughter,Meath  Garda Division,2003
+0.0,Meath,Manslaughter,Meath  Garda Division,2004
+1.0,Meath,Manslaughter,Meath  Garda Division,2005
+1.0,Meath,Manslaughter,Meath  Garda Division,2006
+0.0,Meath,Manslaughter,Meath  Garda Division,2007
+0.0,Meath,Manslaughter,Meath  Garda Division,2008
+0.0,Meath,Manslaughter,Meath  Garda Division,2009
+1.0,Meath,Manslaughter,Meath  Garda Division,2010
+1.0,Meath,Manslaughter,Meath  Garda Division,2011
+0.0,Meath,Manslaughter,Meath  Garda Division,2012
+0.0,Meath,Manslaughter,Meath  Garda Division,2013
+0.0,Meath,Manslaughter,Meath  Garda Division,2014
+0.0,Meath,Manslaughter,Meath  Garda Division,2015
+0.0,Meath,Manslaughter,Meath  Garda Division,2016
+0.0,Meath,Manslaughter,Meath  Garda Division,2017
+1.0,Meath,Manslaughter,Meath  Garda Division,2018
+2.0,Meath,Manslaughter,Meath  Garda Division,2019
+0.0,Wicklow,Manslaughter,Wicklow  Garda Division,2003
+1.0,Wicklow,Manslaughter,Wicklow  Garda Division,2004
+0.0,Wicklow,Manslaughter,Wicklow  Garda Division,2005
+0.0,Wicklow,Manslaughter,Wicklow  Garda Division,2006
+0.0,Wicklow,Manslaughter,Wicklow  Garda Division,2007
+0.0,Wicklow,Manslaughter,Wicklow  Garda Division,2008
+0.0,Wicklow,Manslaughter,Wicklow  Garda Division,2009
+0.0,Wicklow,Manslaughter,Wicklow  Garda Division,2010
+0.0,Wicklow,Manslaughter,Wicklow  Garda Division,2011
+0.0,Wicklow,Manslaughter,Wicklow  Garda Division,2012
+0.0,Wicklow,Manslaughter,Wicklow  Garda Division,2013
+0.0,Wicklow,Manslaughter,Wicklow  Garda Division,2014
+0.0,Wicklow,Manslaughter,Wicklow  Garda Division,2015
+0.0,Wicklow,Manslaughter,Wicklow  Garda Division,2016
+0.0,Wicklow,Manslaughter,Wicklow  Garda Division,2017
+0.0,Wicklow,Manslaughter,Wicklow  Garda Division,2018
+0.0,Wicklow,Manslaughter,Wicklow  Garda Division,2019
+0.0,Westmeath,Manslaughter,Westmeath  Garda Division,2003
+0.0,Westmeath,Manslaughter,Westmeath  Garda Division,2004
+1.0,Westmeath,Manslaughter,Westmeath  Garda Division,2005
+0.0,Westmeath,Manslaughter,Westmeath  Garda Division,2006
+0.0,Westmeath,Manslaughter,Westmeath  Garda Division,2007
+0.0,Westmeath,Manslaughter,Westmeath  Garda Division,2008
+0.0,Westmeath,Manslaughter,Westmeath  Garda Division,2009
+0.0,Westmeath,Manslaughter,Westmeath  Garda Division,2010
+1.0,Westmeath,Manslaughter,Westmeath  Garda Division,2011
+0.0,Westmeath,Manslaughter,Westmeath  Garda Division,2012
+0.0,Westmeath,Manslaughter,Westmeath  Garda Division,2013
+0.0,Westmeath,Manslaughter,Westmeath  Garda Division,2014
+0.0,Westmeath,Manslaughter,Westmeath  Garda Division,2015
+0.0,Westmeath,Manslaughter,Westmeath  Garda Division,2016
+0.0,Westmeath,Manslaughter,Westmeath  Garda Division,2017
+0.0,Westmeath,Manslaughter,Westmeath  Garda Division,2018
+0.0,Westmeath,Manslaughter,Westmeath  Garda Division,2019
+0.0,Kildare,Manslaughter,Kildare  Garda Division,2003
+1.0,Kildare,Manslaughter,Kildare  Garda Division,2004
+1.0,Kildare,Manslaughter,Kildare  Garda Division,2005
+0.0,Kildare,Manslaughter,Kildare  Garda Division,2006
+0.0,Kildare,Manslaughter,Kildare  Garda Division,2007
+0.0,Kildare,Manslaughter,Kildare  Garda Division,2008
+0.0,Kildare,Manslaughter,Kildare  Garda Division,2009
+2.0,Kildare,Manslaughter,Kildare  Garda Division,2010
+0.0,Kildare,Manslaughter,Kildare  Garda Division,2011
+1.0,Kildare,Manslaughter,Kildare  Garda Division,2012
+0.0,Kildare,Manslaughter,Kildare  Garda Division,2013
+0.0,Kildare,Manslaughter,Kildare  Garda Division,2014
+2.0,Kildare,Manslaughter,Kildare  Garda Division,2015
+0.0,Kildare,Manslaughter,Kildare  Garda Division,2016
+0.0,Kildare,Manslaughter,Kildare  Garda Division,2017
+0.0,Kildare,Manslaughter,Kildare  Garda Division,2018
+0.0,Kildare,Manslaughter,Kildare  Garda Division,2019
+0.0,Tipperary,Manslaughter,Tipperary Garda Division,2003
+0.0,Tipperary,Manslaughter,Tipperary Garda Division,2004
+0.0,Tipperary,Manslaughter,Tipperary Garda Division,2005
+0.0,Tipperary,Manslaughter,Tipperary Garda Division,2006
+1.0,Tipperary,Manslaughter,Tipperary Garda Division,2007
+1.0,Tipperary,Manslaughter,Tipperary Garda Division,2008
+0.0,Tipperary,Manslaughter,Tipperary Garda Division,2009
+0.0,Tipperary,Manslaughter,Tipperary Garda Division,2010
+0.0,Tipperary,Manslaughter,Tipperary Garda Division,2011
+1.0,Tipperary,Manslaughter,Tipperary Garda Division,2012
+0.0,Tipperary,Manslaughter,Tipperary Garda Division,2013
+0.0,Tipperary,Manslaughter,Tipperary Garda Division,2014
+0.0,Tipperary,Manslaughter,Tipperary Garda Division,2015
+1.0,Tipperary,Manslaughter,Tipperary Garda Division,2016
+0.0,Tipperary,Manslaughter,Tipperary Garda Division,2017
+0.0,Tipperary,Manslaughter,Tipperary Garda Division,2018
+0.0,Tipperary,Manslaughter,Tipperary Garda Division,2019
+1.0,Wexford,Manslaughter,Wexford  Garda Division,2003
+0.0,Wexford,Manslaughter,Wexford  Garda Division,2004
+0.0,Wexford,Manslaughter,Wexford  Garda Division,2005
+1.0,Wexford,Manslaughter,Wexford  Garda Division,2006
+1.0,Wexford,Manslaughter,Wexford  Garda Division,2007
+1.0,Wexford,Manslaughter,Wexford  Garda Division,2008
+1.0,Wexford,Manslaughter,Wexford  Garda Division,2009
+0.0,Wexford,Manslaughter,Wexford  Garda Division,2010
+0.0,Wexford,Manslaughter,Wexford  Garda Division,2011
+0.0,Wexford,Manslaughter,Wexford  Garda Division,2012
+1.0,Wexford,Manslaughter,Wexford  Garda Division,2013
+0.0,Wexford,Manslaughter,Wexford  Garda Division,2014
+0.0,Wexford,Manslaughter,Wexford  Garda Division,2015
+0.0,Wexford,Manslaughter,Wexford  Garda Division,2016
+1.0,Wexford,Manslaughter,Wexford  Garda Division,2017
+0.0,Wexford,Manslaughter,Wexford  Garda Division,2018
+1.0,Wexford,Manslaughter,Wexford  Garda Division,2019
+1.0,Waterford,Manslaughter,Waterford  Garda Division,2003
+1.0,Waterford,Manslaughter,Waterford  Garda Division,2004
+0.0,Waterford,Manslaughter,Waterford  Garda Division,2005
+0.0,Waterford,Manslaughter,Waterford  Garda Division,2006
+0.0,Waterford,Manslaughter,Waterford  Garda Division,2007
+1.0,Waterford,Manslaughter,Waterford  Garda Division,2008
+0.0,Waterford,Manslaughter,Waterford  Garda Division,2009
+0.0,Waterford,Manslaughter,Waterford  Garda Division,2010
+0.0,Waterford,Manslaughter,Waterford  Garda Division,2011
+0.0,Waterford,Manslaughter,Waterford  Garda Division,2012
+0.0,Waterford,Manslaughter,Waterford  Garda Division,2013
+1.0,Waterford,Manslaughter,Waterford  Garda Division,2014
+0.0,Waterford,Manslaughter,Waterford  Garda Division,2015
+0.0,Waterford,Manslaughter,Waterford  Garda Division,2016
+1.0,Waterford,Manslaughter,Waterford  Garda Division,2017
+1.0,Waterford,Manslaughter,Waterford  Garda Division,2018
+1.0,Waterford,Manslaughter,Waterford  Garda Division,2019
+8.0,Dublin,Manslaughter,Dublin Region,2003
+8.0,Dublin,Manslaughter,Dublin Region,2004
+3.0,Dublin,Manslaughter,Dublin Region,2005
+6.0,Dublin,Manslaughter,Dublin Region,2006
+1.0,Dublin,Manslaughter,Dublin Region,2007
+6.0,Dublin,Manslaughter,Dublin Region,2008
+4.0,Dublin,Manslaughter,Dublin Region,2009
+3.0,Dublin,Manslaughter,Dublin Region,2010
+3.0,Dublin,Manslaughter,Dublin Region,2011
+3.0,Dublin,Manslaughter,Dublin Region,2012
+3.0,Dublin,Manslaughter,Dublin Region,2013
+4.0,Dublin,Manslaughter,Dublin Region,2014
+2.0,Dublin,Manslaughter,Dublin Region,2015
+1.0,Dublin,Manslaughter,Dublin Region,2016
+2.0,Dublin,Manslaughter,Dublin Region,2017
+0.0,Dublin,Manslaughter,Dublin Region,2018
+0.0,Dublin,Manslaughter,Dublin Region,2019
+0.0,Donegal,Infanticide,Donegal Garda Division,2003
+0.0,Donegal,Infanticide,Donegal Garda Division,2004
+0.0,Donegal,Infanticide,Donegal Garda Division,2005
+0.0,Donegal,Infanticide,Donegal Garda Division,2006
+0.0,Donegal,Infanticide,Donegal Garda Division,2007
+0.0,Donegal,Infanticide,Donegal Garda Division,2008
+0.0,Donegal,Infanticide,Donegal Garda Division,2009
+0.0,Donegal,Infanticide,Donegal Garda Division,2010
+0.0,Donegal,Infanticide,Donegal Garda Division,2011
+0.0,Donegal,Infanticide,Donegal Garda Division,2012
+0.0,Donegal,Infanticide,Donegal Garda Division,2013
+0.0,Donegal,Infanticide,Donegal Garda Division,2014
+0.0,Donegal,Infanticide,Donegal Garda Division,2015
+0.0,Donegal,Infanticide,Donegal Garda Division,2016
+0.0,Donegal,Infanticide,Donegal Garda Division,2017
+0.0,Donegal,Infanticide,Donegal Garda Division,2018
+0.0,Donegal,Infanticide,Donegal Garda Division,2019
+0.0,Louth,Infanticide,Louth  Garda Division,2003
+0.0,Louth,Infanticide,Louth  Garda Division,2004
+0.0,Louth,Infanticide,Louth  Garda Division,2005
+0.0,Louth,Infanticide,Louth  Garda Division,2006
+0.0,Louth,Infanticide,Louth  Garda Division,2007
+0.0,Louth,Infanticide,Louth  Garda Division,2008
+0.0,Louth,Infanticide,Louth  Garda Division,2009
+0.0,Louth,Infanticide,Louth  Garda Division,2010
+0.0,Louth,Infanticide,Louth  Garda Division,2011
+0.0,Louth,Infanticide,Louth  Garda Division,2012
+0.0,Louth,Infanticide,Louth  Garda Division,2013
+0.0,Louth,Infanticide,Louth  Garda Division,2014
+0.0,Louth,Infanticide,Louth  Garda Division,2015
+0.0,Louth,Infanticide,Louth  Garda Division,2016
+0.0,Louth,Infanticide,Louth  Garda Division,2017
+0.0,Louth,Infanticide,Louth  Garda Division,2018
+0.0,Louth,Infanticide,Louth  Garda Division,2019
+0.0,Clare,Infanticide,Clare Garda Division,2003
+0.0,Clare,Infanticide,Clare Garda Division,2004
+0.0,Clare,Infanticide,Clare Garda Division,2005
+0.0,Clare,Infanticide,Clare Garda Division,2006
+0.0,Clare,Infanticide,Clare Garda Division,2007
+0.0,Clare,Infanticide,Clare Garda Division,2008
+0.0,Clare,Infanticide,Clare Garda Division,2009
+0.0,Clare,Infanticide,Clare Garda Division,2010
+0.0,Clare,Infanticide,Clare Garda Division,2011
+0.0,Clare,Infanticide,Clare Garda Division,2012
+0.0,Clare,Infanticide,Clare Garda Division,2013
+0.0,Clare,Infanticide,Clare Garda Division,2014
+0.0,Clare,Infanticide,Clare Garda Division,2015
+0.0,Clare,Infanticide,Clare Garda Division,2016
+0.0,Clare,Infanticide,Clare Garda Division,2017
+0.0,Clare,Infanticide,Clare Garda Division,2018
+0.0,Clare,Infanticide,Clare Garda Division,2019
+0.0,Mayo,Infanticide,Mayo Garda Division,2003
+0.0,Mayo,Infanticide,Mayo Garda Division,2004
+0.0,Mayo,Infanticide,Mayo Garda Division,2005
+0.0,Mayo,Infanticide,Mayo Garda Division,2006
+0.0,Mayo,Infanticide,Mayo Garda Division,2007
+0.0,Mayo,Infanticide,Mayo Garda Division,2008
+0.0,Mayo,Infanticide,Mayo Garda Division,2009
+0.0,Mayo,Infanticide,Mayo Garda Division,2010
+0.0,Mayo,Infanticide,Mayo Garda Division,2011
+0.0,Mayo,Infanticide,Mayo Garda Division,2012
+0.0,Mayo,Infanticide,Mayo Garda Division,2013
+0.0,Mayo,Infanticide,Mayo Garda Division,2014
+0.0,Mayo,Infanticide,Mayo Garda Division,2015
+0.0,Mayo,Infanticide,Mayo Garda Division,2016
+0.0,Mayo,Infanticide,Mayo Garda Division,2017
+0.0,Mayo,Infanticide,Mayo Garda Division,2018
+0.0,Mayo,Infanticide,Mayo Garda Division,2019
+0.0,Galway,Infanticide,Galway Garda Division,2003
+0.0,Galway,Infanticide,Galway Garda Division,2004
+0.0,Galway,Infanticide,Galway Garda Division,2005
+0.0,Galway,Infanticide,Galway Garda Division,2006
+0.0,Galway,Infanticide,Galway Garda Division,2007
+0.0,Galway,Infanticide,Galway Garda Division,2008
+0.0,Galway,Infanticide,Galway Garda Division,2009
+0.0,Galway,Infanticide,Galway Garda Division,2010
+0.0,Galway,Infanticide,Galway Garda Division,2011
+0.0,Galway,Infanticide,Galway Garda Division,2012
+0.0,Galway,Infanticide,Galway Garda Division,2013
+0.0,Galway,Infanticide,Galway Garda Division,2014
+0.0,Galway,Infanticide,Galway Garda Division,2015
+0.0,Galway,Infanticide,Galway Garda Division,2016
+0.0,Galway,Infanticide,Galway Garda Division,2017
+0.0,Galway,Infanticide,Galway Garda Division,2018
+0.0,Galway,Infanticide,Galway Garda Division,2019
+0.0,Cork,Infanticide,Cork City Garda Division,2003
+0.0,Cork,Infanticide,Cork City Garda Division,2004
+0.0,Cork,Infanticide,Cork City Garda Division,2005
+0.0,Cork,Infanticide,Cork City Garda Division,2006
+0.0,Cork,Infanticide,Cork City Garda Division,2007
+0.0,Cork,Infanticide,Cork City Garda Division,2008
+0.0,Cork,Infanticide,Cork City Garda Division,2009
+0.0,Cork,Infanticide,Cork City Garda Division,2010
+0.0,Cork,Infanticide,Cork City Garda Division,2011
+0.0,Cork,Infanticide,Cork City Garda Division,2012
+0.0,Cork,Infanticide,Cork City Garda Division,2013
+0.0,Cork,Infanticide,Cork City Garda Division,2014
+0.0,Cork,Infanticide,Cork City Garda Division,2015
+0.0,Cork,Infanticide,Cork City Garda Division,2016
+0.0,Cork,Infanticide,Cork City Garda Division,2017
+0.0,Cork,Infanticide,Cork City Garda Division,2018
+0.0,Cork,Infanticide,Cork City Garda Division,2019
+0.0,Cork,Infanticide,Cork North Garda Division,2003
+0.0,Cork,Infanticide,Cork North Garda Division,2004
+0.0,Cork,Infanticide,Cork North Garda Division,2005
+0.0,Cork,Infanticide,Cork North Garda Division,2006
+1.0,Cork,Infanticide,Cork North Garda Division,2007
+0.0,Cork,Infanticide,Cork North Garda Division,2008
+0.0,Cork,Infanticide,Cork North Garda Division,2009
+0.0,Cork,Infanticide,Cork North Garda Division,2010
+0.0,Cork,Infanticide,Cork North Garda Division,2011
+0.0,Cork,Infanticide,Cork North Garda Division,2012
+0.0,Cork,Infanticide,Cork North Garda Division,2013
+0.0,Cork,Infanticide,Cork North Garda Division,2014
+0.0,Cork,Infanticide,Cork North Garda Division,2015
+0.0,Cork,Infanticide,Cork North Garda Division,2016
+0.0,Cork,Infanticide,Cork North Garda Division,2017
+0.0,Cork,Infanticide,Cork North Garda Division,2018
+0.0,Cork,Infanticide,Cork North Garda Division,2019
+0.0,Cork,Infanticide,Cork West Garda Division,2003
+0.0,Cork,Infanticide,Cork West Garda Division,2004
+0.0,Cork,Infanticide,Cork West Garda Division,2005
+0.0,Cork,Infanticide,Cork West Garda Division,2006
+0.0,Cork,Infanticide,Cork West Garda Division,2007
+0.0,Cork,Infanticide,Cork West Garda Division,2008
+0.0,Cork,Infanticide,Cork West Garda Division,2009
+0.0,Cork,Infanticide,Cork West Garda Division,2010
+0.0,Cork,Infanticide,Cork West Garda Division,2011
+0.0,Cork,Infanticide,Cork West Garda Division,2012
+0.0,Cork,Infanticide,Cork West Garda Division,2013
+0.0,Cork,Infanticide,Cork West Garda Division,2014
+0.0,Cork,Infanticide,Cork West Garda Division,2015
+0.0,Cork,Infanticide,Cork West Garda Division,2016
+0.0,Cork,Infanticide,Cork West Garda Division,2017
+0.0,Cork,Infanticide,Cork West Garda Division,2018
+0.0,Cork,Infanticide,Cork West Garda Division,2019
+0.0,Kerry,Infanticide,Kerry Garda Division,2003
+0.0,Kerry,Infanticide,Kerry Garda Division,2004
+0.0,Kerry,Infanticide,Kerry Garda Division,2005
+0.0,Kerry,Infanticide,Kerry Garda Division,2006
+0.0,Kerry,Infanticide,Kerry Garda Division,2007
+0.0,Kerry,Infanticide,Kerry Garda Division,2008
+0.0,Kerry,Infanticide,Kerry Garda Division,2009
+0.0,Kerry,Infanticide,Kerry Garda Division,2010
+0.0,Kerry,Infanticide,Kerry Garda Division,2011
+0.0,Kerry,Infanticide,Kerry Garda Division,2012
+0.0,Kerry,Infanticide,Kerry Garda Division,2013
+0.0,Kerry,Infanticide,Kerry Garda Division,2014
+0.0,Kerry,Infanticide,Kerry Garda Division,2015
+0.0,Kerry,Infanticide,Kerry Garda Division,2016
+0.0,Kerry,Infanticide,Kerry Garda Division,2017
+0.0,Kerry,Infanticide,Kerry Garda Division,2018
+0.0,Kerry,Infanticide,Kerry Garda Division,2019
+0.0,Limerick,Infanticide,Limerick Garda Division,2003
+0.0,Limerick,Infanticide,Limerick Garda Division,2004
+0.0,Limerick,Infanticide,Limerick Garda Division,2005
+0.0,Limerick,Infanticide,Limerick Garda Division,2006
+0.0,Limerick,Infanticide,Limerick Garda Division,2007
+0.0,Limerick,Infanticide,Limerick Garda Division,2008
+0.0,Limerick,Infanticide,Limerick Garda Division,2009
+0.0,Limerick,Infanticide,Limerick Garda Division,2010
+0.0,Limerick,Infanticide,Limerick Garda Division,2011
+0.0,Limerick,Infanticide,Limerick Garda Division,2012
+0.0,Limerick,Infanticide,Limerick Garda Division,2013
+0.0,Limerick,Infanticide,Limerick Garda Division,2014
+0.0,Limerick,Infanticide,Limerick Garda Division,2015
+0.0,Limerick,Infanticide,Limerick Garda Division,2016
+0.0,Limerick,Infanticide,Limerick Garda Division,2017
+0.0,Limerick,Infanticide,Limerick Garda Division,2018
+0.0,Limerick,Infanticide,Limerick Garda Division,2019
+0.0,Meath,Infanticide,Meath  Garda Division,2003
+0.0,Meath,Infanticide,Meath  Garda Division,2004
+0.0,Meath,Infanticide,Meath  Garda Division,2005
+0.0,Meath,Infanticide,Meath  Garda Division,2006
+0.0,Meath,Infanticide,Meath  Garda Division,2007
+0.0,Meath,Infanticide,Meath  Garda Division,2008
+0.0,Meath,Infanticide,Meath  Garda Division,2009
+0.0,Meath,Infanticide,Meath  Garda Division,2010
+0.0,Meath,Infanticide,Meath  Garda Division,2011
+0.0,Meath,Infanticide,Meath  Garda Division,2012
+0.0,Meath,Infanticide,Meath  Garda Division,2013
+0.0,Meath,Infanticide,Meath  Garda Division,2014
+0.0,Meath,Infanticide,Meath  Garda Division,2015
+0.0,Meath,Infanticide,Meath  Garda Division,2016
+0.0,Meath,Infanticide,Meath  Garda Division,2017
+0.0,Meath,Infanticide,Meath  Garda Division,2018
+0.0,Meath,Infanticide,Meath  Garda Division,2019
+0.0,Wicklow,Infanticide,Wicklow  Garda Division,2003
+0.0,Wicklow,Infanticide,Wicklow  Garda Division,2004
+0.0,Wicklow,Infanticide,Wicklow  Garda Division,2005
+0.0,Wicklow,Infanticide,Wicklow  Garda Division,2006
+0.0,Wicklow,Infanticide,Wicklow  Garda Division,2007
+0.0,Wicklow,Infanticide,Wicklow  Garda Division,2008
+0.0,Wicklow,Infanticide,Wicklow  Garda Division,2009
+0.0,Wicklow,Infanticide,Wicklow  Garda Division,2010
+0.0,Wicklow,Infanticide,Wicklow  Garda Division,2011
+0.0,Wicklow,Infanticide,Wicklow  Garda Division,2012
+0.0,Wicklow,Infanticide,Wicklow  Garda Division,2013
+0.0,Wicklow,Infanticide,Wicklow  Garda Division,2014
+0.0,Wicklow,Infanticide,Wicklow  Garda Division,2015
+0.0,Wicklow,Infanticide,Wicklow  Garda Division,2016
+0.0,Wicklow,Infanticide,Wicklow  Garda Division,2017
+0.0,Wicklow,Infanticide,Wicklow  Garda Division,2018
+0.0,Wicklow,Infanticide,Wicklow  Garda Division,2019
+0.0,Westmeath,Infanticide,Westmeath  Garda Division,2003
+0.0,Westmeath,Infanticide,Westmeath  Garda Division,2004
+0.0,Westmeath,Infanticide,Westmeath  Garda Division,2005
+0.0,Westmeath,Infanticide,Westmeath  Garda Division,2006
+0.0,Westmeath,Infanticide,Westmeath  Garda Division,2007
+0.0,Westmeath,Infanticide,Westmeath  Garda Division,2008
+0.0,Westmeath,Infanticide,Westmeath  Garda Division,2009
+0.0,Westmeath,Infanticide,Westmeath  Garda Division,2010
+0.0,Westmeath,Infanticide,Westmeath  Garda Division,2011
+0.0,Westmeath,Infanticide,Westmeath  Garda Division,2012
+0.0,Westmeath,Infanticide,Westmeath  Garda Division,2013
+0.0,Westmeath,Infanticide,Westmeath  Garda Division,2014
+0.0,Westmeath,Infanticide,Westmeath  Garda Division,2015
+0.0,Westmeath,Infanticide,Westmeath  Garda Division,2016
+0.0,Westmeath,Infanticide,Westmeath  Garda Division,2017
+0.0,Westmeath,Infanticide,Westmeath  Garda Division,2018
+0.0,Westmeath,Infanticide,Westmeath  Garda Division,2019
+0.0,Kildare,Infanticide,Kildare  Garda Division,2003
+0.0,Kildare,Infanticide,Kildare  Garda Division,2004
+0.0,Kildare,Infanticide,Kildare  Garda Division,2005
+0.0,Kildare,Infanticide,Kildare  Garda Division,2006
+0.0,Kildare,Infanticide,Kildare  Garda Division,2007
+0.0,Kildare,Infanticide,Kildare  Garda Division,2008
+0.0,Kildare,Infanticide,Kildare  Garda Division,2009
+0.0,Kildare,Infanticide,Kildare  Garda Division,2010
+0.0,Kildare,Infanticide,Kildare  Garda Division,2011
+0.0,Kildare,Infanticide,Kildare  Garda Division,2012
+0.0,Kildare,Infanticide,Kildare  Garda Division,2013
+0.0,Kildare,Infanticide,Kildare  Garda Division,2014
+0.0,Kildare,Infanticide,Kildare  Garda Division,2015
+0.0,Kildare,Infanticide,Kildare  Garda Division,2016
+0.0,Kildare,Infanticide,Kildare  Garda Division,2017
+0.0,Kildare,Infanticide,Kildare  Garda Division,2018
+0.0,Kildare,Infanticide,Kildare  Garda Division,2019
+0.0,Tipperary,Infanticide,Tipperary Garda Division,2003
+0.0,Tipperary,Infanticide,Tipperary Garda Division,2004
+0.0,Tipperary,Infanticide,Tipperary Garda Division,2005
+0.0,Tipperary,Infanticide,Tipperary Garda Division,2006
+0.0,Tipperary,Infanticide,Tipperary Garda Division,2007
+0.0,Tipperary,Infanticide,Tipperary Garda Division,2008
+0.0,Tipperary,Infanticide,Tipperary Garda Division,2009
+0.0,Tipperary,Infanticide,Tipperary Garda Division,2010
+0.0,Tipperary,Infanticide,Tipperary Garda Division,2011
+0.0,Tipperary,Infanticide,Tipperary Garda Division,2012
+0.0,Tipperary,Infanticide,Tipperary Garda Division,2013
+0.0,Tipperary,Infanticide,Tipperary Garda Division,2014
+0.0,Tipperary,Infanticide,Tipperary Garda Division,2015
+0.0,Tipperary,Infanticide,Tipperary Garda Division,2016
+0.0,Tipperary,Infanticide,Tipperary Garda Division,2017
+0.0,Tipperary,Infanticide,Tipperary Garda Division,2018
+0.0,Tipperary,Infanticide,Tipperary Garda Division,2019
+0.0,Wexford,Infanticide,Wexford  Garda Division,2003
+0.0,Wexford,Infanticide,Wexford  Garda Division,2004
+0.0,Wexford,Infanticide,Wexford  Garda Division,2005
+0.0,Wexford,Infanticide,Wexford  Garda Division,2006
+0.0,Wexford,Infanticide,Wexford  Garda Division,2007
+0.0,Wexford,Infanticide,Wexford  Garda Division,2008
+0.0,Wexford,Infanticide,Wexford  Garda Division,2009
+0.0,Wexford,Infanticide,Wexford  Garda Division,2010
+0.0,Wexford,Infanticide,Wexford  Garda Division,2011
+0.0,Wexford,Infanticide,Wexford  Garda Division,2012
+0.0,Wexford,Infanticide,Wexford  Garda Division,2013
+0.0,Wexford,Infanticide,Wexford  Garda Division,2014
+0.0,Wexford,Infanticide,Wexford  Garda Division,2015
+0.0,Wexford,Infanticide,Wexford  Garda Division,2016
+0.0,Wexford,Infanticide,Wexford  Garda Division,2017
+0.0,Wexford,Infanticide,Wexford  Garda Division,2018
+0.0,Wexford,Infanticide,Wexford  Garda Division,2019
+0.0,Waterford,Infanticide,Waterford  Garda Division,2003
+0.0,Waterford,Infanticide,Waterford  Garda Division,2004
+0.0,Waterford,Infanticide,Waterford  Garda Division,2005
+0.0,Waterford,Infanticide,Waterford  Garda Division,2006
+0.0,Waterford,Infanticide,Waterford  Garda Division,2007
+0.0,Waterford,Infanticide,Waterford  Garda Division,2008
+0.0,Waterford,Infanticide,Waterford  Garda Division,2009
+0.0,Waterford,Infanticide,Waterford  Garda Division,2010
+0.0,Waterford,Infanticide,Waterford  Garda Division,2011
+0.0,Waterford,Infanticide,Waterford  Garda Division,2012
+0.0,Waterford,Infanticide,Waterford  Garda Division,2013
+0.0,Waterford,Infanticide,Waterford  Garda Division,2014
+0.0,Waterford,Infanticide,Waterford  Garda Division,2015
+0.0,Waterford,Infanticide,Waterford  Garda Division,2016
+0.0,Waterford,Infanticide,Waterford  Garda Division,2017
+0.0,Waterford,Infanticide,Waterford  Garda Division,2018
+0.0,Waterford,Infanticide,Waterford  Garda Division,2019
+0.0,Dublin,Infanticide,Dublin Region,2003
+0.0,Dublin,Infanticide,Dublin Region,2004
+0.0,Dublin,Infanticide,Dublin Region,2005
+0.0,Dublin,Infanticide,Dublin Region,2006
+0.0,Dublin,Infanticide,Dublin Region,2007
+0.0,Dublin,Infanticide,Dublin Region,2008
+0.0,Dublin,Infanticide,Dublin Region,2009
+0.0,Dublin,Infanticide,Dublin Region,2010
+0.0,Dublin,Infanticide,Dublin Region,2011
+0.0,Dublin,Infanticide,Dublin Region,2012
+0.0,Dublin,Infanticide,Dublin Region,2013
+0.0,Dublin,Infanticide,Dublin Region,2014
+0.0,Dublin,Infanticide,Dublin Region,2015
+0.0,Dublin,Infanticide,Dublin Region,2016
+0.0,Dublin,Infanticide,Dublin Region,2017
+0.0,Dublin,Infanticide,Dublin Region,2018
+0.0,Dublin,Infanticide,Dublin Region,2019
+3.0,Donegal,Dangerous driving leading to death,Donegal Garda Division,2003
+3.0,Donegal,Dangerous driving leading to death,Donegal Garda Division,2004
+12.0,Donegal,Dangerous driving leading to death,Donegal Garda Division,2005
+3.0,Donegal,Dangerous driving leading to death,Donegal Garda Division,2006
+3.0,Donegal,Dangerous driving leading to death,Donegal Garda Division,2007
+4.0,Donegal,Dangerous driving leading to death,Donegal Garda Division,2008
+3.0,Donegal,Dangerous driving leading to death,Donegal Garda Division,2009
+11.0,Donegal,Dangerous driving leading to death,Donegal Garda Division,2010
+1.0,Donegal,Dangerous driving leading to death,Donegal Garda Division,2011
+3.0,Donegal,Dangerous driving leading to death,Donegal Garda Division,2012
+4.0,Donegal,Dangerous driving leading to death,Donegal Garda Division,2013
+4.0,Donegal,Dangerous driving leading to death,Donegal Garda Division,2014
+3.0,Donegal,Dangerous driving leading to death,Donegal Garda Division,2015
+3.0,Donegal,Dangerous driving leading to death,Donegal Garda Division,2016
+0.0,Donegal,Dangerous driving leading to death,Donegal Garda Division,2017
+6.0,Donegal,Dangerous driving leading to death,Donegal Garda Division,2018
+6.0,Donegal,Dangerous driving leading to death,Donegal Garda Division,2019
+1.0,Louth,Dangerous driving leading to death,Louth  Garda Division,2003
+2.0,Louth,Dangerous driving leading to death,Louth  Garda Division,2004
+4.0,Louth,Dangerous driving leading to death,Louth  Garda Division,2005
+3.0,Louth,Dangerous driving leading to death,Louth  Garda Division,2006
+3.0,Louth,Dangerous driving leading to death,Louth  Garda Division,2007
+0.0,Louth,Dangerous driving leading to death,Louth  Garda Division,2008
+1.0,Louth,Dangerous driving leading to death,Louth  Garda Division,2009
+1.0,Louth,Dangerous driving leading to death,Louth  Garda Division,2010
+1.0,Louth,Dangerous driving leading to death,Louth  Garda Division,2011
+0.0,Louth,Dangerous driving leading to death,Louth  Garda Division,2012
+0.0,Louth,Dangerous driving leading to death,Louth  Garda Division,2013
+0.0,Louth,Dangerous driving leading to death,Louth  Garda Division,2014
+0.0,Louth,Dangerous driving leading to death,Louth  Garda Division,2015
+2.0,Louth,Dangerous driving leading to death,Louth  Garda Division,2016
+5.0,Louth,Dangerous driving leading to death,Louth  Garda Division,2017
+1.0,Louth,Dangerous driving leading to death,Louth  Garda Division,2018
+1.0,Louth,Dangerous driving leading to death,Louth  Garda Division,2019
+4.0,Clare,Dangerous driving leading to death,Clare Garda Division,2003
+2.0,Clare,Dangerous driving leading to death,Clare Garda Division,2004
+4.0,Clare,Dangerous driving leading to death,Clare Garda Division,2005
+1.0,Clare,Dangerous driving leading to death,Clare Garda Division,2006
+6.0,Clare,Dangerous driving leading to death,Clare Garda Division,2007
+0.0,Clare,Dangerous driving leading to death,Clare Garda Division,2008
+0.0,Clare,Dangerous driving leading to death,Clare Garda Division,2009
+2.0,Clare,Dangerous driving leading to death,Clare Garda Division,2010
+0.0,Clare,Dangerous driving leading to death,Clare Garda Division,2011
+0.0,Clare,Dangerous driving leading to death,Clare Garda Division,2012
+0.0,Clare,Dangerous driving leading to death,Clare Garda Division,2013
+0.0,Clare,Dangerous driving leading to death,Clare Garda Division,2014
+0.0,Clare,Dangerous driving leading to death,Clare Garda Division,2015
+2.0,Clare,Dangerous driving leading to death,Clare Garda Division,2016
+2.0,Clare,Dangerous driving leading to death,Clare Garda Division,2017
+3.0,Clare,Dangerous driving leading to death,Clare Garda Division,2018
+3.0,Clare,Dangerous driving leading to death,Clare Garda Division,2019
+2.0,Mayo,Dangerous driving leading to death,Mayo Garda Division,2003
+0.0,Mayo,Dangerous driving leading to death,Mayo Garda Division,2004
+1.0,Mayo,Dangerous driving leading to death,Mayo Garda Division,2005
+1.0,Mayo,Dangerous driving leading to death,Mayo Garda Division,2006
+1.0,Mayo,Dangerous driving leading to death,Mayo Garda Division,2007
+2.0,Mayo,Dangerous driving leading to death,Mayo Garda Division,2008
+3.0,Mayo,Dangerous driving leading to death,Mayo Garda Division,2009
+3.0,Mayo,Dangerous driving leading to death,Mayo Garda Division,2010
+0.0,Mayo,Dangerous driving leading to death,Mayo Garda Division,2011
+2.0,Mayo,Dangerous driving leading to death,Mayo Garda Division,2012
+2.0,Mayo,Dangerous driving leading to death,Mayo Garda Division,2013
+1.0,Mayo,Dangerous driving leading to death,Mayo Garda Division,2014
+3.0,Mayo,Dangerous driving leading to death,Mayo Garda Division,2015
+1.0,Mayo,Dangerous driving leading to death,Mayo Garda Division,2016
+1.0,Mayo,Dangerous driving leading to death,Mayo Garda Division,2017
+0.0,Mayo,Dangerous driving leading to death,Mayo Garda Division,2018
+1.0,Mayo,Dangerous driving leading to death,Mayo Garda Division,2019
+0.0,Galway,Dangerous driving leading to death,Galway Garda Division,2003
+8.0,Galway,Dangerous driving leading to death,Galway Garda Division,2004
+5.0,Galway,Dangerous driving leading to death,Galway Garda Division,2005
+5.0,Galway,Dangerous driving leading to death,Galway Garda Division,2006
+3.0,Galway,Dangerous driving leading to death,Galway Garda Division,2007
+6.0,Galway,Dangerous driving leading to death,Galway Garda Division,2008
+3.0,Galway,Dangerous driving leading to death,Galway Garda Division,2009
+1.0,Galway,Dangerous driving leading to death,Galway Garda Division,2010
+2.0,Galway,Dangerous driving leading to death,Galway Garda Division,2011
+3.0,Galway,Dangerous driving leading to death,Galway Garda Division,2012
+1.0,Galway,Dangerous driving leading to death,Galway Garda Division,2013
+2.0,Galway,Dangerous driving leading to death,Galway Garda Division,2014
+2.0,Galway,Dangerous driving leading to death,Galway Garda Division,2015
+1.0,Galway,Dangerous driving leading to death,Galway Garda Division,2016
+0.0,Galway,Dangerous driving leading to death,Galway Garda Division,2017
+3.0,Galway,Dangerous driving leading to death,Galway Garda Division,2018
+4.0,Galway,Dangerous driving leading to death,Galway Garda Division,2019
+1.0,Cork,Dangerous driving leading to death,Cork City Garda Division,2003
+1.0,Cork,Dangerous driving leading to death,Cork City Garda Division,2004
+3.0,Cork,Dangerous driving leading to death,Cork City Garda Division,2005
+2.0,Cork,Dangerous driving leading to death,Cork City Garda Division,2006
+0.0,Cork,Dangerous driving leading to death,Cork City Garda Division,2007
+2.0,Cork,Dangerous driving leading to death,Cork City Garda Division,2008
+0.0,Cork,Dangerous driving leading to death,Cork City Garda Division,2009
+4.0,Cork,Dangerous driving leading to death,Cork City Garda Division,2010
+0.0,Cork,Dangerous driving leading to death,Cork City Garda Division,2011
+1.0,Cork,Dangerous driving leading to death,Cork City Garda Division,2012
+3.0,Cork,Dangerous driving leading to death,Cork City Garda Division,2013
+0.0,Cork,Dangerous driving leading to death,Cork City Garda Division,2014
+0.0,Cork,Dangerous driving leading to death,Cork City Garda Division,2015
+2.0,Cork,Dangerous driving leading to death,Cork City Garda Division,2016
+4.0,Cork,Dangerous driving leading to death,Cork City Garda Division,2017
+3.0,Cork,Dangerous driving leading to death,Cork City Garda Division,2018
+5.0,Cork,Dangerous driving leading to death,Cork City Garda Division,2019
+2.0,Cork,Dangerous driving leading to death,Cork North Garda Division,2003
+0.0,Cork,Dangerous driving leading to death,Cork North Garda Division,2004
+1.0,Cork,Dangerous driving leading to death,Cork North Garda Division,2005
+1.0,Cork,Dangerous driving leading to death,Cork North Garda Division,2006
+2.0,Cork,Dangerous driving leading to death,Cork North Garda Division,2007
+1.0,Cork,Dangerous driving leading to death,Cork North Garda Division,2008
+3.0,Cork,Dangerous driving leading to death,Cork North Garda Division,2009
+0.0,Cork,Dangerous driving leading to death,Cork North Garda Division,2010
+0.0,Cork,Dangerous driving leading to death,Cork North Garda Division,2011
+1.0,Cork,Dangerous driving leading to death,Cork North Garda Division,2012
+0.0,Cork,Dangerous driving leading to death,Cork North Garda Division,2013
+3.0,Cork,Dangerous driving leading to death,Cork North Garda Division,2014
+4.0,Cork,Dangerous driving leading to death,Cork North Garda Division,2015
+0.0,Cork,Dangerous driving leading to death,Cork North Garda Division,2016
+1.0,Cork,Dangerous driving leading to death,Cork North Garda Division,2017
+0.0,Cork,Dangerous driving leading to death,Cork North Garda Division,2018
+0.0,Cork,Dangerous driving leading to death,Cork North Garda Division,2019
+1.0,Cork,Dangerous driving leading to death,Cork West Garda Division,2003
+5.0,Cork,Dangerous driving leading to death,Cork West Garda Division,2004
+2.0,Cork,Dangerous driving leading to death,Cork West Garda Division,2005
+1.0,Cork,Dangerous driving leading to death,Cork West Garda Division,2006
+0.0,Cork,Dangerous driving leading to death,Cork West Garda Division,2007
+2.0,Cork,Dangerous driving leading to death,Cork West Garda Division,2008
+1.0,Cork,Dangerous driving leading to death,Cork West Garda Division,2009
+1.0,Cork,Dangerous driving leading to death,Cork West Garda Division,2010
+2.0,Cork,Dangerous driving leading to death,Cork West Garda Division,2011
+3.0,Cork,Dangerous driving leading to death,Cork West Garda Division,2012
+2.0,Cork,Dangerous driving leading to death,Cork West Garda Division,2013
+1.0,Cork,Dangerous driving leading to death,Cork West Garda Division,2014
+0.0,Cork,Dangerous driving leading to death,Cork West Garda Division,2015
+3.0,Cork,Dangerous driving leading to death,Cork West Garda Division,2016
+0.0,Cork,Dangerous driving leading to death,Cork West Garda Division,2017
+1.0,Cork,Dangerous driving leading to death,Cork West Garda Division,2018
+1.0,Cork,Dangerous driving leading to death,Cork West Garda Division,2019
+1.0,Kerry,Dangerous driving leading to death,Kerry Garda Division,2003
+4.0,Kerry,Dangerous driving leading to death,Kerry Garda Division,2004
+1.0,Kerry,Dangerous driving leading to death,Kerry Garda Division,2005
+8.0,Kerry,Dangerous driving leading to death,Kerry Garda Division,2006
+1.0,Kerry,Dangerous driving leading to death,Kerry Garda Division,2007
+3.0,Kerry,Dangerous driving leading to death,Kerry Garda Division,2008
+0.0,Kerry,Dangerous driving leading to death,Kerry Garda Division,2009
+1.0,Kerry,Dangerous driving leading to death,Kerry Garda Division,2010
+5.0,Kerry,Dangerous driving leading to death,Kerry Garda Division,2011
+1.0,Kerry,Dangerous driving leading to death,Kerry Garda Division,2012
+4.0,Kerry,Dangerous driving leading to death,Kerry Garda Division,2013
+4.0,Kerry,Dangerous driving leading to death,Kerry Garda Division,2014
+2.0,Kerry,Dangerous driving leading to death,Kerry Garda Division,2015
+2.0,Kerry,Dangerous driving leading to death,Kerry Garda Division,2016
+2.0,Kerry,Dangerous driving leading to death,Kerry Garda Division,2017
+0.0,Kerry,Dangerous driving leading to death,Kerry Garda Division,2018
+0.0,Kerry,Dangerous driving leading to death,Kerry Garda Division,2019
+2.0,Limerick,Dangerous driving leading to death,Limerick Garda Division,2003
+6.0,Limerick,Dangerous driving leading to death,Limerick Garda Division,2004
+2.0,Limerick,Dangerous driving leading to death,Limerick Garda Division,2005
+4.0,Limerick,Dangerous driving leading to death,Limerick Garda Division,2006
+3.0,Limerick,Dangerous driving leading to death,Limerick Garda Division,2007
+1.0,Limerick,Dangerous driving leading to death,Limerick Garda Division,2008
+6.0,Limerick,Dangerous driving leading to death,Limerick Garda Division,2009
+5.0,Limerick,Dangerous driving leading to death,Limerick Garda Division,2010
+1.0,Limerick,Dangerous driving leading to death,Limerick Garda Division,2011
+1.0,Limerick,Dangerous driving leading to death,Limerick Garda Division,2012
+1.0,Limerick,Dangerous driving leading to death,Limerick Garda Division,2013
+3.0,Limerick,Dangerous driving leading to death,Limerick Garda Division,2014
+3.0,Limerick,Dangerous driving leading to death,Limerick Garda Division,2015
+2.0,Limerick,Dangerous driving leading to death,Limerick Garda Division,2016
+1.0,Limerick,Dangerous driving leading to death,Limerick Garda Division,2017
+3.0,Limerick,Dangerous driving leading to death,Limerick Garda Division,2018
+3.0,Limerick,Dangerous driving leading to death,Limerick Garda Division,2019
+1.0,Meath,Dangerous driving leading to death,Meath  Garda Division,2003
+1.0,Meath,Dangerous driving leading to death,Meath  Garda Division,2004
+4.0,Meath,Dangerous driving leading to death,Meath  Garda Division,2005
+6.0,Meath,Dangerous driving leading to death,Meath  Garda Division,2006
+7.0,Meath,Dangerous driving leading to death,Meath  Garda Division,2007
+1.0,Meath,Dangerous driving leading to death,Meath  Garda Division,2008
+3.0,Meath,Dangerous driving leading to death,Meath  Garda Division,2009
+0.0,Meath,Dangerous driving leading to death,Meath  Garda Division,2010
+0.0,Meath,Dangerous driving leading to death,Meath  Garda Division,2011
+0.0,Meath,Dangerous driving leading to death,Meath  Garda Division,2012
+0.0,Meath,Dangerous driving leading to death,Meath  Garda Division,2013
+3.0,Meath,Dangerous driving leading to death,Meath  Garda Division,2014
+3.0,Meath,Dangerous driving leading to death,Meath  Garda Division,2015
+3.0,Meath,Dangerous driving leading to death,Meath  Garda Division,2016
+1.0,Meath,Dangerous driving leading to death,Meath  Garda Division,2017
+1.0,Meath,Dangerous driving leading to death,Meath  Garda Division,2018
+1.0,Meath,Dangerous driving leading to death,Meath  Garda Division,2019
+4.0,Wicklow,Dangerous driving leading to death,Wicklow  Garda Division,2003
+0.0,Wicklow,Dangerous driving leading to death,Wicklow  Garda Division,2004
+0.0,Wicklow,Dangerous driving leading to death,Wicklow  Garda Division,2005
+2.0,Wicklow,Dangerous driving leading to death,Wicklow  Garda Division,2006
+4.0,Wicklow,Dangerous driving leading to death,Wicklow  Garda Division,2007
+0.0,Wicklow,Dangerous driving leading to death,Wicklow  Garda Division,2008
+2.0,Wicklow,Dangerous driving leading to death,Wicklow  Garda Division,2009
+1.0,Wicklow,Dangerous driving leading to death,Wicklow  Garda Division,2010
+0.0,Wicklow,Dangerous driving leading to death,Wicklow  Garda Division,2011
+0.0,Wicklow,Dangerous driving leading to death,Wicklow  Garda Division,2012
+1.0,Wicklow,Dangerous driving leading to death,Wicklow  Garda Division,2013
+1.0,Wicklow,Dangerous driving leading to death,Wicklow  Garda Division,2014
+3.0,Wicklow,Dangerous driving leading to death,Wicklow  Garda Division,2015
+1.0,Wicklow,Dangerous driving leading to death,Wicklow  Garda Division,2016
+2.0,Wicklow,Dangerous driving leading to death,Wicklow  Garda Division,2017
+0.0,Wicklow,Dangerous driving leading to death,Wicklow  Garda Division,2018
+0.0,Wicklow,Dangerous driving leading to death,Wicklow  Garda Division,2019
+2.0,Westmeath,Dangerous driving leading to death,Westmeath  Garda Division,2003
+1.0,Westmeath,Dangerous driving leading to death,Westmeath  Garda Division,2004
+2.0,Westmeath,Dangerous driving leading to death,Westmeath  Garda Division,2005
+4.0,Westmeath,Dangerous driving leading to death,Westmeath  Garda Division,2006
+3.0,Westmeath,Dangerous driving leading to death,Westmeath  Garda Division,2007
+0.0,Westmeath,Dangerous driving leading to death,Westmeath  Garda Division,2008
+1.0,Westmeath,Dangerous driving leading to death,Westmeath  Garda Division,2009
+3.0,Westmeath,Dangerous driving leading to death,Westmeath  Garda Division,2010
+1.0,Westmeath,Dangerous driving leading to death,Westmeath  Garda Division,2011
+1.0,Westmeath,Dangerous driving leading to death,Westmeath  Garda Division,2012
+1.0,Westmeath,Dangerous driving leading to death,Westmeath  Garda Division,2013
+0.0,Westmeath,Dangerous driving leading to death,Westmeath  Garda Division,2014
+1.0,Westmeath,Dangerous driving leading to death,Westmeath  Garda Division,2015
+3.0,Westmeath,Dangerous driving leading to death,Westmeath  Garda Division,2016
+0.0,Westmeath,Dangerous driving leading to death,Westmeath  Garda Division,2017
+1.0,Westmeath,Dangerous driving leading to death,Westmeath  Garda Division,2018
+1.0,Westmeath,Dangerous driving leading to death,Westmeath  Garda Division,2019
+0.0,Kildare,Dangerous driving leading to death,Kildare  Garda Division,2003
+3.0,Kildare,Dangerous driving leading to death,Kildare  Garda Division,2004
+4.0,Kildare,Dangerous driving leading to death,Kildare  Garda Division,2005
+5.0,Kildare,Dangerous driving leading to death,Kildare  Garda Division,2006
+4.0,Kildare,Dangerous driving leading to death,Kildare  Garda Division,2007
+2.0,Kildare,Dangerous driving leading to death,Kildare  Garda Division,2008
+1.0,Kildare,Dangerous driving leading to death,Kildare  Garda Division,2009
+1.0,Kildare,Dangerous driving leading to death,Kildare  Garda Division,2010
+4.0,Kildare,Dangerous driving leading to death,Kildare  Garda Division,2011
+0.0,Kildare,Dangerous driving leading to death,Kildare  Garda Division,2012
+4.0,Kildare,Dangerous driving leading to death,Kildare  Garda Division,2013
+1.0,Kildare,Dangerous driving leading to death,Kildare  Garda Division,2014
+8.0,Kildare,Dangerous driving leading to death,Kildare  Garda Division,2015
+0.0,Kildare,Dangerous driving leading to death,Kildare  Garda Division,2016
+2.0,Kildare,Dangerous driving leading to death,Kildare  Garda Division,2017
+1.0,Kildare,Dangerous driving leading to death,Kildare  Garda Division,2018
+1.0,Kildare,Dangerous driving leading to death,Kildare  Garda Division,2019
+2.0,Tipperary,Dangerous driving leading to death,Tipperary Garda Division,2003
+3.0,Tipperary,Dangerous driving leading to death,Tipperary Garda Division,2004
+1.0,Tipperary,Dangerous driving leading to death,Tipperary Garda Division,2005
+3.0,Tipperary,Dangerous driving leading to death,Tipperary Garda Division,2006
+2.0,Tipperary,Dangerous driving leading to death,Tipperary Garda Division,2007
+7.0,Tipperary,Dangerous driving leading to death,Tipperary Garda Division,2008
+0.0,Tipperary,Dangerous driving leading to death,Tipperary Garda Division,2009
+0.0,Tipperary,Dangerous driving leading to death,Tipperary Garda Division,2010
+2.0,Tipperary,Dangerous driving leading to death,Tipperary Garda Division,2011
+1.0,Tipperary,Dangerous driving leading to death,Tipperary Garda Division,2012
+1.0,Tipperary,Dangerous driving leading to death,Tipperary Garda Division,2013
+1.0,Tipperary,Dangerous driving leading to death,Tipperary Garda Division,2014
+0.0,Tipperary,Dangerous driving leading to death,Tipperary Garda Division,2015
+2.0,Tipperary,Dangerous driving leading to death,Tipperary Garda Division,2016
+2.0,Tipperary,Dangerous driving leading to death,Tipperary Garda Division,2017
+2.0,Tipperary,Dangerous driving leading to death,Tipperary Garda Division,2018
+2.0,Tipperary,Dangerous driving leading to death,Tipperary Garda Division,2019
+1.0,Wexford,Dangerous driving leading to death,Wexford  Garda Division,2003
+6.0,Wexford,Dangerous driving leading to death,Wexford  Garda Division,2004
+5.0,Wexford,Dangerous driving leading to death,Wexford  Garda Division,2005
+4.0,Wexford,Dangerous driving leading to death,Wexford  Garda Division,2006
+4.0,Wexford,Dangerous driving leading to death,Wexford  Garda Division,2007
+4.0,Wexford,Dangerous driving leading to death,Wexford  Garda Division,2008
+0.0,Wexford,Dangerous driving leading to death,Wexford  Garda Division,2009
+3.0,Wexford,Dangerous driving leading to death,Wexford  Garda Division,2010
+1.0,Wexford,Dangerous driving leading to death,Wexford  Garda Division,2011
+5.0,Wexford,Dangerous driving leading to death,Wexford  Garda Division,2012
+2.0,Wexford,Dangerous driving leading to death,Wexford  Garda Division,2013
+3.0,Wexford,Dangerous driving leading to death,Wexford  Garda Division,2014
+2.0,Wexford,Dangerous driving leading to death,Wexford  Garda Division,2015
+0.0,Wexford,Dangerous driving leading to death,Wexford  Garda Division,2016
+1.0,Wexford,Dangerous driving leading to death,Wexford  Garda Division,2017
+1.0,Wexford,Dangerous driving leading to death,Wexford  Garda Division,2018
+1.0,Wexford,Dangerous driving leading to death,Wexford  Garda Division,2019
+3.0,Waterford,Dangerous driving leading to death,Waterford  Garda Division,2003
+3.0,Waterford,Dangerous driving leading to death,Waterford  Garda Division,2004
+2.0,Waterford,Dangerous driving leading to death,Waterford  Garda Division,2005
+3.0,Waterford,Dangerous driving leading to death,Waterford  Garda Division,2006
+1.0,Waterford,Dangerous driving leading to death,Waterford  Garda Division,2007
+2.0,Waterford,Dangerous driving leading to death,Waterford  Garda Division,2008
+0.0,Waterford,Dangerous driving leading to death,Waterford  Garda Division,2009
+0.0,Waterford,Dangerous driving leading to death,Waterford  Garda Division,2010
+3.0,Waterford,Dangerous driving leading to death,Waterford  Garda Division,2011
+0.0,Waterford,Dangerous driving leading to death,Waterford  Garda Division,2012
+1.0,Waterford,Dangerous driving leading to death,Waterford  Garda Division,2013
+3.0,Waterford,Dangerous driving leading to death,Waterford  Garda Division,2014
+0.0,Waterford,Dangerous driving leading to death,Waterford  Garda Division,2015
+1.0,Waterford,Dangerous driving leading to death,Waterford  Garda Division,2016
+0.0,Waterford,Dangerous driving leading to death,Waterford  Garda Division,2017
+0.0,Waterford,Dangerous driving leading to death,Waterford  Garda Division,2018
+0.0,Waterford,Dangerous driving leading to death,Waterford  Garda Division,2019
+11.0,Dublin,Dangerous driving leading to death,Dublin Region,2003
+10.0,Dublin,Dangerous driving leading to death,Dublin Region,2004
+2.0,Dublin,Dangerous driving leading to death,Dublin Region,2005
+8.0,Dublin,Dangerous driving leading to death,Dublin Region,2006
+6.0,Dublin,Dangerous driving leading to death,Dublin Region,2007
+1.0,Dublin,Dangerous driving leading to death,Dublin Region,2008
+5.0,Dublin,Dangerous driving leading to death,Dublin Region,2009
+3.0,Dublin,Dangerous driving leading to death,Dublin Region,2010
+1.0,Dublin,Dangerous driving leading to death,Dublin Region,2011
+0.0,Dublin,Dangerous driving leading to death,Dublin Region,2012
+4.0,Dublin,Dangerous driving leading to death,Dublin Region,2013
+11.0,Dublin,Dangerous driving leading to death,Dublin Region,2014
+7.0,Dublin,Dangerous driving leading to death,Dublin Region,2015
+8.0,Dublin,Dangerous driving leading to death,Dublin Region,2016
+9.0,Dublin,Dangerous driving leading to death,Dublin Region,2017
+2.0,Dublin,Dangerous driving leading to death,Dublin Region,2018
+4.0,Dublin,Dangerous driving leading to death,Dublin Region,2019

@@ -1,0 +1,597 @@
+"Estimates of Household Income by County and Region, statistical"
+"indicator and Year"
+
+" "," ","2000","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015"
+"State"
+" ","Compensation of Employees (i.e. Wages and Salaries, Benefits in kind, Employers' social insurance contribution) (Euro Million)",41702,46530,49762,54128,58752,65284,71797,78540,80727,73628,68793,69711,69406,70659,73085,76719
+" ","Income of Self Employed (Euro Million)",9358,10121,9286,10187,11242,12821,13421,14349,13101,10682,10267,9673,9239,9329,9780,10057
+" ","Rent of dwellings (including imputed rent of owner-occupied dwellings) (Euro Million)",3589,4370,4978,4731,4100,3506,3344,5550,8218,5490,6593,6799,7249,7322,7830,8625
+" ","Net Interest and Dividends (payments by households of interest are deducted from interest received by households) (Euro Million)",2607,2816,2523,3144,3534,3195,2530,1095,60,1514,1287,502,3316,3204,3105,3971
+" ","Primary Income (Euro Million)",57256,63837,66549,72189,77627,84805,91092,99535,102106,91314,86940,86685,89211,90513,93800,99371
+" ","Social Benefits and Other Current Transfers (Euro Million)",8633,10254,12770,13625,15092,16855,18790,20643,23839,25409,25687,25424,26055,25234,24806,24507
+" ","Total Household Income (Euro Million)",66145,75368,81825,88238,95435,103580,110437,119923,127216,119410,113139,112526,115889,114415,117030,123757
+" ","Total Income per Person (Euro)",17455,19590,20889,22171,23592,25057,26090,27406,28364,26340,24840,24596,25273,24910,25388,26698
+" ","Index of Total Income per Person (State=100)",100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+" ","Current Taxes on Income (Euro Million)",14964,15865,16604,18323,20773,22787,25704,27805,26211,25005,24057,26110,26797,27613,28228,29500
+" ","Disposable Household Income (Euro Million)",51181,59504,65220,69915,74662,80793,84733,92118,101004,94405,89082,86416,89092,86801,88802,94257
+" ","Disposable Income per Person (Euro)",13506,15467,16650,17567,18457,19544,20018,21052,22520,20824,19558,18889,19429,18898,19265,20334
+" ","Index of Disposable Income per Person (State=100)",100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+" ","Disposable Income per Person (excluding Rent) (Euro)",12509,14268,15321,16308,17348,18578,19059,19783,20688,19613,18110,17403,17848,17304,17566,18473
+" ","Index of Disposable Income per Person (excluding Rent) (State=100)",100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+"West"
+" ","Compensation of Employees (i.e. Wages and Salaries, Benefits in kind, Employers' social insurance contribution) (Euro Million)",3193,3550,3827,4395,4881,5366,5880,6339,6635,6166,5885,5693,5760,5729,5847,6005
+" ","Income of Self Employed (Euro Million)",984,1013,1017,1075,1200,1416,1364,1400,1330,1128,1014,923,907,846,886,946
+" ","Rent of dwellings (including imputed rent of owner-occupied dwellings) (Euro Million)",310,375,424,405,352,302,288,485,720,482,579,579,634,642,686,757
+" ","Net Interest and Dividends (payments by households of interest are deducted from interest received by households) (Euro Million)",214,228,208,268,307,277,216,92,5,131,112,42,282,265,254,321
+" ","Primary Income (Euro Million)",4702,5166,5476,6142,6740,7361,7748,8315,8690,7906,7590,7237,7583,7482,7673,8028
+" ","Social Benefits and Other Current Transfers (Euro Million)",869,1026,1275,1349,1486,1679,1856,2051,2371,2536,2555,2511,2541,2464,2425,2385
+" ","Total Household Income (Euro Million)",5592,6295,6958,7698,8462,9206,9651,10345,11169,10675,10190,9783,10178,9836,9969,10404
+" ","Total Income per Person (Euro)",15422,17080,18297,19850,21413,22842,23499,24527,25901,24468,23250,22032,22867,22061,22281,23123
+" ","Index of Total Income per Person (State=100)",88.4,87.2,87.6,89.5,90.8,91.2,90.1,89.5,91.3,92.9,93.6,89.6,90.5,88.6,87.8,86.6
+" ","Current Taxes on Income (Euro Million)",1079,1124,1173,1393,1651,1812,1961,2107,2003,1970,1910,1984,2061,2114,2165,2226
+" ","Disposable Household Income (Euro Million)",4513,5171,5785,6305,6811,7395,7690,8238,9166,8706,8280,7800,8117,7721,7805,8177
+" ","Disposable Income per Person (Euro)",12445,14031,15212,16258,17235,18347,18724,19533,21256,19953,18891,17565,18236,17319,17443,18174
+" ","Index of Disposable Income per Person (State=100)",92.1,90.7,91.4,92.5,93.4,93.9,93.5,92.8,94.4,95.8,96.6,93.0,93.9,91.6,90.5,89.4
+" ","Disposable Income per Person (excluding Rent) (Euro)",11543,12954,14094,15205,16316,17553,17928,18384,19585,18848,17571,16259,16810,15881,15911,16493
+" ","Index of Disposable Income per Person (excluding Rent) (State=100)",92.3,90.8,92.0,93.2,94.1,94.5,94.1,92.9,94.7,96.1,97.0,93.4,94.2,91.8,90.6,89.3
+"Border"
+" ","Compensation of Employees (i.e. Wages and Salaries, Benefits in kind, Employers' social insurance contribution) (Euro Million)",3637,4014,4381,4829,5374,5859,6421,7065,7239,6670,6218,6144,5863,5975,6131,6509
+" ","Income of Self Employed (Euro Million)",1017,1072,988,1062,1158,1360,1289,1365,1220,1009,947,871,898,856,905,937
+" ","Rent of dwellings (including imputed rent of owner-occupied dwellings) (Euro Million)",283,342,388,371,324,278,267,455,685,462,556,551,611,620,663,731
+" ","Net Interest and Dividends (payments by households of interest are deducted from interest received by households) (Euro Million)",236,251,227,285,327,294,229,99,5,137,116,44,285,273,264,340
+" ","Primary Income (Euro Million)",5173,5680,5984,6547,7183,7791,8206,8984,9149,8278,7838,7610,7656,7724,7962,8518
+" ","Social Benefits and Other Current Transfers (Euro Million)",1041,1225,1510,1613,1779,1990,2226,2472,2878,3084,3115,3093,3162,3060,2999,2965
+" ","Total Household Income (Euro Million)",6237,7018,7720,8380,9212,9958,10482,11432,12141,11606,10998,10739,10872,10670,10827,11473
+" ","Total Income per Person (Euro)",14833,16514,17848,19019,20520,21732,22330,23614,24376,22878,21482,20919,21127,20701,20930,22055
+" ","Index of Total Income per Person (State=100)",85.0,84.3,85.4,85.8,87.0,86.7,85.6,86.2,85.9,86.9,86.5,85.0,83.6,83.1,82.4,82.6
+" ","Current Taxes on Income (Euro Million)",1269,1294,1403,1567,1687,1838,2036,2174,2016,1978,1874,2018,1994,2087,2166,2296
+" ","Disposable Household Income (Euro Million)",4968,5724,6317,6813,7526,8120,8446,9258,10125,9628,9125,8721,8877,8583,8661,9177
+" ","Disposable Income per Person (Euro)",11814,13468,14604,15463,16763,17721,17992,19123,20328,18979,17822,16988,17252,16652,16743,17641
+" ","Index of Disposable Income per Person (State=100)",87.5,87.1,87.7,88.0,90.8,90.7,89.9,90.8,90.3,91.1,91.1,89.9,88.8,88.1,86.9,86.8
+" ","Disposable Income per Person (excluding Rent) (Euro)",11097,12609,13713,14616,16018,17070,17334,18182,18955,18071,16736,15914,16064,15450,15461,16236
+" ","Index of Disposable Income per Person (excluding Rent) (State=100)",88.7,88.4,89.5,89.6,92.3,91.9,91.0,91.9,91.6,92.1,92.4,91.4,90.0,89.3,88.0,87.9
+"Mayo"
+" ","Compensation of Employees (i.e. Wages and Salaries, Benefits in kind, Employers' social insurance contribution) (Euro Million)",949,1044,1116,1267,1380,1492,1598,1720,1795,1690,1620,1541,1526,1529,1569,1574
+" ","Income of Self Employed (Euro Million)",323,326,323,342,382,448,408,419,400,341,308,273,270,254,264,277
+" ","Rent of dwellings (including imputed rent of owner-occupied dwellings) (Euro Million)",77,93,105,100,87,75,72,121,182,124,151,152,167,169,181,200
+" ","Net Interest and Dividends (payments by households of interest are deducted from interest received by households) (Euro Million)",64,68,61,78,88,79,60,25,1,36,31,11,76,72,69,85
+" ","Primary Income (Euro Million)",1413,1530,1605,1787,1937,2094,2138,2286,2379,2192,2110,1977,2039,2024,2084,2137
+" ","Social Benefits and Other Current Transfers (Euro Million)",289,338,415,438,481,539,587,646,746,803,804,788,793,767,746,736
+" ","Total Household Income (Euro Million)",1708,1899,2081,2285,2485,2681,2737,2926,3155,3059,2926,2774,2847,2761,2795,2870
+" ","Total Income per Person (Euro)",15197,16707,17717,19082,20363,21540,21583,22462,23692,22706,21617,21300,21806,21114,21293,21747
+" ","Index of Total Income per Person (State=100)",87.1,85.3,84.8,86.1,86.3,86.0,82.7,82.0,83.5,86.2,87.0,86.6,86.3,84.8,83.9,81.5
+" ","Current Taxes on Income (Euro Million)",333,337,345,402,461,496,524,562,531,527,510,514,525,546,566,575
+" ","Disposable Household Income (Euro Million)",1375,1562,1736,1883,2024,2185,2213,2364,2624,2532,2416,2261,2322,2215,2228,2295
+" ","Disposable Income per Person (Euro)",12234,13742,14784,15726,16586,17556,17448,18146,19705,18791,17849,17357,17786,16939,16979,17390
+" ","Index of Disposable Income per Person (State=100)",90.6,88.8,88.8,89.5,89.9,89.8,87.2,86.2,87.5,90.2,91.3,91.9,91.5,89.6,88.1,85.5
+" ","Disposable Income per Person (excluding Rent) (Euro)",11505,12871,13895,14885,15846,16910,16793,17214,18336,17874,16735,16191,16504,15644,15598,15873
+" ","Index of Disposable Income per Person (excluding Rent) (State=100)",92.0,90.2,90.7,91.3,91.3,91.0,88.1,87.0,88.6,91.1,92.4,93.0,92.5,90.4,88.8,85.9
+"Dublin"
+" ","Compensation of Employees (i.e. Wages and Salaries, Benefits in kind, Employers' social insurance contribution) (Euro Million)",15525,17365,17966,19095,20420,22596,24547,26945,27532,25027,23402,24298,24405,25002,26148,27415
+" ","Income of Self Employed (Euro Million)",2344,2569,2312,2671,2877,3189,3539,3777,3478,2959,2737,2392,2341,2395,2427,2532
+" ","Rent of dwellings (including imputed rent of owner-occupied dwellings) (Euro Million)",1449,1768,2017,1886,1610,1357,1277,2091,3062,2033,2432,2577,2675,2693,2882,3171
+" ","Net Interest and Dividends (payments by households of interest are deducted from interest received by households) (Euro Million)",920,1000,878,1076,1187,1062,835,365,20,506,429,170,1135,1104,1077,1378
+" ","Primary Income (Euro Million)",20239,22702,23173,24729,26094,28204,30198,33178,34092,30524,28999,29438,30557,31194,32534,34497
+" ","Social Benefits and Other Current Transfers (Euro Million)",2531,2982,3646,3886,4288,4708,5181,5609,6434,6779,6813,6774,7015,6776,6637,6580
+" ","Total Household Income (Euro Million)",22861,26138,27692,29445,31294,33551,35563,38702,40950,38202,35984,36353,37785,37511,38624,41035
+" ","Total Income per Person (Euro)",20834,23587,24663,25961,27388,28859,29970,31453,32542,30241,28514,28639,29699,29434,30199,31906
+" ","Index of Total Income per Person (State=100)",119.4,120.4,118.1,117.1,116.1,115.2,114.9,114.8,114.7,114.8,114.8,116.4,117.5,118.2,118.9,119.5
+" ","Current Taxes on Income (Euro Million)",5714,6080,6252,6759,7738,8401,9474,10395,9831,9295,8958,9887,10263,10493,10589,11071
+" ","Disposable Household Income (Euro Million)",17147,20057,21440,22687,23557,25150,26089,28308,31118,28907,27026,26466,27522,27018,28035,29964
+" ","Disposable Income per Person (Euro)",15627,18100,19095,20002,20616,21633,21986,23006,24729,22883,21416,20850,21632,21200,21919,23298
+" ","Index of Disposable Income per Person (State=100)",115.7,117.0,114.7,113.9,111.7,110.7,109.8,109.3,109.8,109.9,109.5,110.4,111.3,112.2,113.8,114.6
+" ","Disposable Income per Person (excluding Rent) (Euro)",14249,16429,17065,18083,18920,20145,20536,21307,22292,21269,19487,18818,19529,19089,19668,20832
+" ","Index of Disposable Income per Person (excluding Rent) (State=100)",113.9,115.1,111.4,110.9,109.1,108.4,107.8,107.7,107.8,108.4,107.6,108.1,109.4,110.3,112.0,112.8
+"Cavan"
+" ","Compensation of Employees (i.e. Wages and Salaries, Benefits in kind, Employers' social insurance contribution) (Euro Million)",443,491,550,614,702,790,881,1014,1030,950,875,902,883,910,938,1005
+" ","Income of Self Employed (Euro Million)",172,181,164,172,191,228,215,224,197,157,153,152,155,149,163,166
+" ","Rent of dwellings (including imputed rent of owner-occupied dwellings) (Euro Million)",33,40,45,44,40,35,35,61,93,62,74,71,81,82,88,98
+" ","Net Interest and Dividends (payments by households of interest are deducted from interest received by households) (Euro Million)",31,33,30,38,45,41,33,14,1,20,17,7,43,42,41,53
+" ","Primary Income (Euro Million)",679,745,788,868,976,1095,1163,1313,1320,1188,1119,1132,1162,1184,1230,1322
+" ","Social Benefits and Other Current Transfers (Euro Million)",123,146,181,194,216,243,276,305,358,384,394,387,396,383,379,382
+" ","Total Household Income (Euro Million)",805,906,999,1091,1227,1363,1446,1615,1695,1608,1520,1525,1566,1549,1588,1703
+" ","Total Income per Person (Euro)",14730,16393,17672,18941,20905,22749,23566,25518,26026,24239,22707,20897,21414,21149,21596,23034
+" ","Index of Total Income per Person (State=100)",84.4,83.7,84.6,85.4,88.6,90.8,90.3,93.1,91.8,92.0,91.4,85.0,84.7,84.9,85.1,86.3
+" ","Current Taxes on Income (Euro Million)",161,164,180,203,232,259,287,322,291,285,269,294,301,312,330,353
+" ","Disposable Household Income (Euro Million)",644,741,820,888,995,1104,1159,1293,1403,1323,1251,1231,1266,1237,1257,1350
+" ","Disposable Income per Person (Euro)",11776,13416,14494,15416,16960,18423,18881,20430,21550,19947,18694,16865,17304,16888,17101,18261
+" ","Index of Disposable Income per Person (State=100)",87.2,86.7,87.0,87.8,91.9,94.3,94.3,97.0,95.7,95.8,95.6,89.3,89.1,89.4,88.8,89.8
+" ","Disposable Income per Person (excluding Rent) (Euro)",11123,12640,13707,14643,16258,17792,18222,19472,20129,19014,17584,15886,16194,15762,15897,16941
+" ","Index of Disposable Income per Person (excluding Rent) (State=100)",88.9,88.6,89.5,89.8,93.7,95.8,95.6,98.4,97.3,96.9,97.1,91.3,90.7,91.1,90.5,91.7
+"Louth"
+" ","Compensation of Employees (i.e. Wages and Salaries, Benefits in kind, Employers' social insurance contribution) (Euro Million)",1106,1235,1365,1464,1561,1730,1826,2008,2055,1886,1697,1669,1605,1619,1662,1779
+" ","Income of Self Employed (Euro Million)",193,218,187,211,228,267,261,276,247,206,178,161,167,164,163,174
+" ","Rent of dwellings (including imputed rent of owner-occupied dwellings) (Euro Million)",80,98,112,107,93,79,76,126,186,125,150,156,166,168,180,199
+" ","Net Interest and Dividends (payments by households of interest are deducted from interest received by households) (Euro Million)",66,72,66,81,90,81,62,27,1,37,30,12,75,72,69,90
+" ","Primary Income (Euro Million)",1444,1622,1730,1862,1971,2158,2224,2437,2489,2254,2057,1998,2012,2023,2074,2241
+" ","Social Benefits and Other Current Transfers (Euro Million)",247,293,366,389,425,469,532,593,693,742,759,761,790,769,748,750
+" ","Total Household Income (Euro Million)",1698,1948,2161,2314,2465,2676,2770,3024,3213,3062,2828,2768,2816,2763,2787,2988
+" ","Total Income per Person (Euro)",17842,20255,21226,22306,23328,24807,25070,26531,27402,25640,23462,22591,22928,22455,22572,24065
+" ","Index of Total Income per Person (State=100)",102.2,103.4,101.6,100.6,98.9,99.0,96.1,96.8,96.6,97.3,94.5,91.8,90.7,90.1,88.9,90.1
+" ","Current Taxes on Income (Euro Million)",418,437,492,529,477,524,555,598,555,542,498,565,561,584,594,636
+" ","Disposable Household Income (Euro Million)",1280,1511,1670,1785,1989,2152,2216,2426,2658,2520,2330,2204,2255,2178,2193,2352
+" ","Disposable Income per Person (Euro)",13453,15710,16399,17211,18819,19954,20051,21285,22672,21104,19333,17983,18361,17707,17758,18946
+" ","Index of Disposable Income per Person (State=100)",99.6,101.6,98.5,98.0,102.0,102.1,100.2,101.1,100.7,101.3,98.8,95.2,94.5,93.7,92.2,93.2
+" ","Disposable Income per Person (excluding Rent) (Euro)",12563,14630,15305,16178,17915,19171,19268,20180,21092,20062,18086,16707,17010,16340,16301,17346
+" ","Index of Disposable Income per Person (excluding Rent) (State=100)",100.4,102.5,99.9,99.2,103.3,103.2,101.1,102.0,102.0,102.3,99.9,96.0,95.3,94.4,92.8,93.9
+"Sligo"
+" ","Compensation of Employees (i.e. Wages and Salaries, Benefits in kind, Employers' social insurance contribution) (Euro Million)",510,571,641,719,807,849,922,1012,1019,972,927,851,861,883,887,942
+" ","Income of Self Employed (Euro Million)",120,124,121,137,151,185,180,190,172,146,132,122,121,116,122,128
+" ","Rent of dwellings (including imputed rent of owner-occupied dwellings) (Euro Million)",43,52,58,55,47,40,38,65,97,66,79,76,86,87,93,102
+" ","Net Interest and Dividends (payments by households of interest are deducted from interest received by households) (Euro Million)",32,34,32,42,48,42,33,14,1,20,17,6,41,40,38,49
+" ","Primary Income (Euro Million)",705,781,853,953,1053,1116,1173,1281,1289,1204,1156,1056,1109,1126,1139,1221
+" ","Social Benefits and Other Current Transfers (Euro Million)",134,158,193,207,229,259,285,319,366,384,389,385,393,381,375,371
+" ","Total Household Income (Euro Million)",843,955,1078,1192,1318,1400,1465,1597,1671,1623,1551,1446,1509,1491,1495,1590
+" ","Total Income per Person (Euro)",14625,16395,18523,20108,21827,22710,23199,24511,24930,23780,22519,22176,23096,22771,22752,24072
+" ","Index of Total Income per Person (State=100)",83.8,83.7,88.7,90.7,92.5,90.6,88.9,89.4,87.9,90.3,90.7,90.2,91.4,91.4,89.6,90.2
+" ","Current Taxes on Income (Euro Million)",157,164,190,222,263,277,303,325,301,303,292,281,293,308,313,335
+" ","Disposable Household Income (Euro Million)",686,791,888,970,1055,1123,1162,1272,1369,1320,1259,1165,1217,1183,1182,1255
+" ","Disposable Income per Person (Euro)",11902,13575,15263,16357,17473,18213,18400,19523,20433,19335,18280,17861,18616,18069,17984,19001
+" ","Index of Disposable Income per Person (State=100)",88.1,87.8,91.7,93.1,94.7,93.2,91.9,92.7,90.7,92.8,93.5,94.6,95.8,95.6,93.4,93.4
+" ","Disposable Income per Person (excluding Rent) (Euro)",11103,12625,14261,15424,16666,17520,17710,18522,18982,18378,17139,16691,17302,16738,16568,17452
+" ","Index of Disposable Income per Person (excluding Rent) (State=100)",88.8,88.5,93.1,94.6,96.1,94.3,92.9,93.6,91.8,93.7,94.6,95.9,96.9,96.7,94.3,94.5
+"Laois"
+" ","Compensation of Employees (i.e. Wages and Salaries, Benefits in kind, Employers' social insurance contribution) (Euro Million)",530,586,668,763,842,925,1061,1171,1240,1129,1045,1139,1104,1173,1177,1193
+" ","Income of Self Employed (Euro Million)",142,140,129,150,179,201,185,183,152,118,112,116,101,103,109,103
+" ","Rent of dwellings (including imputed rent of owner-occupied dwellings) (Euro Million)",38,46,53,52,47,41,41,69,106,72,85,87,94,95,102,112
+" ","Net Interest and Dividends (payments by households of interest are deducted from interest received by households) (Euro Million)",34,36,34,44,51,46,37,16,1,22,19,8,50,50,48,59
+" ","Primary Income (Euro Million)",744,808,883,1009,1118,1213,1323,1439,1499,1340,1261,1350,1349,1420,1436,1467
+" ","Social Benefits and Other Current Transfers (Euro Million)",114,138,178,191,212,239,272,306,360,392,399,407,422,416,414,407
+" ","Total Household Income (Euro Million)",861,962,1094,1234,1370,1479,1603,1741,1878,1772,1667,1764,1780,1816,1825,1871
+" ","Total Income per Person (Euro)",15447,16943,18619,20516,22268,23349,24401,25464,26636,24661,22857,21955,22114,22514,22550,22993
+" ","Index of Total Income per Person (State=100)",88.5,86.5,89.1,92.5,94.4,93.2,93.5,92.9,93.9,93.6,92.0,89.3,87.5,90.4,88.8,86.1
+" ","Current Taxes on Income (Euro Million)",189,193,214,255,281,303,344,372,356,339,318,372,367,400,410,412
+" ","Disposable Household Income (Euro Million)",672,769,881,979,1089,1176,1258,1370,1522,1433,1350,1392,1414,1415,1415,1460
+" ","Disposable Income per Person (Euro)",12057,13544,14982,16274,17707,18559,19160,20031,21586,19945,18504,17324,17559,17551,17482,17935
+" ","Index of Disposable Income per Person (State=100)",89.3,87.6,90.0,92.6,95.9,95.0,95.7,95.2,95.9,95.8,94.6,91.7,90.4,92.9,90.7,88.2
+" ","Disposable Income per Person (excluding Rent) (Euro)",11330,12676,14093,15407,16924,17865,18450,19015,20080,18953,17334,16241,16396,16370,16223,16562
+" ","Index of Disposable Income per Person (excluding Rent) (State=100)",90.6,88.8,92.0,94.5,97.6,96.2,96.8,96.1,97.1,96.6,95.7,93.3,91.9,94.6,92.4,89.7
+"Midland"
+" ","Compensation of Employees (i.e. Wages and Salaries, Benefits in kind, Employers' social insurance contribution) (Euro Million)",2046,2302,2519,2892,3090,3411,3811,4117,4250,3825,3593,3570,3503,3645,3684,3837
+" ","Income of Self Employed (Euro Million)",553,562,544,606,698,786,727,724,636,508,487,488,439,422,455,455
+" ","Rent of dwellings (including imputed rent of owner-occupied dwellings) (Euro Million)",152,185,210,203,179,156,151,253,381,255,305,304,333,338,361,397
+" ","Net Interest and Dividends (payments by households of interest are deducted from interest received by households) (Euro Million)",131,141,129,169,189,170,134,57,3,77,66,25,165,162,154,195
+" ","Primary Income (Euro Million)",2882,3189,3402,3870,4156,4524,4824,5151,5270,4666,4451,4388,4440,4566,4653,4885
+" ","Social Benefits and Other Current Transfers (Euro Million)",484,580,738,789,877,991,1114,1250,1457,1582,1606,1602,1650,1624,1606,1576
+" ","Total Household Income (Euro Million)",3380,3833,4268,4788,5179,5617,5967,6388,6792,6385,6083,6011,6121,6123,6181,6456
+" ","Total Income per Person (Euro)",15615,17386,18938,20769,21954,23123,23692,24362,25129,23182,21750,21348,21688,21658,21784,22628
+" ","Index of Total Income per Person (State=100)",89.5,88.7,90.7,93.7,93.1,92.3,90.8,88.9,88.6,88.0,87.6,86.8,85.8,86.9,85.8,84.8
+" ","Current Taxes on Income (Euro Million)",727,766,807,959,1028,1124,1251,1317,1236,1171,1125,1200,1203,1283,1314,1364
+" ","Disposable Household Income (Euro Million)",2652,3067,3461,3830,4150,4493,4716,5071,5556,5215,4958,4811,4918,4840,4866,5092
+" ","Disposable Income per Person (Euro)",12256,13910,15356,16610,17594,18495,18725,19338,20556,18932,17726,17085,17425,17121,17151,17846
+" ","Index of Disposable Income per Person (State=100)",90.7,89.9,92.2,94.6,95.3,94.6,93.5,91.9,91.3,90.9,90.6,90.5,89.7,90.6,89.0,87.8
+" ","Disposable Income per Person (excluding Rent) (Euro)",11506,13017,14431,15727,16811,17811,18035,18372,19148,18008,16636,16005,16244,15925,15878,16453
+" ","Index of Disposable Income per Person (excluding Rent) (State=100)",92.0,91.2,94.2,96.4,96.9,95.9,94.6,92.9,92.6,91.8,91.9,92.0,91.0,92.0,90.4,89.1
+"Meath"
+" ","Compensation of Employees (i.e. Wages and Salaries, Benefits in kind, Employers' social insurance contribution) (Euro Million)",1431,1621,1751,1971,2265,2663,3088,3389,3571,3181,2914,2936,2939,2875,3023,3219
+" ","Income of Self Employed (Euro Million)",355,394,367,402,456,529,596,650,555,445,469,445,425,455,473,501
+" ","Rent of dwellings (including imputed rent of owner-occupied dwellings) (Euro Million)",113,140,161,159,143,126,123,206,301,201,240,252,263,266,284,313
+" ","Net Interest and Dividends (payments by households of interest are deducted from interest received by households) (Euro Million)",91,99,90,115,137,130,109,47,3,65,54,21,140,132,129,168
+" ","Primary Income (Euro Million)",1989,2254,2369,2647,3000,3447,3917,4292,4430,3890,3677,3654,3767,3727,3909,4202
+" ","Social Benefits and Other Current Transfers (Euro Million)",216,266,353,382,428,485,572,634,743,790,808,800,814,788,785,795
+" ","Total Household Income (Euro Million)",2215,2566,2810,3118,3534,4011,4513,4915,5228,4795,4506,4472,4608,4460,4628,4992
+" ","Total Income per Person (Euro)",17874,19922,20973,22558,24737,26993,29219,30579,31562,28432,26374,24358,25039,24197,25019,26833
+" ","Index of Total Income per Person (State=100)",102.4,101.7,100.4,101.7,104.9,107.7,112.0,111.6,111.3,107.9,106.2,99.0,99.1,97.1,98.5,100.5
+" ","Current Taxes on Income (Euro Million)",541,578,610,697,818,949,1141,1226,1180,1084,1036,1094,1144,1134,1196,1255
+" ","Disposable Household Income (Euro Million)",1673,1988,2201,2421,2716,3062,3372,3689,4048,3711,3470,3378,3463,3326,3433,3736
+" ","Disposable Income per Person (Euro)",13504,15437,16424,17513,19012,20605,21833,22952,24437,22002,20308,18399,18820,18046,18556,20086
+" ","Index of Disposable Income per Person (State=100)",100.0,99.8,98.6,99.7,103.0,105.4,109.1,109.0,108.5,105.7,103.8,97.4,96.9,95.5,96.3,98.8
+" ","Disposable Income per Person (excluding Rent) (Euro)",12541,14292,15225,16356,17985,19709,20927,21672,22623,20819,18904,17027,17394,16601,17017,18403
+" ","Index of Disposable Income per Person (excluding Rent) (State=100)",100.3,100.2,99.4,100.3,103.7,106.1,109.8,109.5,109.4,106.1,104.4,97.8,97.5,95.9,96.9,99.6
+"Clare"
+" ","Compensation of Employees (i.e. Wages and Salaries, Benefits in kind, Employers' social insurance contribution) (Euro Million)",1015,1100,1204,1282,1354,1507,1631,1814,1895,1677,1622,1548,1542,1531,1552,1638
+" ","Income of Self Employed (Euro Million)",270,279,263,272,303,369,383,397,361,288,290,273,259,248,263,268
+" ","Rent of dwellings (including imputed rent of owner-occupied dwellings) (Euro Million)",73,88,100,96,83,72,69,115,172,115,139,139,153,154,165,182
+" ","Net Interest and Dividends (payments by households of interest are deducted from interest received by households) (Euro Million)",65,68,62,75,83,76,60,26,1,35,31,11,75,71,68,87
+" ","Primary Income (Euro Million)",1423,1535,1629,1725,1823,2024,2143,2351,2430,2116,2082,1971,2028,2003,2048,2175
+" ","Social Benefits and Other Current Transfers (Euro Million)",207,249,313,334,375,422,474,524,606,642,639,631,643,617,609,596
+" ","Total Household Income (Euro Million)",1636,1814,2004,2117,2262,2492,2630,2869,3066,2820,2733,2611,2685,2591,2623,2769
+" ","Total Income per Person (Euro)",16714,18255,19401,20320,21437,23237,24132,25658,26888,24545,23743,22347,22926,22086,22275,23386
+" ","Index of Total Income per Person (State=100)",95.8,93.2,92.9,91.7,90.9,92.7,92.5,93.6,94.8,93.2,95.6,90.9,90.7,88.7,87.7,87.6
+" ","Current Taxes on Income (Euro Million)",362,373,395,417,469,520,576,625,591,554,552,580,590,590,594,628
+" ","Disposable Household Income (Euro Million)",1274,1441,1609,1700,1793,1972,2055,2244,2475,2266,2181,2032,2095,2001,2029,2141
+" ","Disposable Income per Person (Euro)",13019,14498,15575,16315,16996,18386,18851,20070,21707,19726,18949,17387,17887,17060,17234,18082
+" ","Index of Disposable Income per Person (State=100)",96.4,93.7,93.5,92.9,92.1,94.1,94.2,95.3,96.4,94.7,96.9,92.0,92.1,90.3,89.5,88.9
+" ","Disposable Income per Person (excluding Rent) (Euro)",12227,13554,14614,15394,16181,17674,18127,19040,20202,18727,17741,16200,16585,15743,15831,16546
+" ","Index of Disposable Income per Person (excluding Rent) (State=100)",97.7,95.0,95.4,94.4,93.3,95.1,95.1,96.2,97.7,95.5,98.0,93.1,92.9,91.0,90.1,89.6
+"Kerry"
+" ","Compensation of Employees (i.e. Wages and Salaries, Benefits in kind, Employers' social insurance contribution) (Euro Million)",989,1099,1182,1314,1407,1569,1724,1852,1913,1803,1630,1625,1637,1616,1692,1785
+" ","Income of Self Employed (Euro Million)",387,440,404,415,459,520,548,589,552,432,444,435,405,408,436,421
+" ","Rent of dwellings (including imputed rent of owner-occupied dwellings) (Euro Million)",86,104,117,113,99,86,83,141,210,142,171,167,188,191,204,224
+" ","Net Interest and Dividends (payments by households of interest are deducted from interest received by households) (Euro Million)",70,76,67,84,94,85,68,29,2,40,34,13,86,81,80,101
+" ","Primary Income (Euro Million)",1532,1719,1770,1926,2059,2260,2422,2611,2677,2417,2278,2240,2316,2296,2411,2532
+" ","Social Benefits and Other Current Transfers (Euro Million)",288,340,420,450,503,563,625,686,784,836,841,815,832,808,792,783
+" ","Total Household Income (Euro Million)",1827,2093,2257,2441,2634,2874,3062,3291,3494,3324,3132,3065,3164,3070,3162,3312
+" ","Total Income per Person (Euro)",14013,15855,17033,18180,19317,20720,21649,22575,23418,22086,20757,21129,21759,21078,21633,22530
+" ","Index of Total Income per Person (State=100)",80.3,80.9,81.5,82.0,81.9,82.7,83.0,82.4,82.6,83.8,83.6,85.9,86.1,84.6,85.2,84.4
+" ","Current Taxes on Income (Euro Million)",339,371,378,423,478,529,592,622,586,590,551,585,599,623,653,679
+" ","Disposable Household Income (Euro Million)",1488,1722,1880,2018,2155,2345,2470,2669,2908,2734,2581,2481,2565,2447,2510,2632
+" ","Disposable Income per Person (Euro)",11414,13042,14183,15028,15809,16905,17462,18306,19489,18165,17104,17100,17640,16799,17168,17908
+" ","Index of Disposable Income per Person (State=100)",84.5,84.3,85.2,85.5,85.7,86.5,87.2,87.0,86.5,87.2,87.5,90.5,90.8,88.9,89.1,88.1
+" ","Disposable Income per Person (excluding Rent) (Euro)",10708,12201,13302,14180,15055,16243,16787,17338,18081,17226,15973,15947,16345,15491,15776,16382
+" ","Index of Disposable Income per Person (excluding Rent) (State=100)",85.6,85.5,86.8,87.0,86.8,87.4,88.1,87.6,87.4,87.8,88.2,91.6,91.6,89.5,89.8,88.7
+"Offaly"
+" ","Compensation of Employees (i.e. Wages and Salaries, Benefits in kind, Employers' social insurance contribution) (Euro Million)",552,620,671,776,838,944,1061,1114,1134,999,921,889,877,913,930,974
+" ","Income of Self Employed (Euro Million)",159,164,161,176,204,224,210,208,181,143,136,134,119,115,125,129
+" ","Rent of dwellings (including imputed rent of owner-occupied dwellings) (Euro Million)",41,49,56,55,49,43,42,70,102,68,82,83,90,91,97,107
+" ","Net Interest and Dividends (payments by households of interest are deducted from interest received by households) (Euro Million)",36,39,35,46,52,47,38,15,1,20,17,6,42,41,39,50
+" ","Primary Income (Euro Million)",788,872,923,1053,1144,1258,1350,1407,1418,1230,1156,1112,1127,1160,1191,1259
+" ","Social Benefits and Other Current Transfers (Euro Million)",135,162,204,217,242,275,309,345,402,434,442,437,449,441,436,428
+" ","Total Household Income (Euro Million)",926,1051,1162,1306,1426,1561,1667,1749,1837,1700,1604,1554,1584,1584,1607,1685
+" ","Total Income per Person (Euro)",14880,16580,18252,20047,21393,22753,23434,23608,24064,21849,20306,20330,20665,20629,20861,21753
+" ","Index of Total Income per Person (State=100)",85.2,84.6,87.4,90.4,90.7,90.8,89.8,86.1,84.8,83.0,81.7,82.7,81.8,82.8,82.2,81.5
+" ","Current Taxes on Income (Euro Million)",194,205,211,253,274,304,341,348,320,300,284,302,301,319,331,349
+" ","Disposable Household Income (Euro Million)",733,846,950,1053,1151,1258,1326,1401,1517,1400,1320,1253,1282,1265,1277,1336
+" ","Disposable Income per Person (Euro)",11769,13348,14930,16162,17278,18330,18635,18915,19870,17997,16707,16383,16731,16476,16569,17242
+" ","Index of Disposable Income per Person (State=100)",87.1,86.3,89.7,92.0,93.6,93.8,93.1,89.8,88.2,86.4,85.4,86.7,86.1,87.2,86.0,84.8
+" ","Disposable Income per Person (excluding Rent) (Euro)",11074,12518,14056,15317,16519,17661,17953,17973,18534,17120,15670,15304,15562,15295,15313,15868
+" ","Index of Disposable Income per Person (excluding Rent) (State=100)",88.5,87.7,91.7,93.9,95.2,95.1,94.2,90.8,89.6,87.3,86.5,87.9,87.2,88.4,87.2,85.9
+"Mid-East"
+" ","Compensation of Employees (i.e. Wages and Salaries, Benefits in kind, Employers' social insurance contribution) (Euro Million)",4721,5348,5839,6385,7163,8121,9207,10036,10421,9458,8661,8612,8586,8444,8819,9427
+" ","Income of Self Employed (Euro Million)",1033,1126,1026,1150,1289,1470,1620,1759,1541,1267,1274,1166,1120,1171,1228,1308
+" ","Rent of dwellings (including imputed rent of owner-occupied dwellings) (Euro Million)",376,464,535,522,463,405,394,654,957,634,757,792,827,837,895,988
+" ","Net Interest and Dividends (payments by households of interest are deducted from interest received by households) (Euro Million)",292,320,291,367,425,391,320,138,7,192,161,62,407,384,375,488
+" ","Primary Income (Euro Million)",6423,7258,7692,8423,9340,10387,11541,12587,12927,11551,10853,10631,10939,10836,11316,12211
+" ","Social Benefits and Other Current Transfers (Euro Million)",717,872,1150,1235,1382,1548,1805,1980,2315,2455,2513,2503,2589,2515,2488,2480
+" ","Total Household Income (Euro Million)",7168,8275,9131,9941,11049,12171,13416,14535,15403,14346,13429,13185,13605,13191,13614,14676
+" ","Total Income per Person (Euro)",18430,20628,22129,23354,25119,26601,28208,29369,30199,27626,25527,24899,25633,24812,25515,27352
+" ","Index of Total Income per Person (State=100)",105.6,105.3,105.9,105.3,106.5,106.2,108.1,107.2,106.5,104.9,102.8,101.2,101.4,99.6,100.5,102.5
+" ","Current Taxes on Income (Euro Million)",1767,1876,2019,2221,2622,2924,3430,3688,3500,3294,3130,3313,3409,3376,3484,3709
+" ","Disposable Household Income (Euro Million)",5401,6399,7112,7721,8427,9246,9986,10847,11903,11053,10300,9873,10196,9815,10130,10967
+" ","Disposable Income per Person (Euro)",13887,15951,17236,18138,19158,20210,20995,21917,23337,21284,19578,18644,19210,18462,18986,20441
+" ","Index of Disposable Income per Person (State=100)",102.8,103.1,103.5,103.2,103.8,103.4,104.9,104.1,103.6,102.2,100.1,98.7,98.9,97.7,98.6,100.5
+" ","Disposable Income per Person (excluding Rent) (Euro)",12869,14732,15943,16905,18068,19267,20057,20596,21462,20067,18140,17149,17652,16887,17307,18599
+" ","Index of Disposable Income per Person (excluding Rent) (State=100)",102.9,103.3,104.1,103.7,104.1,103.7,105.2,104.1,103.7,102.3,100.2,98.5,98.9,97.6,98.5,100.7
+"Mid-West"
+" ","Compensation of Employees (i.e. Wages and Salaries, Benefits in kind, Employers' social insurance contribution) (Euro Million)",3379,3851,3975,4305,4566,5058,5567,6025,6147,5554,5412,5796,5729,5640,5775,6051
+" ","Income of Self Employed (Euro Million)",845,895,808,847,934,1168,1178,1225,1099,860,946,926,855,844,885,890
+" ","Rent of dwellings (including imputed rent of owner-occupied dwellings) (Euro Million)",260,314,356,335,288,245,232,385,581,392,474,472,523,529,564,621
+" ","Net Interest and Dividends (payments by households of interest are deducted from interest received by households) (Euro Million)",214,234,203,250,276,253,200,85,5,115,103,42,274,257,247,315
+" ","Primary Income (Euro Million)",4697,5294,5341,5737,6064,6724,7177,7720,7832,6921,6934,7236,7382,7270,7472,7877
+" ","Social Benefits and Other Current Transfers (Euro Million)",768,911,1135,1211,1343,1507,1678,1846,2124,2275,2302,2290,2325,2232,2194,2158
+" ","Total Household Income (Euro Million)",5486,6311,6677,7141,7619,8384,8898,9546,10054,9400,9278,9562,9758,9395,9540,10024
+" ","Total Income per Person (Euro)",16620,18824,19662,20845,21966,23772,24830,25963,26816,24882,24509,25280,25741,24741,25032,26158
+" ","Index of Total Income per Person (State=100)",95.2,96.1,94.1,94.0,93.1,94.9,95.2,94.7,94.5,94.5,98.7,102.8,101.9,99.3,98.6,98.0
+" ","Current Taxes on Income (Euro Million)",1176,1319,1265,1380,1546,1717,1913,2020,1885,1794,1832,2060,2092,2093,2141,2225
+" ","Disposable Household Income (Euro Million)",4310,4991,5412,5760,6074,6667,6985,7526,8169,7606,7445,7501,7666,7302,7399,7800
+" ","Disposable Income per Person (Euro)",13057,14888,15936,16816,17510,18904,19491,20470,21789,20134,19668,19833,20223,19230,19414,20353
+" ","Index of Disposable Income per Person (State=100)",96.7,96.3,95.7,95.7,94.9,96.7,97.4,97.2,96.8,96.7,100.6,105.0,104.1,101.8,100.8,100.1
+" ","Disposable Income per Person (excluding Rent) (Euro)",12222,13893,14893,15832,16653,18165,18747,19422,20241,19098,18417,18585,18845,17835,17930,18732
+" ","Index of Disposable Income per Person (excluding Rent) (State=100)",97.7,97.4,97.2,97.1,96.0,97.8,98.4,98.2,97.8,97.4,101.7,106.8,105.6,103.1,102.1,101.4
+"Carlow"
+" ","Compensation of Employees (i.e. Wages and Salaries, Benefits in kind, Employers' social insurance contribution) (Euro Million)",417,458,471,512,566,633,715,798,805,728,658,669,656,691,726,745
+" ","Income of Self Employed (Euro Million)",95,101,89,95,106,124,143,160,151,118,114,110,99,100,111,116
+" ","Rent of dwellings (including imputed rent of owner-occupied dwellings) (Euro Million)",33,40,46,44,39,34,33,55,84,56,68,68,75,76,82,90
+" ","Net Interest and Dividends (payments by households of interest are deducted from interest received by households) (Euro Million)",26,28,24,30,34,31,25,11,1,15,13,5,32,32,31,40
+" ","Primary Income (Euro Million)",571,626,630,681,745,822,916,1025,1041,918,852,852,863,900,950,991
+" ","Social Benefits and Other Current Transfers (Euro Million)",110,129,161,174,193,219,243,275,319,343,363,371,381,365,359,355
+" ","Total Household Income (Euro Million)",683,768,815,878,965,1060,1164,1297,1373,1288,1220,1227,1250,1251,1293,1346
+" ","Total Income per Person (Euro)",15733,17342,17702,18775,20240,21720,23244,25077,25858,23967,22575,22531,22910,22891,23559,24387
+" ","Index of Total Income per Person (State=100)",90.1,88.5,84.7,84.7,85.8,86.7,89.1,91.5,91.2,91.0,90.9,91.6,90.6,91.9,92.8,91.3
+" ","Current Taxes on Income (Euro Million)",146,150,141,155,179,199,230,251,231,221,206,219,222,248,263,278
+" ","Disposable Household Income (Euro Million)",538,618,674,723,785,861,934,1046,1141,1068,1014,1007,1028,1004,1030,1068
+" ","Disposable Income per Person (Euro)",12378,13963,14639,15465,16481,17643,18649,20229,21502,19861,18768,18501,18835,18360,18770,19352
+" ","Index of Disposable Income per Person (State=100)",91.6,90.3,87.9,88.0,89.3,90.3,93.2,96.1,95.5,95.4,96.0,97.9,96.9,97.2,97.4,95.2
+" ","Disposable Income per Person (excluding Rent) (Euro)",11568,12995,13641,14507,15634,16905,17904,19156,19924,18812,17506,17257,17455,16964,17278,17713
+" ","Index of Disposable Income per Person (excluding Rent) (State=100)",92.5,91.1,89.0,89.0,90.1,91.0,93.9,96.8,96.3,95.9,96.7,99.2,97.8,98.0,98.4,95.9
+"Donegal"
+" ","Compensation of Employees (i.e. Wages and Salaries, Benefits in kind, Employers' social insurance contribution) (Euro Million)",936,1020,1080,1187,1323,1403,1601,1734,1798,1681,1614,1576,1474,1489,1528,1594
+" ","Income of Self Employed (Euro Million)",313,323,307,320,344,391,376,403,373,320,302,257,271,254,263,269
+" ","Rent of dwellings (including imputed rent of owner-occupied dwellings) (Euro Million)",77,92,105,100,87,75,72,123,189,129,158,155,175,177,189,209
+" ","Net Interest and Dividends (payments by households of interest are deducted from interest received by households) (Euro Million)",63,66,59,73,84,73,59,25,1,36,31,12,74,70,68,86
+" ","Primary Income (Euro Million)",1389,1502,1550,1680,1837,1942,2107,2285,2362,2167,2105,1999,1993,1991,2048,2159
+" ","Social Benefits and Other Current Transfers (Euro Million)",350,406,501,541,596,669,745,824,958,1032,1030,1030,1042,1002,986,956
+" ","Total Household Income (Euro Million)",1745,1938,2109,2277,2497,2655,2865,3103,3350,3263,3147,3040,3049,2963,2999,3112
+" ","Total Income per Person (Euro)",13002,14288,15331,16249,17485,18218,19189,20154,21145,20223,19327,18918,18931,18371,18526,19118
+" ","Index of Total Income per Person (State=100)",74.5,72.9,73.4,73.3,74.1,72.7,73.6,73.5,74.5,76.8,77.8,76.9,74.9,73.7,73.0,71.6
+" ","Current Taxes on Income (Euro Million)",312,310,317,351,407,436,516,532,502,503,486,505,489,512,535,556
+" ","Disposable Household Income (Euro Million)",1433,1628,1792,1926,2089,2219,2349,2571,2848,2760,2662,2534,2560,2452,2464,2557
+" ","Disposable Income per Person (Euro)",10681,12004,13026,13745,14631,15228,15734,16698,17974,17107,16345,15774,15897,15199,15223,15705
+" ","Index of Disposable Income per Person (State=100)",79.1,77.6,78.2,78.2,79.3,77.9,78.6,79.3,79.8,82.1,83.6,83.5,81.8,80.4,79.0,77.2
+" ","Disposable Income per Person (excluding Rent) (Euro)",10070,11274,12268,13026,13998,14676,15176,15897,16778,16304,15377,14810,14810,14103,14054,14422
+" ","Index of Disposable Income per Person (excluding Rent) (State=100)",80.5,79.0,80.1,79.9,80.7,79.0,79.6,80.4,81.1,83.1,84.9,85.1,83.0,81.5,80.0,78.1
+"Leitrim"
+" ","Compensation of Employees (i.e. Wages and Salaries, Benefits in kind, Employers' social insurance contribution) (Euro Million)",202,219,240,269,310,340,386,418,449,412,391,392,378,384,386,403
+" ","Income of Self Employed (Euro Million)",70,69,63,74,87,106,99,104,96,81,78,73,75,71,75,78
+" ","Rent of dwellings (including imputed rent of owner-occupied dwellings) (Euro Million)",18,22,24,23,19,16,15,27,41,28,33,30,36,36,39,43
+" ","Net Interest and Dividends (payments by households of interest are deducted from interest received by households) (Euro Million)",14,14,13,17,20,18,14,6,0,9,8,3,19,18,17,22
+" ","Primary Income (Euro Million)",304,324,341,382,436,481,515,555,587,530,510,499,508,509,517,546
+" ","Social Benefits and Other Current Transfers (Euro Million)",68,78,95,101,112,126,141,157,183,196,200,199,201,194,190,187
+" ","Total Household Income (Euro Million)",373,409,449,496,563,618,659,711,777,741,712,700,714,695,698,732
+" ","Total Income per Person (Euro)",14404,15633,17385,18879,21025,22607,23533,24618,26154,24500,23326,22082,22453,21843,21839,22778
+" ","Index of Total Income per Person (State=100)",82.5,79.8,83.2,85.2,89.1,90.2,90.2,89.8,92.2,93.0,93.9,89.8,88.8,87.7,86.0,85.3
+" ","Current Taxes on Income (Euro Million)",70,67,72,86,98,110,126,131,128,124,120,131,128,134,137,144
+" ","Disposable Household Income (Euro Million)",302,341,376,411,465,508,533,580,649,617,593,569,585,561,560,587
+" ","Disposable Income per Person (Euro)",11684,13052,14587,15625,17347,18575,19024,20086,21843,20387,19407,17951,18423,17630,17545,18285
+" ","Index of Disposable Income per Person (State=100)",86.5,84.4,87.6,88.9,94.0,95.0,95.0,95.4,97.0,97.9,99.2,95.0,94.8,93.3,91.1,89.9
+" ","Disposable Income per Person (excluding Rent) (Euro)",10950,12174,13644,14754,16599,17934,18380,19139,20452,19469,18323,16996,17291,16482,16322,16944
+" ","Index of Disposable Income per Person (excluding Rent) (State=100)",87.5,85.3,89.1,90.5,95.7,96.5,96.4,96.7,98.9,99.3,101.2,97.7,96.9,95.3,92.9,91.7
+"Kildare"
+" ","Compensation of Employees (i.e. Wages and Salaries, Benefits in kind, Employers' social insurance contribution) (Euro Million)",2060,2329,2541,2733,3044,3425,3881,4182,4333,3958,3597,3606,3587,3544,3697,3968
+" ","Income of Self Employed (Euro Million)",369,399,362,416,473,532,576,629,564,467,440,393,377,387,409,442
+" ","Rent of dwellings (including imputed rent of owner-occupied dwellings) (Euro Million)",154,191,221,216,191,167,163,271,396,260,308,320,334,338,362,400
+" ","Net Interest and Dividends (payments by households of interest are deducted from interest received by households) (Euro Million)",123,135,123,153,177,161,132,57,3,79,65,25,166,157,153,200
+" ","Primary Income (Euro Million)",2706,3053,3247,3518,3884,4285,4751,5139,5296,4763,4411,4345,4464,4426,4622,5011
+" ","Social Benefits and Other Current Transfers (Euro Million)",275,339,449,480,538,600,709,774,907,968,994,996,1043,1011,994,979
+" ","Total Household Income (Euro Million)",2994,3453,3819,4116,4558,4982,5489,5900,6269,5871,5431,5361,5538,5372,5538,5984
+" ","Total Income per Person (Euro)",19672,21859,23292,24336,26081,27409,29047,30003,30933,28458,25980,25567,26351,25517,26211,28163
+" ","Index of Total Income per Person (State=100)",112.7,111.6,111.5,109.8,110.6,109.4,111.3,109.5,109.1,108.0,104.6,103.9,104.3,102.4,103.2,105.5
+" ","Current Taxes on Income (Euro Million)",775,818,890,957,1103,1218,1421,1519,1441,1363,1277,1377,1420,1396,1424,1534
+" ","Disposable Household Income (Euro Million)",2219,2635,2929,3159,3455,3765,4068,4381,4828,4509,4153,3984,4119,3976,4114,4450
+" ","Disposable Income per Person (Euro)",14582,16682,17864,18678,19767,20710,21525,22280,23823,21852,19870,18999,19595,18885,19471,20944
+" ","Index of Disposable Income per Person (State=100)",108.0,107.9,107.3,106.3,107.1,106.0,107.5,105.8,105.8,104.9,101.6,100.6,100.9,99.9,101.1,103.0
+" ","Disposable Income per Person (excluding Rent) (Euro)",13515,15406,16518,17395,18621,19717,20538,20901,21871,20596,18398,17476,18008,17277,17756,19060
+" ","Index of Disposable Income per Person (excluding Rent) (State=100)",108.0,108.0,107.8,106.7,107.3,106.1,107.8,105.7,105.7,105.0,101.6,100.4,100.9,99.8,101.1,103.2
+"Wicklow"
+" ","Compensation of Employees (i.e. Wages and Salaries, Benefits in kind, Employers' social insurance contribution) (Euro Million)",1230,1398,1547,1681,1855,2033,2238,2465,2517,2320,2150,2070,2059,2025,2098,2239
+" ","Income of Self Employed (Euro Million)",309,333,298,332,360,409,448,480,422,356,366,328,318,329,346,364
+" ","Rent of dwellings (including imputed rent of owner-occupied dwellings) (Euro Million)",109,133,152,147,129,112,108,177,260,174,209,220,230,233,249,275
+" ","Net Interest and Dividends (payments by households of interest are deducted from interest received by households) (Euro Million)",79,86,79,98,112,100,80,35,2,48,41,15,101,95,92,120
+" ","Primary Income (Euro Million)",1727,1950,2076,2258,2456,2654,2873,3157,3201,2897,2766,2633,2708,2682,2785,2998
+" ","Social Benefits and Other Current Transfers (Euro Million)",225,267,348,373,416,463,524,572,665,697,711,706,732,717,709,705
+" ","Total Household Income (Euro Million)",1960,2256,2502,2707,2957,3177,3414,3721,3906,3680,3493,3352,3458,3359,3447,3700
+" ","Total Income per Person (Euro)",17365,19724,21818,22882,24191,24989,25828,27051,27558,25496,23889,24601,25327,24557,25111,26805
+" ","Index of Total Income per Person (State=100)",99.5,100.7,104.5,103.2,102.5,99.7,99.0,98.7,97.2,96.8,96.2,100.0,100.2,98.6,98.9,100.4
+" ","Current Taxes on Income (Euro Million)",451,481,520,566,701,757,868,944,879,846,816,841,845,846,864,919
+" ","Disposable Household Income (Euro Million)",1509,1775,1982,2141,2256,2420,2546,2777,3027,2833,2677,2510,2614,2513,2583,2781
+" ","Disposable Income per Person (Euro)",13372,15522,17286,18096,18459,19033,19260,20188,21358,19633,18308,18427,19140,18374,18817,20145
+" ","Index of Disposable Income per Person (State=100)",99.0,100.4,103.8,103.0,100.0,97.4,96.2,95.9,94.8,94.3,93.6,97.6,98.5,97.2,97.7,99.1
+" ","Disposable Income per Person (excluding Rent) (Euro)",12360,14296,15959,16844,17372,18106,18351,18901,19521,18430,16879,16810,17453,16672,17006,18154
+" ","Index of Disposable Income per Person (excluding Rent) (State=100)",98.8,100.2,104.2,103.3,100.1,97.5,96.3,95.5,94.4,94.0,93.2,96.6,97.8,96.3,96.8,98.3
+"Wexford"
+" ","Compensation of Employees (i.e. Wages and Salaries, Benefits in kind, Employers' social insurance contribution) (Euro Million)",929,1039,1159,1278,1371,1569,1784,2042,2096,1833,1682,1613,1584,1669,1784,1914
+" ","Income of Self Employed (Euro Million)",311,344,314,348,402,451,506,575,527,404,379,370,344,358,392,408
+" ","Rent of dwellings (including imputed rent of owner-occupied dwellings) (Euro Million)",76,93,106,105,94,83,82,138,209,141,171,173,188,190,204,225
+" ","Net Interest and Dividends (payments by households of interest are deducted from interest received by households) (Euro Million)",63,68,62,79,89,82,68,31,2,40,34,13,82,81,81,106
+" ","Primary Income (Euro Million)",1379,1544,1641,1810,1956,2185,2439,2785,2834,2418,2265,2169,2197,2298,2461,2652
+" ","Social Benefits and Other Current Transfers (Euro Million)",270,324,412,443,495,559,636,708,830,901,916,932,950,922,906,892
+" ","Total Household Income (Euro Million)",1655,1899,2115,2313,2519,2793,3089,3486,3700,3391,3195,3112,3163,3186,3326,3541
+" ","Total Income per Person (Euro)",15196,17106,18138,19521,20861,22580,24347,26601,27507,24892,23329,21476,21778,21903,22780,24118
+" ","Index of Total Income per Person (State=100)",87.1,87.3,86.8,88.0,88.4,90.1,93.3,97.1,97.0,94.5,93.9,87.3,86.2,87.9,89.7,90.3
+" ","Current Taxes on Income (Euro Million)",329,355,375,425,460,519,604,678,631,573,541,566,565,614,656,702
+" ","Disposable Household Income (Euro Million)",1326,1544,1740,1888,2059,2275,2485,2808,3068,2818,2654,2546,2597,2573,2669,2839
+" ","Disposable Income per Person (Euro)",12172,13910,14925,15932,17051,18388,19585,21425,22812,20684,19381,17572,17884,17685,18284,19335
+" ","Index of Disposable Income per Person (State=100)",90.1,89.9,89.6,90.7,92.4,94.1,97.8,101.8,101.3,99.3,99.1,93.0,92.0,93.6,94.9,95.1
+" ","Disposable Income per Person (excluding Rent) (Euro)",11430,13018,14019,15041,16245,17670,18843,20371,21261,19648,18133,16377,16589,16377,16888,17802
+" ","Index of Disposable Income per Person (excluding Rent) (State=100)",91.4,91.2,91.5,92.2,93.6,95.1,98.9,103.0,102.8,100.2,100.1,94.1,92.9,94.6,96.1,96.4
+"Monaghan"
+" ","Compensation of Employees (i.e. Wages and Salaries, Benefits in kind, Employers' social insurance contribution) (Euro Million)",440,480,506,575,671,746,804,879,888,769,713,754,663,689,730,785
+" ","Income of Self Employed (Euro Million)",150,157,146,148,159,183,159,168,136,99,104,104,109,102,120,123
+" ","Rent of dwellings (including imputed rent of owner-occupied dwellings) (Euro Million)",32,38,43,42,37,33,32,53,78,52,62,62,67,68,73,81
+" ","Net Interest and Dividends (payments by households of interest are deducted from interest received by households) (Euro Million)",30,31,27,35,41,38,29,12,1,16,13,5,32,32,32,41
+" ","Primary Income (Euro Million)",651,706,723,801,909,1000,1023,1112,1103,936,892,925,871,891,955,1029
+" ","Social Benefits and Other Current Transfers (Euro Million)",120,143,174,182,201,223,247,273,319,345,343,331,341,331,322,320
+" ","Total Household Income (Euro Million)",774,863,924,1010,1142,1246,1276,1382,1436,1309,1240,1261,1218,1209,1261,1348
+" ","Total Income per Person (Euro)",14607,16118,17560,18845,20920,22365,22357,23482,23708,21215,19917,20904,20150,19962,20749,22056
+" ","Index of Total Income per Person (State=100)",83.7,82.3,84.1,85.0,88.7,89.3,85.7,85.7,83.6,80.5,80.2,85.0,79.7,80.1,81.7,82.6
+" ","Current Taxes on Income (Euro Million)",152,151,153,176,210,232,249,266,238,221,210,242,223,237,256,273
+" ","Disposable Household Income (Euro Million)",622,712,771,833,932,1014,1027,1116,1198,1088,1030,1019,995,972,1005,1075
+" ","Disposable Income per Person (Euro)",11745,13293,14658,15556,17080,18202,18000,18961,19774,17635,16538,16899,16453,16047,16531,17589
+" ","Index of Disposable Income per Person (State=100)",87.0,85.9,88.0,88.6,92.5,93.1,89.9,90.1,87.8,84.7,84.6,89.5,84.7,84.9,85.8,86.5
+" ","Disposable Income per Person (excluding Rent) (Euro)",11101,12524,13842,14765,16371,17571,17352,18058,18483,16795,15545,15873,15338,14917,15327,16270
+" ","Index of Disposable Income per Person (excluding Rent) (State=100)",88.7,87.8,90.3,90.5,94.4,94.6,91.0,91.3,89.3,85.6,85.8,91.2,85.9,86.2,87.3,88.1
+"Longford"
+" ","Compensation of Employees (i.e. Wages and Salaries, Benefits in kind, Employers' social insurance contribution) (Euro Million)",252,284,308,354,380,426,476,511,533,468,441,431,431,451,444,479
+" ","Income of Self Employed (Euro Million)",88,89,90,94,107,121,112,112,102,82,75,74,67,63,67,68
+" ","Rent of dwellings (including imputed rent of owner-occupied dwellings) (Euro Million)",19,23,26,25,22,19,18,31,49,33,38,35,42,42,45,50
+" ","Net Interest and Dividends (payments by households of interest are deducted from interest received by households) (Euro Million)",17,18,17,22,24,22,17,7,0,10,8,3,21,20,19,25
+" ","Primary Income (Euro Million)",377,414,442,496,533,589,624,662,685,593,562,543,560,577,575,621
+" ","Social Benefits and Other Current Transfers (Euro Million)",82,96,120,127,140,158,178,199,230,250,257,257,264,258,254,246
+" ","Total Household Income (Euro Million)",460,519,578,639,692,760,805,859,924,860,823,804,828,827,819,867
+" ","Total Income per Person (Euro)",14869,16600,18601,20105,21280,22698,23187,23776,24786,22650,21340,20664,21244,21173,20908,22007
+" ","Index of Total Income per Person (State=100)",85.2,84.7,89.0,90.7,90.2,90.6,88.9,86.8,87.4,86.0,85.9,84.0,84.1,85.0,82.4,82.4
+" ","Current Taxes on Income (Euro Million)",87,91,95,110,133,149,164,172,165,151,143,135,144,155,158,165
+" ","Disposable Household Income (Euro Million)",374,428,483,529,559,611,641,688,759,709,679,668,684,672,661,702
+" ","Disposable Income per Person (Euro)",12063,13689,15557,16637,17185,18255,18463,19021,20361,18675,17621,17186,17557,17205,16865,17828
+" ","Index of Disposable Income per Person (State=100)",89.3,88.5,93.4,94.7,93.1,93.4,92.2,90.4,90.4,89.7,90.1,91.0,90.4,91.0,87.5,87.7
+" ","Disposable Income per Person (excluding Rent) (Euro)",11389,12885,14716,15841,16485,17646,17846,18154,19045,17820,16623,16285,16491,16121,15712,16561
+" ","Index of Disposable Income per Person (excluding Rent) (State=100)",91.0,90.3,96.1,97.1,95.0,95.0,93.6,91.8,92.1,90.9,91.8,93.6,92.4,93.2,89.4,89.6
+"Kilkenny"
+" ","Compensation of Employees (i.e. Wages and Salaries, Benefits in kind, Employers' social insurance contribution) (Euro Million)",688,740,817,899,965,1087,1263,1415,1490,1335,1201,1201,1195,1325,1348,1427
+" ","Income of Self Employed (Euro Million)",211,228,214,232,255,291,330,375,347,264,241,246,223,246,269,275
+" ","Rent of dwellings (including imputed rent of owner-occupied dwellings) (Euro Million)",55,66,75,73,65,57,55,92,138,93,113,117,125,126,135,148
+" ","Net Interest and Dividends (payments by households of interest are deducted from interest received by households) (Euro Million)",46,48,44,55,61,56,47,21,1,29,23,9,60,62,60,77
+" ","Primary Income (Euro Million)",999,1083,1150,1260,1347,1491,1696,1903,1976,1721,1579,1573,1602,1760,1812,1927
+" ","Social Benefits and Other Current Transfers (Euro Million)",161,194,245,263,292,330,368,405,471,505,504,493,508,491,487,478
+" ","Total Household Income (Euro Million)",1164,1299,1438,1565,1686,1854,2075,2304,2472,2276,2092,2074,2122,2226,2268,2402
+" ","Total Income per Person (Euro)",14808,16213,17893,19174,20267,21751,23735,25509,26672,24253,22175,21800,22251,23299,23660,24919
+" ","Index of Total Income per Person (State=100)",84.8,82.8,85.7,86.5,85.9,86.8,91.0,93.1,94.0,92.1,89.3,88.6,88.0,93.5,93.2,93.3
+" ","Current Taxes on Income (Euro Million)",230,233,243,274,333,371,443,491,468,436,399,425,434,498,525,549
+" ","Disposable Household Income (Euro Million)",935,1067,1195,1291,1353,1483,1632,1813,2004,1841,1694,1649,1688,1727,1743,1854
+" ","Disposable Income per Person (Euro)",11886,13310,14868,15812,16265,17401,18669,20076,21622,19613,17948,17337,17705,18085,18179,19227
+" ","Index of Disposable Income per Person (State=100)",88.0,86.1,89.3,90.0,88.1,89.0,93.3,95.4,96.0,94.2,91.8,91.8,91.1,95.7,94.4,94.6
+" ","Disposable Income per Person (excluding Rent) (Euro)",11147,12428,13935,14908,15458,16691,17942,19053,20138,18623,16752,16107,16395,16759,16768,17688
+" ","Index of Disposable Income per Person (excluding Rent) (State=100)",89.1,87.1,91.0,91.4,89.1,89.8,94.1,96.3,97.3,95.0,92.5,92.6,91.9,96.9,95.5,95.7
+"South-East"
+" ","Compensation of Employees (i.e. Wages and Salaries, Benefits in kind, Employers' social insurance contribution) (Euro Million)",3759,4112,4541,4952,5348,5957,6662,7524,7678,6881,6298,6029,5941,6322,6663,7043
+" ","Income of Self Employed (Euro Million)",1098,1203,1096,1184,1318,1438,1629,1840,1692,1308,1202,1179,1075,1133,1250,1301
+" ","Rent of dwellings (including imputed rent of owner-occupied dwellings) (Euro Million)",289,351,399,386,340,295,286,480,719,485,588,598,650,657,703,775
+" ","Net Interest and Dividends (payments by households of interest are deducted from interest received by households) (Euro Million)",246,262,238,297,334,301,246,110,6,146,122,46,296,298,295,380
+" ","Primary Income (Euro Million)",5390,5927,6273,6819,7341,7992,8822,9953,10094,8820,8209,7852,7962,8409,8910,9498
+" ","Social Benefits and Other Current Transfers (Euro Million)",966,1157,1451,1553,1729,1946,2173,2415,2816,3029,3075,3064,3140,3041,2994,2944
+" ","Total Household Income (Euro Million)",6380,7202,7961,8602,9327,10120,11049,12343,13036,12108,11333,10953,11157,11327,11755,12431
+" ","Total Income per Person (Euro)",15614,17295,18792,19981,21258,22516,23966,25921,26675,24466,22777,22077,22437,22740,23515,24728
+" ","Index of Total Income per Person (State=100)",89.5,88.3,90.0,90.1,90.1,89.9,91.9,94.6,94.0,92.9,91.7,89.8,88.8,91.3,92.6,92.6
+" ","Current Taxes on Income (Euro Million)",1329,1375,1442,1592,1779,1949,2250,2490,2324,2173,2039,2116,2129,2335,2496,2626
+" ","Disposable Household Income (Euro Million)",5051,5827,6519,7010,7548,8171,8799,9853,10713,9936,9294,8837,9029,8992,9259,9804
+" ","Disposable Income per Person (Euro)",12361,13993,15388,16283,17204,18180,19085,20691,21920,20076,18679,17813,18156,18052,18523,19503
+" ","Index of Disposable Income per Person (State=100)",91.5,90.5,92.4,92.7,93.2,93.0,95.3,98.3,97.3,96.4,95.5,94.3,93.4,95.5,96.1,95.9
+" ","Disposable Income per Person (excluding Rent) (Euro)",11609,13095,14452,15381,16404,17479,18371,19683,20452,19099,17498,16608,16849,16731,17116,17962
+" ","Index of Disposable Income per Person (excluding Rent) (State=100)",92.8,91.8,94.3,94.3,94.6,94.1,96.4,99.5,98.9,97.4,96.6,95.4,94.4,96.7,97.4,97.2
+"South-West"
+" ","Compensation of Employees (i.e. Wages and Salaries, Benefits in kind, Employers' social insurance contribution) (Euro Million)",5443,5989,6714,7275,7910,8915,9702,10489,10824,10046,9324,9570,9619,9902,10019,10431
+" ","Income of Self Employed (Euro Million)",1484,1681,1495,1591,1767,1994,2075,2259,2106,1643,1660,1727,1605,1663,1745,1688
+" ","Rent of dwellings (including imputed rent of owner-occupied dwellings) (Euro Million)",469,571,649,623,544,468,450,748,1113,748,903,925,995,1007,1076,1185
+" ","Net Interest and Dividends (payments by households of interest are deducted from interest received by households) (Euro Million)",353,381,349,432,488,445,350,150,8,210,179,71,472,461,440,554
+" ","Primary Income (Euro Million)",7750,8621,9207,9921,10708,11822,12576,13646,14052,12647,12066,12293,12692,13033,13280,13857
+" ","Social Benefits and Other Current Transfers (Euro Million)",1257,1502,1864,1988,2208,2484,2758,3020,3444,3668,3708,3587,3633,3521,3464,3418
+" ","Total Household Income (Euro Million)",9041,10296,11418,12242,13291,14574,15410,16631,17671,16688,15844,15939,16414,16362,16521,17258
+" ","Total Income per Person (Euro)",16001,17995,19674,20820,22261,23993,24882,26050,27042,25317,23981,24055,24715,24596,24746,25706
+" ","Index of Total Income per Person (State=100)",91.7,91.9,94.2,93.9,94.4,95.8,95.4,95.1,95.3,96.1,96.5,97.8,97.8,98.7,97.5,96.3
+" ","Current Taxes on Income (Euro Million)",1902,2029,2243,2453,2723,3023,3388,3614,3416,3332,3189,3532,3646,3833,3873,3983
+" ","Disposable Household Income (Euro Million)",7140,8267,9175,9790,10568,11551,12023,13017,14254,13356,12655,12407,12767,12529,12648,13275
+" ","Disposable Income per Person (Euro)",12635,14449,15810,16649,17701,19016,19412,20389,21814,20262,19154,18725,19225,18835,18945,19774
+" ","Index of Disposable Income per Person (State=100)",93.6,93.4,95.0,94.8,95.9,97.3,97.0,96.9,96.9,97.3,97.9,99.1,98.9,99.7,98.3,97.2
+" ","Disposable Income per Person (excluding Rent) (Euro)",11758,13392,14693,15582,16761,18198,18591,19218,20110,19127,17787,17329,17726,17320,17333,18009
+" ","Index of Disposable Income per Person (excluding Rent) (State=100)",94.0,93.9,95.9,95.6,96.6,98.0,97.5,97.1,97.2,97.5,98.2,99.6,99.3,100.1,98.7,97.5
+"Westmeath"
+" ","Compensation of Employees (i.e. Wages and Salaries, Benefits in kind, Employers' social insurance contribution) (Euro Million)",712,811,872,998,1030,1117,1214,1321,1343,1230,1187,1111,1091,1108,1132,1191
+" ","Income of Self Employed (Euro Million)",163,170,164,186,208,240,220,221,201,166,164,164,152,141,153,156
+" ","Rent of dwellings (including imputed rent of owner-occupied dwellings) (Euro Million)",54,66,75,71,61,52,50,83,123,83,99,100,109,110,118,129
+" ","Net Interest and Dividends (payments by households of interest are deducted from interest received by households) (Euro Million)",44,48,44,57,62,55,43,18,1,25,22,8,52,50,48,61
+" ","Primary Income (Euro Million)",974,1095,1154,1312,1361,1465,1527,1643,1668,1503,1472,1383,1404,1409,1451,1538
+" ","Social Benefits and Other Current Transfers (Euro Million)",153,184,237,254,283,319,356,400,465,506,508,501,515,508,503,496
+" ","Total Household Income (Euro Million)",1132,1301,1434,1610,1691,1816,1892,2039,2154,2054,1989,1890,1929,1897,1929,2032
+" ","Total Income per Person (Euro)",16775,18848,19952,21904,22485,23448,23558,24382,24989,23382,22301,21996,22402,21992,22285,23344
+" ","Index of Total Income per Person (State=100)",96.1,96.2,95.5,98.8,95.3,93.6,90.3,89.0,88.1,88.8,89.8,89.4,88.6,88.3,87.8,87.4
+" ","Current Taxes on Income (Euro Million)",258,277,287,341,340,368,401,426,395,381,380,391,391,409,415,438
+" ","Disposable Household Income (Euro Million)",874,1023,1146,1270,1351,1448,1491,1612,1759,1673,1609,1499,1538,1488,1514,1594
+" ","Disposable Income per Person (Euro)",12957,14828,15952,17269,17959,18691,18563,19283,20406,19043,18038,17442,17859,17255,17491,18309
+" ","Index of Disposable Income per Person (State=100)",95.9,95.9,95.8,98.3,97.3,95.6,92.7,91.6,90.6,91.4,92.2,92.3,91.9,91.3,90.8,90.0
+" ","Disposable Income per Person (excluding Rent) (Euro)",12104,13815,14918,16303,17118,17970,17849,18294,18976,18103,16926,16282,16597,15980,16132,16823
+" ","Index of Disposable Income per Person (excluding Rent) (State=100)",96.8,96.8,97.4,100.0,98.7,96.7,93.7,92.5,91.7,92.3,93.5,93.6,93.0,92.3,91.8,91.1
+"Roscommon"
+" ","Compensation of Employees (i.e. Wages and Salaries, Benefits in kind, Employers' social insurance contribution) (Euro Million)",434,484,519,588,652,740,821,862,906,832,787,767,747,736,754,748
+" ","Income of Self Employed (Euro Million)",161,165,175,175,190,231,210,206,191,162,141,137,135,124,133,140
+" ","Rent of dwellings (including imputed rent of owner-occupied dwellings) (Euro Million)",35,42,48,46,41,36,35,60,89,59,71,70,78,78,84,92
+" ","Net Interest and Dividends (payments by households of interest are deducted from interest received by households) (Euro Million)",30,32,29,37,42,39,31,13,1,18,15,6,37,34,33,41
+" ","Primary Income (Euro Million)",661,723,771,847,926,1046,1096,1141,1187,1071,1014,979,997,973,1004,1022
+" ","Social Benefits and Other Current Transfers (Euro Million)",119,141,175,185,203,232,256,284,327,346,346,344,347,339,337,333
+" ","Total Household Income (Euro Million)",782,878,975,1060,1161,1302,1359,1422,1528,1449,1366,1328,1351,1297,1324,1353
+" ","Total Income per Person (Euro)",15076,16758,18125,19324,20778,22850,23393,23836,25068,23479,22043,20787,21103,20226,20573,20904
+" ","Index of Total Income per Person (State=100)",86.4,85.5,86.8,87.2,88.1,91.2,89.7,87.0,88.4,89.1,88.7,84.5,83.5,81.2,81.0,78.3
+" ","Current Taxes on Income (Euro Million)",144,150,158,180,219,250,270,281,262,255,245,263,264,267,278,280
+" ","Disposable Household Income (Euro Million)",639,728,817,880,942,1052,1089,1141,1266,1194,1121,1065,1088,1030,1046,1073
+" ","Disposable Income per Person (Euro)",12305,13895,15185,16048,16858,18464,18750,19124,20764,19354,18094,16675,16987,16056,16259,16582
+" ","Index of Disposable Income per Person (State=100)",91.1,89.8,91.2,91.4,91.3,94.5,93.7,90.8,92.2,92.9,92.5,88.3,87.4,85.0,84.4,81.5
+" ","Disposable Income per Person (excluding Rent) (Euro)",11581,13032,14306,15199,16100,17792,18056,18120,19312,18396,16950,15586,15775,14832,14955,15153
+" ","Index of Disposable Income per Person (excluding Rent) (State=100)",92.6,91.3,93.4,93.2,92.8,95.8,94.7,91.6,93.3,93.8,93.6,89.6,88.4,85.7,85.1,82.0
+"North Tipperary"
+" ","Compensation of Employees (i.e. Wages and Salaries, Benefits in kind, Employers' social insurance contribution) (Euro Million)",527,622,647,707,757,857,979,1029,1075,989,926,864,863,863,866,913
+" ","Income of Self Employed (Euro Million)",185,200,184,191,211,290,265,273,243,177,233,241,223,217,226,221
+" ","Rent of dwellings (including imputed rent of owner-occupied dwellings) (Euro Million)",40,49,55,53,47,40,39,65,105,73,89,81,98,99,106,117
+" ","Net Interest and Dividends (payments by households of interest are deducted from interest received by households) (Euro Million)",36,40,35,43,48,47,37,15,1,21,19,7,46,43,41,52
+" ","Primary Income (Euro Million)",788,910,922,994,1063,1234,1320,1382,1425,1260,1267,1192,1230,1222,1239,1302
+" ","Social Benefits and Other Current Transfers (Euro Million)",140,168,207,220,245,275,307,338,389,416,423,426,435,423,418,411
+" ","Total Household Income (Euro Million)",932,1096,1163,1248,1346,1537,1635,1717,1831,1713,1697,1624,1674,1627,1636,1712
+" ","Total Income per Person (Euro)",15423,17873,19067,20281,21591,24263,25391,25988,27186,25236,24952,23159,23818,23114,23154,24092
+" ","Index of Total Income per Person (State=100)",88.4,91.2,91.3,91.5,91.5,96.8,97.3,94.8,95.8,95.8,100.5,94.2,94.2,92.8,91.2,90.2
+" ","Current Taxes on Income (Euro Million)",183,217,209,230,257,298,335,344,329,311,310,312,319,331,338,352
+" ","Disposable Household Income (Euro Million)",749,879,954,1018,1089,1240,1300,1372,1502,1402,1386,1312,1355,1296,1298,1359
+" ","Disposable Income per Person (Euro)",12400,14334,15643,16548,17471,19566,20184,20775,22297,20653,20386,18711,19279,18416,18366,19136
+" ","Index of Disposable Income per Person (State=100)",91.8,92.7,94.0,94.2,94.7,100.1,100.8,98.7,99.0,99.2,104.2,99.1,99.2,97.4,95.3,94.1
+" ","Disposable Income per Person (excluding Rent) (Euro)",11687,13483,14744,15679,16696,18881,19476,19789,20734,19576,19080,17564,17883,17004,16865,17494
+" ","Index of Disposable Income per Person (excluding Rent) (State=100)",93.4,94.5,96.2,96.1,96.2,101.6,102.2,100.0,100.2,99.8,105.4,100.9,100.2,98.3,96.0,94.7
+"South Tipperary"
+" ","Compensation of Employees (i.e. Wages and Salaries, Benefits in kind, Employers' social insurance contribution) (Euro Million)",666,746,827,915,987,1094,1229,1405,1427,1339,1209,1083,1045,1122,1178,1249
+" ","Income of Self Employed (Euro Million)",230,254,237,244,263,249,305,341,316,247,207,206,180,195,215,221
+" ","Rent of dwellings (including imputed rent of owner-occupied dwellings) (Euro Million)",51,62,70,67,59,51,49,81,121,82,99,103,110,111,118,130
+" ","Net Interest and Dividends (payments by households of interest are deducted from interest received by households) (Euro Million)",45,49,45,56,62,55,46,20,1,28,23,8,52,52,52,67
+" ","Primary Income (Euro Million)",992,1111,1178,1282,1371,1448,1629,1847,1865,1696,1538,1399,1386,1481,1564,1667
+" ","Social Benefits and Other Current Transfers (Euro Million)",185,223,275,294,321,358,400,440,507,543,554,547,560,545,533,524
+" ","Total Household Income (Euro Million)",1182,1356,1498,1618,1741,1839,2038,2283,2395,2289,2101,1953,1956,2004,2071,2189
+" ","Total Income per Person (Euro)",14992,16882,18928,20127,21241,21906,23672,25665,26241,24758,22607,22147,22135,22642,23311,24502
+" ","Index of Total Income per Person (State=100)",85.9,86.2,90.6,90.8,90.0,87.4,90.7,93.6,92.5,94.0,91.0,90.0,87.6,90.9,91.8,91.8
+" ","Current Taxes on Income (Euro Million)",234,252,265,294,330,352,414,461,432,420,381,374,368,406,442,457
+" ","Disposable Household Income (Euro Million)",947,1104,1232,1324,1411,1487,1624,1821,1963,1868,1720,1579,1588,1599,1629,1732
+" ","Disposable Income per Person (Euro)",12019,13741,15575,16467,17218,17710,18864,20476,21509,20210,18509,17904,17966,18061,18340,19386
+" ","Index of Disposable Income per Person (State=100)",89.0,88.8,93.5,93.7,93.3,90.6,94.2,97.3,95.5,97.1,94.6,94.8,92.5,95.6,95.2,95.3
+" ","Disposable Income per Person (excluding Rent) (Euro)",11327,12920,14701,15629,16476,17062,18200,19559,20185,19335,17445,16738,16723,16805,17004,17927
+" ","Index of Disposable Income per Person (excluding Rent) (State=100)",90.5,90.5,96.0,95.8,95.0,91.8,95.5,98.9,97.6,98.6,96.3,96.2,93.7,97.1,96.8,97.0
+"Southern and Eastern"
+" ","Compensation of Employees (i.e. Wages and Salaries, Benefits in kind, Employers' social insurance contribution) (Euro Million)",32827,36665,39035,42012,45406,50647,55685,61019,62602,56966,53096,54305,54281,55310,57424,60367
+" ","Income of Self Employed (Euro Million)",6804,7473,6737,7444,8186,9259,10041,10860,9917,8037,7819,7391,6996,7205,7535,7718
+" ","Rent of dwellings (including imputed rent of owner-occupied dwellings) (Euro Million)",2843,3468,3956,3752,3245,2770,2638,4357,6432,4292,5153,5364,5670,5723,6120,6740
+" ","Net Interest and Dividends (payments by households of interest are deducted from interest received by households) (Euro Million)",2025,2196,1959,2422,2710,2453,1951,848,46,1169,993,391,2584,2504,2433,3114
+" ","Primary Income (Euro Million)",44499,49802,51687,55630,59548,65130,70315,77085,78997,70464,67061,67450,69531,70741,73512,77939
+" ","Social Benefits and Other Current Transfers (Euro Million)",6238,7424,9246,9873,10950,12194,13594,14871,17134,18207,18412,18217,18702,18086,17777,17580
+" ","Total Household Income (Euro Million)",50937,58222,62879,67372,72581,78799,84337,91758,97114,90744,85868,85992,88719,87786,90053,95424
+" ","Total Income per Person (Euro)",18257,20550,21840,23065,24478,26009,27197,28606,29558,27379,25826,25778,26535,26212,26792,28232
+" ","Index of Total Income per Person (State=100)",104.6,104.9,104.6,104.0,103.8,103.8,104.2,104.4,104.2,103.9,104.0,104.8,105.0,105.2,105.5,105.7
+" ","Current Taxes on Income (Euro Million)",11888,12680,13221,14404,16407,18013,20455,22207,20956,19887,19148,20908,21539,22130,22583,23613
+" ","Disposable Household Income (Euro Million)",39049,45542,49658,52967,56174,60786,63882,69551,76157,70857,66720,65084,67180,65656,67471,71811
+" ","Disposable Income per Person (Euro)",13996,16074,17248,18134,18945,20064,20601,21683,23180,21379,20067,19510,20093,19604,20074,21246
+" ","Index of Disposable Income per Person (State=100)",103.6,103.9,103.6,103.2,102.6,102.7,102.9,103.0,102.9,102.7,102.6,103.3,103.4,103.7,104.2,104.5
+" ","Disposable Income per Person (excluding Rent) (Euro)",12926,14785,15792,16753,17727,19002,19550,20324,21222,20083,18517,17902,18397,17895,18253,19252
+" ","Index of Disposable Income per Person (excluding Rent) (State=100)",103.3,103.6,103.1,102.7,102.2,102.3,102.6,102.7,102.6,102.4,102.2,102.9,103.1,103.4,103.9,104.2
+"Cork City and County"
+" ","Compensation of Employees (i.e. Wages and Salaries, Benefits in kind, Employers' social insurance contribution) (Euro Million)",4454,4890,5531,5961,6503,7346,7978,8636,8911,8243,7694,7945,7982,8286,8327,8646
+" ","Income of Self Employed (Euro Million)",1097,1241,1091,1176,1308,1474,1527,1670,1554,1210,1217,1292,1200,1255,1310,1266
+" ","Rent of dwellings (including imputed rent of owner-occupied dwellings) (Euro Million)",383,467,532,509,444,382,367,607,903,607,733,758,807,816,872,960
+" ","Net Interest and Dividends (payments by households of interest are deducted from interest received by households) (Euro Million)",283,305,282,348,394,360,282,121,7,170,145,58,386,380,360,453
+" ","Primary Income (Euro Million)",6217,6903,7437,7995,8649,9563,10153,11035,11375,10230,9788,10053,10375,10737,10869,11325
+" ","Social Benefits and Other Current Transfers (Euro Million)",969,1162,1444,1538,1706,1921,2134,2334,2660,2832,2867,2772,2802,2713,2672,2635
+" ","Total Household Income (Euro Million)",7214,8203,9161,9801,10658,11700,12349,13340,14176,13363,12713,12873,13249,13292,13359,13946
+" ","Total Income per Person (Euro)",16597,18637,20456,21602,23132,24962,25839,27079,28115,26273,24934,24875,25543,25583,25619,26596
+" ","Index of Total Income per Person (State=100)",95.1,95.1,97.9,97.4,98.1,99.6,99.0,98.8,99.1,99.7,100.4,101.1,101.1,102.7,100.9,99.6
+" ","Current Taxes on Income (Euro Million)",1563,1658,1865,2029,2245,2494,2796,2992,2830,2742,2638,2947,3047,3210,3220,3303
+" ","Disposable Household Income (Euro Million)",5651,6545,7296,7772,8413,9206,9553,10348,11346,10621,10075,9926,10202,10083,10139,10643
+" ","Disposable Income per Person (Euro)",13002,14871,16292,17129,18260,19641,19990,21006,22502,20882,19760,19180,19669,19405,19443,20297
+" ","Index of Disposable Income per Person (State=100)",96.3,96.1,97.8,97.5,98.9,100.5,99.9,99.8,99.9,100.3,101.0,101.5,101.2,102.7,100.9,99.8
+" ","Disposable Income per Person (excluding Rent) (Euro)",12073,13749,15104,15997,17266,18777,19125,19774,20711,19689,18323,17717,18113,17832,17769,18465
+" ","Index of Disposable Income per Person (excluding Rent) (State=100)",96.5,96.4,98.6,98.1,99.5,101.1,100.3,100.0,100.1,100.4,101.2,101.8,101.5,103.1,101.2,100.0
+"Galway City and County"
+" ","Compensation of Employees (i.e. Wages and Salaries, Benefits in kind, Employers' social insurance contribution) (Euro Million)",1809,2022,2192,2540,2849,3134,3461,3756,3933,3644,3478,3385,3487,3464,3523,3682
+" ","Income of Self Employed (Euro Million)",501,522,519,558,628,737,746,775,738,624,565,513,501,468,488,529
+" ","Rent of dwellings (including imputed rent of owner-occupied dwellings) (Euro Million)",198,240,272,258,223,191,182,303,449,299,357,358,390,394,421,464
+" ","Net Interest and Dividends (payments by households of interest are deducted from interest received by households) (Euro Million)",120,129,118,153,177,159,126,54,3,77,66,25,169,159,152,195
+" ","Primary Income (Euro Million)",2628,2913,3101,3509,3877,4220,4514,4889,5124,4644,4466,4281,4547,4485,4585,4870
+" ","Social Benefits and Other Current Transfers (Euro Million)",462,547,685,726,803,907,1014,1122,1298,1387,1405,1380,1401,1359,1343,1316
+" ","Total Household Income (Euro Million)",3102,3519,3903,4353,4816,5223,5555,5998,6485,6167,5898,5681,5980,5777,5850,6180
+" ","Total Income per Person (Euro)",15640,17372,18666,20417,22167,23572,24603,25866,27355,25711,24477,22731,23871,23024,23233,24407
+" ","Index of Total Income per Person (State=100)",89.6,88.7,89.4,92.1,94.0,94.1,94.3,94.4,96.4,97.6,98.5,92.4,94.4,92.4,91.5,91.4
+" ","Current Taxes on Income (Euro Million)",603,637,670,811,971,1066,1167,1263,1209,1188,1155,1207,1273,1301,1321,1371
+" ","Disposable Household Income (Euro Million)",2499,2882,3232,3541,3845,4157,4388,4734,5276,4980,4742,4474,4707,4477,4530,4809
+" ","Disposable Income per Person (Euro)",12601,14228,15460,16611,17697,18762,19434,20417,22253,20760,19682,17900,18790,17841,17988,18991
+" ","Index of Disposable Income per Person (State=100)",93.3,92.0,92.9,94.6,95.9,96.0,97.1,97.0,98.8,99.7,100.6,94.8,96.7,94.4,93.4,93.4
+" ","Disposable Income per Person (excluding Rent) (Euro)",11555,12981,14150,15386,16636,17852,18533,19109,20357,19512,18200,16467,17234,16273,16319,17158
+" ","Index of Disposable Income per Person (excluding Rent) (State=100)",92.4,91.0,92.4,94.3,95.9,96.1,97.2,96.6,98.4,99.5,100.5,94.6,96.6,94.0,92.9,92.9
+"Limerick City and County"
+" ","Compensation of Employees (i.e. Wages and Salaries, Benefits in kind, Employers' social insurance contribution) (Euro Million)",1837,2129,2124,2317,2454,2693,2957,3183,3177,2889,2864,3385,3325,3247,3357,3499
+" ","Income of Self Employed (Euro Million)",390,417,361,384,421,509,530,555,495,395,423,412,373,379,396,401
+" ","Rent of dwellings (including imputed rent of owner-occupied dwellings) (Euro Million)",147,177,200,186,158,133,124,205,303,204,246,253,272,275,293,323
+" ","Net Interest and Dividends (payments by households of interest are deducted from interest received by households) (Euro Million)",113,126,106,131,145,131,103,44,2,59,53,24,153,143,139,176
+" ","Primary Income (Euro Million)",2487,2848,2791,3018,3178,3466,3715,3986,3977,3546,3586,4073,4124,4044,4185,4399
+" ","Social Benefits and Other Current Transfers (Euro Million)",421,495,614,656,723,810,896,984,1130,1217,1240,1233,1247,1192,1166,1151
+" ","Total Household Income (Euro Million)",2919,3400,3510,3776,4012,4354,4633,4960,5157,4867,4847,5326,5399,5177,5281,5544
+" ","Total Income per Person (Euro)",16988,19483,20024,21351,22407,23917,25045,26133,26645,24958,24806,27851,28166,26960,27406,28610
+" ","Index of Total Income per Person (State=100)",97.3,99.5,95.9,96.3,95.0,95.5,96.0,95.4,93.9,94.8,99.9,113.2,111.4,108.2,107.9,107.2
+" ","Current Taxes on Income (Euro Million)",632,729,661,733,820,899,1002,1050,965,929,970,1169,1183,1172,1209,1245
+" ","Disposable Household Income (Euro Million)",2287,2671,2849,3042,3192,3455,3631,3910,4192,3938,3877,4157,4217,4004,4072,4299
+" ","Disposable Income per Person (Euro)",13309,15306,16250,17205,17827,18979,19627,20599,21660,20194,19842,21738,21997,20855,21130,22187
+" ","Index of Disposable Income per Person (State=100)",98.5,99.0,97.6,97.9,96.6,97.1,98.0,97.8,96.2,97.0,101.5,115.1,113.2,110.4,109.7,109.1
+" ","Disposable Income per Person (excluding Rent) (Euro)",12407,14230,15109,16144,16915,18204,18858,19519,20093,19151,18585,20417,20578,19419,19603,20521
+" ","Index of Disposable Income per Person (excluding Rent) (State=100)",99.2,99.7,98.6,99.0,97.5,98.0,98.9,98.7,97.1,97.6,102.6,117.3,115.3,112.2,111.6,111.1
+"Waterford City and County"
+" ","Compensation of Employees (i.e. Wages and Salaries, Benefits in kind, Employers' social insurance contribution) (Euro Million)",1059,1128,1267,1348,1459,1575,1671,1865,1860,1645,1549,1463,1460,1514,1627,1709
+" ","Income of Self Employed (Euro Million)",251,276,243,265,292,324,345,389,350,275,260,248,230,233,263,281
+" ","Rent of dwellings (including imputed rent of owner-occupied dwellings) (Euro Million)",74,90,102,96,83,70,67,112,167,113,137,137,152,153,164,180
+" ","Net Interest and Dividends (payments by households of interest are deducted from interest received by households) (Euro Million)",66,69,63,78,88,77,60,26,1,34,29,11,71,70,70,90
+" ","Primary Income (Euro Million)",1450,1563,1675,1787,1922,2046,2142,2392,2378,2067,1975,1858,1913,1971,2124,2261
+" ","Social Benefits and Other Current Transfers (Euro Million)",239,286,358,380,427,481,527,587,689,737,738,721,740,717,710,695
+" ","Total Household Income (Euro Million)",1696,1881,2096,2227,2416,2573,2682,2973,3096,2864,2725,2588,2666,2659,2797,2953
+" ","Total Income per Person (Euro)",17160,18673,20641,21581,22972,23883,24270,26048,26432,24143,22845,22807,23442,23343,24469,25686
+" ","Index of Total Income per Person (State=100)",98.3,95.3,98.8,97.3,97.4,95.3,93.0,95.0,93.2,91.7,92.0,92.7,92.8,93.7,96.4,96.2
+" ","Current Taxes on Income (Euro Million)",390,386,418,443,477,508,559,609,561,523,513,532,539,570,609,641
+" ","Disposable Household Income (Euro Million)",1306,1495,1678,1784,1939,2065,2123,2364,2535,2341,2212,2056,2127,2089,2188,2312
+" ","Disposable Income per Person (Euro)",13215,14841,16525,17284,18440,19168,19212,20713,21643,19735,18545,18118,18704,18338,19140,20113
+" ","Index of Disposable Income per Person (State=100)",97.8,96.0,99.3,98.4,99.9,98.1,96.0,98.4,96.1,94.8,94.8,95.9,96.3,97.0,99.4,98.9
+" ","Disposable Income per Person (excluding Rent) (Euro)",12419,13894,15532,16350,17628,18469,18511,19729,20221,18789,17398,16910,17370,16993,17707,18543
+" ","Index of Disposable Income per Person (excluding Rent) (State=100)",99.3,97.4,101.4,100.3,101.6,99.4,97.1,99.7,97.7,95.8,96.1,97.2,97.3,98.2,100.8,100.4
+"Border, Midland and Western"
+" ","Compensation of Employees (i.e. Wages and Salaries, Benefits in kind, Employers' social insurance contribution) (Euro Million)",8875,9865,10728,12116,13345,14637,16112,17521,18125,16661,15696,15407,15125,15349,15661,16352
+" ","Income of Self Employed (Euro Million)",2555,2648,2549,2743,3056,3562,3380,3489,3185,2645,2448,2282,2243,2124,2245,2338
+" ","Rent of dwellings (including imputed rent of owner-occupied dwellings) (Euro Million)",746,902,1022,979,855,736,706,1193,1786,1199,1440,1435,1579,1599,1710,1885
+" ","Net Interest and Dividends (payments by households of interest are deducted from interest received by households) (Euro Million)",581,620,564,722,823,742,579,247,14,346,294,111,732,700,672,856
+" ","Primary Income (Euro Million)",12757,14035,14862,16559,18079,19675,20777,22450,23109,20851,19878,19235,19680,19772,20288,21432
+" ","Social Benefits and Other Current Transfers (Euro Million)",2395,2830,3524,3751,4142,4660,5196,5773,6705,7202,7276,7207,7353,7148,7029,6927
+" ","Total Household Income (Euro Million)",15209,17146,18946,20866,22854,24781,26099,28165,30102,28667,27271,26534,27170,26628,26977,28332
+" ","Total Income per Person (Euro)",15216,16909,18249,19704,21160,22443,23057,24112,25094,23515,22173,21415,21878,21406,21608,22568
+" ","Index of Total Income per Person (State=100)",87.2,86.3,87.4,88.9,89.7,89.6,88.4,88.0,88.5,89.3,89.3,87.1,86.6,85.9,85.1,84.5
+" ","Current Taxes on Income (Euro Million)",3076,3184,3383,3919,4366,4774,5248,5598,5255,5118,4910,5202,5259,5483,5645,5887
+" ","Disposable Household Income (Euro Million)",12133,13962,15563,16948,18487,20007,20851,22567,24847,23548,22362,21332,21912,21145,21332,22446
+" ","Disposable Income per Person (Euro)",12138,13769,14990,16004,17117,18120,18421,19319,20713,19317,18181,17217,17644,16998,17087,17879
+" ","Index of Disposable Income per Person (State=100)",89.9,89.0,90.0,91.1,92.7,92.7,92.0,91.8,92.0,92.8,93.0,91.1,90.8,89.9,88.7,87.9
+" ","Disposable Income per Person (excluding Rent) (Euro)",11347,12823,14008,15074,16301,17409,17706,18298,19225,18335,17011,16059,16372,15712,15717,16377
+" ","Index of Disposable Income per Person (excluding Rent) (State=100)",90.7,89.9,91.4,92.4,94.0,93.7,92.9,92.5,92.9,93.5,93.9,92.3,91.7,90.8,89.5,88.7
+

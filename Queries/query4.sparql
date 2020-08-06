@@ -1,0 +1,15 @@
+PREFIX db: <http://dbpedia.org/ontology/> 
+PREFIX ont: <http://webprotege.stanford.edu/projectOntology#> 
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> 
+SELECT DISTINCT ?homeless ?county WHERE { 
+    ?z ont:CountyName ?county . 
+    ?x ont:CountyName ?county . 
+    ?z ont:NumOfHomeless ?homeless . 
+    ?z db:Year '§0' . 
+    { 
+        SELECT ?county WHERE { 
+            ?x ont:Rainfall ?avgRain . 
+            ?x ont:CountyName ?county . 
+            ?x db:Year '§0' . 
+            FILTER (xsd:float(?avgRain) <§1) 
+        }}} ORDER BY ASC(xsd:int(?homeless)) LIMIT 1

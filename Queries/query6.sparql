@@ -1,0 +1,26 @@
+PREFIX  xsd:  <http://www.w3.org/2001/XMLSchema#>
+PREFIX  ont:  <http://webprotege.stanford.edu/projectOntology#>
+PREFIX  db:   <http://dbpedia.org/ontology/>
+SELECT ?county ?salary ?kidnappings ?county1 ?salary1 ?kidnappings1 WHERE {
+    ?x ont:CountyName ?county .
+    ?x db:Year '§0' .
+    ?x ont:CrimeName 'Kidnapping and related offences' .
+    ?x ont:NumOfCrime ?kidnappings .
+    ?z ont:CountyName ?county1 .
+    ?z db:Year '§0' .
+    ?z ont:CrimeName 'Kidnapping and related offences' .
+    ?z ont:NumOfCrime ?kidnappings1 .
+    {  
+        SELECT ?salary ?county WHERE {
+            ?x ont:CountyName ?county .
+            ?x ont:SalaryValue ?salary .
+            ?x db:Year '§0' .
+        } ORDER BY DESC(xsd:float(?salary)) LIMIT 1 
+    }
+    {  
+        SELECT ?salary1 ?county1 WHERE {
+            ?x ont:CountyName ?county1 .
+            ?x ont:SalaryValue ?salary1 .
+            ?x db:Year '§0' .
+        } ORDER BY ASC(xsd:float(?salary1)) LIMIT 1
+    }}

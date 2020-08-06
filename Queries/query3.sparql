@@ -1,0 +1,15 @@
+PREFIX db: <http://dbpedia.org/ontology/>  
+PREFIX ont: <http://webprotege.stanford.edu/projectOntology#>  
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>  
+SELECT ?price ?year WHERE {  
+    ?z db:Year ?year .  
+    ?z ont:MeanPrice ?price .  
+    ?z ont:CountyName '§0' .  
+    ?z ont:HousingPricesType 'Execution' .  
+    {  
+        SELECT ?salary ?year WHERE {  
+            ?x ont:SalaryValue ?salary .  
+            ?x db:Year ?year .  
+            ?x ont:CountyName '§0' .  
+        } ORDER BY DESC(xsd:float(?salary)) LIMIT 1  
+    }}

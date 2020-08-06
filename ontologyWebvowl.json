@@ -1,0 +1,2639 @@
+{
+  "_comment": "Created with OWL2VOWL (version 0.3.7), http://vowl.visualdataweb.org [Additional Information added by WebVOWL Exporter Version: 1.1.5]",
+  "header": {
+    "languages": [
+      "undefined"
+    ],
+    "baseIris": [
+      "http://www.w3.org/2002/07/owl",
+      "http://www.w3.org/2000/01/rdf-schema",
+      "http://webprotege.stanford.edu/projectOntology",
+      "http://www.w3.org/2001/XMLSchema"
+    ],
+    "prefixList": {
+      "owl": "http://www.w3.org/2002/07/owl#",
+      "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+      "webprotege": "http://webprotege.stanford.edu/",
+      "xsd": "http://www.w3.org/2001/XMLSchema#",
+      "": "http://webprotege.stanford.edu/project/BxMFBM8T9mLb4rvDonTeq#",
+      "xml": "http://www.w3.org/XML/1998/namespace",
+      "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+    },
+    "iri": "http://webprotege.stanford.edu/projectOntology"
+  },
+  "namespace": [],
+  "settings": {
+    "global": {
+      "zoom": "0.27",
+      "translation": [
+        416.36,
+        147.41
+      ],
+      "paused": false
+    },
+    "gravity": {
+      "classDistance": 200,
+      "datatypeDistance": 120
+    },
+    "filter": {
+      "checkBox": [
+        {
+          "id": "datatypeFilterCheckbox",
+          "checked": false
+        },
+        {
+          "id": "objectPropertyFilterCheckbox",
+          "checked": false
+        },
+        {
+          "id": "subclassFilterCheckbox",
+          "checked": false
+        },
+        {
+          "id": "disjointFilterCheckbox",
+          "checked": true
+        },
+        {
+          "id": "setoperatorFilterCheckbox",
+          "checked": false
+        }
+      ],
+      "degreeSliderValue": "0"
+    },
+    "modes": {
+      "checkBox": [
+        {
+          "id": "pickandpinModuleCheckbox",
+          "checked": false
+        },
+        {
+          "id": "nodescalingModuleCheckbox",
+          "checked": true
+        },
+        {
+          "id": "compactnotationModuleCheckbox",
+          "checked": false
+        },
+        {
+          "id": "colorexternalsModuleCheckbox",
+          "checked": true
+        }
+      ],
+      "colorSwitchState": false
+    }
+  },
+  "class": [
+    {
+      "id": "0",
+      "type": "owl:Class"
+    },
+    {
+      "id": "2",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "3",
+      "type": "owl:Class"
+    },
+    {
+      "id": "8",
+      "type": "owl:Class"
+    },
+    {
+      "id": "14",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "15",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "22",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "23",
+      "type": "owl:Class"
+    },
+    {
+      "id": "24",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "25",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "26",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "27",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "28",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "29",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "30",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "34",
+      "type": "owl:Class"
+    },
+    {
+      "id": "4",
+      "type": "owl:Class"
+    },
+    {
+      "id": "9",
+      "type": "owl:Class"
+    },
+    {
+      "id": "12",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "33",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "1",
+      "type": "owl:Class"
+    },
+    {
+      "id": "51",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "52",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "53",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "54",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "55",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "50",
+      "type": "owl:Class"
+    },
+    {
+      "id": "59",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "58",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "32",
+      "type": "owl:Class"
+    },
+    {
+      "id": "48",
+      "type": "owl:Class"
+    },
+    {
+      "id": "7",
+      "type": "owl:Class"
+    },
+    {
+      "id": "18",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "36",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "73",
+      "type": "owl:Class"
+    },
+    {
+      "id": "20",
+      "type": "owl:Thing"
+    },
+    {
+      "id": "77",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "78",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "47",
+      "type": "owl:Class"
+    },
+    {
+      "id": "81",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "67",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "82",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "65",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "83",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "42",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "84",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "86",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "87",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "38",
+      "type": "owl:Class"
+    },
+    {
+      "id": "17",
+      "type": "owl:Class"
+    },
+    {
+      "id": "11",
+      "type": "owl:Class"
+    },
+    {
+      "id": "44",
+      "type": "owl:Class"
+    },
+    {
+      "id": "40",
+      "type": "owl:Class"
+    },
+    {
+      "id": "37",
+      "type": "owl:Class"
+    },
+    {
+      "id": "46",
+      "type": "owl:Class"
+    },
+    {
+      "id": "110",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "112",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "114",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "116",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "121",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "6",
+      "type": "owl:Class"
+    },
+    {
+      "id": "49",
+      "type": "owl:Class"
+    },
+    {
+      "id": "5",
+      "type": "owl:Class"
+    }
+  ],
+  "classAttribute": [
+    {
+      "id": "0",
+      "iri": "http://webprotege.stanford.edu/projectOntology#OtherOffences",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "OtherOffences",
+        "undefined": "OtherOffences"
+      },
+      "pos": [
+        1513,
+        173.46
+      ]
+    },
+    {
+      "id": "2",
+      "iri": "http://www.w3.org/2001/XMLSchema#float",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "float"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        -762.81,
+        528.49
+      ]
+    },
+    {
+      "id": "3",
+      "iri": "http://webprotege.stanford.edu/projectOntology#Stats",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "Stats",
+        "undefined": "Stats"
+      },
+      "pos": [
+        72.74,
+        309.82
+      ]
+    },
+    {
+      "id": "8",
+      "iri": "http://webprotege.stanford.edu/projectOntology#County",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "County",
+        "undefined": "County"
+      },
+      "pos": [
+        -109.12,
+        -841.63
+      ]
+    },
+    {
+      "id": "14",
+      "iri": "http://www.w3.org/2001/XMLSchema#float",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "float"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        48.77,
+        1422.84
+      ]
+    },
+    {
+      "id": "15",
+      "iri": "http://www.w3.org/2001/XMLSchema#float",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "float"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        118.75,
+        1334.93
+      ]
+    },
+    {
+      "id": "22",
+      "iri": "http://www.w3.org/2001/XMLSchema#float",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "float"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        -834.98,
+        412.84
+      ]
+    },
+    {
+      "id": "23",
+      "iri": "http://webprotege.stanford.edu/projectOntology#Drug",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "Drug",
+        "undefined": "Drug"
+      },
+      "pos": [
+        842.07,
+        -515.44
+      ]
+    },
+    {
+      "id": "24",
+      "iri": "http://www.w3.org/2001/XMLSchema#int",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "int"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        624.86,
+        954.63
+      ]
+    },
+    {
+      "id": "25",
+      "iri": "http://www.w3.org/2001/XMLSchema#string",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "string"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        883.01,
+        -296.91
+      ]
+    },
+    {
+      "id": "26",
+      "iri": "http://www.w3.org/2001/XMLSchema#int",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "int"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        134.39,
+        673.75
+      ]
+    },
+    {
+      "id": "27",
+      "iri": "http://www.w3.org/2001/XMLSchema#float",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "float"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        1504.57,
+        692.28
+      ]
+    },
+    {
+      "id": "28",
+      "iri": "http://www.w3.org/2001/XMLSchema#float",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "float"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        1673.39,
+        528.95
+      ]
+    },
+    {
+      "id": "29",
+      "iri": "http://www.w3.org/2001/XMLSchema#float",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "float"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        1293.78,
+        784.04
+      ]
+    },
+    {
+      "id": "30",
+      "iri": "http://www.w3.org/2001/XMLSchema#int",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "int"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        486.25,
+        -594.72
+      ]
+    },
+    {
+      "id": "34",
+      "iri": "http://webprotege.stanford.edu/projectOntology#Weapons",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "Weapons",
+        "undefined": "Weapons"
+      },
+      "pos": [
+        1356.55,
+        -411.05
+      ]
+    },
+    {
+      "id": "4",
+      "iri": "http://webprotege.stanford.edu/projectOntology#HousingPrices",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "HousingPrices",
+        "undefined": "HousingPrices"
+      },
+      "pos": [
+        -111.27,
+        1131.16
+      ]
+    },
+    {
+      "id": "9",
+      "iri": "http://webprotege.stanford.edu/projectOntology#Area",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "Area",
+        "undefined": "Area"
+      },
+      "pos": [
+        -136.62,
+        -342.98
+      ]
+    },
+    {
+      "id": "12",
+      "iri": "http://www.w3.org/2001/XMLSchema#int",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "int"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        -550.91,
+        -164.67
+      ]
+    },
+    {
+      "id": "33",
+      "iri": "http://www.w3.org/2001/XMLSchema#string",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "string"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        1057.07,
+        761.4
+      ]
+    },
+    {
+      "id": "1",
+      "iri": "http://webprotege.stanford.edu/projectOntology#Crime",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "Crime",
+        "undefined": "Crime"
+      },
+      "pos": [
+        1036.28,
+        -18.65
+      ]
+    },
+    {
+      "id": "51",
+      "iri": "http://www.w3.org/2001/XMLSchema#int",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "int"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        616.15,
+        761.83
+      ]
+    },
+    {
+      "id": "52",
+      "iri": "http://www.w3.org/2001/XMLSchema#float",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "float"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        -517.62,
+        680
+      ]
+    },
+    {
+      "id": "53",
+      "iri": "http://www.w3.org/2001/XMLSchema#int",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "int"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        751.55,
+        -61.88
+      ]
+    },
+    {
+      "id": "54",
+      "iri": "http://www.w3.org/2001/XMLSchema#string",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "string"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        -56.95,
+        1460.03
+      ]
+    },
+    {
+      "id": "55",
+      "iri": "http://www.w3.org/2001/XMLSchema#float",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "float"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        743.63,
+        -805.68
+      ]
+    },
+    {
+      "id": "50",
+      "iri": "http://webprotege.stanford.edu/projectOntology#Transport",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "Transport",
+        "undefined": "Transport"
+      },
+      "pos": [
+        1534.2,
+        -2.48
+      ]
+    },
+    {
+      "id": "59",
+      "iri": "http://www.w3.org/2001/XMLSchema#string",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "string"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        1630.3,
+        -1011.71
+      ]
+    },
+    {
+      "id": "58",
+      "iri": "http://www.w3.org/2001/XMLSchema#int",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "int"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        566.48,
+        1064.64
+      ]
+    },
+    {
+      "id": "32",
+      "iri": "http://webprotege.stanford.edu/projectOntology#MurderDeath",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "MurderDeath",
+        "undefined": "MurderDeath"
+      },
+      "pos": [
+        1008.24,
+        464.07
+      ]
+    },
+    {
+      "id": "48",
+      "iri": "http://webprotege.stanford.edu/projectOntology#Driving",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "Driving",
+        "undefined": "Driving"
+      },
+      "pos": [
+        1183.23,
+        483.2
+      ]
+    },
+    {
+      "id": "7",
+      "iri": "http://webprotege.stanford.edu/projectOntology#Homelessness",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "Homelessness",
+        "undefined": "Homelessness"
+      },
+      "pos": [
+        359.17,
+        813.52
+      ]
+    },
+    {
+      "id": "18",
+      "iri": "http://www.w3.org/2001/XMLSchema#int",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "int"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        1051.49,
+        -854.05
+      ]
+    },
+    {
+      "id": "36",
+      "iri": "http://www.w3.org/2001/XMLSchema#int",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "int"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        385.85,
+        547.21
+      ]
+    },
+    {
+      "id": "73",
+      "attributes": [
+        "anonymous",
+        "union"
+      ],
+      "pos": [
+        1520.89,
+        -776.76
+      ]
+    },
+    {
+      "id": "20",
+      "iri": "http://www.w3.org/2002/07/owl#Thing",
+      "baseIri": "http://owl2vowl.de",
+      "label": {
+        "undefined": "Thing"
+      },
+      "pos": [
+        1015.87,
+        1932.96
+      ]
+    },
+    {
+      "id": "77",
+      "iri": "http://www.w3.org/2001/XMLSchema#float",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "float"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        -846.56,
+        274.9
+      ]
+    },
+    {
+      "id": "78",
+      "iri": "http://www.w3.org/2001/XMLSchema#string",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "string"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        1827.46,
+        22.53
+      ]
+    },
+    {
+      "id": "47",
+      "iri": "http://webprotege.stanford.edu/projectOntology#SexualOffences",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "SexualOffences",
+        "undefined": "SexualOffences"
+      },
+      "pos": [
+        1514.83,
+        -206.07
+      ]
+    },
+    {
+      "id": "81",
+      "iri": "http://www.w3.org/2001/XMLSchema#string",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "string"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        -181.01,
+        -1099.56
+      ]
+    },
+    {
+      "id": "67",
+      "iri": "http://www.w3.org/2001/XMLSchema#int",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "int"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        458.43,
+        1118.79
+      ]
+    },
+    {
+      "id": "82",
+      "iri": "http://www.w3.org/2001/XMLSchema#string",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "string"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        -707.37,
+        -728.08
+      ]
+    },
+    {
+      "id": "65",
+      "iri": "http://www.w3.org/2001/XMLSchema#float",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "float"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        -176.64,
+        1453.82
+      ]
+    },
+    {
+      "id": "83",
+      "iri": "http://www.w3.org/2001/XMLSchema#int",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "int"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        1795.53,
+        -292.83
+      ]
+    },
+    {
+      "id": "42",
+      "iri": "http://www.w3.org/2001/XMLSchema#int",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "int"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        106.35,
+        889.77
+      ]
+    },
+    {
+      "id": "84",
+      "iri": "http://www.w3.org/2001/XMLSchema#float",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "float"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        -785.51,
+        145.47
+      ]
+    },
+    {
+      "id": "86",
+      "iri": "http://www.w3.org/2001/XMLSchema#int",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "int"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        306.93,
+        1095.04
+      ]
+    },
+    {
+      "id": "87",
+      "iri": "http://www.w3.org/2001/XMLSchema#int",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "int"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        1790.72,
+        303.63
+      ]
+    },
+    {
+      "id": "38",
+      "iri": "http://webprotege.stanford.edu/projectOntology#Division",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "Division",
+        "undefined": "Division"
+      },
+      "pos": [
+        -498.45,
+        -576.26
+      ]
+    },
+    {
+      "id": "17",
+      "iri": "http://webprotege.stanford.edu/projectOntology#AttemptedMurder",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "AttemptedMurder",
+        "undefined": "AttemptedMurder"
+      },
+      "pos": [
+        1045.8,
+        -550.68
+      ]
+    },
+    {
+      "id": "11",
+      "iri": "http://webprotege.stanford.edu/projectOntology#Year",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "Year",
+        "undefined": "Year"
+      },
+      "pos": [
+        -326.15,
+        8.53
+      ]
+    },
+    {
+      "id": "44",
+      "iri": "http://webprotege.stanford.edu/projectOntology#PropertyDamages",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "PropertyDamages",
+        "undefined": "PropertyDamages"
+      },
+      "pos": [
+        1439.86,
+        317.1
+      ]
+    },
+    {
+      "id": "40",
+      "iri": "http://webprotege.stanford.edu/projectOntology#Theft",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "Theft",
+        "undefined": "Theft"
+      },
+      "pos": [
+        1328.14,
+        424.96
+      ]
+    },
+    {
+      "id": "37",
+      "iri": "http://webprotege.stanford.edu/projectOntology#Country",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "Country",
+        "undefined": "Country"
+      },
+      "pos": [
+        -310.9,
+        -684.57
+      ]
+    },
+    {
+      "id": "46",
+      "iri": "http://webprotege.stanford.edu/projectOntology#Harm",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "Harm",
+        "undefined": "Harm"
+      },
+      "pos": [
+        1254.88,
+        -473.99
+      ]
+    },
+    {
+      "id": "110",
+      "iri": "http://www.w3.org/2001/XMLSchema#int",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "int"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        805.18,
+        116.95
+      ]
+    },
+    {
+      "id": "112",
+      "iri": "http://www.w3.org/2001/XMLSchema#float",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "float"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        -376.85,
+        1283.09
+      ]
+    },
+    {
+      "id": "114",
+      "iri": "http://www.w3.org/2001/XMLSchema#float",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "float"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        -291.25,
+        1397.72
+      ]
+    },
+    {
+      "id": "116",
+      "iri": "http://www.w3.org/2001/XMLSchema#float",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "float"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        -396.86,
+        1144.21
+      ]
+    },
+    {
+      "id": "121",
+      "iri": "http://www.w3.org/2001/XMLSchema#string",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "string"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        1280.49,
+        -186.25
+      ]
+    },
+    {
+      "id": "6",
+      "iri": "http://webprotege.stanford.edu/projectOntology#Salaries",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "Salaries",
+        "undefined": "Salaries"
+      },
+      "pos": [
+        -304.71,
+        506.28
+      ]
+    },
+    {
+      "id": "49",
+      "iri": "http://webprotege.stanford.edu/projectOntology#Kidnapping",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "Kidnapping",
+        "undefined": "Kidnapping"
+      },
+      "pos": [
+        659.26,
+        -359.46
+      ]
+    },
+    {
+      "id": "5",
+      "iri": "http://webprotege.stanford.edu/projectOntology#Weather",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "Weather",
+        "undefined": "Weather"
+      },
+      "pos": [
+        -550.72,
+        320.65
+      ]
+    }
+  ],
+  "property": [
+    {
+      "id": "10",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "13",
+      "type": "owl:ObjectProperty"
+    },
+    {
+      "id": "16",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "19",
+      "type": "owl:ObjectProperty"
+    },
+    {
+      "id": "31",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "35",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "39",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "41",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "43",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "21",
+      "type": "owl:ObjectProperty"
+    },
+    {
+      "id": "56",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "57",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "60",
+      "type": "rdfs:subClassOf"
+    },
+    {
+      "id": "61",
+      "type": "owl:ObjectProperty"
+    },
+    {
+      "id": "62",
+      "type": "rdfs:subClassOf"
+    },
+    {
+      "id": "63",
+      "type": "rdfs:subClassOf"
+    },
+    {
+      "id": "64",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "66",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "68",
+      "type": "rdfs:subClassOf"
+    },
+    {
+      "id": "69",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "70",
+      "type": "rdfs:subClassOf"
+    },
+    {
+      "id": "71",
+      "type": "rdfs:subClassOf"
+    },
+    {
+      "id": "72",
+      "type": "rdfs:subClassOf"
+    },
+    {
+      "id": "74",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "75",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "76",
+      "type": "owl:ObjectProperty"
+    },
+    {
+      "id": "79",
+      "type": "owl:ObjectProperty"
+    },
+    {
+      "id": "80",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "85",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "88",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "89",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "90",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "91",
+      "type": "rdfs:subClassOf"
+    },
+    {
+      "id": "92",
+      "type": "rdfs:subClassOf"
+    },
+    {
+      "id": "93",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "94",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "95",
+      "type": "rdfs:subClassOf"
+    },
+    {
+      "id": "96",
+      "type": "rdfs:subClassOf"
+    },
+    {
+      "id": "97",
+      "type": "rdfs:subClassOf"
+    },
+    {
+      "id": "98",
+      "type": "rdfs:subClassOf"
+    },
+    {
+      "id": "99",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "100",
+      "type": "rdfs:subClassOf"
+    },
+    {
+      "id": "101",
+      "type": "rdfs:subClassOf"
+    },
+    {
+      "id": "102",
+      "type": "rdfs:subClassOf"
+    },
+    {
+      "id": "45",
+      "type": "owl:ObjectProperty"
+    },
+    {
+      "id": "103",
+      "type": "rdfs:subClassOf"
+    },
+    {
+      "id": "104",
+      "type": "rdfs:subClassOf"
+    },
+    {
+      "id": "105",
+      "type": "rdfs:subClassOf"
+    },
+    {
+      "id": "106",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "107",
+      "type": "rdfs:subClassOf"
+    },
+    {
+      "id": "108",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "109",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "111",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "113",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "115",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "117",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "118",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "119",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "120",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "122",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "123",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "124",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "125",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "126",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "127",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "GENERATED-UNION-73-34-0",
+      "type": "setOperatorProperty"
+    },
+    {
+      "id": "GENERATED-UNION-73-46-1",
+      "type": "setOperatorProperty"
+    }
+  ],
+  "propertyAttribute": [
+    {
+      "id": "10",
+      "iri": "http://webprotege.stanford.edu/projectOntology#YearValue",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "YearValue"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "domain": "11",
+      "range": "12",
+      "pos": [
+        -451.84,
+        -88.33
+      ]
+    },
+    {
+      "id": "13",
+      "iri": "http://webprotege.stanford.edu/projectOntology#adjacentTo",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "adjacentTo",
+        "undefined": "adjacentTo"
+      },
+      "attributes": [
+        "object",
+        "symmetric"
+      ],
+      "domain": "8",
+      "range": "8",
+      "pos": [
+        -31.96,
+        -986.3
+      ]
+    },
+    {
+      "id": "16",
+      "iri": "http://webprotege.stanford.edu/projectOntology#NumoOfAssaultsRelatingToDrugs",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "NumoOfAssaultsRelatingToDrugs"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "domain": "17",
+      "range": "18",
+      "pos": [
+        1049.02,
+        -722.36
+      ]
+    },
+    {
+      "id": "19",
+      "iri": "http://www.w3.org/2002/07/owl#topObjectProperty",
+      "baseIri": "http://www.w3.org/2002/07/owl",
+      "label": {
+        "IRI-based": "topObjectProperty"
+      },
+      "attributes": [
+        "external",
+        "object"
+      ],
+      "domain": "20",
+      "range": "20",
+      "subproperty": [
+        "21"
+      ],
+      "pos": [
+        868.17,
+        1976.17
+      ]
+    },
+    {
+      "id": "31",
+      "iri": "http://webprotege.stanford.edu/projectOntology#ModeGenderVictim",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "ModeGenderVictim"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "domain": "32",
+      "range": "33",
+      "pos": [
+        1035.89,
+        632.4
+      ]
+    },
+    {
+      "id": "35",
+      "iri": "http://webprotege.stanford.edu/projectOntology#45to64",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "45to64"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "domain": "7",
+      "range": "36",
+      "pos": [
+        374.5,
+        660.49
+      ]
+    },
+    {
+      "id": "39",
+      "iri": "http://webprotege.stanford.edu/projectOntology#AverageValueStolen",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "AverageValueStolen"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "domain": "40",
+      "range": "27",
+      "pos": [
+        1426.83,
+        574.49
+      ]
+    },
+    {
+      "id": "41",
+      "iri": "http://webprotege.stanford.edu/projectOntology#NumOfHomeless",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "NumOfHomeless",
+        "undefined": "NumOfHomeless"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "domain": "7",
+      "range": "42",
+      "pos": [
+        217.07,
+        856.37
+      ]
+    },
+    {
+      "id": "43",
+      "iri": "http://webprotege.stanford.edu/projectOntology#AverageCostOfDamages",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "AverageCostOfDamages"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "domain": "44",
+      "range": "28",
+      "pos": [
+        1569.63,
+        434.82
+      ]
+    },
+    {
+      "id": "21",
+      "iri": "http://webprotege.stanford.edu/projectOntology#nextYear",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "nextYear",
+        "undefined": "nextYear"
+      },
+      "attributes": [
+        "object",
+        "inverse functional"
+      ],
+      "domain": "11",
+      "range": "11",
+      "superproperty": [
+        "19"
+      ],
+      "inverse": "45",
+      "pos": [
+        -487.37,
+        -20.67
+      ]
+    },
+    {
+      "id": "56",
+      "iri": "http://webprotege.stanford.edu/projectOntology#SalaryValue",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "SalaryValue"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "domain": "6",
+      "range": "52",
+      "pos": [
+        -424.4,
+        603.95
+      ]
+    },
+    {
+      "id": "57",
+      "iri": "http://webprotege.stanford.edu/projectOntology#NumOfHomeless",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "NumOfHomeless",
+        "undefined": "NumOfHomeless"
+      },
+      "attributes": [
+        "someValues",
+        "datatype"
+      ],
+      "domain": "7",
+      "range": "58",
+      "pos": [
+        474.61,
+        953.36
+      ]
+    },
+    {
+      "id": "60",
+      "iri": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+      "baseIri": "http://www.w3.org/2000/01/rdf-schema#",
+      "label": "Subclass of",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "domain": "7",
+      "range": "3",
+      "pos": [
+        215.95,
+        561.67
+      ]
+    },
+    {
+      "id": "61",
+      "iri": "http://webprotege.stanford.edu/projectOntology#inArea",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "inArea"
+      },
+      "attributes": [
+        "object"
+      ],
+      "domain": "3",
+      "range": "9",
+      "pos": [
+        -31.94,
+        -16.58
+      ]
+    },
+    {
+      "id": "62",
+      "iri": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+      "baseIri": "http://www.w3.org/2000/01/rdf-schema#",
+      "label": "Subclass of",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "domain": "38",
+      "range": "9",
+      "pos": [
+        -317.54,
+        -459.62
+      ]
+    },
+    {
+      "id": "63",
+      "iri": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+      "baseIri": "http://www.w3.org/2000/01/rdf-schema#",
+      "label": "Subclass of",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "domain": "37",
+      "range": "9",
+      "pos": [
+        -223.76,
+        -513.78
+      ]
+    },
+    {
+      "id": "64",
+      "iri": "http://webprotege.stanford.edu/projectOntology#SalesVolume",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "SalesVolume",
+        "undefined": "SalesVolume"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "domain": "4",
+      "range": "65",
+      "pos": [
+        -147.91,
+        1311.99
+      ]
+    },
+    {
+      "id": "66",
+      "iri": "http://webprotege.stanford.edu/projectOntology#NumFemales",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "NumFemales"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "domain": "7",
+      "range": "67",
+      "pos": [
+        414.9,
+        984.93
+      ]
+    },
+    {
+      "id": "68",
+      "iri": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+      "baseIri": "http://www.w3.org/2000/01/rdf-schema#",
+      "label": "Subclass of",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "domain": "1",
+      "range": "3",
+      "pos": [
+        554.51,
+        145.59
+      ]
+    },
+    {
+      "id": "69",
+      "iri": "http://webprotege.stanford.edu/projectOntology#NumOfCrime",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "NumOfCrime",
+        "undefined": "NumOfCrime"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "domain": "1",
+      "range": "53",
+      "pos": [
+        877.45,
+        -42.76
+      ]
+    },
+    {
+      "id": "70",
+      "iri": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+      "baseIri": "http://www.w3.org/2000/01/rdf-schema#",
+      "label": "Subclass of",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "domain": "4",
+      "range": "3",
+      "pos": [
+        -19.27,
+        720.49
+      ]
+    },
+    {
+      "id": "71",
+      "iri": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+      "baseIri": "http://www.w3.org/2000/01/rdf-schema#",
+      "label": "Subclass of",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "domain": "6",
+      "range": "3",
+      "pos": [
+        -115.98,
+        408.05
+      ]
+    },
+    {
+      "id": "72",
+      "iri": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+      "baseIri": "http://www.w3.org/2000/01/rdf-schema#",
+      "label": "Subclass of",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "domain": "5",
+      "range": "3",
+      "pos": [
+        -238.99,
+        315.24
+      ]
+    },
+    {
+      "id": "74",
+      "iri": "http://webprotege.stanford.edu/projectOntology#MeanPrice",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "MeanPrice",
+        "undefined": "MeanPrice"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "domain": "4",
+      "range": "14",
+      "pos": [
+        -21.97,
+        1293.92
+      ]
+    },
+    {
+      "id": "75",
+      "iri": "http://webprotege.stanford.edu/projectOntology#AmountOfDrugsConfiscated",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "AmountOfDrugsConfiscated"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "domain": "23",
+      "range": "55",
+      "pos": [
+        786.52,
+        -679.24
+      ]
+    },
+    {
+      "id": "76",
+      "iri": "http://webprotege.stanford.edu/projectOntology#has",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "has"
+      },
+      "attributes": [
+        "object",
+        "transitive"
+      ],
+      "domain": "9",
+      "range": "9",
+      "pos": [
+        -60.06,
+        -480.97
+      ]
+    },
+    {
+      "id": "79",
+      "iri": "http://webprotege.stanford.edu/projectOntology#inYear",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "inYear",
+        "undefined": "inYear"
+      },
+      "attributes": [
+        "object"
+      ],
+      "domain": "3",
+      "range": "11",
+      "pos": [
+        -126.7,
+        159.18
+      ]
+    },
+    {
+      "id": "80",
+      "iri": "http://webprotege.stanford.edu/projectOntology#CountyName",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "CountyName"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "domain": "8",
+      "range": "81",
+      "pos": [
+        -150.39,
+        -989.68
+      ]
+    },
+    {
+      "id": "85",
+      "iri": "http://webprotege.stanford.edu/projectOntology#NumMales",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "NumMales"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "domain": "7",
+      "range": "24",
+      "pos": [
+        505.84,
+        891.42
+      ]
+    },
+    {
+      "id": "88",
+      "iri": "http://webprotege.stanford.edu/projectOntology#CrimeName",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "CrimeName",
+        "undefined": "CrimeName"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "domain": "1",
+      "range": "25",
+      "pos": [
+        950.34,
+        -174.68
+      ]
+    },
+    {
+      "id": "89",
+      "iri": "http://webprotege.stanford.edu/projectOntology#25to44",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "25to44"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "domain": "7",
+      "range": "86",
+      "pos": [
+        329.41,
+        973.86
+      ]
+    },
+    {
+      "id": "90",
+      "iri": "http://webprotege.stanford.edu/projectOntology#NumOfReportedArrests",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "NumOfReportedArrests"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "domain": "0",
+      "range": "87",
+      "pos": [
+        1666.25,
+        245.29
+      ]
+    },
+    {
+      "id": "91",
+      "iri": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+      "baseIri": "http://www.w3.org/2000/01/rdf-schema#",
+      "label": "Subclass of",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "domain": "50",
+      "range": "1",
+      "pos": [
+        1285.24,
+        -10.56
+      ]
+    },
+    {
+      "id": "92",
+      "iri": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+      "baseIri": "http://www.w3.org/2000/01/rdf-schema#",
+      "label": "Subclass of",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "domain": "23",
+      "range": "1",
+      "pos": [
+        939.18,
+        -267.04
+      ]
+    },
+    {
+      "id": "93",
+      "iri": "http://webprotege.stanford.edu/projectOntology#SalesValue",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "SalesValue",
+        "undefined": "SalesValue"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "domain": "4",
+      "range": "15",
+      "pos": [
+        16.81,
+        1244.62
+      ]
+    },
+    {
+      "id": "94",
+      "iri": "http://webprotege.stanford.edu/projectOntology#AverageAgeOfKidnapped",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "AverageAgeOfKidnapped"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "domain": "49",
+      "range": "30",
+      "pos": [
+        561.62,
+        -492.23
+      ]
+    },
+    {
+      "id": "95",
+      "iri": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+      "baseIri": "http://www.w3.org/2000/01/rdf-schema#",
+      "label": "Subclass of",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "domain": "49",
+      "range": "1",
+      "pos": [
+        847.77,
+        -189.06
+      ]
+    },
+    {
+      "id": "96",
+      "iri": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+      "baseIri": "http://www.w3.org/2000/01/rdf-schema#",
+      "label": "Subclass of",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "domain": "48",
+      "range": "1",
+      "pos": [
+        1109.75,
+        232.27
+      ]
+    },
+    {
+      "id": "97",
+      "iri": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+      "baseIri": "http://www.w3.org/2000/01/rdf-schema#",
+      "label": "Subclass of",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "domain": "40",
+      "range": "1",
+      "pos": [
+        1182.21,
+        203.16
+      ]
+    },
+    {
+      "id": "98",
+      "iri": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+      "baseIri": "http://www.w3.org/2000/01/rdf-schema#",
+      "label": "Subclass of",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "domain": "44",
+      "range": "1",
+      "pos": [
+        1238.07,
+        149.23
+      ]
+    },
+    {
+      "id": "99",
+      "iri": "http://webprotege.stanford.edu/projectOntology#ModeReportedWeapon",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "ModeReportedWeapon"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "domain": "73",
+      "range": "59",
+      "pos": [
+        1583.82,
+        -911.89
+      ]
+    },
+    {
+      "id": "100",
+      "iri": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+      "baseIri": "http://www.w3.org/2000/01/rdf-schema#",
+      "label": "Subclass of",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "domain": "46",
+      "range": "1",
+      "pos": [
+        1145.58,
+        -246.32
+      ]
+    },
+    {
+      "id": "101",
+      "iri": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+      "baseIri": "http://www.w3.org/2000/01/rdf-schema#",
+      "label": "Subclass of",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "domain": "17",
+      "range": "1",
+      "pos": [
+        1041.04,
+        -284.66
+      ]
+    },
+    {
+      "id": "102",
+      "iri": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+      "baseIri": "http://www.w3.org/2000/01/rdf-schema#",
+      "label": "Subclass of",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "domain": "47",
+      "range": "1",
+      "pos": [
+        1275.55,
+        -112.36
+      ]
+    },
+    {
+      "id": "45",
+      "iri": "http://webprotege.stanford.edu/projectOntology#previousYear",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "previousYear",
+        "undefined": "previousYear"
+      },
+      "attributes": [
+        "object",
+        "inverse functional"
+      ],
+      "domain": "11",
+      "range": "11",
+      "inverse": "21"
+    },
+    {
+      "id": "103",
+      "iri": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+      "baseIri": "http://www.w3.org/2000/01/rdf-schema#",
+      "label": "Subclass of",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "domain": "0",
+      "range": "1",
+      "pos": [
+        1274.64,
+        77.41
+      ]
+    },
+    {
+      "id": "104",
+      "iri": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+      "baseIri": "http://www.w3.org/2000/01/rdf-schema#",
+      "label": "Subclass of",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "domain": "8",
+      "range": "9",
+      "pos": [
+        -122.87,
+        -592.31
+      ]
+    },
+    {
+      "id": "105",
+      "iri": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+      "baseIri": "http://www.w3.org/2000/01/rdf-schema#",
+      "label": "Subclass of",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "domain": "34",
+      "range": "1",
+      "pos": [
+        1196.42,
+        -214.85
+      ]
+    },
+    {
+      "id": "106",
+      "iri": "http://webprotege.stanford.edu/projectOntology#DamagesToPublicProperty",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "DamagesToPublicProperty"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "domain": "48",
+      "range": "29",
+      "pos": [
+        1245.29,
+        652.08
+      ]
+    },
+    {
+      "id": "107",
+      "iri": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+      "baseIri": "http://www.w3.org/2000/01/rdf-schema#",
+      "label": "Subclass of",
+      "attributes": [
+        "anonymous",
+        "object"
+      ],
+      "domain": "32",
+      "range": "1",
+      "pos": [
+        1022.26,
+        222.71
+      ]
+    },
+    {
+      "id": "108",
+      "iri": "http://webprotege.stanford.edu/projectOntology#65plus",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "65plus"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "domain": "7",
+      "range": "26",
+      "pos": [
+        233.59,
+        735.43
+      ]
+    },
+    {
+      "id": "109",
+      "iri": "http://webprotege.stanford.edu/projectOntology#NumOfCrime",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "NumOfCrime",
+        "undefined": "NumOfCrime"
+      },
+      "attributes": [
+        "someValues",
+        "datatype"
+      ],
+      "domain": "1",
+      "range": "110",
+      "pos": [
+        907.42,
+        56.96
+      ]
+    },
+    {
+      "id": "111",
+      "iri": "http://webprotege.stanford.edu/projectOntology#SalesVolume",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "SalesVolume",
+        "undefined": "SalesVolume"
+      },
+      "attributes": [
+        "someValues",
+        "datatype"
+      ],
+      "domain": "4",
+      "range": "112",
+      "pos": [
+        -257.02,
+        1214.54
+      ]
+    },
+    {
+      "id": "113",
+      "iri": "http://webprotege.stanford.edu/projectOntology#SalesValue",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "SalesValue",
+        "undefined": "SalesValue"
+      },
+      "attributes": [
+        "someValues",
+        "datatype"
+      ],
+      "domain": "4",
+      "range": "114",
+      "pos": [
+        -211.88,
+        1280.16
+      ]
+    },
+    {
+      "id": "115",
+      "iri": "http://webprotege.stanford.edu/projectOntology#MeanPrice",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "MeanPrice",
+        "undefined": "MeanPrice"
+      },
+      "attributes": [
+        "someValues",
+        "datatype"
+      ],
+      "domain": "4",
+      "range": "116",
+      "pos": [
+        -268.29,
+        1138.34
+      ]
+    },
+    {
+      "id": "117",
+      "iri": "http://webprotege.stanford.edu/projectOntology#AverageGreatestRainfall",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "AverageGreatestRainfall"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "domain": "5",
+      "range": "2",
+      "pos": [
+        -669.52,
+        437.07
+      ]
+    },
+    {
+      "id": "118",
+      "iri": "http://webprotege.stanford.edu/projectOntology#NumOfWetDays",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "NumOfWetDays"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "domain": "5",
+      "range": "77",
+      "pos": [
+        -712.59,
+        295.62
+      ]
+    },
+    {
+      "id": "119",
+      "iri": "http://webprotege.stanford.edu/projectOntology#NumOfRainDays",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "NumOfRainDays"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "domain": "5",
+      "range": "84",
+      "pos": [
+        -681.45,
+        223.11
+      ]
+    },
+    {
+      "id": "120",
+      "iri": "http://webprotege.stanford.edu/projectOntology#CrimeName",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "CrimeName",
+        "undefined": "CrimeName"
+      },
+      "attributes": [
+        "someValues",
+        "datatype"
+      ],
+      "domain": "1",
+      "range": "121",
+      "pos": [
+        1171.71,
+        -111.6
+      ]
+    },
+    {
+      "id": "122",
+      "iri": "http://webprotege.stanford.edu/projectOntology#ModeVehiclesReported",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "ModeVehiclesReported"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "domain": "50",
+      "range": "78",
+      "pos": [
+        1693.49,
+        11.11
+      ]
+    },
+    {
+      "id": "123",
+      "iri": "http://webprotege.stanford.edu/projectOntology#NumOfCaseRelatingToDomesticHarm",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "NumOfCaseRelatingToDomesticHarm"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "domain": "47",
+      "range": "83",
+      "pos": [
+        1670.81,
+        -254.28
+      ]
+    },
+    {
+      "id": "124",
+      "iri": "http://webprotege.stanford.edu/projectOntology#DivisionName",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "DivisionName"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "domain": "38",
+      "range": "82",
+      "pos": [
+        -616.25,
+        -661.87
+      ]
+    },
+    {
+      "id": "125",
+      "iri": "http://webprotege.stanford.edu/projectOntology#HousingPricesType",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "HousingPricesType"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "domain": "4",
+      "range": "54",
+      "pos": [
+        -80.86,
+        1315.26
+      ]
+    },
+    {
+      "id": "126",
+      "iri": "http://webprotege.stanford.edu/projectOntology#18to24",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "18to24"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "domain": "7",
+      "range": "51",
+      "pos": [
+        503.92,
+        784.4
+      ]
+    },
+    {
+      "id": "127",
+      "iri": "http://webprotege.stanford.edu/projectOntology#Rainfall",
+      "baseIri": "http://webprotege.stanford.edu/projectOntology",
+      "label": {
+        "IRI-based": "Rainfall"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "domain": "5",
+      "range": "22",
+      "pos": [
+        -705.88,
+        370.97
+      ]
+    },
+    {
+      "id": "GENERATED-UNION-73-34-0",
+      "domain": "73",
+      "range": "34",
+      "pos": [
+        1438.72,
+        -593.9
+      ]
+    },
+    {
+      "id": "GENERATED-UNION-73-46-1",
+      "domain": "73",
+      "range": "46",
+      "pos": [
+        1387.88,
+        -625.37
+      ]
+    }
+  ]
+}

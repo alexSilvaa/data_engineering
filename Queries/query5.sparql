@@ -1,0 +1,26 @@
+PREFIX db: <http://dbpedia.org/ontology/>
+PREFIX ont: <http://webprotege.stanford.edu/projectOntology#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> 
+                       
+SELECT ?price_dub_2010 ?price_dub_2016 ?sal_dub_2010 ?sal_dub_2016
+WHERE{
+    ?x ont:MeanPrice ?price_dub_2010 .
+    ?x db:Year '2010' .
+    ?z ont:MeanPrice ?price_dub_2016 .
+    ?z db:Year '2016' .
+    ?x ont:HousingPricesType 'Execution'.
+    ?x ont:CountyName  '§0' .
+    ?z ont:CountyName  '§0' .
+    ?z ont:HousingPricesType 'Execution'.
+    ?a ont:SalaryValue ?sal_dub_2010 .
+    ?b ont:SalaryValue ?sal_dub_2016 .
+{ SELECT ?sal_dub_2010 ?sal_dub_2016
+WHERE{
+    ?a ont:SalaryValue ?sal_dub_2010 .
+    ?a db:Year '2010' . 
+    ?b ont:SalaryValue ?sal_dub_2016 .
+    ?b db:Year '2016' . 
+    ?a ont:CountyName  '§0' .
+    ?b ont:CountyName  '§0' .
+}}.
+}

@@ -1,0 +1,919 @@
+count,county,crime,division,year
+91.0,Donegal,Sexual offences,Donegal Garda Division,2003
+79.0,Donegal,Sexual offences,Donegal Garda Division,2004
+62.0,Donegal,Sexual offences,Donegal Garda Division,2005
+70.0,Donegal,Sexual offences,Donegal Garda Division,2006
+75.0,Donegal,Sexual offences,Donegal Garda Division,2007
+71.0,Donegal,Sexual offences,Donegal Garda Division,2008
+50.0,Donegal,Sexual offences,Donegal Garda Division,2009
+94.0,Donegal,Sexual offences,Donegal Garda Division,2010
+74.0,Donegal,Sexual offences,Donegal Garda Division,2011
+79.0,Donegal,Sexual offences,Donegal Garda Division,2012
+77.0,Donegal,Sexual offences,Donegal Garda Division,2013
+80.0,Donegal,Sexual offences,Donegal Garda Division,2014
+90.0,Donegal,Sexual offences,Donegal Garda Division,2015
+109.0,Donegal,Sexual offences,Donegal Garda Division,2016
+101.0,Donegal,Sexual offences,Donegal Garda Division,2017
+130.0,Donegal,Sexual offences,Donegal Garda Division,2018
+228.0,Donegal,Sexual offences,Donegal Garda Division,2019
+47.0,Louth,Sexual offences,Louth  Garda Division,2003
+38.0,Louth,Sexual offences,Louth  Garda Division,2004
+56.0,Louth,Sexual offences,Louth  Garda Division,2005
+43.0,Louth,Sexual offences,Louth  Garda Division,2006
+47.0,Louth,Sexual offences,Louth  Garda Division,2007
+39.0,Louth,Sexual offences,Louth  Garda Division,2008
+144.0,Louth,Sexual offences,Louth  Garda Division,2009
+71.0,Louth,Sexual offences,Louth  Garda Division,2010
+67.0,Louth,Sexual offences,Louth  Garda Division,2011
+104.0,Louth,Sexual offences,Louth  Garda Division,2012
+56.0,Louth,Sexual offences,Louth  Garda Division,2013
+55.0,Louth,Sexual offences,Louth  Garda Division,2014
+60.0,Louth,Sexual offences,Louth  Garda Division,2015
+80.0,Louth,Sexual offences,Louth  Garda Division,2016
+105.0,Louth,Sexual offences,Louth  Garda Division,2017
+119.0,Louth,Sexual offences,Louth  Garda Division,2018
+192.0,Louth,Sexual offences,Louth  Garda Division,2019
+45.0,Clare,Sexual offences,Clare Garda Division,2003
+46.0,Clare,Sexual offences,Clare Garda Division,2004
+25.0,Clare,Sexual offences,Clare Garda Division,2005
+38.0,Clare,Sexual offences,Clare Garda Division,2006
+33.0,Clare,Sexual offences,Clare Garda Division,2007
+23.0,Clare,Sexual offences,Clare Garda Division,2008
+29.0,Clare,Sexual offences,Clare Garda Division,2009
+54.0,Clare,Sexual offences,Clare Garda Division,2010
+46.0,Clare,Sexual offences,Clare Garda Division,2011
+45.0,Clare,Sexual offences,Clare Garda Division,2012
+36.0,Clare,Sexual offences,Clare Garda Division,2013
+46.0,Clare,Sexual offences,Clare Garda Division,2014
+50.0,Clare,Sexual offences,Clare Garda Division,2015
+44.0,Clare,Sexual offences,Clare Garda Division,2016
+55.0,Clare,Sexual offences,Clare Garda Division,2017
+54.0,Clare,Sexual offences,Clare Garda Division,2018
+94.0,Clare,Sexual offences,Clare Garda Division,2019
+23.0,Mayo,Sexual offences,Mayo Garda Division,2003
+38.0,Mayo,Sexual offences,Mayo Garda Division,2004
+46.0,Mayo,Sexual offences,Mayo Garda Division,2005
+32.0,Mayo,Sexual offences,Mayo Garda Division,2006
+26.0,Mayo,Sexual offences,Mayo Garda Division,2007
+23.0,Mayo,Sexual offences,Mayo Garda Division,2008
+27.0,Mayo,Sexual offences,Mayo Garda Division,2009
+51.0,Mayo,Sexual offences,Mayo Garda Division,2010
+31.0,Mayo,Sexual offences,Mayo Garda Division,2011
+36.0,Mayo,Sexual offences,Mayo Garda Division,2012
+45.0,Mayo,Sexual offences,Mayo Garda Division,2013
+36.0,Mayo,Sexual offences,Mayo Garda Division,2014
+60.0,Mayo,Sexual offences,Mayo Garda Division,2015
+64.0,Mayo,Sexual offences,Mayo Garda Division,2016
+61.0,Mayo,Sexual offences,Mayo Garda Division,2017
+61.0,Mayo,Sexual offences,Mayo Garda Division,2018
+118.0,Mayo,Sexual offences,Mayo Garda Division,2019
+70.0,Galway,Sexual offences,Galway Garda Division,2003
+76.0,Galway,Sexual offences,Galway Garda Division,2004
+70.0,Galway,Sexual offences,Galway Garda Division,2005
+43.0,Galway,Sexual offences,Galway Garda Division,2006
+64.0,Galway,Sexual offences,Galway Garda Division,2007
+54.0,Galway,Sexual offences,Galway Garda Division,2008
+68.0,Galway,Sexual offences,Galway Garda Division,2009
+108.0,Galway,Sexual offences,Galway Garda Division,2010
+88.0,Galway,Sexual offences,Galway Garda Division,2011
+87.0,Galway,Sexual offences,Galway Garda Division,2012
+94.0,Galway,Sexual offences,Galway Garda Division,2013
+91.0,Galway,Sexual offences,Galway Garda Division,2014
+98.0,Galway,Sexual offences,Galway Garda Division,2015
+120.0,Galway,Sexual offences,Galway Garda Division,2016
+128.0,Galway,Sexual offences,Galway Garda Division,2017
+147.0,Galway,Sexual offences,Galway Garda Division,2018
+273.0,Galway,Sexual offences,Galway Garda Division,2019
+80.0,Cork,Sexual offences,Cork City Garda Division,2003
+88.0,Cork,Sexual offences,Cork City Garda Division,2004
+89.0,Cork,Sexual offences,Cork City Garda Division,2005
+81.0,Cork,Sexual offences,Cork City Garda Division,2006
+62.0,Cork,Sexual offences,Cork City Garda Division,2007
+97.0,Cork,Sexual offences,Cork City Garda Division,2008
+90.0,Cork,Sexual offences,Cork City Garda Division,2009
+125.0,Cork,Sexual offences,Cork City Garda Division,2010
+103.0,Cork,Sexual offences,Cork City Garda Division,2011
+109.0,Cork,Sexual offences,Cork City Garda Division,2012
+96.0,Cork,Sexual offences,Cork City Garda Division,2013
+108.0,Cork,Sexual offences,Cork City Garda Division,2014
+113.0,Cork,Sexual offences,Cork City Garda Division,2015
+110.0,Cork,Sexual offences,Cork City Garda Division,2016
+216.0,Cork,Sexual offences,Cork City Garda Division,2017
+213.0,Cork,Sexual offences,Cork City Garda Division,2018
+385.0,Cork,Sexual offences,Cork City Garda Division,2019
+40.0,Cork,Sexual offences,Cork North Garda Division,2003
+16.0,Cork,Sexual offences,Cork North Garda Division,2004
+28.0,Cork,Sexual offences,Cork North Garda Division,2005
+43.0,Cork,Sexual offences,Cork North Garda Division,2006
+32.0,Cork,Sexual offences,Cork North Garda Division,2007
+27.0,Cork,Sexual offences,Cork North Garda Division,2008
+27.0,Cork,Sexual offences,Cork North Garda Division,2009
+63.0,Cork,Sexual offences,Cork North Garda Division,2010
+63.0,Cork,Sexual offences,Cork North Garda Division,2011
+53.0,Cork,Sexual offences,Cork North Garda Division,2012
+60.0,Cork,Sexual offences,Cork North Garda Division,2013
+61.0,Cork,Sexual offences,Cork North Garda Division,2014
+75.0,Cork,Sexual offences,Cork North Garda Division,2015
+64.0,Cork,Sexual offences,Cork North Garda Division,2016
+94.0,Cork,Sexual offences,Cork North Garda Division,2017
+87.0,Cork,Sexual offences,Cork North Garda Division,2018
+171.0,Cork,Sexual offences,Cork North Garda Division,2019
+25.0,Cork,Sexual offences,Cork West Garda Division,2003
+34.0,Cork,Sexual offences,Cork West Garda Division,2004
+30.0,Cork,Sexual offences,Cork West Garda Division,2005
+26.0,Cork,Sexual offences,Cork West Garda Division,2006
+15.0,Cork,Sexual offences,Cork West Garda Division,2007
+25.0,Cork,Sexual offences,Cork West Garda Division,2008
+33.0,Cork,Sexual offences,Cork West Garda Division,2009
+40.0,Cork,Sexual offences,Cork West Garda Division,2010
+45.0,Cork,Sexual offences,Cork West Garda Division,2011
+41.0,Cork,Sexual offences,Cork West Garda Division,2012
+26.0,Cork,Sexual offences,Cork West Garda Division,2013
+32.0,Cork,Sexual offences,Cork West Garda Division,2014
+38.0,Cork,Sexual offences,Cork West Garda Division,2015
+55.0,Cork,Sexual offences,Cork West Garda Division,2016
+73.0,Cork,Sexual offences,Cork West Garda Division,2017
+67.0,Cork,Sexual offences,Cork West Garda Division,2018
+120.0,Cork,Sexual offences,Cork West Garda Division,2019
+48.0,Kerry,Sexual offences,Kerry Garda Division,2003
+65.0,Kerry,Sexual offences,Kerry Garda Division,2004
+47.0,Kerry,Sexual offences,Kerry Garda Division,2005
+55.0,Kerry,Sexual offences,Kerry Garda Division,2006
+37.0,Kerry,Sexual offences,Kerry Garda Division,2007
+29.0,Kerry,Sexual offences,Kerry Garda Division,2008
+36.0,Kerry,Sexual offences,Kerry Garda Division,2009
+126.0,Kerry,Sexual offences,Kerry Garda Division,2010
+62.0,Kerry,Sexual offences,Kerry Garda Division,2011
+59.0,Kerry,Sexual offences,Kerry Garda Division,2012
+45.0,Kerry,Sexual offences,Kerry Garda Division,2013
+58.0,Kerry,Sexual offences,Kerry Garda Division,2014
+71.0,Kerry,Sexual offences,Kerry Garda Division,2015
+56.0,Kerry,Sexual offences,Kerry Garda Division,2016
+74.0,Kerry,Sexual offences,Kerry Garda Division,2017
+95.0,Kerry,Sexual offences,Kerry Garda Division,2018
+189.0,Kerry,Sexual offences,Kerry Garda Division,2019
+62.0,Limerick,Sexual offences,Limerick Garda Division,2003
+74.0,Limerick,Sexual offences,Limerick Garda Division,2004
+60.0,Limerick,Sexual offences,Limerick Garda Division,2005
+57.0,Limerick,Sexual offences,Limerick Garda Division,2006
+87.0,Limerick,Sexual offences,Limerick Garda Division,2007
+76.0,Limerick,Sexual offences,Limerick Garda Division,2008
+83.0,Limerick,Sexual offences,Limerick Garda Division,2009
+103.0,Limerick,Sexual offences,Limerick Garda Division,2010
+127.0,Limerick,Sexual offences,Limerick Garda Division,2011
+151.0,Limerick,Sexual offences,Limerick Garda Division,2012
+87.0,Limerick,Sexual offences,Limerick Garda Division,2013
+70.0,Limerick,Sexual offences,Limerick Garda Division,2014
+122.0,Limerick,Sexual offences,Limerick Garda Division,2015
+120.0,Limerick,Sexual offences,Limerick Garda Division,2016
+123.0,Limerick,Sexual offences,Limerick Garda Division,2017
+133.0,Limerick,Sexual offences,Limerick Garda Division,2018
+252.0,Limerick,Sexual offences,Limerick Garda Division,2019
+37.0,Meath,Sexual offences,Meath  Garda Division,2003
+29.0,Meath,Sexual offences,Meath  Garda Division,2004
+39.0,Meath,Sexual offences,Meath  Garda Division,2005
+38.0,Meath,Sexual offences,Meath  Garda Division,2006
+34.0,Meath,Sexual offences,Meath  Garda Division,2007
+27.0,Meath,Sexual offences,Meath  Garda Division,2008
+53.0,Meath,Sexual offences,Meath  Garda Division,2009
+53.0,Meath,Sexual offences,Meath  Garda Division,2010
+56.0,Meath,Sexual offences,Meath  Garda Division,2011
+54.0,Meath,Sexual offences,Meath  Garda Division,2012
+55.0,Meath,Sexual offences,Meath  Garda Division,2013
+74.0,Meath,Sexual offences,Meath  Garda Division,2014
+65.0,Meath,Sexual offences,Meath  Garda Division,2015
+69.0,Meath,Sexual offences,Meath  Garda Division,2016
+83.0,Meath,Sexual offences,Meath  Garda Division,2017
+94.0,Meath,Sexual offences,Meath  Garda Division,2018
+147.0,Meath,Sexual offences,Meath  Garda Division,2019
+45.0,Wicklow,Sexual offences,Wicklow  Garda Division,2003
+53.0,Wicklow,Sexual offences,Wicklow  Garda Division,2004
+52.0,Wicklow,Sexual offences,Wicklow  Garda Division,2005
+34.0,Wicklow,Sexual offences,Wicklow  Garda Division,2006
+35.0,Wicklow,Sexual offences,Wicklow  Garda Division,2007
+33.0,Wicklow,Sexual offences,Wicklow  Garda Division,2008
+40.0,Wicklow,Sexual offences,Wicklow  Garda Division,2009
+61.0,Wicklow,Sexual offences,Wicklow  Garda Division,2010
+45.0,Wicklow,Sexual offences,Wicklow  Garda Division,2011
+62.0,Wicklow,Sexual offences,Wicklow  Garda Division,2012
+60.0,Wicklow,Sexual offences,Wicklow  Garda Division,2013
+65.0,Wicklow,Sexual offences,Wicklow  Garda Division,2014
+72.0,Wicklow,Sexual offences,Wicklow  Garda Division,2015
+83.0,Wicklow,Sexual offences,Wicklow  Garda Division,2016
+82.0,Wicklow,Sexual offences,Wicklow  Garda Division,2017
+105.0,Wicklow,Sexual offences,Wicklow  Garda Division,2018
+189.0,Wicklow,Sexual offences,Wicklow  Garda Division,2019
+22.0,Westmeath,Sexual offences,Westmeath  Garda Division,2003
+42.0,Westmeath,Sexual offences,Westmeath  Garda Division,2004
+34.0,Westmeath,Sexual offences,Westmeath  Garda Division,2005
+23.0,Westmeath,Sexual offences,Westmeath  Garda Division,2006
+30.0,Westmeath,Sexual offences,Westmeath  Garda Division,2007
+28.0,Westmeath,Sexual offences,Westmeath  Garda Division,2008
+27.0,Westmeath,Sexual offences,Westmeath  Garda Division,2009
+33.0,Westmeath,Sexual offences,Westmeath  Garda Division,2010
+36.0,Westmeath,Sexual offences,Westmeath  Garda Division,2011
+29.0,Westmeath,Sexual offences,Westmeath  Garda Division,2012
+39.0,Westmeath,Sexual offences,Westmeath  Garda Division,2013
+29.0,Westmeath,Sexual offences,Westmeath  Garda Division,2014
+28.0,Westmeath,Sexual offences,Westmeath  Garda Division,2015
+40.0,Westmeath,Sexual offences,Westmeath  Garda Division,2016
+52.0,Westmeath,Sexual offences,Westmeath  Garda Division,2017
+64.0,Westmeath,Sexual offences,Westmeath  Garda Division,2018
+119.0,Westmeath,Sexual offences,Westmeath  Garda Division,2019
+54.0,Kildare,Sexual offences,Kildare  Garda Division,2003
+49.0,Kildare,Sexual offences,Kildare  Garda Division,2004
+54.0,Kildare,Sexual offences,Kildare  Garda Division,2005
+55.0,Kildare,Sexual offences,Kildare  Garda Division,2006
+55.0,Kildare,Sexual offences,Kildare  Garda Division,2007
+53.0,Kildare,Sexual offences,Kildare  Garda Division,2008
+59.0,Kildare,Sexual offences,Kildare  Garda Division,2009
+104.0,Kildare,Sexual offences,Kildare  Garda Division,2010
+80.0,Kildare,Sexual offences,Kildare  Garda Division,2011
+64.0,Kildare,Sexual offences,Kildare  Garda Division,2012
+83.0,Kildare,Sexual offences,Kildare  Garda Division,2013
+95.0,Kildare,Sexual offences,Kildare  Garda Division,2014
+94.0,Kildare,Sexual offences,Kildare  Garda Division,2015
+124.0,Kildare,Sexual offences,Kildare  Garda Division,2016
+101.0,Kildare,Sexual offences,Kildare  Garda Division,2017
+101.0,Kildare,Sexual offences,Kildare  Garda Division,2018
+188.0,Kildare,Sexual offences,Kildare  Garda Division,2019
+42.0,Tipperary,Sexual offences,Tipperary Garda Division,2003
+39.0,Tipperary,Sexual offences,Tipperary Garda Division,2004
+76.0,Tipperary,Sexual offences,Tipperary Garda Division,2005
+61.0,Tipperary,Sexual offences,Tipperary Garda Division,2006
+39.0,Tipperary,Sexual offences,Tipperary Garda Division,2007
+38.0,Tipperary,Sexual offences,Tipperary Garda Division,2008
+52.0,Tipperary,Sexual offences,Tipperary Garda Division,2009
+95.0,Tipperary,Sexual offences,Tipperary Garda Division,2010
+55.0,Tipperary,Sexual offences,Tipperary Garda Division,2011
+62.0,Tipperary,Sexual offences,Tipperary Garda Division,2012
+61.0,Tipperary,Sexual offences,Tipperary Garda Division,2013
+63.0,Tipperary,Sexual offences,Tipperary Garda Division,2014
+61.0,Tipperary,Sexual offences,Tipperary Garda Division,2015
+75.0,Tipperary,Sexual offences,Tipperary Garda Division,2016
+89.0,Tipperary,Sexual offences,Tipperary Garda Division,2017
+94.0,Tipperary,Sexual offences,Tipperary Garda Division,2018
+156.0,Tipperary,Sexual offences,Tipperary Garda Division,2019
+53.0,Wexford,Sexual offences,Wexford  Garda Division,2003
+42.0,Wexford,Sexual offences,Wexford  Garda Division,2004
+68.0,Wexford,Sexual offences,Wexford  Garda Division,2005
+55.0,Wexford,Sexual offences,Wexford  Garda Division,2006
+54.0,Wexford,Sexual offences,Wexford  Garda Division,2007
+31.0,Wexford,Sexual offences,Wexford  Garda Division,2008
+43.0,Wexford,Sexual offences,Wexford  Garda Division,2009
+60.0,Wexford,Sexual offences,Wexford  Garda Division,2010
+60.0,Wexford,Sexual offences,Wexford  Garda Division,2011
+62.0,Wexford,Sexual offences,Wexford  Garda Division,2012
+62.0,Wexford,Sexual offences,Wexford  Garda Division,2013
+68.0,Wexford,Sexual offences,Wexford  Garda Division,2014
+81.0,Wexford,Sexual offences,Wexford  Garda Division,2015
+82.0,Wexford,Sexual offences,Wexford  Garda Division,2016
+94.0,Wexford,Sexual offences,Wexford  Garda Division,2017
+123.0,Wexford,Sexual offences,Wexford  Garda Division,2018
+196.0,Wexford,Sexual offences,Wexford  Garda Division,2019
+77.0,Waterford,Sexual offences,Waterford  Garda Division,2003
+35.0,Waterford,Sexual offences,Waterford  Garda Division,2004
+53.0,Waterford,Sexual offences,Waterford  Garda Division,2005
+76.0,Waterford,Sexual offences,Waterford  Garda Division,2006
+38.0,Waterford,Sexual offences,Waterford  Garda Division,2007
+59.0,Waterford,Sexual offences,Waterford  Garda Division,2008
+54.0,Waterford,Sexual offences,Waterford  Garda Division,2009
+55.0,Waterford,Sexual offences,Waterford  Garda Division,2010
+50.0,Waterford,Sexual offences,Waterford  Garda Division,2011
+55.0,Waterford,Sexual offences,Waterford  Garda Division,2012
+70.0,Waterford,Sexual offences,Waterford  Garda Division,2013
+71.0,Waterford,Sexual offences,Waterford  Garda Division,2014
+63.0,Waterford,Sexual offences,Waterford  Garda Division,2015
+66.0,Waterford,Sexual offences,Waterford  Garda Division,2016
+98.0,Waterford,Sexual offences,Waterford  Garda Division,2017
+113.0,Waterford,Sexual offences,Waterford  Garda Division,2018
+201.0,Waterford,Sexual offences,Waterford  Garda Division,2019
+515.0,Dublin,Sexual offences,Dublin Region,2003
+448.0,Dublin,Sexual offences,Dublin Region,2004
+479.0,Dublin,Sexual offences,Dublin Region,2005
+434.0,Dublin,Sexual offences,Dublin Region,2006
+420.0,Dublin,Sexual offences,Dublin Region,2007
+391.0,Dublin,Sexual offences,Dublin Region,2008
+445.0,Dublin,Sexual offences,Dublin Region,2009
+673.0,Dublin,Sexual offences,Dublin Region,2010
+604.0,Dublin,Sexual offences,Dublin Region,2011
+572.0,Dublin,Sexual offences,Dublin Region,2012
+601.0,Dublin,Sexual offences,Dublin Region,2013
+618.0,Dublin,Sexual offences,Dublin Region,2014
+751.0,Dublin,Sexual offences,Dublin Region,2015
+837.0,Dublin,Sexual offences,Dublin Region,2016
+873.0,Dublin,Sexual offences,Dublin Region,2017
+959.0,Dublin,Sexual offences,Dublin Region,2018
+1733.0,Dublin,Sexual offences,Dublin Region,2019
+90.0,Donegal,Rape and sexual assault,Donegal Garda Division,2003
+77.0,Donegal,Rape and sexual assault,Donegal Garda Division,2004
+58.0,Donegal,Rape and sexual assault,Donegal Garda Division,2005
+68.0,Donegal,Rape and sexual assault,Donegal Garda Division,2006
+73.0,Donegal,Rape and sexual assault,Donegal Garda Division,2007
+69.0,Donegal,Rape and sexual assault,Donegal Garda Division,2008
+49.0,Donegal,Rape and sexual assault,Donegal Garda Division,2009
+89.0,Donegal,Rape and sexual assault,Donegal Garda Division,2010
+72.0,Donegal,Rape and sexual assault,Donegal Garda Division,2011
+72.0,Donegal,Rape and sexual assault,Donegal Garda Division,2012
+71.0,Donegal,Rape and sexual assault,Donegal Garda Division,2013
+71.0,Donegal,Rape and sexual assault,Donegal Garda Division,2014
+84.0,Donegal,Rape and sexual assault,Donegal Garda Division,2015
+96.0,Donegal,Rape and sexual assault,Donegal Garda Division,2016
+85.0,Donegal,Rape and sexual assault,Donegal Garda Division,2017
+117.0,Donegal,Rape and sexual assault,Donegal Garda Division,2018
+201.0,Donegal,Rape and sexual assault,Donegal Garda Division,2019
+44.0,Louth,Rape and sexual assault,Louth  Garda Division,2003
+38.0,Louth,Rape and sexual assault,Louth  Garda Division,2004
+51.0,Louth,Rape and sexual assault,Louth  Garda Division,2005
+41.0,Louth,Rape and sexual assault,Louth  Garda Division,2006
+44.0,Louth,Rape and sexual assault,Louth  Garda Division,2007
+36.0,Louth,Rape and sexual assault,Louth  Garda Division,2008
+138.0,Louth,Rape and sexual assault,Louth  Garda Division,2009
+64.0,Louth,Rape and sexual assault,Louth  Garda Division,2010
+57.0,Louth,Rape and sexual assault,Louth  Garda Division,2011
+96.0,Louth,Rape and sexual assault,Louth  Garda Division,2012
+52.0,Louth,Rape and sexual assault,Louth  Garda Division,2013
+53.0,Louth,Rape and sexual assault,Louth  Garda Division,2014
+56.0,Louth,Rape and sexual assault,Louth  Garda Division,2015
+66.0,Louth,Rape and sexual assault,Louth  Garda Division,2016
+85.0,Louth,Rape and sexual assault,Louth  Garda Division,2017
+106.0,Louth,Rape and sexual assault,Louth  Garda Division,2018
+173.0,Louth,Rape and sexual assault,Louth  Garda Division,2019
+42.0,Clare,Rape and sexual assault,Clare Garda Division,2003
+45.0,Clare,Rape and sexual assault,Clare Garda Division,2004
+24.0,Clare,Rape and sexual assault,Clare Garda Division,2005
+36.0,Clare,Rape and sexual assault,Clare Garda Division,2006
+32.0,Clare,Rape and sexual assault,Clare Garda Division,2007
+21.0,Clare,Rape and sexual assault,Clare Garda Division,2008
+29.0,Clare,Rape and sexual assault,Clare Garda Division,2009
+52.0,Clare,Rape and sexual assault,Clare Garda Division,2010
+43.0,Clare,Rape and sexual assault,Clare Garda Division,2011
+43.0,Clare,Rape and sexual assault,Clare Garda Division,2012
+31.0,Clare,Rape and sexual assault,Clare Garda Division,2013
+42.0,Clare,Rape and sexual assault,Clare Garda Division,2014
+43.0,Clare,Rape and sexual assault,Clare Garda Division,2015
+42.0,Clare,Rape and sexual assault,Clare Garda Division,2016
+48.0,Clare,Rape and sexual assault,Clare Garda Division,2017
+43.0,Clare,Rape and sexual assault,Clare Garda Division,2018
+77.0,Clare,Rape and sexual assault,Clare Garda Division,2019
+22.0,Mayo,Rape and sexual assault,Mayo Garda Division,2003
+38.0,Mayo,Rape and sexual assault,Mayo Garda Division,2004
+45.0,Mayo,Rape and sexual assault,Mayo Garda Division,2005
+31.0,Mayo,Rape and sexual assault,Mayo Garda Division,2006
+24.0,Mayo,Rape and sexual assault,Mayo Garda Division,2007
+23.0,Mayo,Rape and sexual assault,Mayo Garda Division,2008
+26.0,Mayo,Rape and sexual assault,Mayo Garda Division,2009
+42.0,Mayo,Rape and sexual assault,Mayo Garda Division,2010
+27.0,Mayo,Rape and sexual assault,Mayo Garda Division,2011
+34.0,Mayo,Rape and sexual assault,Mayo Garda Division,2012
+39.0,Mayo,Rape and sexual assault,Mayo Garda Division,2013
+36.0,Mayo,Rape and sexual assault,Mayo Garda Division,2014
+55.0,Mayo,Rape and sexual assault,Mayo Garda Division,2015
+55.0,Mayo,Rape and sexual assault,Mayo Garda Division,2016
+54.0,Mayo,Rape and sexual assault,Mayo Garda Division,2017
+61.0,Mayo,Rape and sexual assault,Mayo Garda Division,2018
+111.0,Mayo,Rape and sexual assault,Mayo Garda Division,2019
+69.0,Galway,Rape and sexual assault,Galway Garda Division,2003
+76.0,Galway,Rape and sexual assault,Galway Garda Division,2004
+67.0,Galway,Rape and sexual assault,Galway Garda Division,2005
+43.0,Galway,Rape and sexual assault,Galway Garda Division,2006
+63.0,Galway,Rape and sexual assault,Galway Garda Division,2007
+52.0,Galway,Rape and sexual assault,Galway Garda Division,2008
+67.0,Galway,Rape and sexual assault,Galway Garda Division,2009
+100.0,Galway,Rape and sexual assault,Galway Garda Division,2010
+86.0,Galway,Rape and sexual assault,Galway Garda Division,2011
+82.0,Galway,Rape and sexual assault,Galway Garda Division,2012
+89.0,Galway,Rape and sexual assault,Galway Garda Division,2013
+82.0,Galway,Rape and sexual assault,Galway Garda Division,2014
+97.0,Galway,Rape and sexual assault,Galway Garda Division,2015
+111.0,Galway,Rape and sexual assault,Galway Garda Division,2016
+122.0,Galway,Rape and sexual assault,Galway Garda Division,2017
+129.0,Galway,Rape and sexual assault,Galway Garda Division,2018
+240.0,Galway,Rape and sexual assault,Galway Garda Division,2019
+78.0,Cork,Rape and sexual assault,Cork City Garda Division,2003
+84.0,Cork,Rape and sexual assault,Cork City Garda Division,2004
+84.0,Cork,Rape and sexual assault,Cork City Garda Division,2005
+79.0,Cork,Rape and sexual assault,Cork City Garda Division,2006
+52.0,Cork,Rape and sexual assault,Cork City Garda Division,2007
+92.0,Cork,Rape and sexual assault,Cork City Garda Division,2008
+78.0,Cork,Rape and sexual assault,Cork City Garda Division,2009
+110.0,Cork,Rape and sexual assault,Cork City Garda Division,2010
+99.0,Cork,Rape and sexual assault,Cork City Garda Division,2011
+93.0,Cork,Rape and sexual assault,Cork City Garda Division,2012
+92.0,Cork,Rape and sexual assault,Cork City Garda Division,2013
+104.0,Cork,Rape and sexual assault,Cork City Garda Division,2014
+99.0,Cork,Rape and sexual assault,Cork City Garda Division,2015
+99.0,Cork,Rape and sexual assault,Cork City Garda Division,2016
+198.0,Cork,Rape and sexual assault,Cork City Garda Division,2017
+183.0,Cork,Rape and sexual assault,Cork City Garda Division,2018
+326.0,Cork,Rape and sexual assault,Cork City Garda Division,2019
+40.0,Cork,Rape and sexual assault,Cork North Garda Division,2003
+16.0,Cork,Rape and sexual assault,Cork North Garda Division,2004
+24.0,Cork,Rape and sexual assault,Cork North Garda Division,2005
+42.0,Cork,Rape and sexual assault,Cork North Garda Division,2006
+29.0,Cork,Rape and sexual assault,Cork North Garda Division,2007
+23.0,Cork,Rape and sexual assault,Cork North Garda Division,2008
+27.0,Cork,Rape and sexual assault,Cork North Garda Division,2009
+59.0,Cork,Rape and sexual assault,Cork North Garda Division,2010
+62.0,Cork,Rape and sexual assault,Cork North Garda Division,2011
+51.0,Cork,Rape and sexual assault,Cork North Garda Division,2012
+56.0,Cork,Rape and sexual assault,Cork North Garda Division,2013
+60.0,Cork,Rape and sexual assault,Cork North Garda Division,2014
+66.0,Cork,Rape and sexual assault,Cork North Garda Division,2015
+56.0,Cork,Rape and sexual assault,Cork North Garda Division,2016
+79.0,Cork,Rape and sexual assault,Cork North Garda Division,2017
+75.0,Cork,Rape and sexual assault,Cork North Garda Division,2018
+143.0,Cork,Rape and sexual assault,Cork North Garda Division,2019
+21.0,Cork,Rape and sexual assault,Cork West Garda Division,2003
+33.0,Cork,Rape and sexual assault,Cork West Garda Division,2004
+27.0,Cork,Rape and sexual assault,Cork West Garda Division,2005
+25.0,Cork,Rape and sexual assault,Cork West Garda Division,2006
+12.0,Cork,Rape and sexual assault,Cork West Garda Division,2007
+22.0,Cork,Rape and sexual assault,Cork West Garda Division,2008
+32.0,Cork,Rape and sexual assault,Cork West Garda Division,2009
+35.0,Cork,Rape and sexual assault,Cork West Garda Division,2010
+38.0,Cork,Rape and sexual assault,Cork West Garda Division,2011
+40.0,Cork,Rape and sexual assault,Cork West Garda Division,2012
+25.0,Cork,Rape and sexual assault,Cork West Garda Division,2013
+31.0,Cork,Rape and sexual assault,Cork West Garda Division,2014
+34.0,Cork,Rape and sexual assault,Cork West Garda Division,2015
+44.0,Cork,Rape and sexual assault,Cork West Garda Division,2016
+63.0,Cork,Rape and sexual assault,Cork West Garda Division,2017
+60.0,Cork,Rape and sexual assault,Cork West Garda Division,2018
+86.0,Cork,Rape and sexual assault,Cork West Garda Division,2019
+46.0,Kerry,Rape and sexual assault,Kerry Garda Division,2003
+64.0,Kerry,Rape and sexual assault,Kerry Garda Division,2004
+46.0,Kerry,Rape and sexual assault,Kerry Garda Division,2005
+55.0,Kerry,Rape and sexual assault,Kerry Garda Division,2006
+37.0,Kerry,Rape and sexual assault,Kerry Garda Division,2007
+26.0,Kerry,Rape and sexual assault,Kerry Garda Division,2008
+32.0,Kerry,Rape and sexual assault,Kerry Garda Division,2009
+126.0,Kerry,Rape and sexual assault,Kerry Garda Division,2010
+58.0,Kerry,Rape and sexual assault,Kerry Garda Division,2011
+55.0,Kerry,Rape and sexual assault,Kerry Garda Division,2012
+43.0,Kerry,Rape and sexual assault,Kerry Garda Division,2013
+56.0,Kerry,Rape and sexual assault,Kerry Garda Division,2014
+70.0,Kerry,Rape and sexual assault,Kerry Garda Division,2015
+52.0,Kerry,Rape and sexual assault,Kerry Garda Division,2016
+66.0,Kerry,Rape and sexual assault,Kerry Garda Division,2017
+84.0,Kerry,Rape and sexual assault,Kerry Garda Division,2018
+167.0,Kerry,Rape and sexual assault,Kerry Garda Division,2019
+54.0,Limerick,Rape and sexual assault,Limerick Garda Division,2003
+60.0,Limerick,Rape and sexual assault,Limerick Garda Division,2004
+59.0,Limerick,Rape and sexual assault,Limerick Garda Division,2005
+57.0,Limerick,Rape and sexual assault,Limerick Garda Division,2006
+83.0,Limerick,Rape and sexual assault,Limerick Garda Division,2007
+75.0,Limerick,Rape and sexual assault,Limerick Garda Division,2008
+82.0,Limerick,Rape and sexual assault,Limerick Garda Division,2009
+101.0,Limerick,Rape and sexual assault,Limerick Garda Division,2010
+119.0,Limerick,Rape and sexual assault,Limerick Garda Division,2011
+146.0,Limerick,Rape and sexual assault,Limerick Garda Division,2012
+85.0,Limerick,Rape and sexual assault,Limerick Garda Division,2013
+68.0,Limerick,Rape and sexual assault,Limerick Garda Division,2014
+114.0,Limerick,Rape and sexual assault,Limerick Garda Division,2015
+107.0,Limerick,Rape and sexual assault,Limerick Garda Division,2016
+117.0,Limerick,Rape and sexual assault,Limerick Garda Division,2017
+126.0,Limerick,Rape and sexual assault,Limerick Garda Division,2018
+232.0,Limerick,Rape and sexual assault,Limerick Garda Division,2019
+35.0,Meath,Rape and sexual assault,Meath  Garda Division,2003
+29.0,Meath,Rape and sexual assault,Meath  Garda Division,2004
+39.0,Meath,Rape and sexual assault,Meath  Garda Division,2005
+38.0,Meath,Rape and sexual assault,Meath  Garda Division,2006
+32.0,Meath,Rape and sexual assault,Meath  Garda Division,2007
+24.0,Meath,Rape and sexual assault,Meath  Garda Division,2008
+48.0,Meath,Rape and sexual assault,Meath  Garda Division,2009
+48.0,Meath,Rape and sexual assault,Meath  Garda Division,2010
+49.0,Meath,Rape and sexual assault,Meath  Garda Division,2011
+52.0,Meath,Rape and sexual assault,Meath  Garda Division,2012
+52.0,Meath,Rape and sexual assault,Meath  Garda Division,2013
+70.0,Meath,Rape and sexual assault,Meath  Garda Division,2014
+59.0,Meath,Rape and sexual assault,Meath  Garda Division,2015
+61.0,Meath,Rape and sexual assault,Meath  Garda Division,2016
+77.0,Meath,Rape and sexual assault,Meath  Garda Division,2017
+74.0,Meath,Rape and sexual assault,Meath  Garda Division,2018
+121.0,Meath,Rape and sexual assault,Meath  Garda Division,2019
+43.0,Wicklow,Rape and sexual assault,Wicklow  Garda Division,2003
+52.0,Wicklow,Rape and sexual assault,Wicklow  Garda Division,2004
+49.0,Wicklow,Rape and sexual assault,Wicklow  Garda Division,2005
+33.0,Wicklow,Rape and sexual assault,Wicklow  Garda Division,2006
+31.0,Wicklow,Rape and sexual assault,Wicklow  Garda Division,2007
+32.0,Wicklow,Rape and sexual assault,Wicklow  Garda Division,2008
+39.0,Wicklow,Rape and sexual assault,Wicklow  Garda Division,2009
+59.0,Wicklow,Rape and sexual assault,Wicklow  Garda Division,2010
+41.0,Wicklow,Rape and sexual assault,Wicklow  Garda Division,2011
+60.0,Wicklow,Rape and sexual assault,Wicklow  Garda Division,2012
+56.0,Wicklow,Rape and sexual assault,Wicklow  Garda Division,2013
+63.0,Wicklow,Rape and sexual assault,Wicklow  Garda Division,2014
+64.0,Wicklow,Rape and sexual assault,Wicklow  Garda Division,2015
+74.0,Wicklow,Rape and sexual assault,Wicklow  Garda Division,2016
+71.0,Wicklow,Rape and sexual assault,Wicklow  Garda Division,2017
+84.0,Wicklow,Rape and sexual assault,Wicklow  Garda Division,2018
+148.0,Wicklow,Rape and sexual assault,Wicklow  Garda Division,2019
+22.0,Westmeath,Rape and sexual assault,Westmeath  Garda Division,2003
+41.0,Westmeath,Rape and sexual assault,Westmeath  Garda Division,2004
+34.0,Westmeath,Rape and sexual assault,Westmeath  Garda Division,2005
+23.0,Westmeath,Rape and sexual assault,Westmeath  Garda Division,2006
+27.0,Westmeath,Rape and sexual assault,Westmeath  Garda Division,2007
+28.0,Westmeath,Rape and sexual assault,Westmeath  Garda Division,2008
+27.0,Westmeath,Rape and sexual assault,Westmeath  Garda Division,2009
+33.0,Westmeath,Rape and sexual assault,Westmeath  Garda Division,2010
+34.0,Westmeath,Rape and sexual assault,Westmeath  Garda Division,2011
+28.0,Westmeath,Rape and sexual assault,Westmeath  Garda Division,2012
+38.0,Westmeath,Rape and sexual assault,Westmeath  Garda Division,2013
+27.0,Westmeath,Rape and sexual assault,Westmeath  Garda Division,2014
+25.0,Westmeath,Rape and sexual assault,Westmeath  Garda Division,2015
+36.0,Westmeath,Rape and sexual assault,Westmeath  Garda Division,2016
+50.0,Westmeath,Rape and sexual assault,Westmeath  Garda Division,2017
+56.0,Westmeath,Rape and sexual assault,Westmeath  Garda Division,2018
+105.0,Westmeath,Rape and sexual assault,Westmeath  Garda Division,2019
+53.0,Kildare,Rape and sexual assault,Kildare  Garda Division,2003
+49.0,Kildare,Rape and sexual assault,Kildare  Garda Division,2004
+50.0,Kildare,Rape and sexual assault,Kildare  Garda Division,2005
+51.0,Kildare,Rape and sexual assault,Kildare  Garda Division,2006
+54.0,Kildare,Rape and sexual assault,Kildare  Garda Division,2007
+51.0,Kildare,Rape and sexual assault,Kildare  Garda Division,2008
+50.0,Kildare,Rape and sexual assault,Kildare  Garda Division,2009
+93.0,Kildare,Rape and sexual assault,Kildare  Garda Division,2010
+72.0,Kildare,Rape and sexual assault,Kildare  Garda Division,2011
+62.0,Kildare,Rape and sexual assault,Kildare  Garda Division,2012
+77.0,Kildare,Rape and sexual assault,Kildare  Garda Division,2013
+88.0,Kildare,Rape and sexual assault,Kildare  Garda Division,2014
+85.0,Kildare,Rape and sexual assault,Kildare  Garda Division,2015
+108.0,Kildare,Rape and sexual assault,Kildare  Garda Division,2016
+85.0,Kildare,Rape and sexual assault,Kildare  Garda Division,2017
+82.0,Kildare,Rape and sexual assault,Kildare  Garda Division,2018
+156.0,Kildare,Rape and sexual assault,Kildare  Garda Division,2019
+41.0,Tipperary,Rape and sexual assault,Tipperary Garda Division,2003
+37.0,Tipperary,Rape and sexual assault,Tipperary Garda Division,2004
+76.0,Tipperary,Rape and sexual assault,Tipperary Garda Division,2005
+58.0,Tipperary,Rape and sexual assault,Tipperary Garda Division,2006
+38.0,Tipperary,Rape and sexual assault,Tipperary Garda Division,2007
+35.0,Tipperary,Rape and sexual assault,Tipperary Garda Division,2008
+48.0,Tipperary,Rape and sexual assault,Tipperary Garda Division,2009
+92.0,Tipperary,Rape and sexual assault,Tipperary Garda Division,2010
+52.0,Tipperary,Rape and sexual assault,Tipperary Garda Division,2011
+60.0,Tipperary,Rape and sexual assault,Tipperary Garda Division,2012
+55.0,Tipperary,Rape and sexual assault,Tipperary Garda Division,2013
+61.0,Tipperary,Rape and sexual assault,Tipperary Garda Division,2014
+50.0,Tipperary,Rape and sexual assault,Tipperary Garda Division,2015
+63.0,Tipperary,Rape and sexual assault,Tipperary Garda Division,2016
+80.0,Tipperary,Rape and sexual assault,Tipperary Garda Division,2017
+85.0,Tipperary,Rape and sexual assault,Tipperary Garda Division,2018
+139.0,Tipperary,Rape and sexual assault,Tipperary Garda Division,2019
+50.0,Wexford,Rape and sexual assault,Wexford  Garda Division,2003
+41.0,Wexford,Rape and sexual assault,Wexford  Garda Division,2004
+62.0,Wexford,Rape and sexual assault,Wexford  Garda Division,2005
+54.0,Wexford,Rape and sexual assault,Wexford  Garda Division,2006
+51.0,Wexford,Rape and sexual assault,Wexford  Garda Division,2007
+29.0,Wexford,Rape and sexual assault,Wexford  Garda Division,2008
+38.0,Wexford,Rape and sexual assault,Wexford  Garda Division,2009
+54.0,Wexford,Rape and sexual assault,Wexford  Garda Division,2010
+57.0,Wexford,Rape and sexual assault,Wexford  Garda Division,2011
+60.0,Wexford,Rape and sexual assault,Wexford  Garda Division,2012
+58.0,Wexford,Rape and sexual assault,Wexford  Garda Division,2013
+67.0,Wexford,Rape and sexual assault,Wexford  Garda Division,2014
+72.0,Wexford,Rape and sexual assault,Wexford  Garda Division,2015
+76.0,Wexford,Rape and sexual assault,Wexford  Garda Division,2016
+87.0,Wexford,Rape and sexual assault,Wexford  Garda Division,2017
+107.0,Wexford,Rape and sexual assault,Wexford  Garda Division,2018
+163.0,Wexford,Rape and sexual assault,Wexford  Garda Division,2019
+69.0,Waterford,Rape and sexual assault,Waterford  Garda Division,2003
+34.0,Waterford,Rape and sexual assault,Waterford  Garda Division,2004
+52.0,Waterford,Rape and sexual assault,Waterford  Garda Division,2005
+76.0,Waterford,Rape and sexual assault,Waterford  Garda Division,2006
+34.0,Waterford,Rape and sexual assault,Waterford  Garda Division,2007
+55.0,Waterford,Rape and sexual assault,Waterford  Garda Division,2008
+51.0,Waterford,Rape and sexual assault,Waterford  Garda Division,2009
+50.0,Waterford,Rape and sexual assault,Waterford  Garda Division,2010
+47.0,Waterford,Rape and sexual assault,Waterford  Garda Division,2011
+53.0,Waterford,Rape and sexual assault,Waterford  Garda Division,2012
+62.0,Waterford,Rape and sexual assault,Waterford  Garda Division,2013
+71.0,Waterford,Rape and sexual assault,Waterford  Garda Division,2014
+61.0,Waterford,Rape and sexual assault,Waterford  Garda Division,2015
+60.0,Waterford,Rape and sexual assault,Waterford  Garda Division,2016
+88.0,Waterford,Rape and sexual assault,Waterford  Garda Division,2017
+102.0,Waterford,Rape and sexual assault,Waterford  Garda Division,2018
+179.0,Waterford,Rape and sexual assault,Waterford  Garda Division,2019
+460.0,Dublin,Rape and sexual assault,Dublin Region,2003
+418.0,Dublin,Rape and sexual assault,Dublin Region,2004
+465.0,Dublin,Rape and sexual assault,Dublin Region,2005
+410.0,Dublin,Rape and sexual assault,Dublin Region,2006
+383.0,Dublin,Rape and sexual assault,Dublin Region,2007
+370.0,Dublin,Rape and sexual assault,Dublin Region,2008
+422.0,Dublin,Rape and sexual assault,Dublin Region,2009
+614.0,Dublin,Rape and sexual assault,Dublin Region,2010
+544.0,Dublin,Rape and sexual assault,Dublin Region,2011
+514.0,Dublin,Rape and sexual assault,Dublin Region,2012
+564.0,Dublin,Rape and sexual assault,Dublin Region,2013
+580.0,Dublin,Rape and sexual assault,Dublin Region,2014
+676.0,Dublin,Rape and sexual assault,Dublin Region,2015
+740.0,Dublin,Rape and sexual assault,Dublin Region,2016
+753.0,Dublin,Rape and sexual assault,Dublin Region,2017
+832.0,Dublin,Rape and sexual assault,Dublin Region,2018
+1477.0,Dublin,Rape and sexual assault,Dublin Region,2019
+1.0,Donegal,Other sexual offences,Donegal Garda Division,2003
+2.0,Donegal,Other sexual offences,Donegal Garda Division,2004
+4.0,Donegal,Other sexual offences,Donegal Garda Division,2005
+2.0,Donegal,Other sexual offences,Donegal Garda Division,2006
+2.0,Donegal,Other sexual offences,Donegal Garda Division,2007
+2.0,Donegal,Other sexual offences,Donegal Garda Division,2008
+1.0,Donegal,Other sexual offences,Donegal Garda Division,2009
+5.0,Donegal,Other sexual offences,Donegal Garda Division,2010
+2.0,Donegal,Other sexual offences,Donegal Garda Division,2011
+7.0,Donegal,Other sexual offences,Donegal Garda Division,2012
+6.0,Donegal,Other sexual offences,Donegal Garda Division,2013
+9.0,Donegal,Other sexual offences,Donegal Garda Division,2014
+6.0,Donegal,Other sexual offences,Donegal Garda Division,2015
+13.0,Donegal,Other sexual offences,Donegal Garda Division,2016
+16.0,Donegal,Other sexual offences,Donegal Garda Division,2017
+13.0,Donegal,Other sexual offences,Donegal Garda Division,2018
+27.0,Donegal,Other sexual offences,Donegal Garda Division,2019
+3.0,Louth,Other sexual offences,Louth  Garda Division,2003
+0.0,Louth,Other sexual offences,Louth  Garda Division,2004
+5.0,Louth,Other sexual offences,Louth  Garda Division,2005
+2.0,Louth,Other sexual offences,Louth  Garda Division,2006
+3.0,Louth,Other sexual offences,Louth  Garda Division,2007
+3.0,Louth,Other sexual offences,Louth  Garda Division,2008
+6.0,Louth,Other sexual offences,Louth  Garda Division,2009
+7.0,Louth,Other sexual offences,Louth  Garda Division,2010
+10.0,Louth,Other sexual offences,Louth  Garda Division,2011
+8.0,Louth,Other sexual offences,Louth  Garda Division,2012
+4.0,Louth,Other sexual offences,Louth  Garda Division,2013
+2.0,Louth,Other sexual offences,Louth  Garda Division,2014
+4.0,Louth,Other sexual offences,Louth  Garda Division,2015
+14.0,Louth,Other sexual offences,Louth  Garda Division,2016
+20.0,Louth,Other sexual offences,Louth  Garda Division,2017
+13.0,Louth,Other sexual offences,Louth  Garda Division,2018
+19.0,Louth,Other sexual offences,Louth  Garda Division,2019
+3.0,Clare,Other sexual offences,Clare Garda Division,2003
+1.0,Clare,Other sexual offences,Clare Garda Division,2004
+1.0,Clare,Other sexual offences,Clare Garda Division,2005
+2.0,Clare,Other sexual offences,Clare Garda Division,2006
+1.0,Clare,Other sexual offences,Clare Garda Division,2007
+2.0,Clare,Other sexual offences,Clare Garda Division,2008
+0.0,Clare,Other sexual offences,Clare Garda Division,2009
+2.0,Clare,Other sexual offences,Clare Garda Division,2010
+3.0,Clare,Other sexual offences,Clare Garda Division,2011
+2.0,Clare,Other sexual offences,Clare Garda Division,2012
+5.0,Clare,Other sexual offences,Clare Garda Division,2013
+4.0,Clare,Other sexual offences,Clare Garda Division,2014
+7.0,Clare,Other sexual offences,Clare Garda Division,2015
+2.0,Clare,Other sexual offences,Clare Garda Division,2016
+7.0,Clare,Other sexual offences,Clare Garda Division,2017
+11.0,Clare,Other sexual offences,Clare Garda Division,2018
+17.0,Clare,Other sexual offences,Clare Garda Division,2019
+1.0,Mayo,Other sexual offences,Mayo Garda Division,2003
+0.0,Mayo,Other sexual offences,Mayo Garda Division,2004
+1.0,Mayo,Other sexual offences,Mayo Garda Division,2005
+1.0,Mayo,Other sexual offences,Mayo Garda Division,2006
+2.0,Mayo,Other sexual offences,Mayo Garda Division,2007
+0.0,Mayo,Other sexual offences,Mayo Garda Division,2008
+1.0,Mayo,Other sexual offences,Mayo Garda Division,2009
+9.0,Mayo,Other sexual offences,Mayo Garda Division,2010
+4.0,Mayo,Other sexual offences,Mayo Garda Division,2011
+2.0,Mayo,Other sexual offences,Mayo Garda Division,2012
+6.0,Mayo,Other sexual offences,Mayo Garda Division,2013
+0.0,Mayo,Other sexual offences,Mayo Garda Division,2014
+5.0,Mayo,Other sexual offences,Mayo Garda Division,2015
+9.0,Mayo,Other sexual offences,Mayo Garda Division,2016
+7.0,Mayo,Other sexual offences,Mayo Garda Division,2017
+0.0,Mayo,Other sexual offences,Mayo Garda Division,2018
+7.0,Mayo,Other sexual offences,Mayo Garda Division,2019
+1.0,Galway,Other sexual offences,Galway Garda Division,2003
+0.0,Galway,Other sexual offences,Galway Garda Division,2004
+3.0,Galway,Other sexual offences,Galway Garda Division,2005
+0.0,Galway,Other sexual offences,Galway Garda Division,2006
+1.0,Galway,Other sexual offences,Galway Garda Division,2007
+2.0,Galway,Other sexual offences,Galway Garda Division,2008
+1.0,Galway,Other sexual offences,Galway Garda Division,2009
+8.0,Galway,Other sexual offences,Galway Garda Division,2010
+2.0,Galway,Other sexual offences,Galway Garda Division,2011
+5.0,Galway,Other sexual offences,Galway Garda Division,2012
+5.0,Galway,Other sexual offences,Galway Garda Division,2013
+9.0,Galway,Other sexual offences,Galway Garda Division,2014
+1.0,Galway,Other sexual offences,Galway Garda Division,2015
+9.0,Galway,Other sexual offences,Galway Garda Division,2016
+6.0,Galway,Other sexual offences,Galway Garda Division,2017
+18.0,Galway,Other sexual offences,Galway Garda Division,2018
+33.0,Galway,Other sexual offences,Galway Garda Division,2019
+2.0,Cork,Other sexual offences,Cork City Garda Division,2003
+4.0,Cork,Other sexual offences,Cork City Garda Division,2004
+5.0,Cork,Other sexual offences,Cork City Garda Division,2005
+2.0,Cork,Other sexual offences,Cork City Garda Division,2006
+10.0,Cork,Other sexual offences,Cork City Garda Division,2007
+5.0,Cork,Other sexual offences,Cork City Garda Division,2008
+12.0,Cork,Other sexual offences,Cork City Garda Division,2009
+15.0,Cork,Other sexual offences,Cork City Garda Division,2010
+4.0,Cork,Other sexual offences,Cork City Garda Division,2011
+16.0,Cork,Other sexual offences,Cork City Garda Division,2012
+4.0,Cork,Other sexual offences,Cork City Garda Division,2013
+4.0,Cork,Other sexual offences,Cork City Garda Division,2014
+14.0,Cork,Other sexual offences,Cork City Garda Division,2015
+11.0,Cork,Other sexual offences,Cork City Garda Division,2016
+18.0,Cork,Other sexual offences,Cork City Garda Division,2017
+30.0,Cork,Other sexual offences,Cork City Garda Division,2018
+59.0,Cork,Other sexual offences,Cork City Garda Division,2019
+0.0,Cork,Other sexual offences,Cork North Garda Division,2003
+0.0,Cork,Other sexual offences,Cork North Garda Division,2004
+4.0,Cork,Other sexual offences,Cork North Garda Division,2005
+1.0,Cork,Other sexual offences,Cork North Garda Division,2006
+3.0,Cork,Other sexual offences,Cork North Garda Division,2007
+4.0,Cork,Other sexual offences,Cork North Garda Division,2008
+0.0,Cork,Other sexual offences,Cork North Garda Division,2009
+4.0,Cork,Other sexual offences,Cork North Garda Division,2010
+1.0,Cork,Other sexual offences,Cork North Garda Division,2011
+2.0,Cork,Other sexual offences,Cork North Garda Division,2012
+4.0,Cork,Other sexual offences,Cork North Garda Division,2013
+1.0,Cork,Other sexual offences,Cork North Garda Division,2014
+9.0,Cork,Other sexual offences,Cork North Garda Division,2015
+8.0,Cork,Other sexual offences,Cork North Garda Division,2016
+15.0,Cork,Other sexual offences,Cork North Garda Division,2017
+12.0,Cork,Other sexual offences,Cork North Garda Division,2018
+28.0,Cork,Other sexual offences,Cork North Garda Division,2019
+4.0,Cork,Other sexual offences,Cork West Garda Division,2003
+1.0,Cork,Other sexual offences,Cork West Garda Division,2004
+3.0,Cork,Other sexual offences,Cork West Garda Division,2005
+1.0,Cork,Other sexual offences,Cork West Garda Division,2006
+3.0,Cork,Other sexual offences,Cork West Garda Division,2007
+3.0,Cork,Other sexual offences,Cork West Garda Division,2008
+1.0,Cork,Other sexual offences,Cork West Garda Division,2009
+5.0,Cork,Other sexual offences,Cork West Garda Division,2010
+7.0,Cork,Other sexual offences,Cork West Garda Division,2011
+1.0,Cork,Other sexual offences,Cork West Garda Division,2012
+1.0,Cork,Other sexual offences,Cork West Garda Division,2013
+1.0,Cork,Other sexual offences,Cork West Garda Division,2014
+4.0,Cork,Other sexual offences,Cork West Garda Division,2015
+11.0,Cork,Other sexual offences,Cork West Garda Division,2016
+10.0,Cork,Other sexual offences,Cork West Garda Division,2017
+7.0,Cork,Other sexual offences,Cork West Garda Division,2018
+34.0,Cork,Other sexual offences,Cork West Garda Division,2019
+2.0,Kerry,Other sexual offences,Kerry Garda Division,2003
+1.0,Kerry,Other sexual offences,Kerry Garda Division,2004
+1.0,Kerry,Other sexual offences,Kerry Garda Division,2005
+0.0,Kerry,Other sexual offences,Kerry Garda Division,2006
+0.0,Kerry,Other sexual offences,Kerry Garda Division,2007
+3.0,Kerry,Other sexual offences,Kerry Garda Division,2008
+4.0,Kerry,Other sexual offences,Kerry Garda Division,2009
+0.0,Kerry,Other sexual offences,Kerry Garda Division,2010
+4.0,Kerry,Other sexual offences,Kerry Garda Division,2011
+4.0,Kerry,Other sexual offences,Kerry Garda Division,2012
+2.0,Kerry,Other sexual offences,Kerry Garda Division,2013
+2.0,Kerry,Other sexual offences,Kerry Garda Division,2014
+1.0,Kerry,Other sexual offences,Kerry Garda Division,2015
+4.0,Kerry,Other sexual offences,Kerry Garda Division,2016
+8.0,Kerry,Other sexual offences,Kerry Garda Division,2017
+11.0,Kerry,Other sexual offences,Kerry Garda Division,2018
+22.0,Kerry,Other sexual offences,Kerry Garda Division,2019
+8.0,Limerick,Other sexual offences,Limerick Garda Division,2003
+14.0,Limerick,Other sexual offences,Limerick Garda Division,2004
+1.0,Limerick,Other sexual offences,Limerick Garda Division,2005
+0.0,Limerick,Other sexual offences,Limerick Garda Division,2006
+4.0,Limerick,Other sexual offences,Limerick Garda Division,2007
+1.0,Limerick,Other sexual offences,Limerick Garda Division,2008
+1.0,Limerick,Other sexual offences,Limerick Garda Division,2009
+2.0,Limerick,Other sexual offences,Limerick Garda Division,2010
+8.0,Limerick,Other sexual offences,Limerick Garda Division,2011
+5.0,Limerick,Other sexual offences,Limerick Garda Division,2012
+2.0,Limerick,Other sexual offences,Limerick Garda Division,2013
+2.0,Limerick,Other sexual offences,Limerick Garda Division,2014
+8.0,Limerick,Other sexual offences,Limerick Garda Division,2015
+13.0,Limerick,Other sexual offences,Limerick Garda Division,2016
+6.0,Limerick,Other sexual offences,Limerick Garda Division,2017
+7.0,Limerick,Other sexual offences,Limerick Garda Division,2018
+20.0,Limerick,Other sexual offences,Limerick Garda Division,2019
+2.0,Meath,Other sexual offences,Meath  Garda Division,2003
+0.0,Meath,Other sexual offences,Meath  Garda Division,2004
+0.0,Meath,Other sexual offences,Meath  Garda Division,2005
+0.0,Meath,Other sexual offences,Meath  Garda Division,2006
+2.0,Meath,Other sexual offences,Meath  Garda Division,2007
+3.0,Meath,Other sexual offences,Meath  Garda Division,2008
+5.0,Meath,Other sexual offences,Meath  Garda Division,2009
+5.0,Meath,Other sexual offences,Meath  Garda Division,2010
+7.0,Meath,Other sexual offences,Meath  Garda Division,2011
+2.0,Meath,Other sexual offences,Meath  Garda Division,2012
+3.0,Meath,Other sexual offences,Meath  Garda Division,2013
+4.0,Meath,Other sexual offences,Meath  Garda Division,2014
+6.0,Meath,Other sexual offences,Meath  Garda Division,2015
+8.0,Meath,Other sexual offences,Meath  Garda Division,2016
+6.0,Meath,Other sexual offences,Meath  Garda Division,2017
+20.0,Meath,Other sexual offences,Meath  Garda Division,2018
+26.0,Meath,Other sexual offences,Meath  Garda Division,2019
+2.0,Wicklow,Other sexual offences,Wicklow  Garda Division,2003
+1.0,Wicklow,Other sexual offences,Wicklow  Garda Division,2004
+3.0,Wicklow,Other sexual offences,Wicklow  Garda Division,2005
+1.0,Wicklow,Other sexual offences,Wicklow  Garda Division,2006
+4.0,Wicklow,Other sexual offences,Wicklow  Garda Division,2007
+1.0,Wicklow,Other sexual offences,Wicklow  Garda Division,2008
+1.0,Wicklow,Other sexual offences,Wicklow  Garda Division,2009
+2.0,Wicklow,Other sexual offences,Wicklow  Garda Division,2010
+4.0,Wicklow,Other sexual offences,Wicklow  Garda Division,2011
+2.0,Wicklow,Other sexual offences,Wicklow  Garda Division,2012
+4.0,Wicklow,Other sexual offences,Wicklow  Garda Division,2013
+2.0,Wicklow,Other sexual offences,Wicklow  Garda Division,2014
+8.0,Wicklow,Other sexual offences,Wicklow  Garda Division,2015
+9.0,Wicklow,Other sexual offences,Wicklow  Garda Division,2016
+11.0,Wicklow,Other sexual offences,Wicklow  Garda Division,2017
+21.0,Wicklow,Other sexual offences,Wicklow  Garda Division,2018
+41.0,Wicklow,Other sexual offences,Wicklow  Garda Division,2019
+0.0,Westmeath,Other sexual offences,Westmeath  Garda Division,2003
+1.0,Westmeath,Other sexual offences,Westmeath  Garda Division,2004
+0.0,Westmeath,Other sexual offences,Westmeath  Garda Division,2005
+0.0,Westmeath,Other sexual offences,Westmeath  Garda Division,2006
+3.0,Westmeath,Other sexual offences,Westmeath  Garda Division,2007
+0.0,Westmeath,Other sexual offences,Westmeath  Garda Division,2008
+0.0,Westmeath,Other sexual offences,Westmeath  Garda Division,2009
+0.0,Westmeath,Other sexual offences,Westmeath  Garda Division,2010
+2.0,Westmeath,Other sexual offences,Westmeath  Garda Division,2011
+1.0,Westmeath,Other sexual offences,Westmeath  Garda Division,2012
+1.0,Westmeath,Other sexual offences,Westmeath  Garda Division,2013
+2.0,Westmeath,Other sexual offences,Westmeath  Garda Division,2014
+3.0,Westmeath,Other sexual offences,Westmeath  Garda Division,2015
+4.0,Westmeath,Other sexual offences,Westmeath  Garda Division,2016
+2.0,Westmeath,Other sexual offences,Westmeath  Garda Division,2017
+8.0,Westmeath,Other sexual offences,Westmeath  Garda Division,2018
+14.0,Westmeath,Other sexual offences,Westmeath  Garda Division,2019
+1.0,Kildare,Other sexual offences,Kildare  Garda Division,2003
+0.0,Kildare,Other sexual offences,Kildare  Garda Division,2004
+4.0,Kildare,Other sexual offences,Kildare  Garda Division,2005
+4.0,Kildare,Other sexual offences,Kildare  Garda Division,2006
+1.0,Kildare,Other sexual offences,Kildare  Garda Division,2007
+2.0,Kildare,Other sexual offences,Kildare  Garda Division,2008
+9.0,Kildare,Other sexual offences,Kildare  Garda Division,2009
+11.0,Kildare,Other sexual offences,Kildare  Garda Division,2010
+8.0,Kildare,Other sexual offences,Kildare  Garda Division,2011
+2.0,Kildare,Other sexual offences,Kildare  Garda Division,2012
+6.0,Kildare,Other sexual offences,Kildare  Garda Division,2013
+7.0,Kildare,Other sexual offences,Kildare  Garda Division,2014
+9.0,Kildare,Other sexual offences,Kildare  Garda Division,2015
+16.0,Kildare,Other sexual offences,Kildare  Garda Division,2016
+16.0,Kildare,Other sexual offences,Kildare  Garda Division,2017
+19.0,Kildare,Other sexual offences,Kildare  Garda Division,2018
+32.0,Kildare,Other sexual offences,Kildare  Garda Division,2019
+1.0,Tipperary,Other sexual offences,Tipperary Garda Division,2003
+2.0,Tipperary,Other sexual offences,Tipperary Garda Division,2004
+0.0,Tipperary,Other sexual offences,Tipperary Garda Division,2005
+3.0,Tipperary,Other sexual offences,Tipperary Garda Division,2006
+1.0,Tipperary,Other sexual offences,Tipperary Garda Division,2007
+3.0,Tipperary,Other sexual offences,Tipperary Garda Division,2008
+4.0,Tipperary,Other sexual offences,Tipperary Garda Division,2009
+3.0,Tipperary,Other sexual offences,Tipperary Garda Division,2010
+3.0,Tipperary,Other sexual offences,Tipperary Garda Division,2011
+2.0,Tipperary,Other sexual offences,Tipperary Garda Division,2012
+6.0,Tipperary,Other sexual offences,Tipperary Garda Division,2013
+2.0,Tipperary,Other sexual offences,Tipperary Garda Division,2014
+11.0,Tipperary,Other sexual offences,Tipperary Garda Division,2015
+12.0,Tipperary,Other sexual offences,Tipperary Garda Division,2016
+9.0,Tipperary,Other sexual offences,Tipperary Garda Division,2017
+9.0,Tipperary,Other sexual offences,Tipperary Garda Division,2018
+17.0,Tipperary,Other sexual offences,Tipperary Garda Division,2019
+3.0,Wexford,Other sexual offences,Wexford  Garda Division,2003
+1.0,Wexford,Other sexual offences,Wexford  Garda Division,2004
+6.0,Wexford,Other sexual offences,Wexford  Garda Division,2005
+1.0,Wexford,Other sexual offences,Wexford  Garda Division,2006
+3.0,Wexford,Other sexual offences,Wexford  Garda Division,2007
+2.0,Wexford,Other sexual offences,Wexford  Garda Division,2008
+5.0,Wexford,Other sexual offences,Wexford  Garda Division,2009
+6.0,Wexford,Other sexual offences,Wexford  Garda Division,2010
+3.0,Wexford,Other sexual offences,Wexford  Garda Division,2011
+2.0,Wexford,Other sexual offences,Wexford  Garda Division,2012
+4.0,Wexford,Other sexual offences,Wexford  Garda Division,2013
+1.0,Wexford,Other sexual offences,Wexford  Garda Division,2014
+9.0,Wexford,Other sexual offences,Wexford  Garda Division,2015
+6.0,Wexford,Other sexual offences,Wexford  Garda Division,2016
+7.0,Wexford,Other sexual offences,Wexford  Garda Division,2017
+16.0,Wexford,Other sexual offences,Wexford  Garda Division,2018
+33.0,Wexford,Other sexual offences,Wexford  Garda Division,2019
+8.0,Waterford,Other sexual offences,Waterford  Garda Division,2003
+1.0,Waterford,Other sexual offences,Waterford  Garda Division,2004
+1.0,Waterford,Other sexual offences,Waterford  Garda Division,2005
+0.0,Waterford,Other sexual offences,Waterford  Garda Division,2006
+4.0,Waterford,Other sexual offences,Waterford  Garda Division,2007
+4.0,Waterford,Other sexual offences,Waterford  Garda Division,2008
+3.0,Waterford,Other sexual offences,Waterford  Garda Division,2009
+5.0,Waterford,Other sexual offences,Waterford  Garda Division,2010
+3.0,Waterford,Other sexual offences,Waterford  Garda Division,2011
+2.0,Waterford,Other sexual offences,Waterford  Garda Division,2012
+8.0,Waterford,Other sexual offences,Waterford  Garda Division,2013
+0.0,Waterford,Other sexual offences,Waterford  Garda Division,2014
+2.0,Waterford,Other sexual offences,Waterford  Garda Division,2015
+6.0,Waterford,Other sexual offences,Waterford  Garda Division,2016
+10.0,Waterford,Other sexual offences,Waterford  Garda Division,2017
+11.0,Waterford,Other sexual offences,Waterford  Garda Division,2018
+22.0,Waterford,Other sexual offences,Waterford  Garda Division,2019
+55.0,Dublin,Other sexual offences,Dublin Region,2003
+30.0,Dublin,Other sexual offences,Dublin Region,2004
+14.0,Dublin,Other sexual offences,Dublin Region,2005
+24.0,Dublin,Other sexual offences,Dublin Region,2006
+37.0,Dublin,Other sexual offences,Dublin Region,2007
+21.0,Dublin,Other sexual offences,Dublin Region,2008
+23.0,Dublin,Other sexual offences,Dublin Region,2009
+59.0,Dublin,Other sexual offences,Dublin Region,2010
+60.0,Dublin,Other sexual offences,Dublin Region,2011
+58.0,Dublin,Other sexual offences,Dublin Region,2012
+37.0,Dublin,Other sexual offences,Dublin Region,2013
+38.0,Dublin,Other sexual offences,Dublin Region,2014
+75.0,Dublin,Other sexual offences,Dublin Region,2015
+97.0,Dublin,Other sexual offences,Dublin Region,2016
+120.0,Dublin,Other sexual offences,Dublin Region,2017
+127.0,Dublin,Other sexual offences,Dublin Region,2018
+256.0,Dublin,Other sexual offences,Dublin Region,2019

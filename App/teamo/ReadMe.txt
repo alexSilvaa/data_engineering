@@ -1,0 +1,1 @@
+Cd into the application folder from your terminal Run the command found in cmd.txt

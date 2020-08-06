@@ -1,0 +1,1 @@
+javac src/*.java -cp ".:apache-jena-3.13.1/lib/*" -d bin/ && java -classpath apache-jena-3.13.1/lib/*:bin TeamO

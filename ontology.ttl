@@ -1,0 +1,428 @@
+@prefix : <http://webprotege.stanford.edu/projectOntology#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://webprotege.stanford.edu/projectOntology> .
+
+<http://webprotege.stanford.edu/projectOntology> rdf:type owl:Ontology .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://webprotege.stanford.edu/projectOntology#adjacentTo
+:adjacentTo rdf:type owl:ObjectProperty ,
+                     owl:SymmetricProperty ;
+            rdfs:domain :County ;
+            rdfs:range :County ;
+            rdfs:label "adjacentTo" .
+
+
+###  http://webprotege.stanford.edu/projectOntology#has
+:has rdf:type owl:ObjectProperty ,
+              owl:TransitiveProperty ;
+     rdfs:domain :Area ;
+     rdfs:range :Area .
+
+
+###  http://webprotege.stanford.edu/projectOntology#inArea
+:inArea rdf:type owl:ObjectProperty ;
+        rdfs:domain :Stats ;
+        rdfs:range :Area .
+
+
+###  http://webprotege.stanford.edu/projectOntology#inYear
+:inYear rdf:type owl:ObjectProperty ;
+        rdfs:domain :Stats ;
+        rdfs:range :Year ;
+        rdfs:label "inYear" .
+
+
+###  http://webprotege.stanford.edu/projectOntology#nextYear
+:nextYear rdf:type owl:ObjectProperty ;
+          rdfs:subPropertyOf owl:topObjectProperty ;
+          owl:inverseOf :previousYear ;
+          rdf:type owl:InverseFunctionalProperty ;
+          rdfs:domain :Year ;
+          rdfs:range :Year ;
+          rdfs:label "nextYear" .
+
+
+###  http://webprotege.stanford.edu/projectOntology#previousYear
+:previousYear rdf:type owl:ObjectProperty ,
+                       owl:InverseFunctionalProperty ;
+              rdfs:domain :Year ;
+              rdfs:range :Year ;
+              rdfs:label "previousYear" .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://webprotege.stanford.edu/projectOntology#AmountOfDrugsConfiscated
+:AmountOfDrugsConfiscated rdf:type owl:DatatypeProperty ;
+                          rdfs:domain :Drug ;
+                          rdfs:range xsd:float .
+
+
+###  http://webprotege.stanford.edu/projectOntology#AverageAgeOfKidnapped
+:AverageAgeOfKidnapped rdf:type owl:DatatypeProperty ;
+                       rdfs:domain :Kidnapping ;
+                       rdfs:range xsd:int .
+
+
+###  http://webprotege.stanford.edu/projectOntology#AverageCostOfDamages
+:AverageCostOfDamages rdf:type owl:DatatypeProperty ;
+                      rdfs:domain :PropertyDamages ;
+                      rdfs:range xsd:float .
+
+
+###  http://webprotege.stanford.edu/projectOntology#AverageGreatestRainfall
+:AverageGreatestRainfall rdf:type owl:DatatypeProperty ;
+                         rdfs:domain :Weather ;
+                         rdfs:range xsd:float .
+
+
+###  http://webprotege.stanford.edu/projectOntology#AverageValueStolen
+:AverageValueStolen rdf:type owl:DatatypeProperty ;
+                    rdfs:domain :Theft ;
+                    rdfs:range xsd:float .
+
+
+###  http://webprotege.stanford.edu/projectOntology#CountyName
+:CountyName rdf:type owl:DatatypeProperty ;
+            rdfs:domain :County ;
+            rdfs:range xsd:string .
+
+
+###  http://webprotege.stanford.edu/projectOntology#CrimeName
+:CrimeName rdf:type owl:DatatypeProperty ;
+           rdfs:domain :Crime ;
+           rdfs:range xsd:string ;
+           rdfs:label "CrimeName" .
+
+
+###  http://webprotege.stanford.edu/projectOntology#DamagesToPublicProperty
+:DamagesToPublicProperty rdf:type owl:DatatypeProperty ;
+                         rdfs:domain :Driving ;
+                         rdfs:range xsd:float .
+
+
+###  http://webprotege.stanford.edu/projectOntology#DivisionName
+:DivisionName rdf:type owl:DatatypeProperty ;
+              rdfs:domain :Division ;
+              rdfs:range xsd:string .
+
+
+###  http://webprotege.stanford.edu/projectOntology#HousingPricesType
+:HousingPricesType rdf:type owl:DatatypeProperty ;
+                   rdfs:domain :HousingPrices ;
+                   rdfs:range xsd:string .
+
+
+###  http://webprotege.stanford.edu/projectOntology#MeanPrice
+:MeanPrice rdf:type owl:DatatypeProperty ;
+           rdfs:domain :HousingPrices ;
+           rdfs:range xsd:float ;
+           rdfs:label "MeanPrice" .
+
+
+###  http://webprotege.stanford.edu/projectOntology#ModeGenderVictim
+:ModeGenderVictim rdf:type owl:DatatypeProperty ;
+                  rdfs:domain :MurderDeath ;
+                  rdfs:range xsd:string .
+
+
+###  http://webprotege.stanford.edu/projectOntology#ModeReportedWeapon
+:ModeReportedWeapon rdf:type owl:DatatypeProperty ;
+                    rdfs:domain :Harm ,
+                                :Weapons ;
+                    rdfs:range xsd:string .
+
+
+###  http://webprotege.stanford.edu/projectOntology#ModeVehiclesReported
+:ModeVehiclesReported rdf:type owl:DatatypeProperty ;
+                      rdfs:domain :Transport ;
+                      rdfs:range xsd:string .
+
+
+###  http://webprotege.stanford.edu/projectOntology#NumFemales
+:NumFemales rdf:type owl:DatatypeProperty ;
+            rdfs:domain :Homelessness ;
+            rdfs:range xsd:int .
+
+
+###  http://webprotege.stanford.edu/projectOntology#NumMales
+:NumMales rdf:type owl:DatatypeProperty ;
+          rdfs:domain :Homelessness ;
+          rdfs:range xsd:int .
+
+
+###  http://webprotege.stanford.edu/projectOntology#NumOfCaseRelatingToDomesticHarm
+:NumOfCaseRelatingToDomesticHarm rdf:type owl:DatatypeProperty ;
+                                 rdfs:domain :SexualOffences ;
+                                 rdfs:range xsd:int .
+
+
+###  http://webprotege.stanford.edu/projectOntology#NumOfCrime
+:NumOfCrime rdf:type owl:DatatypeProperty ;
+            rdfs:domain :Crime ;
+            rdfs:range xsd:int ;
+            rdfs:label "NumOfCrime" .
+
+
+###  http://webprotege.stanford.edu/projectOntology#NumOfHomeless
+:NumOfHomeless rdf:type owl:DatatypeProperty ;
+               rdfs:domain :Homelessness ;
+               rdfs:range xsd:int ;
+               rdfs:label "NumOfHomeless" .
+
+
+###  http://webprotege.stanford.edu/projectOntology#NumOfRainDays
+:NumOfRainDays rdf:type owl:DatatypeProperty ;
+               rdfs:domain :Weather ;
+               rdfs:range xsd:float .
+
+
+###  http://webprotege.stanford.edu/projectOntology#NumOfReportedArrests
+:NumOfReportedArrests rdf:type owl:DatatypeProperty ;
+                      rdfs:domain :OtherOffences ;
+                      rdfs:range xsd:int .
+
+
+###  http://webprotege.stanford.edu/projectOntology#NumOfWetDays
+:NumOfWetDays rdf:type owl:DatatypeProperty ;
+              rdfs:domain :Weather ;
+              rdfs:range xsd:float .
+
+
+###  http://webprotege.stanford.edu/projectOntology#NumoOfAssaultsRelatingToDrugs
+:NumoOfAssaultsRelatingToDrugs rdf:type owl:DatatypeProperty ;
+                               rdfs:domain :AttemptedMurder ;
+                               rdfs:range xsd:int .
+
+
+###  http://webprotege.stanford.edu/projectOntology#Rainfall
+:Rainfall rdf:type owl:DatatypeProperty ;
+          rdfs:domain :Weather ;
+          rdfs:range xsd:float .
+
+
+###  http://webprotege.stanford.edu/projectOntology#SalaryValue
+:SalaryValue rdf:type owl:DatatypeProperty ;
+             rdfs:domain :Salaries ;
+             rdfs:range xsd:float .
+
+
+###  http://webprotege.stanford.edu/projectOntology#SalesValue
+:SalesValue rdf:type owl:DatatypeProperty ;
+            rdfs:domain :HousingPrices ;
+            rdfs:range xsd:float ;
+            rdfs:label "SalesValue" .
+
+
+###  http://webprotege.stanford.edu/projectOntology#SalesVolume
+:SalesVolume rdf:type owl:DatatypeProperty ;
+             rdfs:domain :HousingPrices ;
+             rdfs:range xsd:float ;
+             rdfs:label "SalesVolume" .
+
+
+###  http://webprotege.stanford.edu/projectOntology#YearValue
+:YearValue rdf:type owl:DatatypeProperty ;
+           rdfs:domain :Year ;
+           rdfs:range xsd:int .
+
+
+###  http://webprotege.stanford.edu/projectOntology#18to24
+<http://webprotege.stanford.edu/projectOntology#18to24> rdf:type owl:DatatypeProperty ;
+                                                        rdfs:domain :Homelessness ;
+                                                        rdfs:range xsd:int .
+
+
+###  http://webprotege.stanford.edu/projectOntology#25to44
+<http://webprotege.stanford.edu/projectOntology#25to44> rdf:type owl:DatatypeProperty ;
+                                                        rdfs:domain :Homelessness ;
+                                                        rdfs:range xsd:int .
+
+
+###  http://webprotege.stanford.edu/projectOntology#45to64
+<http://webprotege.stanford.edu/projectOntology#45to64> rdf:type owl:DatatypeProperty ;
+                                                        rdfs:domain :Homelessness ;
+                                                        rdfs:range xsd:int .
+
+
+###  http://webprotege.stanford.edu/projectOntology#65plus
+<http://webprotege.stanford.edu/projectOntology#65plus> rdf:type owl:DatatypeProperty ;
+                                                        rdfs:domain :Homelessness ;
+                                                        rdfs:range xsd:int .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://webprotege.stanford.edu/projectOntology#Area
+:Area rdf:type owl:Class ;
+      rdfs:label "Area" .
+
+
+###  http://webprotege.stanford.edu/projectOntology#AttemptedMurder
+:AttemptedMurder rdf:type owl:Class ;
+                 rdfs:subClassOf :Crime ;
+                 rdfs:label "AttemptedMurder" .
+
+
+###  http://webprotege.stanford.edu/projectOntology#Country
+:Country rdf:type owl:Class ;
+         rdfs:subClassOf :Area ;
+         rdfs:label "Country" .
+
+
+###  http://webprotege.stanford.edu/projectOntology#County
+:County rdf:type owl:Class ;
+        rdfs:subClassOf :Area ;
+        rdfs:label "County" .
+
+
+###  http://webprotege.stanford.edu/projectOntology#Crime
+:Crime rdf:type owl:Class ;
+       rdfs:subClassOf :Stats ,
+                       [ rdf:type owl:Restriction ;
+                         owl:onProperty :CrimeName ;
+                         owl:someValuesFrom xsd:string
+                       ] ,
+                       [ rdf:type owl:Restriction ;
+                         owl:onProperty :NumOfCrime ;
+                         owl:someValuesFrom xsd:int
+                       ] ;
+       rdfs:label "Crime" .
+
+
+###  http://webprotege.stanford.edu/projectOntology#Division
+:Division rdf:type owl:Class ;
+          rdfs:subClassOf :Area ;
+          rdfs:label "Division" .
+
+
+###  http://webprotege.stanford.edu/projectOntology#Driving
+:Driving rdf:type owl:Class ;
+         rdfs:subClassOf :Crime ;
+         rdfs:label "Driving" .
+
+
+###  http://webprotege.stanford.edu/projectOntology#Drug
+:Drug rdf:type owl:Class ;
+      rdfs:subClassOf :Crime ;
+      rdfs:label "Drug" .
+
+
+###  http://webprotege.stanford.edu/projectOntology#Harm
+:Harm rdf:type owl:Class ;
+      rdfs:subClassOf :Crime ;
+      rdfs:label "Harm" .
+
+
+###  http://webprotege.stanford.edu/projectOntology#Homelessness
+:Homelessness rdf:type owl:Class ;
+              rdfs:subClassOf :Stats ,
+                              [ rdf:type owl:Restriction ;
+                                owl:onProperty :NumOfHomeless ;
+                                owl:someValuesFrom xsd:int
+                              ] ;
+              rdfs:label "Homelessness" .
+
+
+###  http://webprotege.stanford.edu/projectOntology#HousingPrices
+:HousingPrices rdf:type owl:Class ;
+               rdfs:subClassOf :Stats ,
+                               [ rdf:type owl:Restriction ;
+                                 owl:onProperty :MeanPrice ;
+                                 owl:someValuesFrom xsd:float
+                               ] ,
+                               [ rdf:type owl:Restriction ;
+                                 owl:onProperty :SalesValue ;
+                                 owl:someValuesFrom xsd:float
+                               ] ,
+                               [ rdf:type owl:Restriction ;
+                                 owl:onProperty :SalesVolume ;
+                                 owl:someValuesFrom xsd:float
+                               ] ;
+               rdfs:label "HousingPrices" .
+
+
+###  http://webprotege.stanford.edu/projectOntology#Kidnapping
+:Kidnapping rdf:type owl:Class ;
+            rdfs:subClassOf :Crime ;
+            rdfs:label "Kidnapping" .
+
+
+###  http://webprotege.stanford.edu/projectOntology#MurderDeath
+:MurderDeath rdf:type owl:Class ;
+             rdfs:subClassOf :Crime ;
+             rdfs:label "MurderDeath" .
+
+
+###  http://webprotege.stanford.edu/projectOntology#OtherOffences
+:OtherOffences rdf:type owl:Class ;
+               rdfs:subClassOf :Crime ;
+               rdfs:label "OtherOffences" .
+
+
+###  http://webprotege.stanford.edu/projectOntology#PropertyDamages
+:PropertyDamages rdf:type owl:Class ;
+                 rdfs:subClassOf :Crime ;
+                 rdfs:label "PropertyDamages" .
+
+
+###  http://webprotege.stanford.edu/projectOntology#Salaries
+:Salaries rdf:type owl:Class ;
+          rdfs:subClassOf :Stats ;
+          rdfs:label "Salaries" .
+
+
+###  http://webprotege.stanford.edu/projectOntology#SexualOffences
+:SexualOffences rdf:type owl:Class ;
+                rdfs:subClassOf :Crime ;
+                rdfs:label "SexualOffences" .
+
+
+###  http://webprotege.stanford.edu/projectOntology#Stats
+:Stats rdf:type owl:Class ;
+       rdfs:label "Stats" .
+
+
+###  http://webprotege.stanford.edu/projectOntology#Theft
+:Theft rdf:type owl:Class ;
+       rdfs:subClassOf :Crime ;
+       rdfs:label "Theft" .
+
+
+###  http://webprotege.stanford.edu/projectOntology#Transport
+:Transport rdf:type owl:Class ;
+           rdfs:subClassOf :Crime ;
+           rdfs:label "Transport" .
+
+
+###  http://webprotege.stanford.edu/projectOntology#Weapons
+:Weapons rdf:type owl:Class ;
+         rdfs:subClassOf :Crime ;
+         rdfs:label "Weapons" .
+
+
+###  http://webprotege.stanford.edu/projectOntology#Weather
+:Weather rdf:type owl:Class ;
+         rdfs:subClassOf :Stats ;
+         rdfs:label "Weather" .
+
+
+###  http://webprotege.stanford.edu/projectOntology#Year
+:Year rdf:type owl:Class ;
+      rdfs:subClassOf owl:Thing ;
+      rdfs:label "Year" .
+
+
+###  Generated by the OWL API (version 5.1.11) https://github.com/owlcs/owlapi/

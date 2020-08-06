@@ -1,0 +1,919 @@
+count,county,crime,division,year
+2.0,Donegal,Dangerous driving causing serious bodily harm,Donegal Garda Division,2003
+1.0,Donegal,Dangerous driving causing serious bodily harm,Donegal Garda Division,2004
+3.0,Donegal,Dangerous driving causing serious bodily harm,Donegal Garda Division,2005
+1.0,Donegal,Dangerous driving causing serious bodily harm,Donegal Garda Division,2006
+1.0,Donegal,Dangerous driving causing serious bodily harm,Donegal Garda Division,2007
+3.0,Donegal,Dangerous driving causing serious bodily harm,Donegal Garda Division,2008
+2.0,Donegal,Dangerous driving causing serious bodily harm,Donegal Garda Division,2009
+2.0,Donegal,Dangerous driving causing serious bodily harm,Donegal Garda Division,2010
+0.0,Donegal,Dangerous driving causing serious bodily harm,Donegal Garda Division,2011
+0.0,Donegal,Dangerous driving causing serious bodily harm,Donegal Garda Division,2012
+1.0,Donegal,Dangerous driving causing serious bodily harm,Donegal Garda Division,2013
+1.0,Donegal,Dangerous driving causing serious bodily harm,Donegal Garda Division,2014
+1.0,Donegal,Dangerous driving causing serious bodily harm,Donegal Garda Division,2015
+0.0,Donegal,Dangerous driving causing serious bodily harm,Donegal Garda Division,2016
+1.0,Donegal,Dangerous driving causing serious bodily harm,Donegal Garda Division,2017
+0.0,Donegal,Dangerous driving causing serious bodily harm,Donegal Garda Division,2018
+1.0,Donegal,Dangerous driving causing serious bodily harm,Donegal Garda Division,2019
+1.0,Louth,Dangerous driving causing serious bodily harm,Louth  Garda Division,2003
+1.0,Louth,Dangerous driving causing serious bodily harm,Louth  Garda Division,2004
+0.0,Louth,Dangerous driving causing serious bodily harm,Louth  Garda Division,2005
+1.0,Louth,Dangerous driving causing serious bodily harm,Louth  Garda Division,2006
+0.0,Louth,Dangerous driving causing serious bodily harm,Louth  Garda Division,2007
+0.0,Louth,Dangerous driving causing serious bodily harm,Louth  Garda Division,2008
+2.0,Louth,Dangerous driving causing serious bodily harm,Louth  Garda Division,2009
+0.0,Louth,Dangerous driving causing serious bodily harm,Louth  Garda Division,2010
+0.0,Louth,Dangerous driving causing serious bodily harm,Louth  Garda Division,2011
+1.0,Louth,Dangerous driving causing serious bodily harm,Louth  Garda Division,2012
+2.0,Louth,Dangerous driving causing serious bodily harm,Louth  Garda Division,2013
+0.0,Louth,Dangerous driving causing serious bodily harm,Louth  Garda Division,2014
+0.0,Louth,Dangerous driving causing serious bodily harm,Louth  Garda Division,2015
+1.0,Louth,Dangerous driving causing serious bodily harm,Louth  Garda Division,2016
+0.0,Louth,Dangerous driving causing serious bodily harm,Louth  Garda Division,2017
+1.0,Louth,Dangerous driving causing serious bodily harm,Louth  Garda Division,2018
+1.0,Louth,Dangerous driving causing serious bodily harm,Louth  Garda Division,2019
+1.0,Clare,Dangerous driving causing serious bodily harm,Clare Garda Division,2003
+0.0,Clare,Dangerous driving causing serious bodily harm,Clare Garda Division,2004
+0.0,Clare,Dangerous driving causing serious bodily harm,Clare Garda Division,2005
+0.0,Clare,Dangerous driving causing serious bodily harm,Clare Garda Division,2006
+0.0,Clare,Dangerous driving causing serious bodily harm,Clare Garda Division,2007
+3.0,Clare,Dangerous driving causing serious bodily harm,Clare Garda Division,2008
+1.0,Clare,Dangerous driving causing serious bodily harm,Clare Garda Division,2009
+1.0,Clare,Dangerous driving causing serious bodily harm,Clare Garda Division,2010
+1.0,Clare,Dangerous driving causing serious bodily harm,Clare Garda Division,2011
+0.0,Clare,Dangerous driving causing serious bodily harm,Clare Garda Division,2012
+0.0,Clare,Dangerous driving causing serious bodily harm,Clare Garda Division,2013
+0.0,Clare,Dangerous driving causing serious bodily harm,Clare Garda Division,2014
+1.0,Clare,Dangerous driving causing serious bodily harm,Clare Garda Division,2015
+1.0,Clare,Dangerous driving causing serious bodily harm,Clare Garda Division,2016
+0.0,Clare,Dangerous driving causing serious bodily harm,Clare Garda Division,2017
+1.0,Clare,Dangerous driving causing serious bodily harm,Clare Garda Division,2018
+1.0,Clare,Dangerous driving causing serious bodily harm,Clare Garda Division,2019
+1.0,Mayo,Dangerous driving causing serious bodily harm,Mayo Garda Division,2003
+1.0,Mayo,Dangerous driving causing serious bodily harm,Mayo Garda Division,2004
+1.0,Mayo,Dangerous driving causing serious bodily harm,Mayo Garda Division,2005
+3.0,Mayo,Dangerous driving causing serious bodily harm,Mayo Garda Division,2006
+0.0,Mayo,Dangerous driving causing serious bodily harm,Mayo Garda Division,2007
+0.0,Mayo,Dangerous driving causing serious bodily harm,Mayo Garda Division,2008
+0.0,Mayo,Dangerous driving causing serious bodily harm,Mayo Garda Division,2009
+2.0,Mayo,Dangerous driving causing serious bodily harm,Mayo Garda Division,2010
+2.0,Mayo,Dangerous driving causing serious bodily harm,Mayo Garda Division,2011
+0.0,Mayo,Dangerous driving causing serious bodily harm,Mayo Garda Division,2012
+1.0,Mayo,Dangerous driving causing serious bodily harm,Mayo Garda Division,2013
+0.0,Mayo,Dangerous driving causing serious bodily harm,Mayo Garda Division,2014
+0.0,Mayo,Dangerous driving causing serious bodily harm,Mayo Garda Division,2015
+0.0,Mayo,Dangerous driving causing serious bodily harm,Mayo Garda Division,2016
+0.0,Mayo,Dangerous driving causing serious bodily harm,Mayo Garda Division,2017
+1.0,Mayo,Dangerous driving causing serious bodily harm,Mayo Garda Division,2018
+2.0,Mayo,Dangerous driving causing serious bodily harm,Mayo Garda Division,2019
+0.0,Galway,Dangerous driving causing serious bodily harm,Galway Garda Division,2003
+0.0,Galway,Dangerous driving causing serious bodily harm,Galway Garda Division,2004
+0.0,Galway,Dangerous driving causing serious bodily harm,Galway Garda Division,2005
+1.0,Galway,Dangerous driving causing serious bodily harm,Galway Garda Division,2006
+4.0,Galway,Dangerous driving causing serious bodily harm,Galway Garda Division,2007
+0.0,Galway,Dangerous driving causing serious bodily harm,Galway Garda Division,2008
+1.0,Galway,Dangerous driving causing serious bodily harm,Galway Garda Division,2009
+0.0,Galway,Dangerous driving causing serious bodily harm,Galway Garda Division,2010
+2.0,Galway,Dangerous driving causing serious bodily harm,Galway Garda Division,2011
+2.0,Galway,Dangerous driving causing serious bodily harm,Galway Garda Division,2012
+1.0,Galway,Dangerous driving causing serious bodily harm,Galway Garda Division,2013
+1.0,Galway,Dangerous driving causing serious bodily harm,Galway Garda Division,2014
+0.0,Galway,Dangerous driving causing serious bodily harm,Galway Garda Division,2015
+0.0,Galway,Dangerous driving causing serious bodily harm,Galway Garda Division,2016
+1.0,Galway,Dangerous driving causing serious bodily harm,Galway Garda Division,2017
+3.0,Galway,Dangerous driving causing serious bodily harm,Galway Garda Division,2018
+5.0,Galway,Dangerous driving causing serious bodily harm,Galway Garda Division,2019
+1.0,Cork,Dangerous driving causing serious bodily harm,Cork City Garda Division,2003
+2.0,Cork,Dangerous driving causing serious bodily harm,Cork City Garda Division,2004
+0.0,Cork,Dangerous driving causing serious bodily harm,Cork City Garda Division,2005
+1.0,Cork,Dangerous driving causing serious bodily harm,Cork City Garda Division,2006
+0.0,Cork,Dangerous driving causing serious bodily harm,Cork City Garda Division,2007
+1.0,Cork,Dangerous driving causing serious bodily harm,Cork City Garda Division,2008
+1.0,Cork,Dangerous driving causing serious bodily harm,Cork City Garda Division,2009
+0.0,Cork,Dangerous driving causing serious bodily harm,Cork City Garda Division,2010
+0.0,Cork,Dangerous driving causing serious bodily harm,Cork City Garda Division,2011
+0.0,Cork,Dangerous driving causing serious bodily harm,Cork City Garda Division,2012
+0.0,Cork,Dangerous driving causing serious bodily harm,Cork City Garda Division,2013
+0.0,Cork,Dangerous driving causing serious bodily harm,Cork City Garda Division,2014
+1.0,Cork,Dangerous driving causing serious bodily harm,Cork City Garda Division,2015
+0.0,Cork,Dangerous driving causing serious bodily harm,Cork City Garda Division,2016
+1.0,Cork,Dangerous driving causing serious bodily harm,Cork City Garda Division,2017
+1.0,Cork,Dangerous driving causing serious bodily harm,Cork City Garda Division,2018
+3.0,Cork,Dangerous driving causing serious bodily harm,Cork City Garda Division,2019
+0.0,Cork,Dangerous driving causing serious bodily harm,Cork North Garda Division,2003
+1.0,Cork,Dangerous driving causing serious bodily harm,Cork North Garda Division,2004
+1.0,Cork,Dangerous driving causing serious bodily harm,Cork North Garda Division,2005
+1.0,Cork,Dangerous driving causing serious bodily harm,Cork North Garda Division,2006
+0.0,Cork,Dangerous driving causing serious bodily harm,Cork North Garda Division,2007
+1.0,Cork,Dangerous driving causing serious bodily harm,Cork North Garda Division,2008
+1.0,Cork,Dangerous driving causing serious bodily harm,Cork North Garda Division,2009
+1.0,Cork,Dangerous driving causing serious bodily harm,Cork North Garda Division,2010
+1.0,Cork,Dangerous driving causing serious bodily harm,Cork North Garda Division,2011
+0.0,Cork,Dangerous driving causing serious bodily harm,Cork North Garda Division,2012
+1.0,Cork,Dangerous driving causing serious bodily harm,Cork North Garda Division,2013
+0.0,Cork,Dangerous driving causing serious bodily harm,Cork North Garda Division,2014
+0.0,Cork,Dangerous driving causing serious bodily harm,Cork North Garda Division,2015
+0.0,Cork,Dangerous driving causing serious bodily harm,Cork North Garda Division,2016
+0.0,Cork,Dangerous driving causing serious bodily harm,Cork North Garda Division,2017
+3.0,Cork,Dangerous driving causing serious bodily harm,Cork North Garda Division,2018
+3.0,Cork,Dangerous driving causing serious bodily harm,Cork North Garda Division,2019
+1.0,Cork,Dangerous driving causing serious bodily harm,Cork West Garda Division,2003
+0.0,Cork,Dangerous driving causing serious bodily harm,Cork West Garda Division,2004
+1.0,Cork,Dangerous driving causing serious bodily harm,Cork West Garda Division,2005
+0.0,Cork,Dangerous driving causing serious bodily harm,Cork West Garda Division,2006
+0.0,Cork,Dangerous driving causing serious bodily harm,Cork West Garda Division,2007
+0.0,Cork,Dangerous driving causing serious bodily harm,Cork West Garda Division,2008
+0.0,Cork,Dangerous driving causing serious bodily harm,Cork West Garda Division,2009
+1.0,Cork,Dangerous driving causing serious bodily harm,Cork West Garda Division,2010
+0.0,Cork,Dangerous driving causing serious bodily harm,Cork West Garda Division,2011
+0.0,Cork,Dangerous driving causing serious bodily harm,Cork West Garda Division,2012
+0.0,Cork,Dangerous driving causing serious bodily harm,Cork West Garda Division,2013
+0.0,Cork,Dangerous driving causing serious bodily harm,Cork West Garda Division,2014
+0.0,Cork,Dangerous driving causing serious bodily harm,Cork West Garda Division,2015
+2.0,Cork,Dangerous driving causing serious bodily harm,Cork West Garda Division,2016
+0.0,Cork,Dangerous driving causing serious bodily harm,Cork West Garda Division,2017
+5.0,Cork,Dangerous driving causing serious bodily harm,Cork West Garda Division,2018
+7.0,Cork,Dangerous driving causing serious bodily harm,Cork West Garda Division,2019
+1.0,Kerry,Dangerous driving causing serious bodily harm,Kerry Garda Division,2003
+0.0,Kerry,Dangerous driving causing serious bodily harm,Kerry Garda Division,2004
+1.0,Kerry,Dangerous driving causing serious bodily harm,Kerry Garda Division,2005
+0.0,Kerry,Dangerous driving causing serious bodily harm,Kerry Garda Division,2006
+1.0,Kerry,Dangerous driving causing serious bodily harm,Kerry Garda Division,2007
+0.0,Kerry,Dangerous driving causing serious bodily harm,Kerry Garda Division,2008
+1.0,Kerry,Dangerous driving causing serious bodily harm,Kerry Garda Division,2009
+0.0,Kerry,Dangerous driving causing serious bodily harm,Kerry Garda Division,2010
+1.0,Kerry,Dangerous driving causing serious bodily harm,Kerry Garda Division,2011
+0.0,Kerry,Dangerous driving causing serious bodily harm,Kerry Garda Division,2012
+0.0,Kerry,Dangerous driving causing serious bodily harm,Kerry Garda Division,2013
+1.0,Kerry,Dangerous driving causing serious bodily harm,Kerry Garda Division,2014
+0.0,Kerry,Dangerous driving causing serious bodily harm,Kerry Garda Division,2015
+0.0,Kerry,Dangerous driving causing serious bodily harm,Kerry Garda Division,2016
+1.0,Kerry,Dangerous driving causing serious bodily harm,Kerry Garda Division,2017
+1.0,Kerry,Dangerous driving causing serious bodily harm,Kerry Garda Division,2018
+3.0,Kerry,Dangerous driving causing serious bodily harm,Kerry Garda Division,2019
+0.0,Limerick,Dangerous driving causing serious bodily harm,Limerick Garda Division,2003
+5.0,Limerick,Dangerous driving causing serious bodily harm,Limerick Garda Division,2004
+0.0,Limerick,Dangerous driving causing serious bodily harm,Limerick Garda Division,2005
+1.0,Limerick,Dangerous driving causing serious bodily harm,Limerick Garda Division,2006
+5.0,Limerick,Dangerous driving causing serious bodily harm,Limerick Garda Division,2007
+2.0,Limerick,Dangerous driving causing serious bodily harm,Limerick Garda Division,2008
+0.0,Limerick,Dangerous driving causing serious bodily harm,Limerick Garda Division,2009
+1.0,Limerick,Dangerous driving causing serious bodily harm,Limerick Garda Division,2010
+0.0,Limerick,Dangerous driving causing serious bodily harm,Limerick Garda Division,2011
+0.0,Limerick,Dangerous driving causing serious bodily harm,Limerick Garda Division,2012
+0.0,Limerick,Dangerous driving causing serious bodily harm,Limerick Garda Division,2013
+2.0,Limerick,Dangerous driving causing serious bodily harm,Limerick Garda Division,2014
+0.0,Limerick,Dangerous driving causing serious bodily harm,Limerick Garda Division,2015
+0.0,Limerick,Dangerous driving causing serious bodily harm,Limerick Garda Division,2016
+0.0,Limerick,Dangerous driving causing serious bodily harm,Limerick Garda Division,2017
+0.0,Limerick,Dangerous driving causing serious bodily harm,Limerick Garda Division,2018
+1.0,Limerick,Dangerous driving causing serious bodily harm,Limerick Garda Division,2019
+1.0,Meath,Dangerous driving causing serious bodily harm,Meath  Garda Division,2003
+1.0,Meath,Dangerous driving causing serious bodily harm,Meath  Garda Division,2004
+1.0,Meath,Dangerous driving causing serious bodily harm,Meath  Garda Division,2005
+3.0,Meath,Dangerous driving causing serious bodily harm,Meath  Garda Division,2006
+0.0,Meath,Dangerous driving causing serious bodily harm,Meath  Garda Division,2007
+0.0,Meath,Dangerous driving causing serious bodily harm,Meath  Garda Division,2008
+0.0,Meath,Dangerous driving causing serious bodily harm,Meath  Garda Division,2009
+0.0,Meath,Dangerous driving causing serious bodily harm,Meath  Garda Division,2010
+1.0,Meath,Dangerous driving causing serious bodily harm,Meath  Garda Division,2011
+0.0,Meath,Dangerous driving causing serious bodily harm,Meath  Garda Division,2012
+0.0,Meath,Dangerous driving causing serious bodily harm,Meath  Garda Division,2013
+0.0,Meath,Dangerous driving causing serious bodily harm,Meath  Garda Division,2014
+0.0,Meath,Dangerous driving causing serious bodily harm,Meath  Garda Division,2015
+1.0,Meath,Dangerous driving causing serious bodily harm,Meath  Garda Division,2016
+1.0,Meath,Dangerous driving causing serious bodily harm,Meath  Garda Division,2017
+0.0,Meath,Dangerous driving causing serious bodily harm,Meath  Garda Division,2018
+1.0,Meath,Dangerous driving causing serious bodily harm,Meath  Garda Division,2019
+0.0,Wicklow,Dangerous driving causing serious bodily harm,Wicklow  Garda Division,2003
+0.0,Wicklow,Dangerous driving causing serious bodily harm,Wicklow  Garda Division,2004
+2.0,Wicklow,Dangerous driving causing serious bodily harm,Wicklow  Garda Division,2005
+0.0,Wicklow,Dangerous driving causing serious bodily harm,Wicklow  Garda Division,2006
+0.0,Wicklow,Dangerous driving causing serious bodily harm,Wicklow  Garda Division,2007
+0.0,Wicklow,Dangerous driving causing serious bodily harm,Wicklow  Garda Division,2008
+0.0,Wicklow,Dangerous driving causing serious bodily harm,Wicklow  Garda Division,2009
+0.0,Wicklow,Dangerous driving causing serious bodily harm,Wicklow  Garda Division,2010
+0.0,Wicklow,Dangerous driving causing serious bodily harm,Wicklow  Garda Division,2011
+1.0,Wicklow,Dangerous driving causing serious bodily harm,Wicklow  Garda Division,2012
+1.0,Wicklow,Dangerous driving causing serious bodily harm,Wicklow  Garda Division,2013
+1.0,Wicklow,Dangerous driving causing serious bodily harm,Wicklow  Garda Division,2014
+0.0,Wicklow,Dangerous driving causing serious bodily harm,Wicklow  Garda Division,2015
+0.0,Wicklow,Dangerous driving causing serious bodily harm,Wicklow  Garda Division,2016
+0.0,Wicklow,Dangerous driving causing serious bodily harm,Wicklow  Garda Division,2017
+1.0,Wicklow,Dangerous driving causing serious bodily harm,Wicklow  Garda Division,2018
+1.0,Wicklow,Dangerous driving causing serious bodily harm,Wicklow  Garda Division,2019
+0.0,Westmeath,Dangerous driving causing serious bodily harm,Westmeath  Garda Division,2003
+1.0,Westmeath,Dangerous driving causing serious bodily harm,Westmeath  Garda Division,2004
+0.0,Westmeath,Dangerous driving causing serious bodily harm,Westmeath  Garda Division,2005
+0.0,Westmeath,Dangerous driving causing serious bodily harm,Westmeath  Garda Division,2006
+2.0,Westmeath,Dangerous driving causing serious bodily harm,Westmeath  Garda Division,2007
+0.0,Westmeath,Dangerous driving causing serious bodily harm,Westmeath  Garda Division,2008
+2.0,Westmeath,Dangerous driving causing serious bodily harm,Westmeath  Garda Division,2009
+0.0,Westmeath,Dangerous driving causing serious bodily harm,Westmeath  Garda Division,2010
+0.0,Westmeath,Dangerous driving causing serious bodily harm,Westmeath  Garda Division,2011
+0.0,Westmeath,Dangerous driving causing serious bodily harm,Westmeath  Garda Division,2012
+0.0,Westmeath,Dangerous driving causing serious bodily harm,Westmeath  Garda Division,2013
+0.0,Westmeath,Dangerous driving causing serious bodily harm,Westmeath  Garda Division,2014
+0.0,Westmeath,Dangerous driving causing serious bodily harm,Westmeath  Garda Division,2015
+1.0,Westmeath,Dangerous driving causing serious bodily harm,Westmeath  Garda Division,2016
+0.0,Westmeath,Dangerous driving causing serious bodily harm,Westmeath  Garda Division,2017
+0.0,Westmeath,Dangerous driving causing serious bodily harm,Westmeath  Garda Division,2018
+0.0,Westmeath,Dangerous driving causing serious bodily harm,Westmeath  Garda Division,2019
+0.0,Kildare,Dangerous driving causing serious bodily harm,Kildare  Garda Division,2003
+0.0,Kildare,Dangerous driving causing serious bodily harm,Kildare  Garda Division,2004
+1.0,Kildare,Dangerous driving causing serious bodily harm,Kildare  Garda Division,2005
+1.0,Kildare,Dangerous driving causing serious bodily harm,Kildare  Garda Division,2006
+0.0,Kildare,Dangerous driving causing serious bodily harm,Kildare  Garda Division,2007
+0.0,Kildare,Dangerous driving causing serious bodily harm,Kildare  Garda Division,2008
+0.0,Kildare,Dangerous driving causing serious bodily harm,Kildare  Garda Division,2009
+2.0,Kildare,Dangerous driving causing serious bodily harm,Kildare  Garda Division,2010
+0.0,Kildare,Dangerous driving causing serious bodily harm,Kildare  Garda Division,2011
+0.0,Kildare,Dangerous driving causing serious bodily harm,Kildare  Garda Division,2012
+0.0,Kildare,Dangerous driving causing serious bodily harm,Kildare  Garda Division,2013
+0.0,Kildare,Dangerous driving causing serious bodily harm,Kildare  Garda Division,2014
+1.0,Kildare,Dangerous driving causing serious bodily harm,Kildare  Garda Division,2015
+0.0,Kildare,Dangerous driving causing serious bodily harm,Kildare  Garda Division,2016
+1.0,Kildare,Dangerous driving causing serious bodily harm,Kildare  Garda Division,2017
+1.0,Kildare,Dangerous driving causing serious bodily harm,Kildare  Garda Division,2018
+4.0,Kildare,Dangerous driving causing serious bodily harm,Kildare  Garda Division,2019
+2.0,Tipperary,Dangerous driving causing serious bodily harm,Tipperary Garda Division,2003
+0.0,Tipperary,Dangerous driving causing serious bodily harm,Tipperary Garda Division,2004
+0.0,Tipperary,Dangerous driving causing serious bodily harm,Tipperary Garda Division,2005
+1.0,Tipperary,Dangerous driving causing serious bodily harm,Tipperary Garda Division,2006
+2.0,Tipperary,Dangerous driving causing serious bodily harm,Tipperary Garda Division,2007
+0.0,Tipperary,Dangerous driving causing serious bodily harm,Tipperary Garda Division,2008
+0.0,Tipperary,Dangerous driving causing serious bodily harm,Tipperary Garda Division,2009
+1.0,Tipperary,Dangerous driving causing serious bodily harm,Tipperary Garda Division,2010
+0.0,Tipperary,Dangerous driving causing serious bodily harm,Tipperary Garda Division,2011
+0.0,Tipperary,Dangerous driving causing serious bodily harm,Tipperary Garda Division,2012
+0.0,Tipperary,Dangerous driving causing serious bodily harm,Tipperary Garda Division,2013
+1.0,Tipperary,Dangerous driving causing serious bodily harm,Tipperary Garda Division,2014
+1.0,Tipperary,Dangerous driving causing serious bodily harm,Tipperary Garda Division,2015
+0.0,Tipperary,Dangerous driving causing serious bodily harm,Tipperary Garda Division,2016
+1.0,Tipperary,Dangerous driving causing serious bodily harm,Tipperary Garda Division,2017
+1.0,Tipperary,Dangerous driving causing serious bodily harm,Tipperary Garda Division,2018
+2.0,Tipperary,Dangerous driving causing serious bodily harm,Tipperary Garda Division,2019
+1.0,Wexford,Dangerous driving causing serious bodily harm,Wexford  Garda Division,2003
+1.0,Wexford,Dangerous driving causing serious bodily harm,Wexford  Garda Division,2004
+2.0,Wexford,Dangerous driving causing serious bodily harm,Wexford  Garda Division,2005
+0.0,Wexford,Dangerous driving causing serious bodily harm,Wexford  Garda Division,2006
+1.0,Wexford,Dangerous driving causing serious bodily harm,Wexford  Garda Division,2007
+1.0,Wexford,Dangerous driving causing serious bodily harm,Wexford  Garda Division,2008
+1.0,Wexford,Dangerous driving causing serious bodily harm,Wexford  Garda Division,2009
+0.0,Wexford,Dangerous driving causing serious bodily harm,Wexford  Garda Division,2010
+0.0,Wexford,Dangerous driving causing serious bodily harm,Wexford  Garda Division,2011
+0.0,Wexford,Dangerous driving causing serious bodily harm,Wexford  Garda Division,2012
+0.0,Wexford,Dangerous driving causing serious bodily harm,Wexford  Garda Division,2013
+2.0,Wexford,Dangerous driving causing serious bodily harm,Wexford  Garda Division,2014
+0.0,Wexford,Dangerous driving causing serious bodily harm,Wexford  Garda Division,2015
+1.0,Wexford,Dangerous driving causing serious bodily harm,Wexford  Garda Division,2016
+1.0,Wexford,Dangerous driving causing serious bodily harm,Wexford  Garda Division,2017
+1.0,Wexford,Dangerous driving causing serious bodily harm,Wexford  Garda Division,2018
+3.0,Wexford,Dangerous driving causing serious bodily harm,Wexford  Garda Division,2019
+0.0,Waterford,Dangerous driving causing serious bodily harm,Waterford  Garda Division,2003
+0.0,Waterford,Dangerous driving causing serious bodily harm,Waterford  Garda Division,2004
+0.0,Waterford,Dangerous driving causing serious bodily harm,Waterford  Garda Division,2005
+0.0,Waterford,Dangerous driving causing serious bodily harm,Waterford  Garda Division,2006
+0.0,Waterford,Dangerous driving causing serious bodily harm,Waterford  Garda Division,2007
+1.0,Waterford,Dangerous driving causing serious bodily harm,Waterford  Garda Division,2008
+0.0,Waterford,Dangerous driving causing serious bodily harm,Waterford  Garda Division,2009
+0.0,Waterford,Dangerous driving causing serious bodily harm,Waterford  Garda Division,2010
+0.0,Waterford,Dangerous driving causing serious bodily harm,Waterford  Garda Division,2011
+0.0,Waterford,Dangerous driving causing serious bodily harm,Waterford  Garda Division,2012
+0.0,Waterford,Dangerous driving causing serious bodily harm,Waterford  Garda Division,2013
+0.0,Waterford,Dangerous driving causing serious bodily harm,Waterford  Garda Division,2014
+0.0,Waterford,Dangerous driving causing serious bodily harm,Waterford  Garda Division,2015
+0.0,Waterford,Dangerous driving causing serious bodily harm,Waterford  Garda Division,2016
+0.0,Waterford,Dangerous driving causing serious bodily harm,Waterford  Garda Division,2017
+0.0,Waterford,Dangerous driving causing serious bodily harm,Waterford  Garda Division,2018
+1.0,Waterford,Dangerous driving causing serious bodily harm,Waterford  Garda Division,2019
+5.0,Dublin,Dangerous driving causing serious bodily harm,Dublin Region,2003
+11.0,Dublin,Dangerous driving causing serious bodily harm,Dublin Region,2004
+4.0,Dublin,Dangerous driving causing serious bodily harm,Dublin Region,2005
+7.0,Dublin,Dangerous driving causing serious bodily harm,Dublin Region,2006
+6.0,Dublin,Dangerous driving causing serious bodily harm,Dublin Region,2007
+3.0,Dublin,Dangerous driving causing serious bodily harm,Dublin Region,2008
+2.0,Dublin,Dangerous driving causing serious bodily harm,Dublin Region,2009
+6.0,Dublin,Dangerous driving causing serious bodily harm,Dublin Region,2010
+3.0,Dublin,Dangerous driving causing serious bodily harm,Dublin Region,2011
+2.0,Dublin,Dangerous driving causing serious bodily harm,Dublin Region,2012
+3.0,Dublin,Dangerous driving causing serious bodily harm,Dublin Region,2013
+4.0,Dublin,Dangerous driving causing serious bodily harm,Dublin Region,2014
+5.0,Dublin,Dangerous driving causing serious bodily harm,Dublin Region,2015
+1.0,Dublin,Dangerous driving causing serious bodily harm,Dublin Region,2016
+3.0,Dublin,Dangerous driving causing serious bodily harm,Dublin Region,2017
+6.0,Dublin,Dangerous driving causing serious bodily harm,Dublin Region,2018
+10.0,Dublin,Dangerous driving causing serious bodily harm,Dublin Region,2019
+466.0,Donegal,Driving/in charge of a vehicle while over legal alcohol limit,Donegal Garda Division,2003
+426.0,Donegal,Driving/in charge of a vehicle while over legal alcohol limit,Donegal Garda Division,2004
+576.0,Donegal,Driving/in charge of a vehicle while over legal alcohol limit,Donegal Garda Division,2005
+835.0,Donegal,Driving/in charge of a vehicle while over legal alcohol limit,Donegal Garda Division,2006
+947.0,Donegal,Driving/in charge of a vehicle while over legal alcohol limit,Donegal Garda Division,2007
+717.0,Donegal,Driving/in charge of a vehicle while over legal alcohol limit,Donegal Garda Division,2008
+545.0,Donegal,Driving/in charge of a vehicle while over legal alcohol limit,Donegal Garda Division,2009
+414.0,Donegal,Driving/in charge of a vehicle while over legal alcohol limit,Donegal Garda Division,2010
+334.0,Donegal,Driving/in charge of a vehicle while over legal alcohol limit,Donegal Garda Division,2011
+350.0,Donegal,Driving/in charge of a vehicle while over legal alcohol limit,Donegal Garda Division,2012
+303.0,Donegal,Driving/in charge of a vehicle while over legal alcohol limit,Donegal Garda Division,2013
+282.0,Donegal,Driving/in charge of a vehicle while over legal alcohol limit,Donegal Garda Division,2014
+306.0,Donegal,Driving/in charge of a vehicle while over legal alcohol limit,Donegal Garda Division,2015
+344.0,Donegal,Driving/in charge of a vehicle while over legal alcohol limit,Donegal Garda Division,2016
+361.0,Donegal,Driving/in charge of a vehicle while over legal alcohol limit,Donegal Garda Division,2017
+330.0,Donegal,Driving/in charge of a vehicle while over legal alcohol limit,Donegal Garda Division,2018
+600.0,Donegal,Driving/in charge of a vehicle while over legal alcohol limit,Donegal Garda Division,2019
+463.0,Louth,Driving/in charge of a vehicle while over legal alcohol limit,Louth  Garda Division,2003
+393.0,Louth,Driving/in charge of a vehicle while over legal alcohol limit,Louth  Garda Division,2004
+490.0,Louth,Driving/in charge of a vehicle while over legal alcohol limit,Louth  Garda Division,2005
+627.0,Louth,Driving/in charge of a vehicle while over legal alcohol limit,Louth  Garda Division,2006
+630.0,Louth,Driving/in charge of a vehicle while over legal alcohol limit,Louth  Garda Division,2007
+625.0,Louth,Driving/in charge of a vehicle while over legal alcohol limit,Louth  Garda Division,2008
+555.0,Louth,Driving/in charge of a vehicle while over legal alcohol limit,Louth  Garda Division,2009
+349.0,Louth,Driving/in charge of a vehicle while over legal alcohol limit,Louth  Garda Division,2010
+272.0,Louth,Driving/in charge of a vehicle while over legal alcohol limit,Louth  Garda Division,2011
+202.0,Louth,Driving/in charge of a vehicle while over legal alcohol limit,Louth  Garda Division,2012
+152.0,Louth,Driving/in charge of a vehicle while over legal alcohol limit,Louth  Garda Division,2013
+170.0,Louth,Driving/in charge of a vehicle while over legal alcohol limit,Louth  Garda Division,2014
+152.0,Louth,Driving/in charge of a vehicle while over legal alcohol limit,Louth  Garda Division,2015
+191.0,Louth,Driving/in charge of a vehicle while over legal alcohol limit,Louth  Garda Division,2016
+175.0,Louth,Driving/in charge of a vehicle while over legal alcohol limit,Louth  Garda Division,2017
+225.0,Louth,Driving/in charge of a vehicle while over legal alcohol limit,Louth  Garda Division,2018
+385.0,Louth,Driving/in charge of a vehicle while over legal alcohol limit,Louth  Garda Division,2019
+196.0,Clare,Driving/in charge of a vehicle while over legal alcohol limit,Clare Garda Division,2003
+251.0,Clare,Driving/in charge of a vehicle while over legal alcohol limit,Clare Garda Division,2004
+277.0,Clare,Driving/in charge of a vehicle while over legal alcohol limit,Clare Garda Division,2005
+477.0,Clare,Driving/in charge of a vehicle while over legal alcohol limit,Clare Garda Division,2006
+513.0,Clare,Driving/in charge of a vehicle while over legal alcohol limit,Clare Garda Division,2007
+428.0,Clare,Driving/in charge of a vehicle while over legal alcohol limit,Clare Garda Division,2008
+309.0,Clare,Driving/in charge of a vehicle while over legal alcohol limit,Clare Garda Division,2009
+259.0,Clare,Driving/in charge of a vehicle while over legal alcohol limit,Clare Garda Division,2010
+220.0,Clare,Driving/in charge of a vehicle while over legal alcohol limit,Clare Garda Division,2011
+173.0,Clare,Driving/in charge of a vehicle while over legal alcohol limit,Clare Garda Division,2012
+160.0,Clare,Driving/in charge of a vehicle while over legal alcohol limit,Clare Garda Division,2013
+180.0,Clare,Driving/in charge of a vehicle while over legal alcohol limit,Clare Garda Division,2014
+165.0,Clare,Driving/in charge of a vehicle while over legal alcohol limit,Clare Garda Division,2015
+182.0,Clare,Driving/in charge of a vehicle while over legal alcohol limit,Clare Garda Division,2016
+176.0,Clare,Driving/in charge of a vehicle while over legal alcohol limit,Clare Garda Division,2017
+180.0,Clare,Driving/in charge of a vehicle while over legal alcohol limit,Clare Garda Division,2018
+332.0,Clare,Driving/in charge of a vehicle while over legal alcohol limit,Clare Garda Division,2019
+444.0,Mayo,Driving/in charge of a vehicle while over legal alcohol limit,Mayo Garda Division,2003
+329.0,Mayo,Driving/in charge of a vehicle while over legal alcohol limit,Mayo Garda Division,2004
+360.0,Mayo,Driving/in charge of a vehicle while over legal alcohol limit,Mayo Garda Division,2005
+479.0,Mayo,Driving/in charge of a vehicle while over legal alcohol limit,Mayo Garda Division,2006
+441.0,Mayo,Driving/in charge of a vehicle while over legal alcohol limit,Mayo Garda Division,2007
+441.0,Mayo,Driving/in charge of a vehicle while over legal alcohol limit,Mayo Garda Division,2008
+352.0,Mayo,Driving/in charge of a vehicle while over legal alcohol limit,Mayo Garda Division,2009
+248.0,Mayo,Driving/in charge of a vehicle while over legal alcohol limit,Mayo Garda Division,2010
+219.0,Mayo,Driving/in charge of a vehicle while over legal alcohol limit,Mayo Garda Division,2011
+203.0,Mayo,Driving/in charge of a vehicle while over legal alcohol limit,Mayo Garda Division,2012
+167.0,Mayo,Driving/in charge of a vehicle while over legal alcohol limit,Mayo Garda Division,2013
+174.0,Mayo,Driving/in charge of a vehicle while over legal alcohol limit,Mayo Garda Division,2014
+173.0,Mayo,Driving/in charge of a vehicle while over legal alcohol limit,Mayo Garda Division,2015
+195.0,Mayo,Driving/in charge of a vehicle while over legal alcohol limit,Mayo Garda Division,2016
+238.0,Mayo,Driving/in charge of a vehicle while over legal alcohol limit,Mayo Garda Division,2017
+218.0,Mayo,Driving/in charge of a vehicle while over legal alcohol limit,Mayo Garda Division,2018
+368.0,Mayo,Driving/in charge of a vehicle while over legal alcohol limit,Mayo Garda Division,2019
+561.0,Galway,Driving/in charge of a vehicle while over legal alcohol limit,Galway Garda Division,2003
+614.0,Galway,Driving/in charge of a vehicle while over legal alcohol limit,Galway Garda Division,2004
+687.0,Galway,Driving/in charge of a vehicle while over legal alcohol limit,Galway Garda Division,2005
+952.0,Galway,Driving/in charge of a vehicle while over legal alcohol limit,Galway Garda Division,2006
+931.0,Galway,Driving/in charge of a vehicle while over legal alcohol limit,Galway Garda Division,2007
+853.0,Galway,Driving/in charge of a vehicle while over legal alcohol limit,Galway Garda Division,2008
+703.0,Galway,Driving/in charge of a vehicle while over legal alcohol limit,Galway Garda Division,2009
+595.0,Galway,Driving/in charge of a vehicle while over legal alcohol limit,Galway Garda Division,2010
+465.0,Galway,Driving/in charge of a vehicle while over legal alcohol limit,Galway Garda Division,2011
+394.0,Galway,Driving/in charge of a vehicle while over legal alcohol limit,Galway Garda Division,2012
+439.0,Galway,Driving/in charge of a vehicle while over legal alcohol limit,Galway Garda Division,2013
+411.0,Galway,Driving/in charge of a vehicle while over legal alcohol limit,Galway Garda Division,2014
+452.0,Galway,Driving/in charge of a vehicle while over legal alcohol limit,Galway Garda Division,2015
+439.0,Galway,Driving/in charge of a vehicle while over legal alcohol limit,Galway Garda Division,2016
+451.0,Galway,Driving/in charge of a vehicle while over legal alcohol limit,Galway Garda Division,2017
+395.0,Galway,Driving/in charge of a vehicle while over legal alcohol limit,Galway Garda Division,2018
+668.0,Galway,Driving/in charge of a vehicle while over legal alcohol limit,Galway Garda Division,2019
+637.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork City Garda Division,2003
+718.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork City Garda Division,2004
+867.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork City Garda Division,2005
+1125.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork City Garda Division,2006
+1013.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork City Garda Division,2007
+938.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork City Garda Division,2008
+628.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork City Garda Division,2009
+556.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork City Garda Division,2010
+533.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork City Garda Division,2011
+481.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork City Garda Division,2012
+386.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork City Garda Division,2013
+348.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork City Garda Division,2014
+319.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork City Garda Division,2015
+328.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork City Garda Division,2016
+338.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork City Garda Division,2017
+305.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork City Garda Division,2018
+519.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork City Garda Division,2019
+337.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork North Garda Division,2003
+405.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork North Garda Division,2004
+424.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork North Garda Division,2005
+624.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork North Garda Division,2006
+645.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork North Garda Division,2007
+584.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork North Garda Division,2008
+478.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork North Garda Division,2009
+370.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork North Garda Division,2010
+289.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork North Garda Division,2011
+274.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork North Garda Division,2012
+266.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork North Garda Division,2013
+272.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork North Garda Division,2014
+255.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork North Garda Division,2015
+284.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork North Garda Division,2016
+288.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork North Garda Division,2017
+291.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork North Garda Division,2018
+483.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork North Garda Division,2019
+267.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork West Garda Division,2003
+264.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork West Garda Division,2004
+275.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork West Garda Division,2005
+432.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork West Garda Division,2006
+386.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork West Garda Division,2007
+417.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork West Garda Division,2008
+273.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork West Garda Division,2009
+260.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork West Garda Division,2010
+203.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork West Garda Division,2011
+216.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork West Garda Division,2012
+226.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork West Garda Division,2013
+180.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork West Garda Division,2014
+193.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork West Garda Division,2015
+202.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork West Garda Division,2016
+204.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork West Garda Division,2017
+189.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork West Garda Division,2018
+329.0,Cork,Driving/in charge of a vehicle while over legal alcohol limit,Cork West Garda Division,2019
+512.0,Kerry,Driving/in charge of a vehicle while over legal alcohol limit,Kerry Garda Division,2003
+522.0,Kerry,Driving/in charge of a vehicle while over legal alcohol limit,Kerry Garda Division,2004
+511.0,Kerry,Driving/in charge of a vehicle while over legal alcohol limit,Kerry Garda Division,2005
+651.0,Kerry,Driving/in charge of a vehicle while over legal alcohol limit,Kerry Garda Division,2006
+540.0,Kerry,Driving/in charge of a vehicle while over legal alcohol limit,Kerry Garda Division,2007
+545.0,Kerry,Driving/in charge of a vehicle while over legal alcohol limit,Kerry Garda Division,2008
+378.0,Kerry,Driving/in charge of a vehicle while over legal alcohol limit,Kerry Garda Division,2009
+384.0,Kerry,Driving/in charge of a vehicle while over legal alcohol limit,Kerry Garda Division,2010
+326.0,Kerry,Driving/in charge of a vehicle while over legal alcohol limit,Kerry Garda Division,2011
+313.0,Kerry,Driving/in charge of a vehicle while over legal alcohol limit,Kerry Garda Division,2012
+290.0,Kerry,Driving/in charge of a vehicle while over legal alcohol limit,Kerry Garda Division,2013
+270.0,Kerry,Driving/in charge of a vehicle while over legal alcohol limit,Kerry Garda Division,2014
+300.0,Kerry,Driving/in charge of a vehicle while over legal alcohol limit,Kerry Garda Division,2015
+269.0,Kerry,Driving/in charge of a vehicle while over legal alcohol limit,Kerry Garda Division,2016
+297.0,Kerry,Driving/in charge of a vehicle while over legal alcohol limit,Kerry Garda Division,2017
+273.0,Kerry,Driving/in charge of a vehicle while over legal alcohol limit,Kerry Garda Division,2018
+471.0,Kerry,Driving/in charge of a vehicle while over legal alcohol limit,Kerry Garda Division,2019
+478.0,Limerick,Driving/in charge of a vehicle while over legal alcohol limit,Limerick Garda Division,2003
+543.0,Limerick,Driving/in charge of a vehicle while over legal alcohol limit,Limerick Garda Division,2004
+654.0,Limerick,Driving/in charge of a vehicle while over legal alcohol limit,Limerick Garda Division,2005
+805.0,Limerick,Driving/in charge of a vehicle while over legal alcohol limit,Limerick Garda Division,2006
+822.0,Limerick,Driving/in charge of a vehicle while over legal alcohol limit,Limerick Garda Division,2007
+832.0,Limerick,Driving/in charge of a vehicle while over legal alcohol limit,Limerick Garda Division,2008
+590.0,Limerick,Driving/in charge of a vehicle while over legal alcohol limit,Limerick Garda Division,2009
+457.0,Limerick,Driving/in charge of a vehicle while over legal alcohol limit,Limerick Garda Division,2010
+398.0,Limerick,Driving/in charge of a vehicle while over legal alcohol limit,Limerick Garda Division,2011
+346.0,Limerick,Driving/in charge of a vehicle while over legal alcohol limit,Limerick Garda Division,2012
+264.0,Limerick,Driving/in charge of a vehicle while over legal alcohol limit,Limerick Garda Division,2013
+277.0,Limerick,Driving/in charge of a vehicle while over legal alcohol limit,Limerick Garda Division,2014
+308.0,Limerick,Driving/in charge of a vehicle while over legal alcohol limit,Limerick Garda Division,2015
+345.0,Limerick,Driving/in charge of a vehicle while over legal alcohol limit,Limerick Garda Division,2016
+331.0,Limerick,Driving/in charge of a vehicle while over legal alcohol limit,Limerick Garda Division,2017
+291.0,Limerick,Driving/in charge of a vehicle while over legal alcohol limit,Limerick Garda Division,2018
+483.0,Limerick,Driving/in charge of a vehicle while over legal alcohol limit,Limerick Garda Division,2019
+360.0,Meath,Driving/in charge of a vehicle while over legal alcohol limit,Meath  Garda Division,2003
+440.0,Meath,Driving/in charge of a vehicle while over legal alcohol limit,Meath  Garda Division,2004
+483.0,Meath,Driving/in charge of a vehicle while over legal alcohol limit,Meath  Garda Division,2005
+592.0,Meath,Driving/in charge of a vehicle while over legal alcohol limit,Meath  Garda Division,2006
+657.0,Meath,Driving/in charge of a vehicle while over legal alcohol limit,Meath  Garda Division,2007
+602.0,Meath,Driving/in charge of a vehicle while over legal alcohol limit,Meath  Garda Division,2008
+497.0,Meath,Driving/in charge of a vehicle while over legal alcohol limit,Meath  Garda Division,2009
+367.0,Meath,Driving/in charge of a vehicle while over legal alcohol limit,Meath  Garda Division,2010
+317.0,Meath,Driving/in charge of a vehicle while over legal alcohol limit,Meath  Garda Division,2011
+254.0,Meath,Driving/in charge of a vehicle while over legal alcohol limit,Meath  Garda Division,2012
+245.0,Meath,Driving/in charge of a vehicle while over legal alcohol limit,Meath  Garda Division,2013
+215.0,Meath,Driving/in charge of a vehicle while over legal alcohol limit,Meath  Garda Division,2014
+220.0,Meath,Driving/in charge of a vehicle while over legal alcohol limit,Meath  Garda Division,2015
+260.0,Meath,Driving/in charge of a vehicle while over legal alcohol limit,Meath  Garda Division,2016
+281.0,Meath,Driving/in charge of a vehicle while over legal alcohol limit,Meath  Garda Division,2017
+290.0,Meath,Driving/in charge of a vehicle while over legal alcohol limit,Meath  Garda Division,2018
+487.0,Meath,Driving/in charge of a vehicle while over legal alcohol limit,Meath  Garda Division,2019
+305.0,Wicklow,Driving/in charge of a vehicle while over legal alcohol limit,Wicklow  Garda Division,2003
+319.0,Wicklow,Driving/in charge of a vehicle while over legal alcohol limit,Wicklow  Garda Division,2004
+365.0,Wicklow,Driving/in charge of a vehicle while over legal alcohol limit,Wicklow  Garda Division,2005
+449.0,Wicklow,Driving/in charge of a vehicle while over legal alcohol limit,Wicklow  Garda Division,2006
+586.0,Wicklow,Driving/in charge of a vehicle while over legal alcohol limit,Wicklow  Garda Division,2007
+464.0,Wicklow,Driving/in charge of a vehicle while over legal alcohol limit,Wicklow  Garda Division,2008
+389.0,Wicklow,Driving/in charge of a vehicle while over legal alcohol limit,Wicklow  Garda Division,2009
+277.0,Wicklow,Driving/in charge of a vehicle while over legal alcohol limit,Wicklow  Garda Division,2010
+229.0,Wicklow,Driving/in charge of a vehicle while over legal alcohol limit,Wicklow  Garda Division,2011
+177.0,Wicklow,Driving/in charge of a vehicle while over legal alcohol limit,Wicklow  Garda Division,2012
+163.0,Wicklow,Driving/in charge of a vehicle while over legal alcohol limit,Wicklow  Garda Division,2013
+131.0,Wicklow,Driving/in charge of a vehicle while over legal alcohol limit,Wicklow  Garda Division,2014
+158.0,Wicklow,Driving/in charge of a vehicle while over legal alcohol limit,Wicklow  Garda Division,2015
+173.0,Wicklow,Driving/in charge of a vehicle while over legal alcohol limit,Wicklow  Garda Division,2016
+142.0,Wicklow,Driving/in charge of a vehicle while over legal alcohol limit,Wicklow  Garda Division,2017
+138.0,Wicklow,Driving/in charge of a vehicle while over legal alcohol limit,Wicklow  Garda Division,2018
+248.0,Wicklow,Driving/in charge of a vehicle while over legal alcohol limit,Wicklow  Garda Division,2019
+187.0,Westmeath,Driving/in charge of a vehicle while over legal alcohol limit,Westmeath  Garda Division,2003
+231.0,Westmeath,Driving/in charge of a vehicle while over legal alcohol limit,Westmeath  Garda Division,2004
+333.0,Westmeath,Driving/in charge of a vehicle while over legal alcohol limit,Westmeath  Garda Division,2005
+507.0,Westmeath,Driving/in charge of a vehicle while over legal alcohol limit,Westmeath  Garda Division,2006
+513.0,Westmeath,Driving/in charge of a vehicle while over legal alcohol limit,Westmeath  Garda Division,2007
+420.0,Westmeath,Driving/in charge of a vehicle while over legal alcohol limit,Westmeath  Garda Division,2008
+313.0,Westmeath,Driving/in charge of a vehicle while over legal alcohol limit,Westmeath  Garda Division,2009
+236.0,Westmeath,Driving/in charge of a vehicle while over legal alcohol limit,Westmeath  Garda Division,2010
+209.0,Westmeath,Driving/in charge of a vehicle while over legal alcohol limit,Westmeath  Garda Division,2011
+212.0,Westmeath,Driving/in charge of a vehicle while over legal alcohol limit,Westmeath  Garda Division,2012
+162.0,Westmeath,Driving/in charge of a vehicle while over legal alcohol limit,Westmeath  Garda Division,2013
+170.0,Westmeath,Driving/in charge of a vehicle while over legal alcohol limit,Westmeath  Garda Division,2014
+177.0,Westmeath,Driving/in charge of a vehicle while over legal alcohol limit,Westmeath  Garda Division,2015
+200.0,Westmeath,Driving/in charge of a vehicle while over legal alcohol limit,Westmeath  Garda Division,2016
+212.0,Westmeath,Driving/in charge of a vehicle while over legal alcohol limit,Westmeath  Garda Division,2017
+163.0,Westmeath,Driving/in charge of a vehicle while over legal alcohol limit,Westmeath  Garda Division,2018
+286.0,Westmeath,Driving/in charge of a vehicle while over legal alcohol limit,Westmeath  Garda Division,2019
+454.0,Kildare,Driving/in charge of a vehicle while over legal alcohol limit,Kildare  Garda Division,2003
+527.0,Kildare,Driving/in charge of a vehicle while over legal alcohol limit,Kildare  Garda Division,2004
+524.0,Kildare,Driving/in charge of a vehicle while over legal alcohol limit,Kildare  Garda Division,2005
+643.0,Kildare,Driving/in charge of a vehicle while over legal alcohol limit,Kildare  Garda Division,2006
+694.0,Kildare,Driving/in charge of a vehicle while over legal alcohol limit,Kildare  Garda Division,2007
+647.0,Kildare,Driving/in charge of a vehicle while over legal alcohol limit,Kildare  Garda Division,2008
+456.0,Kildare,Driving/in charge of a vehicle while over legal alcohol limit,Kildare  Garda Division,2009
+342.0,Kildare,Driving/in charge of a vehicle while over legal alcohol limit,Kildare  Garda Division,2010
+304.0,Kildare,Driving/in charge of a vehicle while over legal alcohol limit,Kildare  Garda Division,2011
+294.0,Kildare,Driving/in charge of a vehicle while over legal alcohol limit,Kildare  Garda Division,2012
+279.0,Kildare,Driving/in charge of a vehicle while over legal alcohol limit,Kildare  Garda Division,2013
+246.0,Kildare,Driving/in charge of a vehicle while over legal alcohol limit,Kildare  Garda Division,2014
+244.0,Kildare,Driving/in charge of a vehicle while over legal alcohol limit,Kildare  Garda Division,2015
+287.0,Kildare,Driving/in charge of a vehicle while over legal alcohol limit,Kildare  Garda Division,2016
+338.0,Kildare,Driving/in charge of a vehicle while over legal alcohol limit,Kildare  Garda Division,2017
+400.0,Kildare,Driving/in charge of a vehicle while over legal alcohol limit,Kildare  Garda Division,2018
+652.0,Kildare,Driving/in charge of a vehicle while over legal alcohol limit,Kildare  Garda Division,2019
+414.0,Tipperary,Driving/in charge of a vehicle while over legal alcohol limit,Tipperary Garda Division,2003
+442.0,Tipperary,Driving/in charge of a vehicle while over legal alcohol limit,Tipperary Garda Division,2004
+448.0,Tipperary,Driving/in charge of a vehicle while over legal alcohol limit,Tipperary Garda Division,2005
+628.0,Tipperary,Driving/in charge of a vehicle while over legal alcohol limit,Tipperary Garda Division,2006
+749.0,Tipperary,Driving/in charge of a vehicle while over legal alcohol limit,Tipperary Garda Division,2007
+686.0,Tipperary,Driving/in charge of a vehicle while over legal alcohol limit,Tipperary Garda Division,2008
+506.0,Tipperary,Driving/in charge of a vehicle while over legal alcohol limit,Tipperary Garda Division,2009
+437.0,Tipperary,Driving/in charge of a vehicle while over legal alcohol limit,Tipperary Garda Division,2010
+355.0,Tipperary,Driving/in charge of a vehicle while over legal alcohol limit,Tipperary Garda Division,2011
+291.0,Tipperary,Driving/in charge of a vehicle while over legal alcohol limit,Tipperary Garda Division,2012
+293.0,Tipperary,Driving/in charge of a vehicle while over legal alcohol limit,Tipperary Garda Division,2013
+325.0,Tipperary,Driving/in charge of a vehicle while over legal alcohol limit,Tipperary Garda Division,2014
+296.0,Tipperary,Driving/in charge of a vehicle while over legal alcohol limit,Tipperary Garda Division,2015
+278.0,Tipperary,Driving/in charge of a vehicle while over legal alcohol limit,Tipperary Garda Division,2016
+394.0,Tipperary,Driving/in charge of a vehicle while over legal alcohol limit,Tipperary Garda Division,2017
+383.0,Tipperary,Driving/in charge of a vehicle while over legal alcohol limit,Tipperary Garda Division,2018
+669.0,Tipperary,Driving/in charge of a vehicle while over legal alcohol limit,Tipperary Garda Division,2019
+360.0,Wexford,Driving/in charge of a vehicle while over legal alcohol limit,Wexford  Garda Division,2003
+446.0,Wexford,Driving/in charge of a vehicle while over legal alcohol limit,Wexford  Garda Division,2004
+487.0,Wexford,Driving/in charge of a vehicle while over legal alcohol limit,Wexford  Garda Division,2005
+724.0,Wexford,Driving/in charge of a vehicle while over legal alcohol limit,Wexford  Garda Division,2006
+660.0,Wexford,Driving/in charge of a vehicle while over legal alcohol limit,Wexford  Garda Division,2007
+564.0,Wexford,Driving/in charge of a vehicle while over legal alcohol limit,Wexford  Garda Division,2008
+427.0,Wexford,Driving/in charge of a vehicle while over legal alcohol limit,Wexford  Garda Division,2009
+324.0,Wexford,Driving/in charge of a vehicle while over legal alcohol limit,Wexford  Garda Division,2010
+302.0,Wexford,Driving/in charge of a vehicle while over legal alcohol limit,Wexford  Garda Division,2011
+319.0,Wexford,Driving/in charge of a vehicle while over legal alcohol limit,Wexford  Garda Division,2012
+215.0,Wexford,Driving/in charge of a vehicle while over legal alcohol limit,Wexford  Garda Division,2013
+209.0,Wexford,Driving/in charge of a vehicle while over legal alcohol limit,Wexford  Garda Division,2014
+210.0,Wexford,Driving/in charge of a vehicle while over legal alcohol limit,Wexford  Garda Division,2015
+240.0,Wexford,Driving/in charge of a vehicle while over legal alcohol limit,Wexford  Garda Division,2016
+269.0,Wexford,Driving/in charge of a vehicle while over legal alcohol limit,Wexford  Garda Division,2017
+269.0,Wexford,Driving/in charge of a vehicle while over legal alcohol limit,Wexford  Garda Division,2018
+441.0,Wexford,Driving/in charge of a vehicle while over legal alcohol limit,Wexford  Garda Division,2019
+466.0,Waterford,Driving/in charge of a vehicle while over legal alcohol limit,Waterford  Garda Division,2003
+443.0,Waterford,Driving/in charge of a vehicle while over legal alcohol limit,Waterford  Garda Division,2004
+441.0,Waterford,Driving/in charge of a vehicle while over legal alcohol limit,Waterford  Garda Division,2005
+521.0,Waterford,Driving/in charge of a vehicle while over legal alcohol limit,Waterford  Garda Division,2006
+500.0,Waterford,Driving/in charge of a vehicle while over legal alcohol limit,Waterford  Garda Division,2007
+443.0,Waterford,Driving/in charge of a vehicle while over legal alcohol limit,Waterford  Garda Division,2008
+323.0,Waterford,Driving/in charge of a vehicle while over legal alcohol limit,Waterford  Garda Division,2009
+270.0,Waterford,Driving/in charge of a vehicle while over legal alcohol limit,Waterford  Garda Division,2010
+226.0,Waterford,Driving/in charge of a vehicle while over legal alcohol limit,Waterford  Garda Division,2011
+253.0,Waterford,Driving/in charge of a vehicle while over legal alcohol limit,Waterford  Garda Division,2012
+207.0,Waterford,Driving/in charge of a vehicle while over legal alcohol limit,Waterford  Garda Division,2013
+209.0,Waterford,Driving/in charge of a vehicle while over legal alcohol limit,Waterford  Garda Division,2014
+197.0,Waterford,Driving/in charge of a vehicle while over legal alcohol limit,Waterford  Garda Division,2015
+230.0,Waterford,Driving/in charge of a vehicle while over legal alcohol limit,Waterford  Garda Division,2016
+229.0,Waterford,Driving/in charge of a vehicle while over legal alcohol limit,Waterford  Garda Division,2017
+206.0,Waterford,Driving/in charge of a vehicle while over legal alcohol limit,Waterford  Garda Division,2018
+374.0,Waterford,Driving/in charge of a vehicle while over legal alcohol limit,Waterford  Garda Division,2019
+2758.0,Dublin,Driving/in charge of a vehicle while over legal alcohol limit,Dublin Region,2003
+2867.0,Dublin,Driving/in charge of a vehicle while over legal alcohol limit,Dublin Region,2004
+3547.0,Dublin,Driving/in charge of a vehicle while over legal alcohol limit,Dublin Region,2005
+4361.0,Dublin,Driving/in charge of a vehicle while over legal alcohol limit,Dublin Region,2006
+5192.0,Dublin,Driving/in charge of a vehicle while over legal alcohol limit,Dublin Region,2007
+4750.0,Dublin,Driving/in charge of a vehicle while over legal alcohol limit,Dublin Region,2008
+3660.0,Dublin,Driving/in charge of a vehicle while over legal alcohol limit,Dublin Region,2009
+2683.0,Dublin,Driving/in charge of a vehicle while over legal alcohol limit,Dublin Region,2010
+2244.0,Dublin,Driving/in charge of a vehicle while over legal alcohol limit,Dublin Region,2011
+2029.0,Dublin,Driving/in charge of a vehicle while over legal alcohol limit,Dublin Region,2012
+1549.0,Dublin,Driving/in charge of a vehicle while over legal alcohol limit,Dublin Region,2013
+1437.0,Dublin,Driving/in charge of a vehicle while over legal alcohol limit,Dublin Region,2014
+1329.0,Dublin,Driving/in charge of a vehicle while over legal alcohol limit,Dublin Region,2015
+1400.0,Dublin,Driving/in charge of a vehicle while over legal alcohol limit,Dublin Region,2016
+1396.0,Dublin,Driving/in charge of a vehicle while over legal alcohol limit,Dublin Region,2017
+1390.0,Dublin,Driving/in charge of a vehicle while over legal alcohol limit,Dublin Region,2018
+2458.0,Dublin,Driving/in charge of a vehicle while over legal alcohol limit,Dublin Region,2019
+8.0,Donegal,Driving/in charge of a vehicle under the influence of drugs,Donegal Garda Division,2003
+4.0,Donegal,Driving/in charge of a vehicle under the influence of drugs,Donegal Garda Division,2004
+1.0,Donegal,Driving/in charge of a vehicle under the influence of drugs,Donegal Garda Division,2005
+0.0,Donegal,Driving/in charge of a vehicle under the influence of drugs,Donegal Garda Division,2006
+0.0,Donegal,Driving/in charge of a vehicle under the influence of drugs,Donegal Garda Division,2007
+0.0,Donegal,Driving/in charge of a vehicle under the influence of drugs,Donegal Garda Division,2008
+3.0,Donegal,Driving/in charge of a vehicle under the influence of drugs,Donegal Garda Division,2009
+6.0,Donegal,Driving/in charge of a vehicle under the influence of drugs,Donegal Garda Division,2010
+3.0,Donegal,Driving/in charge of a vehicle under the influence of drugs,Donegal Garda Division,2011
+0.0,Donegal,Driving/in charge of a vehicle under the influence of drugs,Donegal Garda Division,2012
+6.0,Donegal,Driving/in charge of a vehicle under the influence of drugs,Donegal Garda Division,2013
+4.0,Donegal,Driving/in charge of a vehicle under the influence of drugs,Donegal Garda Division,2014
+9.0,Donegal,Driving/in charge of a vehicle under the influence of drugs,Donegal Garda Division,2015
+9.0,Donegal,Driving/in charge of a vehicle under the influence of drugs,Donegal Garda Division,2016
+5.0,Donegal,Driving/in charge of a vehicle under the influence of drugs,Donegal Garda Division,2017
+20.0,Donegal,Driving/in charge of a vehicle under the influence of drugs,Donegal Garda Division,2018
+59.0,Donegal,Driving/in charge of a vehicle under the influence of drugs,Donegal Garda Division,2019
+0.0,Louth,Driving/in charge of a vehicle under the influence of drugs,Louth  Garda Division,2003
+2.0,Louth,Driving/in charge of a vehicle under the influence of drugs,Louth  Garda Division,2004
+1.0,Louth,Driving/in charge of a vehicle under the influence of drugs,Louth  Garda Division,2005
+0.0,Louth,Driving/in charge of a vehicle under the influence of drugs,Louth  Garda Division,2006
+2.0,Louth,Driving/in charge of a vehicle under the influence of drugs,Louth  Garda Division,2007
+8.0,Louth,Driving/in charge of a vehicle under the influence of drugs,Louth  Garda Division,2008
+5.0,Louth,Driving/in charge of a vehicle under the influence of drugs,Louth  Garda Division,2009
+12.0,Louth,Driving/in charge of a vehicle under the influence of drugs,Louth  Garda Division,2010
+9.0,Louth,Driving/in charge of a vehicle under the influence of drugs,Louth  Garda Division,2011
+2.0,Louth,Driving/in charge of a vehicle under the influence of drugs,Louth  Garda Division,2012
+0.0,Louth,Driving/in charge of a vehicle under the influence of drugs,Louth  Garda Division,2013
+3.0,Louth,Driving/in charge of a vehicle under the influence of drugs,Louth  Garda Division,2014
+1.0,Louth,Driving/in charge of a vehicle under the influence of drugs,Louth  Garda Division,2015
+4.0,Louth,Driving/in charge of a vehicle under the influence of drugs,Louth  Garda Division,2016
+3.0,Louth,Driving/in charge of a vehicle under the influence of drugs,Louth  Garda Division,2017
+0.0,Louth,Driving/in charge of a vehicle under the influence of drugs,Louth  Garda Division,2018
+1.0,Louth,Driving/in charge of a vehicle under the influence of drugs,Louth  Garda Division,2019
+2.0,Clare,Driving/in charge of a vehicle under the influence of drugs,Clare Garda Division,2003
+7.0,Clare,Driving/in charge of a vehicle under the influence of drugs,Clare Garda Division,2004
+4.0,Clare,Driving/in charge of a vehicle under the influence of drugs,Clare Garda Division,2005
+0.0,Clare,Driving/in charge of a vehicle under the influence of drugs,Clare Garda Division,2006
+14.0,Clare,Driving/in charge of a vehicle under the influence of drugs,Clare Garda Division,2007
+32.0,Clare,Driving/in charge of a vehicle under the influence of drugs,Clare Garda Division,2008
+32.0,Clare,Driving/in charge of a vehicle under the influence of drugs,Clare Garda Division,2009
+14.0,Clare,Driving/in charge of a vehicle under the influence of drugs,Clare Garda Division,2010
+15.0,Clare,Driving/in charge of a vehicle under the influence of drugs,Clare Garda Division,2011
+8.0,Clare,Driving/in charge of a vehicle under the influence of drugs,Clare Garda Division,2012
+14.0,Clare,Driving/in charge of a vehicle under the influence of drugs,Clare Garda Division,2013
+6.0,Clare,Driving/in charge of a vehicle under the influence of drugs,Clare Garda Division,2014
+1.0,Clare,Driving/in charge of a vehicle under the influence of drugs,Clare Garda Division,2015
+4.0,Clare,Driving/in charge of a vehicle under the influence of drugs,Clare Garda Division,2016
+2.0,Clare,Driving/in charge of a vehicle under the influence of drugs,Clare Garda Division,2017
+10.0,Clare,Driving/in charge of a vehicle under the influence of drugs,Clare Garda Division,2018
+19.0,Clare,Driving/in charge of a vehicle under the influence of drugs,Clare Garda Division,2019
+0.0,Mayo,Driving/in charge of a vehicle under the influence of drugs,Mayo Garda Division,2003
+0.0,Mayo,Driving/in charge of a vehicle under the influence of drugs,Mayo Garda Division,2004
+1.0,Mayo,Driving/in charge of a vehicle under the influence of drugs,Mayo Garda Division,2005
+2.0,Mayo,Driving/in charge of a vehicle under the influence of drugs,Mayo Garda Division,2006
+2.0,Mayo,Driving/in charge of a vehicle under the influence of drugs,Mayo Garda Division,2007
+2.0,Mayo,Driving/in charge of a vehicle under the influence of drugs,Mayo Garda Division,2008
+4.0,Mayo,Driving/in charge of a vehicle under the influence of drugs,Mayo Garda Division,2009
+6.0,Mayo,Driving/in charge of a vehicle under the influence of drugs,Mayo Garda Division,2010
+4.0,Mayo,Driving/in charge of a vehicle under the influence of drugs,Mayo Garda Division,2011
+1.0,Mayo,Driving/in charge of a vehicle under the influence of drugs,Mayo Garda Division,2012
+0.0,Mayo,Driving/in charge of a vehicle under the influence of drugs,Mayo Garda Division,2013
+4.0,Mayo,Driving/in charge of a vehicle under the influence of drugs,Mayo Garda Division,2014
+1.0,Mayo,Driving/in charge of a vehicle under the influence of drugs,Mayo Garda Division,2015
+2.0,Mayo,Driving/in charge of a vehicle under the influence of drugs,Mayo Garda Division,2016
+1.0,Mayo,Driving/in charge of a vehicle under the influence of drugs,Mayo Garda Division,2017
+18.0,Mayo,Driving/in charge of a vehicle under the influence of drugs,Mayo Garda Division,2018
+45.0,Mayo,Driving/in charge of a vehicle under the influence of drugs,Mayo Garda Division,2019
+7.0,Galway,Driving/in charge of a vehicle under the influence of drugs,Galway Garda Division,2003
+1.0,Galway,Driving/in charge of a vehicle under the influence of drugs,Galway Garda Division,2004
+0.0,Galway,Driving/in charge of a vehicle under the influence of drugs,Galway Garda Division,2005
+12.0,Galway,Driving/in charge of a vehicle under the influence of drugs,Galway Garda Division,2006
+11.0,Galway,Driving/in charge of a vehicle under the influence of drugs,Galway Garda Division,2007
+14.0,Galway,Driving/in charge of a vehicle under the influence of drugs,Galway Garda Division,2008
+16.0,Galway,Driving/in charge of a vehicle under the influence of drugs,Galway Garda Division,2009
+14.0,Galway,Driving/in charge of a vehicle under the influence of drugs,Galway Garda Division,2010
+12.0,Galway,Driving/in charge of a vehicle under the influence of drugs,Galway Garda Division,2011
+10.0,Galway,Driving/in charge of a vehicle under the influence of drugs,Galway Garda Division,2012
+6.0,Galway,Driving/in charge of a vehicle under the influence of drugs,Galway Garda Division,2013
+16.0,Galway,Driving/in charge of a vehicle under the influence of drugs,Galway Garda Division,2014
+11.0,Galway,Driving/in charge of a vehicle under the influence of drugs,Galway Garda Division,2015
+11.0,Galway,Driving/in charge of a vehicle under the influence of drugs,Galway Garda Division,2016
+9.0,Galway,Driving/in charge of a vehicle under the influence of drugs,Galway Garda Division,2017
+7.0,Galway,Driving/in charge of a vehicle under the influence of drugs,Galway Garda Division,2018
+14.0,Galway,Driving/in charge of a vehicle under the influence of drugs,Galway Garda Division,2019
+1.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork City Garda Division,2003
+3.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork City Garda Division,2004
+1.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork City Garda Division,2005
+1.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork City Garda Division,2006
+6.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork City Garda Division,2007
+25.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork City Garda Division,2008
+31.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork City Garda Division,2009
+26.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork City Garda Division,2010
+26.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork City Garda Division,2011
+10.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork City Garda Division,2012
+13.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork City Garda Division,2013
+13.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork City Garda Division,2014
+8.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork City Garda Division,2015
+4.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork City Garda Division,2016
+7.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork City Garda Division,2017
+15.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork City Garda Division,2018
+36.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork City Garda Division,2019
+1.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork North Garda Division,2003
+3.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork North Garda Division,2004
+2.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork North Garda Division,2005
+7.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork North Garda Division,2006
+13.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork North Garda Division,2007
+23.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork North Garda Division,2008
+35.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork North Garda Division,2009
+33.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork North Garda Division,2010
+25.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork North Garda Division,2011
+9.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork North Garda Division,2012
+7.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork North Garda Division,2013
+3.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork North Garda Division,2014
+6.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork North Garda Division,2015
+4.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork North Garda Division,2016
+22.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork North Garda Division,2017
+23.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork North Garda Division,2018
+64.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork North Garda Division,2019
+2.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork West Garda Division,2003
+4.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork West Garda Division,2004
+0.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork West Garda Division,2005
+0.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork West Garda Division,2006
+3.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork West Garda Division,2007
+12.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork West Garda Division,2008
+11.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork West Garda Division,2009
+6.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork West Garda Division,2010
+7.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork West Garda Division,2011
+4.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork West Garda Division,2012
+3.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork West Garda Division,2013
+1.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork West Garda Division,2014
+4.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork West Garda Division,2015
+3.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork West Garda Division,2016
+18.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork West Garda Division,2017
+33.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork West Garda Division,2018
+81.0,Cork,Driving/in charge of a vehicle under the influence of drugs,Cork West Garda Division,2019
+4.0,Kerry,Driving/in charge of a vehicle under the influence of drugs,Kerry Garda Division,2003
+1.0,Kerry,Driving/in charge of a vehicle under the influence of drugs,Kerry Garda Division,2004
+4.0,Kerry,Driving/in charge of a vehicle under the influence of drugs,Kerry Garda Division,2005
+0.0,Kerry,Driving/in charge of a vehicle under the influence of drugs,Kerry Garda Division,2006
+0.0,Kerry,Driving/in charge of a vehicle under the influence of drugs,Kerry Garda Division,2007
+4.0,Kerry,Driving/in charge of a vehicle under the influence of drugs,Kerry Garda Division,2008
+7.0,Kerry,Driving/in charge of a vehicle under the influence of drugs,Kerry Garda Division,2009
+15.0,Kerry,Driving/in charge of a vehicle under the influence of drugs,Kerry Garda Division,2010
+10.0,Kerry,Driving/in charge of a vehicle under the influence of drugs,Kerry Garda Division,2011
+4.0,Kerry,Driving/in charge of a vehicle under the influence of drugs,Kerry Garda Division,2012
+8.0,Kerry,Driving/in charge of a vehicle under the influence of drugs,Kerry Garda Division,2013
+17.0,Kerry,Driving/in charge of a vehicle under the influence of drugs,Kerry Garda Division,2014
+10.0,Kerry,Driving/in charge of a vehicle under the influence of drugs,Kerry Garda Division,2015
+12.0,Kerry,Driving/in charge of a vehicle under the influence of drugs,Kerry Garda Division,2016
+16.0,Kerry,Driving/in charge of a vehicle under the influence of drugs,Kerry Garda Division,2017
+19.0,Kerry,Driving/in charge of a vehicle under the influence of drugs,Kerry Garda Division,2018
+47.0,Kerry,Driving/in charge of a vehicle under the influence of drugs,Kerry Garda Division,2019
+1.0,Limerick,Driving/in charge of a vehicle under the influence of drugs,Limerick Garda Division,2003
+0.0,Limerick,Driving/in charge of a vehicle under the influence of drugs,Limerick Garda Division,2004
+1.0,Limerick,Driving/in charge of a vehicle under the influence of drugs,Limerick Garda Division,2005
+0.0,Limerick,Driving/in charge of a vehicle under the influence of drugs,Limerick Garda Division,2006
+23.0,Limerick,Driving/in charge of a vehicle under the influence of drugs,Limerick Garda Division,2007
+61.0,Limerick,Driving/in charge of a vehicle under the influence of drugs,Limerick Garda Division,2008
+60.0,Limerick,Driving/in charge of a vehicle under the influence of drugs,Limerick Garda Division,2009
+46.0,Limerick,Driving/in charge of a vehicle under the influence of drugs,Limerick Garda Division,2010
+37.0,Limerick,Driving/in charge of a vehicle under the influence of drugs,Limerick Garda Division,2011
+25.0,Limerick,Driving/in charge of a vehicle under the influence of drugs,Limerick Garda Division,2012
+34.0,Limerick,Driving/in charge of a vehicle under the influence of drugs,Limerick Garda Division,2013
+21.0,Limerick,Driving/in charge of a vehicle under the influence of drugs,Limerick Garda Division,2014
+21.0,Limerick,Driving/in charge of a vehicle under the influence of drugs,Limerick Garda Division,2015
+29.0,Limerick,Driving/in charge of a vehicle under the influence of drugs,Limerick Garda Division,2016
+11.0,Limerick,Driving/in charge of a vehicle under the influence of drugs,Limerick Garda Division,2017
+18.0,Limerick,Driving/in charge of a vehicle under the influence of drugs,Limerick Garda Division,2018
+39.0,Limerick,Driving/in charge of a vehicle under the influence of drugs,Limerick Garda Division,2019
+3.0,Meath,Driving/in charge of a vehicle under the influence of drugs,Meath  Garda Division,2003
+0.0,Meath,Driving/in charge of a vehicle under the influence of drugs,Meath  Garda Division,2004
+1.0,Meath,Driving/in charge of a vehicle under the influence of drugs,Meath  Garda Division,2005
+0.0,Meath,Driving/in charge of a vehicle under the influence of drugs,Meath  Garda Division,2006
+5.0,Meath,Driving/in charge of a vehicle under the influence of drugs,Meath  Garda Division,2007
+18.0,Meath,Driving/in charge of a vehicle under the influence of drugs,Meath  Garda Division,2008
+32.0,Meath,Driving/in charge of a vehicle under the influence of drugs,Meath  Garda Division,2009
+9.0,Meath,Driving/in charge of a vehicle under the influence of drugs,Meath  Garda Division,2010
+3.0,Meath,Driving/in charge of a vehicle under the influence of drugs,Meath  Garda Division,2011
+6.0,Meath,Driving/in charge of a vehicle under the influence of drugs,Meath  Garda Division,2012
+7.0,Meath,Driving/in charge of a vehicle under the influence of drugs,Meath  Garda Division,2013
+5.0,Meath,Driving/in charge of a vehicle under the influence of drugs,Meath  Garda Division,2014
+3.0,Meath,Driving/in charge of a vehicle under the influence of drugs,Meath  Garda Division,2015
+7.0,Meath,Driving/in charge of a vehicle under the influence of drugs,Meath  Garda Division,2016
+7.0,Meath,Driving/in charge of a vehicle under the influence of drugs,Meath  Garda Division,2017
+10.0,Meath,Driving/in charge of a vehicle under the influence of drugs,Meath  Garda Division,2018
+14.0,Meath,Driving/in charge of a vehicle under the influence of drugs,Meath  Garda Division,2019
+0.0,Wicklow,Driving/in charge of a vehicle under the influence of drugs,Wicklow  Garda Division,2003
+3.0,Wicklow,Driving/in charge of a vehicle under the influence of drugs,Wicklow  Garda Division,2004
+0.0,Wicklow,Driving/in charge of a vehicle under the influence of drugs,Wicklow  Garda Division,2005
+7.0,Wicklow,Driving/in charge of a vehicle under the influence of drugs,Wicklow  Garda Division,2006
+43.0,Wicklow,Driving/in charge of a vehicle under the influence of drugs,Wicklow  Garda Division,2007
+29.0,Wicklow,Driving/in charge of a vehicle under the influence of drugs,Wicklow  Garda Division,2008
+31.0,Wicklow,Driving/in charge of a vehicle under the influence of drugs,Wicklow  Garda Division,2009
+22.0,Wicklow,Driving/in charge of a vehicle under the influence of drugs,Wicklow  Garda Division,2010
+5.0,Wicklow,Driving/in charge of a vehicle under the influence of drugs,Wicklow  Garda Division,2011
+5.0,Wicklow,Driving/in charge of a vehicle under the influence of drugs,Wicklow  Garda Division,2012
+7.0,Wicklow,Driving/in charge of a vehicle under the influence of drugs,Wicklow  Garda Division,2013
+8.0,Wicklow,Driving/in charge of a vehicle under the influence of drugs,Wicklow  Garda Division,2014
+4.0,Wicklow,Driving/in charge of a vehicle under the influence of drugs,Wicklow  Garda Division,2015
+6.0,Wicklow,Driving/in charge of a vehicle under the influence of drugs,Wicklow  Garda Division,2016
+11.0,Wicklow,Driving/in charge of a vehicle under the influence of drugs,Wicklow  Garda Division,2017
+0.0,Wicklow,Driving/in charge of a vehicle under the influence of drugs,Wicklow  Garda Division,2018
+10.0,Wicklow,Driving/in charge of a vehicle under the influence of drugs,Wicklow  Garda Division,2019
+1.0,Westmeath,Driving/in charge of a vehicle under the influence of drugs,Westmeath  Garda Division,2003
+7.0,Westmeath,Driving/in charge of a vehicle under the influence of drugs,Westmeath  Garda Division,2004
+4.0,Westmeath,Driving/in charge of a vehicle under the influence of drugs,Westmeath  Garda Division,2005
+7.0,Westmeath,Driving/in charge of a vehicle under the influence of drugs,Westmeath  Garda Division,2006
+31.0,Westmeath,Driving/in charge of a vehicle under the influence of drugs,Westmeath  Garda Division,2007
+49.0,Westmeath,Driving/in charge of a vehicle under the influence of drugs,Westmeath  Garda Division,2008
+34.0,Westmeath,Driving/in charge of a vehicle under the influence of drugs,Westmeath  Garda Division,2009
+9.0,Westmeath,Driving/in charge of a vehicle under the influence of drugs,Westmeath  Garda Division,2010
+6.0,Westmeath,Driving/in charge of a vehicle under the influence of drugs,Westmeath  Garda Division,2011
+5.0,Westmeath,Driving/in charge of a vehicle under the influence of drugs,Westmeath  Garda Division,2012
+6.0,Westmeath,Driving/in charge of a vehicle under the influence of drugs,Westmeath  Garda Division,2013
+4.0,Westmeath,Driving/in charge of a vehicle under the influence of drugs,Westmeath  Garda Division,2014
+5.0,Westmeath,Driving/in charge of a vehicle under the influence of drugs,Westmeath  Garda Division,2015
+8.0,Westmeath,Driving/in charge of a vehicle under the influence of drugs,Westmeath  Garda Division,2016
+14.0,Westmeath,Driving/in charge of a vehicle under the influence of drugs,Westmeath  Garda Division,2017
+8.0,Westmeath,Driving/in charge of a vehicle under the influence of drugs,Westmeath  Garda Division,2018
+19.0,Westmeath,Driving/in charge of a vehicle under the influence of drugs,Westmeath  Garda Division,2019
+3.0,Kildare,Driving/in charge of a vehicle under the influence of drugs,Kildare  Garda Division,2003
+4.0,Kildare,Driving/in charge of a vehicle under the influence of drugs,Kildare  Garda Division,2004
+4.0,Kildare,Driving/in charge of a vehicle under the influence of drugs,Kildare  Garda Division,2005
+3.0,Kildare,Driving/in charge of a vehicle under the influence of drugs,Kildare  Garda Division,2006
+6.0,Kildare,Driving/in charge of a vehicle under the influence of drugs,Kildare  Garda Division,2007
+17.0,Kildare,Driving/in charge of a vehicle under the influence of drugs,Kildare  Garda Division,2008
+13.0,Kildare,Driving/in charge of a vehicle under the influence of drugs,Kildare  Garda Division,2009
+17.0,Kildare,Driving/in charge of a vehicle under the influence of drugs,Kildare  Garda Division,2010
+11.0,Kildare,Driving/in charge of a vehicle under the influence of drugs,Kildare  Garda Division,2011
+10.0,Kildare,Driving/in charge of a vehicle under the influence of drugs,Kildare  Garda Division,2012
+11.0,Kildare,Driving/in charge of a vehicle under the influence of drugs,Kildare  Garda Division,2013
+10.0,Kildare,Driving/in charge of a vehicle under the influence of drugs,Kildare  Garda Division,2014
+10.0,Kildare,Driving/in charge of a vehicle under the influence of drugs,Kildare  Garda Division,2015
+8.0,Kildare,Driving/in charge of a vehicle under the influence of drugs,Kildare  Garda Division,2016
+15.0,Kildare,Driving/in charge of a vehicle under the influence of drugs,Kildare  Garda Division,2017
+60.0,Kildare,Driving/in charge of a vehicle under the influence of drugs,Kildare  Garda Division,2018
+163.0,Kildare,Driving/in charge of a vehicle under the influence of drugs,Kildare  Garda Division,2019
+1.0,Tipperary,Driving/in charge of a vehicle under the influence of drugs,Tipperary Garda Division,2003
+0.0,Tipperary,Driving/in charge of a vehicle under the influence of drugs,Tipperary Garda Division,2004
+1.0,Tipperary,Driving/in charge of a vehicle under the influence of drugs,Tipperary Garda Division,2005
+7.0,Tipperary,Driving/in charge of a vehicle under the influence of drugs,Tipperary Garda Division,2006
+11.0,Tipperary,Driving/in charge of a vehicle under the influence of drugs,Tipperary Garda Division,2007
+72.0,Tipperary,Driving/in charge of a vehicle under the influence of drugs,Tipperary Garda Division,2008
+80.0,Tipperary,Driving/in charge of a vehicle under the influence of drugs,Tipperary Garda Division,2009
+39.0,Tipperary,Driving/in charge of a vehicle under the influence of drugs,Tipperary Garda Division,2010
+27.0,Tipperary,Driving/in charge of a vehicle under the influence of drugs,Tipperary Garda Division,2011
+13.0,Tipperary,Driving/in charge of a vehicle under the influence of drugs,Tipperary Garda Division,2012
+10.0,Tipperary,Driving/in charge of a vehicle under the influence of drugs,Tipperary Garda Division,2013
+15.0,Tipperary,Driving/in charge of a vehicle under the influence of drugs,Tipperary Garda Division,2014
+12.0,Tipperary,Driving/in charge of a vehicle under the influence of drugs,Tipperary Garda Division,2015
+16.0,Tipperary,Driving/in charge of a vehicle under the influence of drugs,Tipperary Garda Division,2016
+16.0,Tipperary,Driving/in charge of a vehicle under the influence of drugs,Tipperary Garda Division,2017
+11.0,Tipperary,Driving/in charge of a vehicle under the influence of drugs,Tipperary Garda Division,2018
+24.0,Tipperary,Driving/in charge of a vehicle under the influence of drugs,Tipperary Garda Division,2019
+0.0,Wexford,Driving/in charge of a vehicle under the influence of drugs,Wexford  Garda Division,2003
+0.0,Wexford,Driving/in charge of a vehicle under the influence of drugs,Wexford  Garda Division,2004
+1.0,Wexford,Driving/in charge of a vehicle under the influence of drugs,Wexford  Garda Division,2005
+2.0,Wexford,Driving/in charge of a vehicle under the influence of drugs,Wexford  Garda Division,2006
+8.0,Wexford,Driving/in charge of a vehicle under the influence of drugs,Wexford  Garda Division,2007
+18.0,Wexford,Driving/in charge of a vehicle under the influence of drugs,Wexford  Garda Division,2008
+32.0,Wexford,Driving/in charge of a vehicle under the influence of drugs,Wexford  Garda Division,2009
+13.0,Wexford,Driving/in charge of a vehicle under the influence of drugs,Wexford  Garda Division,2010
+15.0,Wexford,Driving/in charge of a vehicle under the influence of drugs,Wexford  Garda Division,2011
+7.0,Wexford,Driving/in charge of a vehicle under the influence of drugs,Wexford  Garda Division,2012
+5.0,Wexford,Driving/in charge of a vehicle under the influence of drugs,Wexford  Garda Division,2013
+13.0,Wexford,Driving/in charge of a vehicle under the influence of drugs,Wexford  Garda Division,2014
+6.0,Wexford,Driving/in charge of a vehicle under the influence of drugs,Wexford  Garda Division,2015
+5.0,Wexford,Driving/in charge of a vehicle under the influence of drugs,Wexford  Garda Division,2016
+6.0,Wexford,Driving/in charge of a vehicle under the influence of drugs,Wexford  Garda Division,2017
+15.0,Wexford,Driving/in charge of a vehicle under the influence of drugs,Wexford  Garda Division,2018
+33.0,Wexford,Driving/in charge of a vehicle under the influence of drugs,Wexford  Garda Division,2019
+4.0,Waterford,Driving/in charge of a vehicle under the influence of drugs,Waterford  Garda Division,2003
+1.0,Waterford,Driving/in charge of a vehicle under the influence of drugs,Waterford  Garda Division,2004
+0.0,Waterford,Driving/in charge of a vehicle under the influence of drugs,Waterford  Garda Division,2005
+1.0,Waterford,Driving/in charge of a vehicle under the influence of drugs,Waterford  Garda Division,2006
+5.0,Waterford,Driving/in charge of a vehicle under the influence of drugs,Waterford  Garda Division,2007
+16.0,Waterford,Driving/in charge of a vehicle under the influence of drugs,Waterford  Garda Division,2008
+28.0,Waterford,Driving/in charge of a vehicle under the influence of drugs,Waterford  Garda Division,2009
+17.0,Waterford,Driving/in charge of a vehicle under the influence of drugs,Waterford  Garda Division,2010
+13.0,Waterford,Driving/in charge of a vehicle under the influence of drugs,Waterford  Garda Division,2011
+11.0,Waterford,Driving/in charge of a vehicle under the influence of drugs,Waterford  Garda Division,2012
+10.0,Waterford,Driving/in charge of a vehicle under the influence of drugs,Waterford  Garda Division,2013
+10.0,Waterford,Driving/in charge of a vehicle under the influence of drugs,Waterford  Garda Division,2014
+7.0,Waterford,Driving/in charge of a vehicle under the influence of drugs,Waterford  Garda Division,2015
+7.0,Waterford,Driving/in charge of a vehicle under the influence of drugs,Waterford  Garda Division,2016
+8.0,Waterford,Driving/in charge of a vehicle under the influence of drugs,Waterford  Garda Division,2017
+7.0,Waterford,Driving/in charge of a vehicle under the influence of drugs,Waterford  Garda Division,2018
+21.0,Waterford,Driving/in charge of a vehicle under the influence of drugs,Waterford  Garda Division,2019
+27.0,Dublin,Driving/in charge of a vehicle under the influence of drugs,Dublin Region,2003
+17.0,Dublin,Driving/in charge of a vehicle under the influence of drugs,Dublin Region,2004
+25.0,Dublin,Driving/in charge of a vehicle under the influence of drugs,Dublin Region,2005
+24.0,Dublin,Driving/in charge of a vehicle under the influence of drugs,Dublin Region,2006
+60.0,Dublin,Driving/in charge of a vehicle under the influence of drugs,Dublin Region,2007
+262.0,Dublin,Driving/in charge of a vehicle under the influence of drugs,Dublin Region,2008
+338.0,Dublin,Driving/in charge of a vehicle under the influence of drugs,Dublin Region,2009
+233.0,Dublin,Driving/in charge of a vehicle under the influence of drugs,Dublin Region,2010
+155.0,Dublin,Driving/in charge of a vehicle under the influence of drugs,Dublin Region,2011
+123.0,Dublin,Driving/in charge of a vehicle under the influence of drugs,Dublin Region,2012
+88.0,Dublin,Driving/in charge of a vehicle under the influence of drugs,Dublin Region,2013
+92.0,Dublin,Driving/in charge of a vehicle under the influence of drugs,Dublin Region,2014
+81.0,Dublin,Driving/in charge of a vehicle under the influence of drugs,Dublin Region,2015
+57.0,Dublin,Driving/in charge of a vehicle under the influence of drugs,Dublin Region,2016
+70.0,Dublin,Driving/in charge of a vehicle under the influence of drugs,Dublin Region,2017
+120.0,Dublin,Driving/in charge of a vehicle under the influence of drugs,Dublin Region,2018
+274.0,Dublin,Driving/in charge of a vehicle under the influence of drugs,Dublin Region,2019

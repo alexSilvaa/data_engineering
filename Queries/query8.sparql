@@ -1,0 +1,24 @@
+PREFIX  xsd:  <http://www.w3.org/2001/XMLSchema#>
+PREFIX  ont:  <http://webprotege.stanford.edu/projectOntology#>
+PREFIX  db:   <http://dbpedia.org/ontology/>
+
+ SELECT ?homeless_2014 ?homeless_2019 ?crime_2014 ?crime_2019
+ WHERE{
+     ?x ont:NumOfHomeless ?homeless_2014 .
+     ?x db:Year '§1' .
+     ?z ont:NumOfHomeless ?homeless_2019 .
+     ?z db:Year '§2' .
+     ?x ont:CountyName '§0' .
+     ?z ont:CountyName '§0' .
+ { SELECT ?crime_2014 ?crime_2019
+ WHERE{
+     ?a ont:NumOfCrime ?crime_2014 .
+     ?a db:Year '§1' .
+     ?b ont:NumOfCrime ?crime_2019 .
+     ?b db:Year '§2' .
+     ?a ont:CountyName '§0' .
+     ?b ont:CountyName  '§0' .
+     ?a ont:CrimeName 'Burglary and related offences' .
+     ?b ont:CrimeName 'Burglary and related offences' .
+ }}
+ }

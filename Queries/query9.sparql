@@ -1,0 +1,23 @@
+PREFIX db: <http://dbpedia.org/ontology/> 
+PREFIX ont: <http://webprotege.stanford.edu/projectOntology#> 
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> 
+SELECT DISTINCT ?priceYear1 ?crimeYear1 ?priceYear2 ?crimeYear2 WHERE { 
+    ?z ont:MeanPrice ?priceYear1 . 
+    ?z db:Year '§0' . 
+    ?z ont:CountyName '§1' . 
+    ?z ont:HousingPricesType 'Execution' . 
+    ?w ont:MeanPrice ?priceYear2 . 
+    ?w db:Year '§2' . 
+    ?w ont:CountyName 'Cork' . 
+    ?w ont:HousingPricesType 'Execution' . 
+    { 
+        SELECT DISTINCT (SUM(xsd:float(?numYear1)) AS ?crimeYear1) (SUM(xsd:float(?numYear2)) AS ?crimeYear2) WHERE { 
+            ?x ont:CrimeName 'Burglary and related offences' . 
+            ?x ont:NumOfCrime ?numYear1 . 
+            ?x db:Year '§0' . 
+            ?x ont:CountyName '§1' . 
+            ?y ont:CrimeName 'Burglary and related offences' . 
+            ?y ont:NumOfCrime ?numYear2 . 
+            ?y db:Year '§2' . 
+            ?y ont:CountyName 'Cork' . 
+        }}}

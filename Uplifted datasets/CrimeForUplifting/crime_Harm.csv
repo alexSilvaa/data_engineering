@@ -1,0 +1,613 @@
+count,county,crime,division,year
+0.0,Donegal,Endangerment with potential for serious harm/death,Donegal Garda Division,2003
+7.0,Donegal,Endangerment with potential for serious harm/death,Donegal Garda Division,2004
+2.0,Donegal,Endangerment with potential for serious harm/death,Donegal Garda Division,2005
+5.0,Donegal,Endangerment with potential for serious harm/death,Donegal Garda Division,2006
+2.0,Donegal,Endangerment with potential for serious harm/death,Donegal Garda Division,2007
+2.0,Donegal,Endangerment with potential for serious harm/death,Donegal Garda Division,2008
+1.0,Donegal,Endangerment with potential for serious harm/death,Donegal Garda Division,2009
+5.0,Donegal,Endangerment with potential for serious harm/death,Donegal Garda Division,2010
+4.0,Donegal,Endangerment with potential for serious harm/death,Donegal Garda Division,2011
+3.0,Donegal,Endangerment with potential for serious harm/death,Donegal Garda Division,2012
+5.0,Donegal,Endangerment with potential for serious harm/death,Donegal Garda Division,2013
+8.0,Donegal,Endangerment with potential for serious harm/death,Donegal Garda Division,2014
+5.0,Donegal,Endangerment with potential for serious harm/death,Donegal Garda Division,2015
+0.0,Donegal,Endangerment with potential for serious harm/death,Donegal Garda Division,2016
+3.0,Donegal,Endangerment with potential for serious harm/death,Donegal Garda Division,2017
+7.0,Donegal,Endangerment with potential for serious harm/death,Donegal Garda Division,2018
+12.0,Donegal,Endangerment with potential for serious harm/death,Donegal Garda Division,2019
+3.0,Louth,Endangerment with potential for serious harm/death,Louth  Garda Division,2003
+2.0,Louth,Endangerment with potential for serious harm/death,Louth  Garda Division,2004
+3.0,Louth,Endangerment with potential for serious harm/death,Louth  Garda Division,2005
+3.0,Louth,Endangerment with potential for serious harm/death,Louth  Garda Division,2006
+3.0,Louth,Endangerment with potential for serious harm/death,Louth  Garda Division,2007
+2.0,Louth,Endangerment with potential for serious harm/death,Louth  Garda Division,2008
+1.0,Louth,Endangerment with potential for serious harm/death,Louth  Garda Division,2009
+1.0,Louth,Endangerment with potential for serious harm/death,Louth  Garda Division,2010
+3.0,Louth,Endangerment with potential for serious harm/death,Louth  Garda Division,2011
+2.0,Louth,Endangerment with potential for serious harm/death,Louth  Garda Division,2012
+0.0,Louth,Endangerment with potential for serious harm/death,Louth  Garda Division,2013
+4.0,Louth,Endangerment with potential for serious harm/death,Louth  Garda Division,2014
+1.0,Louth,Endangerment with potential for serious harm/death,Louth  Garda Division,2015
+5.0,Louth,Endangerment with potential for serious harm/death,Louth  Garda Division,2016
+4.0,Louth,Endangerment with potential for serious harm/death,Louth  Garda Division,2017
+17.0,Louth,Endangerment with potential for serious harm/death,Louth  Garda Division,2018
+26.0,Louth,Endangerment with potential for serious harm/death,Louth  Garda Division,2019
+0.0,Clare,Endangerment with potential for serious harm/death,Clare Garda Division,2003
+0.0,Clare,Endangerment with potential for serious harm/death,Clare Garda Division,2004
+2.0,Clare,Endangerment with potential for serious harm/death,Clare Garda Division,2005
+1.0,Clare,Endangerment with potential for serious harm/death,Clare Garda Division,2006
+1.0,Clare,Endangerment with potential for serious harm/death,Clare Garda Division,2007
+0.0,Clare,Endangerment with potential for serious harm/death,Clare Garda Division,2008
+4.0,Clare,Endangerment with potential for serious harm/death,Clare Garda Division,2009
+1.0,Clare,Endangerment with potential for serious harm/death,Clare Garda Division,2010
+0.0,Clare,Endangerment with potential for serious harm/death,Clare Garda Division,2011
+2.0,Clare,Endangerment with potential for serious harm/death,Clare Garda Division,2012
+0.0,Clare,Endangerment with potential for serious harm/death,Clare Garda Division,2013
+1.0,Clare,Endangerment with potential for serious harm/death,Clare Garda Division,2014
+1.0,Clare,Endangerment with potential for serious harm/death,Clare Garda Division,2015
+2.0,Clare,Endangerment with potential for serious harm/death,Clare Garda Division,2016
+4.0,Clare,Endangerment with potential for serious harm/death,Clare Garda Division,2017
+4.0,Clare,Endangerment with potential for serious harm/death,Clare Garda Division,2018
+8.0,Clare,Endangerment with potential for serious harm/death,Clare Garda Division,2019
+2.0,Mayo,Endangerment with potential for serious harm/death,Mayo Garda Division,2003
+0.0,Mayo,Endangerment with potential for serious harm/death,Mayo Garda Division,2004
+1.0,Mayo,Endangerment with potential for serious harm/death,Mayo Garda Division,2005
+1.0,Mayo,Endangerment with potential for serious harm/death,Mayo Garda Division,2006
+2.0,Mayo,Endangerment with potential for serious harm/death,Mayo Garda Division,2007
+2.0,Mayo,Endangerment with potential for serious harm/death,Mayo Garda Division,2008
+1.0,Mayo,Endangerment with potential for serious harm/death,Mayo Garda Division,2009
+1.0,Mayo,Endangerment with potential for serious harm/death,Mayo Garda Division,2010
+8.0,Mayo,Endangerment with potential for serious harm/death,Mayo Garda Division,2011
+0.0,Mayo,Endangerment with potential for serious harm/death,Mayo Garda Division,2012
+1.0,Mayo,Endangerment with potential for serious harm/death,Mayo Garda Division,2013
+1.0,Mayo,Endangerment with potential for serious harm/death,Mayo Garda Division,2014
+2.0,Mayo,Endangerment with potential for serious harm/death,Mayo Garda Division,2015
+2.0,Mayo,Endangerment with potential for serious harm/death,Mayo Garda Division,2016
+1.0,Mayo,Endangerment with potential for serious harm/death,Mayo Garda Division,2017
+2.0,Mayo,Endangerment with potential for serious harm/death,Mayo Garda Division,2018
+4.0,Mayo,Endangerment with potential for serious harm/death,Mayo Garda Division,2019
+1.0,Galway,Endangerment with potential for serious harm/death,Galway Garda Division,2003
+1.0,Galway,Endangerment with potential for serious harm/death,Galway Garda Division,2004
+2.0,Galway,Endangerment with potential for serious harm/death,Galway Garda Division,2005
+1.0,Galway,Endangerment with potential for serious harm/death,Galway Garda Division,2006
+0.0,Galway,Endangerment with potential for serious harm/death,Galway Garda Division,2007
+0.0,Galway,Endangerment with potential for serious harm/death,Galway Garda Division,2008
+0.0,Galway,Endangerment with potential for serious harm/death,Galway Garda Division,2009
+0.0,Galway,Endangerment with potential for serious harm/death,Galway Garda Division,2010
+5.0,Galway,Endangerment with potential for serious harm/death,Galway Garda Division,2011
+2.0,Galway,Endangerment with potential for serious harm/death,Galway Garda Division,2012
+2.0,Galway,Endangerment with potential for serious harm/death,Galway Garda Division,2013
+3.0,Galway,Endangerment with potential for serious harm/death,Galway Garda Division,2014
+4.0,Galway,Endangerment with potential for serious harm/death,Galway Garda Division,2015
+0.0,Galway,Endangerment with potential for serious harm/death,Galway Garda Division,2016
+5.0,Galway,Endangerment with potential for serious harm/death,Galway Garda Division,2017
+3.0,Galway,Endangerment with potential for serious harm/death,Galway Garda Division,2018
+9.0,Galway,Endangerment with potential for serious harm/death,Galway Garda Division,2019
+4.0,Cork,Endangerment with potential for serious harm/death,Cork City Garda Division,2003
+4.0,Cork,Endangerment with potential for serious harm/death,Cork City Garda Division,2004
+4.0,Cork,Endangerment with potential for serious harm/death,Cork City Garda Division,2005
+2.0,Cork,Endangerment with potential for serious harm/death,Cork City Garda Division,2006
+3.0,Cork,Endangerment with potential for serious harm/death,Cork City Garda Division,2007
+7.0,Cork,Endangerment with potential for serious harm/death,Cork City Garda Division,2008
+1.0,Cork,Endangerment with potential for serious harm/death,Cork City Garda Division,2009
+2.0,Cork,Endangerment with potential for serious harm/death,Cork City Garda Division,2010
+5.0,Cork,Endangerment with potential for serious harm/death,Cork City Garda Division,2011
+3.0,Cork,Endangerment with potential for serious harm/death,Cork City Garda Division,2012
+2.0,Cork,Endangerment with potential for serious harm/death,Cork City Garda Division,2013
+1.0,Cork,Endangerment with potential for serious harm/death,Cork City Garda Division,2014
+1.0,Cork,Endangerment with potential for serious harm/death,Cork City Garda Division,2015
+1.0,Cork,Endangerment with potential for serious harm/death,Cork City Garda Division,2016
+5.0,Cork,Endangerment with potential for serious harm/death,Cork City Garda Division,2017
+4.0,Cork,Endangerment with potential for serious harm/death,Cork City Garda Division,2018
+6.0,Cork,Endangerment with potential for serious harm/death,Cork City Garda Division,2019
+2.0,Cork,Endangerment with potential for serious harm/death,Cork North Garda Division,2003
+0.0,Cork,Endangerment with potential for serious harm/death,Cork North Garda Division,2004
+0.0,Cork,Endangerment with potential for serious harm/death,Cork North Garda Division,2005
+1.0,Cork,Endangerment with potential for serious harm/death,Cork North Garda Division,2006
+1.0,Cork,Endangerment with potential for serious harm/death,Cork North Garda Division,2007
+2.0,Cork,Endangerment with potential for serious harm/death,Cork North Garda Division,2008
+2.0,Cork,Endangerment with potential for serious harm/death,Cork North Garda Division,2009
+0.0,Cork,Endangerment with potential for serious harm/death,Cork North Garda Division,2010
+0.0,Cork,Endangerment with potential for serious harm/death,Cork North Garda Division,2011
+0.0,Cork,Endangerment with potential for serious harm/death,Cork North Garda Division,2012
+0.0,Cork,Endangerment with potential for serious harm/death,Cork North Garda Division,2013
+3.0,Cork,Endangerment with potential for serious harm/death,Cork North Garda Division,2014
+0.0,Cork,Endangerment with potential for serious harm/death,Cork North Garda Division,2015
+1.0,Cork,Endangerment with potential for serious harm/death,Cork North Garda Division,2016
+2.0,Cork,Endangerment with potential for serious harm/death,Cork North Garda Division,2017
+1.0,Cork,Endangerment with potential for serious harm/death,Cork North Garda Division,2018
+7.0,Cork,Endangerment with potential for serious harm/death,Cork North Garda Division,2019
+0.0,Cork,Endangerment with potential for serious harm/death,Cork West Garda Division,2003
+0.0,Cork,Endangerment with potential for serious harm/death,Cork West Garda Division,2004
+1.0,Cork,Endangerment with potential for serious harm/death,Cork West Garda Division,2005
+2.0,Cork,Endangerment with potential for serious harm/death,Cork West Garda Division,2006
+0.0,Cork,Endangerment with potential for serious harm/death,Cork West Garda Division,2007
+0.0,Cork,Endangerment with potential for serious harm/death,Cork West Garda Division,2008
+1.0,Cork,Endangerment with potential for serious harm/death,Cork West Garda Division,2009
+1.0,Cork,Endangerment with potential for serious harm/death,Cork West Garda Division,2010
+1.0,Cork,Endangerment with potential for serious harm/death,Cork West Garda Division,2011
+0.0,Cork,Endangerment with potential for serious harm/death,Cork West Garda Division,2012
+0.0,Cork,Endangerment with potential for serious harm/death,Cork West Garda Division,2013
+2.0,Cork,Endangerment with potential for serious harm/death,Cork West Garda Division,2014
+5.0,Cork,Endangerment with potential for serious harm/death,Cork West Garda Division,2015
+4.0,Cork,Endangerment with potential for serious harm/death,Cork West Garda Division,2016
+5.0,Cork,Endangerment with potential for serious harm/death,Cork West Garda Division,2017
+6.0,Cork,Endangerment with potential for serious harm/death,Cork West Garda Division,2018
+10.0,Cork,Endangerment with potential for serious harm/death,Cork West Garda Division,2019
+0.0,Kerry,Endangerment with potential for serious harm/death,Kerry Garda Division,2003
+0.0,Kerry,Endangerment with potential for serious harm/death,Kerry Garda Division,2004
+0.0,Kerry,Endangerment with potential for serious harm/death,Kerry Garda Division,2005
+0.0,Kerry,Endangerment with potential for serious harm/death,Kerry Garda Division,2006
+0.0,Kerry,Endangerment with potential for serious harm/death,Kerry Garda Division,2007
+3.0,Kerry,Endangerment with potential for serious harm/death,Kerry Garda Division,2008
+2.0,Kerry,Endangerment with potential for serious harm/death,Kerry Garda Division,2009
+0.0,Kerry,Endangerment with potential for serious harm/death,Kerry Garda Division,2010
+6.0,Kerry,Endangerment with potential for serious harm/death,Kerry Garda Division,2011
+1.0,Kerry,Endangerment with potential for serious harm/death,Kerry Garda Division,2012
+7.0,Kerry,Endangerment with potential for serious harm/death,Kerry Garda Division,2013
+0.0,Kerry,Endangerment with potential for serious harm/death,Kerry Garda Division,2014
+2.0,Kerry,Endangerment with potential for serious harm/death,Kerry Garda Division,2015
+5.0,Kerry,Endangerment with potential for serious harm/death,Kerry Garda Division,2016
+1.0,Kerry,Endangerment with potential for serious harm/death,Kerry Garda Division,2017
+2.0,Kerry,Endangerment with potential for serious harm/death,Kerry Garda Division,2018
+11.0,Kerry,Endangerment with potential for serious harm/death,Kerry Garda Division,2019
+2.0,Limerick,Endangerment with potential for serious harm/death,Limerick Garda Division,2003
+2.0,Limerick,Endangerment with potential for serious harm/death,Limerick Garda Division,2004
+0.0,Limerick,Endangerment with potential for serious harm/death,Limerick Garda Division,2005
+1.0,Limerick,Endangerment with potential for serious harm/death,Limerick Garda Division,2006
+3.0,Limerick,Endangerment with potential for serious harm/death,Limerick Garda Division,2007
+3.0,Limerick,Endangerment with potential for serious harm/death,Limerick Garda Division,2008
+1.0,Limerick,Endangerment with potential for serious harm/death,Limerick Garda Division,2009
+6.0,Limerick,Endangerment with potential for serious harm/death,Limerick Garda Division,2010
+3.0,Limerick,Endangerment with potential for serious harm/death,Limerick Garda Division,2011
+3.0,Limerick,Endangerment with potential for serious harm/death,Limerick Garda Division,2012
+2.0,Limerick,Endangerment with potential for serious harm/death,Limerick Garda Division,2013
+3.0,Limerick,Endangerment with potential for serious harm/death,Limerick Garda Division,2014
+11.0,Limerick,Endangerment with potential for serious harm/death,Limerick Garda Division,2015
+9.0,Limerick,Endangerment with potential for serious harm/death,Limerick Garda Division,2016
+6.0,Limerick,Endangerment with potential for serious harm/death,Limerick Garda Division,2017
+9.0,Limerick,Endangerment with potential for serious harm/death,Limerick Garda Division,2018
+16.0,Limerick,Endangerment with potential for serious harm/death,Limerick Garda Division,2019
+2.0,Meath,Endangerment with potential for serious harm/death,Meath  Garda Division,2003
+1.0,Meath,Endangerment with potential for serious harm/death,Meath  Garda Division,2004
+3.0,Meath,Endangerment with potential for serious harm/death,Meath  Garda Division,2005
+0.0,Meath,Endangerment with potential for serious harm/death,Meath  Garda Division,2006
+4.0,Meath,Endangerment with potential for serious harm/death,Meath  Garda Division,2007
+0.0,Meath,Endangerment with potential for serious harm/death,Meath  Garda Division,2008
+1.0,Meath,Endangerment with potential for serious harm/death,Meath  Garda Division,2009
+1.0,Meath,Endangerment with potential for serious harm/death,Meath  Garda Division,2010
+5.0,Meath,Endangerment with potential for serious harm/death,Meath  Garda Division,2011
+2.0,Meath,Endangerment with potential for serious harm/death,Meath  Garda Division,2012
+1.0,Meath,Endangerment with potential for serious harm/death,Meath  Garda Division,2013
+1.0,Meath,Endangerment with potential for serious harm/death,Meath  Garda Division,2014
+1.0,Meath,Endangerment with potential for serious harm/death,Meath  Garda Division,2015
+4.0,Meath,Endangerment with potential for serious harm/death,Meath  Garda Division,2016
+2.0,Meath,Endangerment with potential for serious harm/death,Meath  Garda Division,2017
+4.0,Meath,Endangerment with potential for serious harm/death,Meath  Garda Division,2018
+7.0,Meath,Endangerment with potential for serious harm/death,Meath  Garda Division,2019
+2.0,Wicklow,Endangerment with potential for serious harm/death,Wicklow  Garda Division,2003
+1.0,Wicklow,Endangerment with potential for serious harm/death,Wicklow  Garda Division,2004
+0.0,Wicklow,Endangerment with potential for serious harm/death,Wicklow  Garda Division,2005
+0.0,Wicklow,Endangerment with potential for serious harm/death,Wicklow  Garda Division,2006
+2.0,Wicklow,Endangerment with potential for serious harm/death,Wicklow  Garda Division,2007
+4.0,Wicklow,Endangerment with potential for serious harm/death,Wicklow  Garda Division,2008
+0.0,Wicklow,Endangerment with potential for serious harm/death,Wicklow  Garda Division,2009
+2.0,Wicklow,Endangerment with potential for serious harm/death,Wicklow  Garda Division,2010
+1.0,Wicklow,Endangerment with potential for serious harm/death,Wicklow  Garda Division,2011
+1.0,Wicklow,Endangerment with potential for serious harm/death,Wicklow  Garda Division,2012
+2.0,Wicklow,Endangerment with potential for serious harm/death,Wicklow  Garda Division,2013
+1.0,Wicklow,Endangerment with potential for serious harm/death,Wicklow  Garda Division,2014
+3.0,Wicklow,Endangerment with potential for serious harm/death,Wicklow  Garda Division,2015
+3.0,Wicklow,Endangerment with potential for serious harm/death,Wicklow  Garda Division,2016
+2.0,Wicklow,Endangerment with potential for serious harm/death,Wicklow  Garda Division,2017
+4.0,Wicklow,Endangerment with potential for serious harm/death,Wicklow  Garda Division,2018
+5.0,Wicklow,Endangerment with potential for serious harm/death,Wicklow  Garda Division,2019
+0.0,Westmeath,Endangerment with potential for serious harm/death,Westmeath  Garda Division,2003
+3.0,Westmeath,Endangerment with potential for serious harm/death,Westmeath  Garda Division,2004
+1.0,Westmeath,Endangerment with potential for serious harm/death,Westmeath  Garda Division,2005
+0.0,Westmeath,Endangerment with potential for serious harm/death,Westmeath  Garda Division,2006
+1.0,Westmeath,Endangerment with potential for serious harm/death,Westmeath  Garda Division,2007
+0.0,Westmeath,Endangerment with potential for serious harm/death,Westmeath  Garda Division,2008
+0.0,Westmeath,Endangerment with potential for serious harm/death,Westmeath  Garda Division,2009
+0.0,Westmeath,Endangerment with potential for serious harm/death,Westmeath  Garda Division,2010
+0.0,Westmeath,Endangerment with potential for serious harm/death,Westmeath  Garda Division,2011
+2.0,Westmeath,Endangerment with potential for serious harm/death,Westmeath  Garda Division,2012
+0.0,Westmeath,Endangerment with potential for serious harm/death,Westmeath  Garda Division,2013
+2.0,Westmeath,Endangerment with potential for serious harm/death,Westmeath  Garda Division,2014
+0.0,Westmeath,Endangerment with potential for serious harm/death,Westmeath  Garda Division,2015
+1.0,Westmeath,Endangerment with potential for serious harm/death,Westmeath  Garda Division,2016
+5.0,Westmeath,Endangerment with potential for serious harm/death,Westmeath  Garda Division,2017
+5.0,Westmeath,Endangerment with potential for serious harm/death,Westmeath  Garda Division,2018
+6.0,Westmeath,Endangerment with potential for serious harm/death,Westmeath  Garda Division,2019
+0.0,Kildare,Endangerment with potential for serious harm/death,Kildare  Garda Division,2003
+0.0,Kildare,Endangerment with potential for serious harm/death,Kildare  Garda Division,2004
+0.0,Kildare,Endangerment with potential for serious harm/death,Kildare  Garda Division,2005
+0.0,Kildare,Endangerment with potential for serious harm/death,Kildare  Garda Division,2006
+1.0,Kildare,Endangerment with potential for serious harm/death,Kildare  Garda Division,2007
+0.0,Kildare,Endangerment with potential for serious harm/death,Kildare  Garda Division,2008
+1.0,Kildare,Endangerment with potential for serious harm/death,Kildare  Garda Division,2009
+0.0,Kildare,Endangerment with potential for serious harm/death,Kildare  Garda Division,2010
+0.0,Kildare,Endangerment with potential for serious harm/death,Kildare  Garda Division,2011
+1.0,Kildare,Endangerment with potential for serious harm/death,Kildare  Garda Division,2012
+2.0,Kildare,Endangerment with potential for serious harm/death,Kildare  Garda Division,2013
+2.0,Kildare,Endangerment with potential for serious harm/death,Kildare  Garda Division,2014
+1.0,Kildare,Endangerment with potential for serious harm/death,Kildare  Garda Division,2015
+2.0,Kildare,Endangerment with potential for serious harm/death,Kildare  Garda Division,2016
+3.0,Kildare,Endangerment with potential for serious harm/death,Kildare  Garda Division,2017
+10.0,Kildare,Endangerment with potential for serious harm/death,Kildare  Garda Division,2018
+20.0,Kildare,Endangerment with potential for serious harm/death,Kildare  Garda Division,2019
+2.0,Tipperary,Endangerment with potential for serious harm/death,Tipperary Garda Division,2003
+2.0,Tipperary,Endangerment with potential for serious harm/death,Tipperary Garda Division,2004
+0.0,Tipperary,Endangerment with potential for serious harm/death,Tipperary Garda Division,2005
+1.0,Tipperary,Endangerment with potential for serious harm/death,Tipperary Garda Division,2006
+1.0,Tipperary,Endangerment with potential for serious harm/death,Tipperary Garda Division,2007
+0.0,Tipperary,Endangerment with potential for serious harm/death,Tipperary Garda Division,2008
+2.0,Tipperary,Endangerment with potential for serious harm/death,Tipperary Garda Division,2009
+0.0,Tipperary,Endangerment with potential for serious harm/death,Tipperary Garda Division,2010
+0.0,Tipperary,Endangerment with potential for serious harm/death,Tipperary Garda Division,2011
+0.0,Tipperary,Endangerment with potential for serious harm/death,Tipperary Garda Division,2012
+2.0,Tipperary,Endangerment with potential for serious harm/death,Tipperary Garda Division,2013
+0.0,Tipperary,Endangerment with potential for serious harm/death,Tipperary Garda Division,2014
+2.0,Tipperary,Endangerment with potential for serious harm/death,Tipperary Garda Division,2015
+1.0,Tipperary,Endangerment with potential for serious harm/death,Tipperary Garda Division,2016
+2.0,Tipperary,Endangerment with potential for serious harm/death,Tipperary Garda Division,2017
+9.0,Tipperary,Endangerment with potential for serious harm/death,Tipperary Garda Division,2018
+19.0,Tipperary,Endangerment with potential for serious harm/death,Tipperary Garda Division,2019
+0.0,Wexford,Endangerment with potential for serious harm/death,Wexford  Garda Division,2003
+2.0,Wexford,Endangerment with potential for serious harm/death,Wexford  Garda Division,2004
+0.0,Wexford,Endangerment with potential for serious harm/death,Wexford  Garda Division,2005
+2.0,Wexford,Endangerment with potential for serious harm/death,Wexford  Garda Division,2006
+6.0,Wexford,Endangerment with potential for serious harm/death,Wexford  Garda Division,2007
+1.0,Wexford,Endangerment with potential for serious harm/death,Wexford  Garda Division,2008
+4.0,Wexford,Endangerment with potential for serious harm/death,Wexford  Garda Division,2009
+0.0,Wexford,Endangerment with potential for serious harm/death,Wexford  Garda Division,2010
+4.0,Wexford,Endangerment with potential for serious harm/death,Wexford  Garda Division,2011
+0.0,Wexford,Endangerment with potential for serious harm/death,Wexford  Garda Division,2012
+0.0,Wexford,Endangerment with potential for serious harm/death,Wexford  Garda Division,2013
+1.0,Wexford,Endangerment with potential for serious harm/death,Wexford  Garda Division,2014
+2.0,Wexford,Endangerment with potential for serious harm/death,Wexford  Garda Division,2015
+5.0,Wexford,Endangerment with potential for serious harm/death,Wexford  Garda Division,2016
+5.0,Wexford,Endangerment with potential for serious harm/death,Wexford  Garda Division,2017
+2.0,Wexford,Endangerment with potential for serious harm/death,Wexford  Garda Division,2018
+3.0,Wexford,Endangerment with potential for serious harm/death,Wexford  Garda Division,2019
+1.0,Waterford,Endangerment with potential for serious harm/death,Waterford  Garda Division,2003
+0.0,Waterford,Endangerment with potential for serious harm/death,Waterford  Garda Division,2004
+1.0,Waterford,Endangerment with potential for serious harm/death,Waterford  Garda Division,2005
+1.0,Waterford,Endangerment with potential for serious harm/death,Waterford  Garda Division,2006
+3.0,Waterford,Endangerment with potential for serious harm/death,Waterford  Garda Division,2007
+1.0,Waterford,Endangerment with potential for serious harm/death,Waterford  Garda Division,2008
+1.0,Waterford,Endangerment with potential for serious harm/death,Waterford  Garda Division,2009
+1.0,Waterford,Endangerment with potential for serious harm/death,Waterford  Garda Division,2010
+4.0,Waterford,Endangerment with potential for serious harm/death,Waterford  Garda Division,2011
+1.0,Waterford,Endangerment with potential for serious harm/death,Waterford  Garda Division,2012
+3.0,Waterford,Endangerment with potential for serious harm/death,Waterford  Garda Division,2013
+4.0,Waterford,Endangerment with potential for serious harm/death,Waterford  Garda Division,2014
+1.0,Waterford,Endangerment with potential for serious harm/death,Waterford  Garda Division,2015
+5.0,Waterford,Endangerment with potential for serious harm/death,Waterford  Garda Division,2016
+8.0,Waterford,Endangerment with potential for serious harm/death,Waterford  Garda Division,2017
+5.0,Waterford,Endangerment with potential for serious harm/death,Waterford  Garda Division,2018
+8.0,Waterford,Endangerment with potential for serious harm/death,Waterford  Garda Division,2019
+27.0,Dublin,Endangerment with potential for serious harm/death,Dublin Region,2003
+44.0,Dublin,Endangerment with potential for serious harm/death,Dublin Region,2004
+53.0,Dublin,Endangerment with potential for serious harm/death,Dublin Region,2005
+40.0,Dublin,Endangerment with potential for serious harm/death,Dublin Region,2006
+24.0,Dublin,Endangerment with potential for serious harm/death,Dublin Region,2007
+20.0,Dublin,Endangerment with potential for serious harm/death,Dublin Region,2008
+37.0,Dublin,Endangerment with potential for serious harm/death,Dublin Region,2009
+27.0,Dublin,Endangerment with potential for serious harm/death,Dublin Region,2010
+43.0,Dublin,Endangerment with potential for serious harm/death,Dublin Region,2011
+28.0,Dublin,Endangerment with potential for serious harm/death,Dublin Region,2012
+32.0,Dublin,Endangerment with potential for serious harm/death,Dublin Region,2013
+32.0,Dublin,Endangerment with potential for serious harm/death,Dublin Region,2014
+38.0,Dublin,Endangerment with potential for serious harm/death,Dublin Region,2015
+34.0,Dublin,Endangerment with potential for serious harm/death,Dublin Region,2016
+37.0,Dublin,Endangerment with potential for serious harm/death,Dublin Region,2017
+82.0,Dublin,Endangerment with potential for serious harm/death,Dublin Region,2018
+136.0,Dublin,Endangerment with potential for serious harm/death,Dublin Region,2019
+6.0,Donegal,"Abandoning a child, child neglect and cruelty",Donegal Garda Division,2003
+6.0,Donegal,"Abandoning a child, child neglect and cruelty",Donegal Garda Division,2004
+7.0,Donegal,"Abandoning a child, child neglect and cruelty",Donegal Garda Division,2005
+7.0,Donegal,"Abandoning a child, child neglect and cruelty",Donegal Garda Division,2006
+17.0,Donegal,"Abandoning a child, child neglect and cruelty",Donegal Garda Division,2007
+13.0,Donegal,"Abandoning a child, child neglect and cruelty",Donegal Garda Division,2008
+23.0,Donegal,"Abandoning a child, child neglect and cruelty",Donegal Garda Division,2009
+14.0,Donegal,"Abandoning a child, child neglect and cruelty",Donegal Garda Division,2010
+7.0,Donegal,"Abandoning a child, child neglect and cruelty",Donegal Garda Division,2011
+6.0,Donegal,"Abandoning a child, child neglect and cruelty",Donegal Garda Division,2012
+5.0,Donegal,"Abandoning a child, child neglect and cruelty",Donegal Garda Division,2013
+2.0,Donegal,"Abandoning a child, child neglect and cruelty",Donegal Garda Division,2014
+6.0,Donegal,"Abandoning a child, child neglect and cruelty",Donegal Garda Division,2015
+5.0,Donegal,"Abandoning a child, child neglect and cruelty",Donegal Garda Division,2016
+12.0,Donegal,"Abandoning a child, child neglect and cruelty",Donegal Garda Division,2017
+12.0,Donegal,"Abandoning a child, child neglect and cruelty",Donegal Garda Division,2018
+17.0,Donegal,"Abandoning a child, child neglect and cruelty",Donegal Garda Division,2019
+5.0,Louth,"Abandoning a child, child neglect and cruelty",Louth  Garda Division,2003
+5.0,Louth,"Abandoning a child, child neglect and cruelty",Louth  Garda Division,2004
+6.0,Louth,"Abandoning a child, child neglect and cruelty",Louth  Garda Division,2005
+15.0,Louth,"Abandoning a child, child neglect and cruelty",Louth  Garda Division,2006
+33.0,Louth,"Abandoning a child, child neglect and cruelty",Louth  Garda Division,2007
+16.0,Louth,"Abandoning a child, child neglect and cruelty",Louth  Garda Division,2008
+10.0,Louth,"Abandoning a child, child neglect and cruelty",Louth  Garda Division,2009
+15.0,Louth,"Abandoning a child, child neglect and cruelty",Louth  Garda Division,2010
+13.0,Louth,"Abandoning a child, child neglect and cruelty",Louth  Garda Division,2011
+2.0,Louth,"Abandoning a child, child neglect and cruelty",Louth  Garda Division,2012
+2.0,Louth,"Abandoning a child, child neglect and cruelty",Louth  Garda Division,2013
+5.0,Louth,"Abandoning a child, child neglect and cruelty",Louth  Garda Division,2014
+0.0,Louth,"Abandoning a child, child neglect and cruelty",Louth  Garda Division,2015
+1.0,Louth,"Abandoning a child, child neglect and cruelty",Louth  Garda Division,2016
+5.0,Louth,"Abandoning a child, child neglect and cruelty",Louth  Garda Division,2017
+4.0,Louth,"Abandoning a child, child neglect and cruelty",Louth  Garda Division,2018
+9.0,Louth,"Abandoning a child, child neglect and cruelty",Louth  Garda Division,2019
+2.0,Clare,"Abandoning a child, child neglect and cruelty",Clare Garda Division,2003
+3.0,Clare,"Abandoning a child, child neglect and cruelty",Clare Garda Division,2004
+4.0,Clare,"Abandoning a child, child neglect and cruelty",Clare Garda Division,2005
+5.0,Clare,"Abandoning a child, child neglect and cruelty",Clare Garda Division,2006
+16.0,Clare,"Abandoning a child, child neglect and cruelty",Clare Garda Division,2007
+23.0,Clare,"Abandoning a child, child neglect and cruelty",Clare Garda Division,2008
+23.0,Clare,"Abandoning a child, child neglect and cruelty",Clare Garda Division,2009
+12.0,Clare,"Abandoning a child, child neglect and cruelty",Clare Garda Division,2010
+4.0,Clare,"Abandoning a child, child neglect and cruelty",Clare Garda Division,2011
+6.0,Clare,"Abandoning a child, child neglect and cruelty",Clare Garda Division,2012
+2.0,Clare,"Abandoning a child, child neglect and cruelty",Clare Garda Division,2013
+21.0,Clare,"Abandoning a child, child neglect and cruelty",Clare Garda Division,2014
+4.0,Clare,"Abandoning a child, child neglect and cruelty",Clare Garda Division,2015
+7.0,Clare,"Abandoning a child, child neglect and cruelty",Clare Garda Division,2016
+9.0,Clare,"Abandoning a child, child neglect and cruelty",Clare Garda Division,2017
+4.0,Clare,"Abandoning a child, child neglect and cruelty",Clare Garda Division,2018
+6.0,Clare,"Abandoning a child, child neglect and cruelty",Clare Garda Division,2019
+5.0,Mayo,"Abandoning a child, child neglect and cruelty",Mayo Garda Division,2003
+1.0,Mayo,"Abandoning a child, child neglect and cruelty",Mayo Garda Division,2004
+2.0,Mayo,"Abandoning a child, child neglect and cruelty",Mayo Garda Division,2005
+2.0,Mayo,"Abandoning a child, child neglect and cruelty",Mayo Garda Division,2006
+5.0,Mayo,"Abandoning a child, child neglect and cruelty",Mayo Garda Division,2007
+14.0,Mayo,"Abandoning a child, child neglect and cruelty",Mayo Garda Division,2008
+5.0,Mayo,"Abandoning a child, child neglect and cruelty",Mayo Garda Division,2009
+16.0,Mayo,"Abandoning a child, child neglect and cruelty",Mayo Garda Division,2010
+1.0,Mayo,"Abandoning a child, child neglect and cruelty",Mayo Garda Division,2011
+1.0,Mayo,"Abandoning a child, child neglect and cruelty",Mayo Garda Division,2012
+2.0,Mayo,"Abandoning a child, child neglect and cruelty",Mayo Garda Division,2013
+2.0,Mayo,"Abandoning a child, child neglect and cruelty",Mayo Garda Division,2014
+6.0,Mayo,"Abandoning a child, child neglect and cruelty",Mayo Garda Division,2015
+3.0,Mayo,"Abandoning a child, child neglect and cruelty",Mayo Garda Division,2016
+8.0,Mayo,"Abandoning a child, child neglect and cruelty",Mayo Garda Division,2017
+6.0,Mayo,"Abandoning a child, child neglect and cruelty",Mayo Garda Division,2018
+12.0,Mayo,"Abandoning a child, child neglect and cruelty",Mayo Garda Division,2019
+8.0,Galway,"Abandoning a child, child neglect and cruelty",Galway Garda Division,2003
+10.0,Galway,"Abandoning a child, child neglect and cruelty",Galway Garda Division,2004
+8.0,Galway,"Abandoning a child, child neglect and cruelty",Galway Garda Division,2005
+17.0,Galway,"Abandoning a child, child neglect and cruelty",Galway Garda Division,2006
+33.0,Galway,"Abandoning a child, child neglect and cruelty",Galway Garda Division,2007
+34.0,Galway,"Abandoning a child, child neglect and cruelty",Galway Garda Division,2008
+14.0,Galway,"Abandoning a child, child neglect and cruelty",Galway Garda Division,2009
+20.0,Galway,"Abandoning a child, child neglect and cruelty",Galway Garda Division,2010
+10.0,Galway,"Abandoning a child, child neglect and cruelty",Galway Garda Division,2011
+18.0,Galway,"Abandoning a child, child neglect and cruelty",Galway Garda Division,2012
+7.0,Galway,"Abandoning a child, child neglect and cruelty",Galway Garda Division,2013
+49.0,Galway,"Abandoning a child, child neglect and cruelty",Galway Garda Division,2014
+7.0,Galway,"Abandoning a child, child neglect and cruelty",Galway Garda Division,2015
+6.0,Galway,"Abandoning a child, child neglect and cruelty",Galway Garda Division,2016
+7.0,Galway,"Abandoning a child, child neglect and cruelty",Galway Garda Division,2017
+10.0,Galway,"Abandoning a child, child neglect and cruelty",Galway Garda Division,2018
+14.0,Galway,"Abandoning a child, child neglect and cruelty",Galway Garda Division,2019
+14.0,Cork,"Abandoning a child, child neglect and cruelty",Cork City Garda Division,2003
+13.0,Cork,"Abandoning a child, child neglect and cruelty",Cork City Garda Division,2004
+12.0,Cork,"Abandoning a child, child neglect and cruelty",Cork City Garda Division,2005
+8.0,Cork,"Abandoning a child, child neglect and cruelty",Cork City Garda Division,2006
+19.0,Cork,"Abandoning a child, child neglect and cruelty",Cork City Garda Division,2007
+28.0,Cork,"Abandoning a child, child neglect and cruelty",Cork City Garda Division,2008
+20.0,Cork,"Abandoning a child, child neglect and cruelty",Cork City Garda Division,2009
+17.0,Cork,"Abandoning a child, child neglect and cruelty",Cork City Garda Division,2010
+14.0,Cork,"Abandoning a child, child neglect and cruelty",Cork City Garda Division,2011
+10.0,Cork,"Abandoning a child, child neglect and cruelty",Cork City Garda Division,2012
+3.0,Cork,"Abandoning a child, child neglect and cruelty",Cork City Garda Division,2013
+6.0,Cork,"Abandoning a child, child neglect and cruelty",Cork City Garda Division,2014
+10.0,Cork,"Abandoning a child, child neglect and cruelty",Cork City Garda Division,2015
+15.0,Cork,"Abandoning a child, child neglect and cruelty",Cork City Garda Division,2016
+26.0,Cork,"Abandoning a child, child neglect and cruelty",Cork City Garda Division,2017
+14.0,Cork,"Abandoning a child, child neglect and cruelty",Cork City Garda Division,2018
+23.0,Cork,"Abandoning a child, child neglect and cruelty",Cork City Garda Division,2019
+4.0,Cork,"Abandoning a child, child neglect and cruelty",Cork North Garda Division,2003
+2.0,Cork,"Abandoning a child, child neglect and cruelty",Cork North Garda Division,2004
+2.0,Cork,"Abandoning a child, child neglect and cruelty",Cork North Garda Division,2005
+2.0,Cork,"Abandoning a child, child neglect and cruelty",Cork North Garda Division,2006
+17.0,Cork,"Abandoning a child, child neglect and cruelty",Cork North Garda Division,2007
+16.0,Cork,"Abandoning a child, child neglect and cruelty",Cork North Garda Division,2008
+5.0,Cork,"Abandoning a child, child neglect and cruelty",Cork North Garda Division,2009
+32.0,Cork,"Abandoning a child, child neglect and cruelty",Cork North Garda Division,2010
+9.0,Cork,"Abandoning a child, child neglect and cruelty",Cork North Garda Division,2011
+1.0,Cork,"Abandoning a child, child neglect and cruelty",Cork North Garda Division,2012
+4.0,Cork,"Abandoning a child, child neglect and cruelty",Cork North Garda Division,2013
+6.0,Cork,"Abandoning a child, child neglect and cruelty",Cork North Garda Division,2014
+9.0,Cork,"Abandoning a child, child neglect and cruelty",Cork North Garda Division,2015
+13.0,Cork,"Abandoning a child, child neglect and cruelty",Cork North Garda Division,2016
+12.0,Cork,"Abandoning a child, child neglect and cruelty",Cork North Garda Division,2017
+20.0,Cork,"Abandoning a child, child neglect and cruelty",Cork North Garda Division,2018
+28.0,Cork,"Abandoning a child, child neglect and cruelty",Cork North Garda Division,2019
+1.0,Cork,"Abandoning a child, child neglect and cruelty",Cork West Garda Division,2003
+2.0,Cork,"Abandoning a child, child neglect and cruelty",Cork West Garda Division,2004
+1.0,Cork,"Abandoning a child, child neglect and cruelty",Cork West Garda Division,2005
+4.0,Cork,"Abandoning a child, child neglect and cruelty",Cork West Garda Division,2006
+9.0,Cork,"Abandoning a child, child neglect and cruelty",Cork West Garda Division,2007
+14.0,Cork,"Abandoning a child, child neglect and cruelty",Cork West Garda Division,2008
+6.0,Cork,"Abandoning a child, child neglect and cruelty",Cork West Garda Division,2009
+2.0,Cork,"Abandoning a child, child neglect and cruelty",Cork West Garda Division,2010
+0.0,Cork,"Abandoning a child, child neglect and cruelty",Cork West Garda Division,2011
+1.0,Cork,"Abandoning a child, child neglect and cruelty",Cork West Garda Division,2012
+5.0,Cork,"Abandoning a child, child neglect and cruelty",Cork West Garda Division,2013
+1.0,Cork,"Abandoning a child, child neglect and cruelty",Cork West Garda Division,2014
+5.0,Cork,"Abandoning a child, child neglect and cruelty",Cork West Garda Division,2015
+1.0,Cork,"Abandoning a child, child neglect and cruelty",Cork West Garda Division,2016
+7.0,Cork,"Abandoning a child, child neglect and cruelty",Cork West Garda Division,2017
+16.0,Cork,"Abandoning a child, child neglect and cruelty",Cork West Garda Division,2018
+27.0,Cork,"Abandoning a child, child neglect and cruelty",Cork West Garda Division,2019
+5.0,Kerry,"Abandoning a child, child neglect and cruelty",Kerry Garda Division,2003
+5.0,Kerry,"Abandoning a child, child neglect and cruelty",Kerry Garda Division,2004
+6.0,Kerry,"Abandoning a child, child neglect and cruelty",Kerry Garda Division,2005
+9.0,Kerry,"Abandoning a child, child neglect and cruelty",Kerry Garda Division,2006
+7.0,Kerry,"Abandoning a child, child neglect and cruelty",Kerry Garda Division,2007
+16.0,Kerry,"Abandoning a child, child neglect and cruelty",Kerry Garda Division,2008
+15.0,Kerry,"Abandoning a child, child neglect and cruelty",Kerry Garda Division,2009
+17.0,Kerry,"Abandoning a child, child neglect and cruelty",Kerry Garda Division,2010
+2.0,Kerry,"Abandoning a child, child neglect and cruelty",Kerry Garda Division,2011
+9.0,Kerry,"Abandoning a child, child neglect and cruelty",Kerry Garda Division,2012
+6.0,Kerry,"Abandoning a child, child neglect and cruelty",Kerry Garda Division,2013
+4.0,Kerry,"Abandoning a child, child neglect and cruelty",Kerry Garda Division,2014
+2.0,Kerry,"Abandoning a child, child neglect and cruelty",Kerry Garda Division,2015
+14.0,Kerry,"Abandoning a child, child neglect and cruelty",Kerry Garda Division,2016
+10.0,Kerry,"Abandoning a child, child neglect and cruelty",Kerry Garda Division,2017
+23.0,Kerry,"Abandoning a child, child neglect and cruelty",Kerry Garda Division,2018
+37.0,Kerry,"Abandoning a child, child neglect and cruelty",Kerry Garda Division,2019
+8.0,Limerick,"Abandoning a child, child neglect and cruelty",Limerick Garda Division,2003
+8.0,Limerick,"Abandoning a child, child neglect and cruelty",Limerick Garda Division,2004
+18.0,Limerick,"Abandoning a child, child neglect and cruelty",Limerick Garda Division,2005
+17.0,Limerick,"Abandoning a child, child neglect and cruelty",Limerick Garda Division,2006
+31.0,Limerick,"Abandoning a child, child neglect and cruelty",Limerick Garda Division,2007
+24.0,Limerick,"Abandoning a child, child neglect and cruelty",Limerick Garda Division,2008
+11.0,Limerick,"Abandoning a child, child neglect and cruelty",Limerick Garda Division,2009
+12.0,Limerick,"Abandoning a child, child neglect and cruelty",Limerick Garda Division,2010
+7.0,Limerick,"Abandoning a child, child neglect and cruelty",Limerick Garda Division,2011
+16.0,Limerick,"Abandoning a child, child neglect and cruelty",Limerick Garda Division,2012
+6.0,Limerick,"Abandoning a child, child neglect and cruelty",Limerick Garda Division,2013
+10.0,Limerick,"Abandoning a child, child neglect and cruelty",Limerick Garda Division,2014
+5.0,Limerick,"Abandoning a child, child neglect and cruelty",Limerick Garda Division,2015
+10.0,Limerick,"Abandoning a child, child neglect and cruelty",Limerick Garda Division,2016
+15.0,Limerick,"Abandoning a child, child neglect and cruelty",Limerick Garda Division,2017
+7.0,Limerick,"Abandoning a child, child neglect and cruelty",Limerick Garda Division,2018
+11.0,Limerick,"Abandoning a child, child neglect and cruelty",Limerick Garda Division,2019
+2.0,Meath,"Abandoning a child, child neglect and cruelty",Meath  Garda Division,2003
+2.0,Meath,"Abandoning a child, child neglect and cruelty",Meath  Garda Division,2004
+10.0,Meath,"Abandoning a child, child neglect and cruelty",Meath  Garda Division,2005
+17.0,Meath,"Abandoning a child, child neglect and cruelty",Meath  Garda Division,2006
+12.0,Meath,"Abandoning a child, child neglect and cruelty",Meath  Garda Division,2007
+15.0,Meath,"Abandoning a child, child neglect and cruelty",Meath  Garda Division,2008
+15.0,Meath,"Abandoning a child, child neglect and cruelty",Meath  Garda Division,2009
+12.0,Meath,"Abandoning a child, child neglect and cruelty",Meath  Garda Division,2010
+4.0,Meath,"Abandoning a child, child neglect and cruelty",Meath  Garda Division,2011
+4.0,Meath,"Abandoning a child, child neglect and cruelty",Meath  Garda Division,2012
+5.0,Meath,"Abandoning a child, child neglect and cruelty",Meath  Garda Division,2013
+4.0,Meath,"Abandoning a child, child neglect and cruelty",Meath  Garda Division,2014
+10.0,Meath,"Abandoning a child, child neglect and cruelty",Meath  Garda Division,2015
+6.0,Meath,"Abandoning a child, child neglect and cruelty",Meath  Garda Division,2016
+4.0,Meath,"Abandoning a child, child neglect and cruelty",Meath  Garda Division,2017
+3.0,Meath,"Abandoning a child, child neglect and cruelty",Meath  Garda Division,2018
+10.0,Meath,"Abandoning a child, child neglect and cruelty",Meath  Garda Division,2019
+3.0,Wicklow,"Abandoning a child, child neglect and cruelty",Wicklow  Garda Division,2003
+6.0,Wicklow,"Abandoning a child, child neglect and cruelty",Wicklow  Garda Division,2004
+6.0,Wicklow,"Abandoning a child, child neglect and cruelty",Wicklow  Garda Division,2005
+7.0,Wicklow,"Abandoning a child, child neglect and cruelty",Wicklow  Garda Division,2006
+17.0,Wicklow,"Abandoning a child, child neglect and cruelty",Wicklow  Garda Division,2007
+12.0,Wicklow,"Abandoning a child, child neglect and cruelty",Wicklow  Garda Division,2008
+22.0,Wicklow,"Abandoning a child, child neglect and cruelty",Wicklow  Garda Division,2009
+9.0,Wicklow,"Abandoning a child, child neglect and cruelty",Wicklow  Garda Division,2010
+2.0,Wicklow,"Abandoning a child, child neglect and cruelty",Wicklow  Garda Division,2011
+2.0,Wicklow,"Abandoning a child, child neglect and cruelty",Wicklow  Garda Division,2012
+7.0,Wicklow,"Abandoning a child, child neglect and cruelty",Wicklow  Garda Division,2013
+1.0,Wicklow,"Abandoning a child, child neglect and cruelty",Wicklow  Garda Division,2014
+5.0,Wicklow,"Abandoning a child, child neglect and cruelty",Wicklow  Garda Division,2015
+13.0,Wicklow,"Abandoning a child, child neglect and cruelty",Wicklow  Garda Division,2016
+12.0,Wicklow,"Abandoning a child, child neglect and cruelty",Wicklow  Garda Division,2017
+8.0,Wicklow,"Abandoning a child, child neglect and cruelty",Wicklow  Garda Division,2018
+11.0,Wicklow,"Abandoning a child, child neglect and cruelty",Wicklow  Garda Division,2019
+3.0,Westmeath,"Abandoning a child, child neglect and cruelty",Westmeath  Garda Division,2003
+4.0,Westmeath,"Abandoning a child, child neglect and cruelty",Westmeath  Garda Division,2004
+4.0,Westmeath,"Abandoning a child, child neglect and cruelty",Westmeath  Garda Division,2005
+10.0,Westmeath,"Abandoning a child, child neglect and cruelty",Westmeath  Garda Division,2006
+24.0,Westmeath,"Abandoning a child, child neglect and cruelty",Westmeath  Garda Division,2007
+21.0,Westmeath,"Abandoning a child, child neglect and cruelty",Westmeath  Garda Division,2008
+27.0,Westmeath,"Abandoning a child, child neglect and cruelty",Westmeath  Garda Division,2009
+10.0,Westmeath,"Abandoning a child, child neglect and cruelty",Westmeath  Garda Division,2010
+6.0,Westmeath,"Abandoning a child, child neglect and cruelty",Westmeath  Garda Division,2011
+3.0,Westmeath,"Abandoning a child, child neglect and cruelty",Westmeath  Garda Division,2012
+4.0,Westmeath,"Abandoning a child, child neglect and cruelty",Westmeath  Garda Division,2013
+4.0,Westmeath,"Abandoning a child, child neglect and cruelty",Westmeath  Garda Division,2014
+3.0,Westmeath,"Abandoning a child, child neglect and cruelty",Westmeath  Garda Division,2015
+6.0,Westmeath,"Abandoning a child, child neglect and cruelty",Westmeath  Garda Division,2016
+15.0,Westmeath,"Abandoning a child, child neglect and cruelty",Westmeath  Garda Division,2017
+14.0,Westmeath,"Abandoning a child, child neglect and cruelty",Westmeath  Garda Division,2018
+27.0,Westmeath,"Abandoning a child, child neglect and cruelty",Westmeath  Garda Division,2019
+11.0,Kildare,"Abandoning a child, child neglect and cruelty",Kildare  Garda Division,2003
+13.0,Kildare,"Abandoning a child, child neglect and cruelty",Kildare  Garda Division,2004
+15.0,Kildare,"Abandoning a child, child neglect and cruelty",Kildare  Garda Division,2005
+14.0,Kildare,"Abandoning a child, child neglect and cruelty",Kildare  Garda Division,2006
+29.0,Kildare,"Abandoning a child, child neglect and cruelty",Kildare  Garda Division,2007
+44.0,Kildare,"Abandoning a child, child neglect and cruelty",Kildare  Garda Division,2008
+30.0,Kildare,"Abandoning a child, child neglect and cruelty",Kildare  Garda Division,2009
+31.0,Kildare,"Abandoning a child, child neglect and cruelty",Kildare  Garda Division,2010
+13.0,Kildare,"Abandoning a child, child neglect and cruelty",Kildare  Garda Division,2011
+23.0,Kildare,"Abandoning a child, child neglect and cruelty",Kildare  Garda Division,2012
+39.0,Kildare,"Abandoning a child, child neglect and cruelty",Kildare  Garda Division,2013
+8.0,Kildare,"Abandoning a child, child neglect and cruelty",Kildare  Garda Division,2014
+2.0,Kildare,"Abandoning a child, child neglect and cruelty",Kildare  Garda Division,2015
+2.0,Kildare,"Abandoning a child, child neglect and cruelty",Kildare  Garda Division,2016
+19.0,Kildare,"Abandoning a child, child neglect and cruelty",Kildare  Garda Division,2017
+23.0,Kildare,"Abandoning a child, child neglect and cruelty",Kildare  Garda Division,2018
+33.0,Kildare,"Abandoning a child, child neglect and cruelty",Kildare  Garda Division,2019
+5.0,Tipperary,"Abandoning a child, child neglect and cruelty",Tipperary Garda Division,2003
+6.0,Tipperary,"Abandoning a child, child neglect and cruelty",Tipperary Garda Division,2004
+15.0,Tipperary,"Abandoning a child, child neglect and cruelty",Tipperary Garda Division,2005
+4.0,Tipperary,"Abandoning a child, child neglect and cruelty",Tipperary Garda Division,2006
+14.0,Tipperary,"Abandoning a child, child neglect and cruelty",Tipperary Garda Division,2007
+21.0,Tipperary,"Abandoning a child, child neglect and cruelty",Tipperary Garda Division,2008
+6.0,Tipperary,"Abandoning a child, child neglect and cruelty",Tipperary Garda Division,2009
+10.0,Tipperary,"Abandoning a child, child neglect and cruelty",Tipperary Garda Division,2010
+4.0,Tipperary,"Abandoning a child, child neglect and cruelty",Tipperary Garda Division,2011
+3.0,Tipperary,"Abandoning a child, child neglect and cruelty",Tipperary Garda Division,2012
+3.0,Tipperary,"Abandoning a child, child neglect and cruelty",Tipperary Garda Division,2013
+7.0,Tipperary,"Abandoning a child, child neglect and cruelty",Tipperary Garda Division,2014
+2.0,Tipperary,"Abandoning a child, child neglect and cruelty",Tipperary Garda Division,2015
+3.0,Tipperary,"Abandoning a child, child neglect and cruelty",Tipperary Garda Division,2016
+6.0,Tipperary,"Abandoning a child, child neglect and cruelty",Tipperary Garda Division,2017
+7.0,Tipperary,"Abandoning a child, child neglect and cruelty",Tipperary Garda Division,2018
+12.0,Tipperary,"Abandoning a child, child neglect and cruelty",Tipperary Garda Division,2019
+7.0,Wexford,"Abandoning a child, child neglect and cruelty",Wexford  Garda Division,2003
+6.0,Wexford,"Abandoning a child, child neglect and cruelty",Wexford  Garda Division,2004
+11.0,Wexford,"Abandoning a child, child neglect and cruelty",Wexford  Garda Division,2005
+10.0,Wexford,"Abandoning a child, child neglect and cruelty",Wexford  Garda Division,2006
+28.0,Wexford,"Abandoning a child, child neglect and cruelty",Wexford  Garda Division,2007
+14.0,Wexford,"Abandoning a child, child neglect and cruelty",Wexford  Garda Division,2008
+31.0,Wexford,"Abandoning a child, child neglect and cruelty",Wexford  Garda Division,2009
+11.0,Wexford,"Abandoning a child, child neglect and cruelty",Wexford  Garda Division,2010
+5.0,Wexford,"Abandoning a child, child neglect and cruelty",Wexford  Garda Division,2011
+3.0,Wexford,"Abandoning a child, child neglect and cruelty",Wexford  Garda Division,2012
+5.0,Wexford,"Abandoning a child, child neglect and cruelty",Wexford  Garda Division,2013
+1.0,Wexford,"Abandoning a child, child neglect and cruelty",Wexford  Garda Division,2014
+1.0,Wexford,"Abandoning a child, child neglect and cruelty",Wexford  Garda Division,2015
+9.0,Wexford,"Abandoning a child, child neglect and cruelty",Wexford  Garda Division,2016
+11.0,Wexford,"Abandoning a child, child neglect and cruelty",Wexford  Garda Division,2017
+4.0,Wexford,"Abandoning a child, child neglect and cruelty",Wexford  Garda Division,2018
+8.0,Wexford,"Abandoning a child, child neglect and cruelty",Wexford  Garda Division,2019
+4.0,Waterford,"Abandoning a child, child neglect and cruelty",Waterford  Garda Division,2003
+10.0,Waterford,"Abandoning a child, child neglect and cruelty",Waterford  Garda Division,2004
+6.0,Waterford,"Abandoning a child, child neglect and cruelty",Waterford  Garda Division,2005
+14.0,Waterford,"Abandoning a child, child neglect and cruelty",Waterford  Garda Division,2006
+30.0,Waterford,"Abandoning a child, child neglect and cruelty",Waterford  Garda Division,2007
+23.0,Waterford,"Abandoning a child, child neglect and cruelty",Waterford  Garda Division,2008
+36.0,Waterford,"Abandoning a child, child neglect and cruelty",Waterford  Garda Division,2009
+12.0,Waterford,"Abandoning a child, child neglect and cruelty",Waterford  Garda Division,2010
+11.0,Waterford,"Abandoning a child, child neglect and cruelty",Waterford  Garda Division,2011
+6.0,Waterford,"Abandoning a child, child neglect and cruelty",Waterford  Garda Division,2012
+7.0,Waterford,"Abandoning a child, child neglect and cruelty",Waterford  Garda Division,2013
+5.0,Waterford,"Abandoning a child, child neglect and cruelty",Waterford  Garda Division,2014
+3.0,Waterford,"Abandoning a child, child neglect and cruelty",Waterford  Garda Division,2015
+16.0,Waterford,"Abandoning a child, child neglect and cruelty",Waterford  Garda Division,2016
+12.0,Waterford,"Abandoning a child, child neglect and cruelty",Waterford  Garda Division,2017
+10.0,Waterford,"Abandoning a child, child neglect and cruelty",Waterford  Garda Division,2018
+15.0,Waterford,"Abandoning a child, child neglect and cruelty",Waterford  Garda Division,2019
+51.0,Dublin,"Abandoning a child, child neglect and cruelty",Dublin Region,2003
+64.0,Dublin,"Abandoning a child, child neglect and cruelty",Dublin Region,2004
+112.0,Dublin,"Abandoning a child, child neglect and cruelty",Dublin Region,2005
+108.0,Dublin,"Abandoning a child, child neglect and cruelty",Dublin Region,2006
+151.0,Dublin,"Abandoning a child, child neglect and cruelty",Dublin Region,2007
+138.0,Dublin,"Abandoning a child, child neglect and cruelty",Dublin Region,2008
+137.0,Dublin,"Abandoning a child, child neglect and cruelty",Dublin Region,2009
+149.0,Dublin,"Abandoning a child, child neglect and cruelty",Dublin Region,2010
+62.0,Dublin,"Abandoning a child, child neglect and cruelty",Dublin Region,2011
+92.0,Dublin,"Abandoning a child, child neglect and cruelty",Dublin Region,2012
+83.0,Dublin,"Abandoning a child, child neglect and cruelty",Dublin Region,2013
+82.0,Dublin,"Abandoning a child, child neglect and cruelty",Dublin Region,2014
+62.0,Dublin,"Abandoning a child, child neglect and cruelty",Dublin Region,2015
+107.0,Dublin,"Abandoning a child, child neglect and cruelty",Dublin Region,2016
+141.0,Dublin,"Abandoning a child, child neglect and cruelty",Dublin Region,2017
+116.0,Dublin,"Abandoning a child, child neglect and cruelty",Dublin Region,2018
+198.0,Dublin,"Abandoning a child, child neglect and cruelty",Dublin Region,2019

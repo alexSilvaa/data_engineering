@@ -1,0 +1,16 @@
+PREFIX db: <http://dbpedia.org/ontology/> 
+PREFIX ont: <http://webprotege.stanford.edu/projectOntology#> 
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> 
+SELECT DISTINCT ?rain ?year WHERE { 
+    ?x db:Year ?year . 
+    ?z db:Year ?year . 
+    ?z ont:Rainfall ?rain . 
+    ?z ont:CountyName '§0' . 
+    { 
+        SELECT ?num ?year WHERE { 
+            ?x ont:NumOfCrime ?num . 
+            ?x ont:CrimeName 'Theft and related offences' . 
+            ?x db:Year ?year . 
+            ?x ont:CountyName '§0' . 
+        } ORDER BY DESC(xsd:float(?num)) LIMIT 1 
+    }}

@@ -1,0 +1,919 @@
+count,county,crime,division,year
+1200.0,Donegal,Damage to property and to the environment,Donegal Garda Division,2003
+1163.0,Donegal,Damage to property and to the environment,Donegal Garda Division,2004
+1281.0,Donegal,Damage to property and to the environment,Donegal Garda Division,2005
+1287.0,Donegal,Damage to property and to the environment,Donegal Garda Division,2006
+1378.0,Donegal,Damage to property and to the environment,Donegal Garda Division,2007
+1499.0,Donegal,Damage to property and to the environment,Donegal Garda Division,2008
+1131.0,Donegal,Damage to property and to the environment,Donegal Garda Division,2009
+1005.0,Donegal,Damage to property and to the environment,Donegal Garda Division,2010
+845.0,Donegal,Damage to property and to the environment,Donegal Garda Division,2011
+746.0,Donegal,Damage to property and to the environment,Donegal Garda Division,2012
+637.0,Donegal,Damage to property and to the environment,Donegal Garda Division,2013
+673.0,Donegal,Damage to property and to the environment,Donegal Garda Division,2014
+669.0,Donegal,Damage to property and to the environment,Donegal Garda Division,2015
+626.0,Donegal,Damage to property and to the environment,Donegal Garda Division,2016
+541.0,Donegal,Damage to property and to the environment,Donegal Garda Division,2017
+529.0,Donegal,Damage to property and to the environment,Donegal Garda Division,2018
+975.0,Donegal,Damage to property and to the environment,Donegal Garda Division,2019
+1111.0,Louth,Damage to property and to the environment,Louth  Garda Division,2003
+1167.0,Louth,Damage to property and to the environment,Louth  Garda Division,2004
+1259.0,Louth,Damage to property and to the environment,Louth  Garda Division,2005
+1440.0,Louth,Damage to property and to the environment,Louth  Garda Division,2006
+1782.0,Louth,Damage to property and to the environment,Louth  Garda Division,2007
+1871.0,Louth,Damage to property and to the environment,Louth  Garda Division,2008
+1580.0,Louth,Damage to property and to the environment,Louth  Garda Division,2009
+1372.0,Louth,Damage to property and to the environment,Louth  Garda Division,2010
+1272.0,Louth,Damage to property and to the environment,Louth  Garda Division,2011
+1219.0,Louth,Damage to property and to the environment,Louth  Garda Division,2012
+1175.0,Louth,Damage to property and to the environment,Louth  Garda Division,2013
+1046.0,Louth,Damage to property and to the environment,Louth  Garda Division,2014
+1064.0,Louth,Damage to property and to the environment,Louth  Garda Division,2015
+802.0,Louth,Damage to property and to the environment,Louth  Garda Division,2016
+886.0,Louth,Damage to property and to the environment,Louth  Garda Division,2017
+890.0,Louth,Damage to property and to the environment,Louth  Garda Division,2018
+1556.0,Louth,Damage to property and to the environment,Louth  Garda Division,2019
+699.0,Clare,Damage to property and to the environment,Clare Garda Division,2003
+689.0,Clare,Damage to property and to the environment,Clare Garda Division,2004
+752.0,Clare,Damage to property and to the environment,Clare Garda Division,2005
+815.0,Clare,Damage to property and to the environment,Clare Garda Division,2006
+785.0,Clare,Damage to property and to the environment,Clare Garda Division,2007
+926.0,Clare,Damage to property and to the environment,Clare Garda Division,2008
+773.0,Clare,Damage to property and to the environment,Clare Garda Division,2009
+730.0,Clare,Damage to property and to the environment,Clare Garda Division,2010
+565.0,Clare,Damage to property and to the environment,Clare Garda Division,2011
+516.0,Clare,Damage to property and to the environment,Clare Garda Division,2012
+485.0,Clare,Damage to property and to the environment,Clare Garda Division,2013
+391.0,Clare,Damage to property and to the environment,Clare Garda Division,2014
+438.0,Clare,Damage to property and to the environment,Clare Garda Division,2015
+417.0,Clare,Damage to property and to the environment,Clare Garda Division,2016
+447.0,Clare,Damage to property and to the environment,Clare Garda Division,2017
+402.0,Clare,Damage to property and to the environment,Clare Garda Division,2018
+680.0,Clare,Damage to property and to the environment,Clare Garda Division,2019
+724.0,Mayo,Damage to property and to the environment,Mayo Garda Division,2003
+645.0,Mayo,Damage to property and to the environment,Mayo Garda Division,2004
+662.0,Mayo,Damage to property and to the environment,Mayo Garda Division,2005
+866.0,Mayo,Damage to property and to the environment,Mayo Garda Division,2006
+880.0,Mayo,Damage to property and to the environment,Mayo Garda Division,2007
+821.0,Mayo,Damage to property and to the environment,Mayo Garda Division,2008
+846.0,Mayo,Damage to property and to the environment,Mayo Garda Division,2009
+725.0,Mayo,Damage to property and to the environment,Mayo Garda Division,2010
+656.0,Mayo,Damage to property and to the environment,Mayo Garda Division,2011
+593.0,Mayo,Damage to property and to the environment,Mayo Garda Division,2012
+545.0,Mayo,Damage to property and to the environment,Mayo Garda Division,2013
+462.0,Mayo,Damage to property and to the environment,Mayo Garda Division,2014
+452.0,Mayo,Damage to property and to the environment,Mayo Garda Division,2015
+346.0,Mayo,Damage to property and to the environment,Mayo Garda Division,2016
+373.0,Mayo,Damage to property and to the environment,Mayo Garda Division,2017
+408.0,Mayo,Damage to property and to the environment,Mayo Garda Division,2018
+646.0,Mayo,Damage to property and to the environment,Mayo Garda Division,2019
+1229.0,Galway,Damage to property and to the environment,Galway Garda Division,2003
+1186.0,Galway,Damage to property and to the environment,Galway Garda Division,2004
+1525.0,Galway,Damage to property and to the environment,Galway Garda Division,2005
+1628.0,Galway,Damage to property and to the environment,Galway Garda Division,2006
+1770.0,Galway,Damage to property and to the environment,Galway Garda Division,2007
+1957.0,Galway,Damage to property and to the environment,Galway Garda Division,2008
+1655.0,Galway,Damage to property and to the environment,Galway Garda Division,2009
+1374.0,Galway,Damage to property and to the environment,Galway Garda Division,2010
+1195.0,Galway,Damage to property and to the environment,Galway Garda Division,2011
+1119.0,Galway,Damage to property and to the environment,Galway Garda Division,2012
+935.0,Galway,Damage to property and to the environment,Galway Garda Division,2013
+905.0,Galway,Damage to property and to the environment,Galway Garda Division,2014
+824.0,Galway,Damage to property and to the environment,Galway Garda Division,2015
+767.0,Galway,Damage to property and to the environment,Galway Garda Division,2016
+936.0,Galway,Damage to property and to the environment,Galway Garda Division,2017
+683.0,Galway,Damage to property and to the environment,Galway Garda Division,2018
+1249.0,Galway,Damage to property and to the environment,Galway Garda Division,2019
+2293.0,Cork,Damage to property and to the environment,Cork City Garda Division,2003
+2562.0,Cork,Damage to property and to the environment,Cork City Garda Division,2004
+2751.0,Cork,Damage to property and to the environment,Cork City Garda Division,2005
+2906.0,Cork,Damage to property and to the environment,Cork City Garda Division,2006
+2727.0,Cork,Damage to property and to the environment,Cork City Garda Division,2007
+2874.0,Cork,Damage to property and to the environment,Cork City Garda Division,2008
+2606.0,Cork,Damage to property and to the environment,Cork City Garda Division,2009
+2384.0,Cork,Damage to property and to the environment,Cork City Garda Division,2010
+2226.0,Cork,Damage to property and to the environment,Cork City Garda Division,2011
+1843.0,Cork,Damage to property and to the environment,Cork City Garda Division,2012
+1671.0,Cork,Damage to property and to the environment,Cork City Garda Division,2013
+1679.0,Cork,Damage to property and to the environment,Cork City Garda Division,2014
+1470.0,Cork,Damage to property and to the environment,Cork City Garda Division,2015
+1486.0,Cork,Damage to property and to the environment,Cork City Garda Division,2016
+1403.0,Cork,Damage to property and to the environment,Cork City Garda Division,2017
+1311.0,Cork,Damage to property and to the environment,Cork City Garda Division,2018
+2371.0,Cork,Damage to property and to the environment,Cork City Garda Division,2019
+740.0,Cork,Damage to property and to the environment,Cork North Garda Division,2003
+708.0,Cork,Damage to property and to the environment,Cork North Garda Division,2004
+794.0,Cork,Damage to property and to the environment,Cork North Garda Division,2005
+837.0,Cork,Damage to property and to the environment,Cork North Garda Division,2006
+755.0,Cork,Damage to property and to the environment,Cork North Garda Division,2007
+822.0,Cork,Damage to property and to the environment,Cork North Garda Division,2008
+744.0,Cork,Damage to property and to the environment,Cork North Garda Division,2009
+780.0,Cork,Damage to property and to the environment,Cork North Garda Division,2010
+645.0,Cork,Damage to property and to the environment,Cork North Garda Division,2011
+550.0,Cork,Damage to property and to the environment,Cork North Garda Division,2012
+538.0,Cork,Damage to property and to the environment,Cork North Garda Division,2013
+493.0,Cork,Damage to property and to the environment,Cork North Garda Division,2014
+459.0,Cork,Damage to property and to the environment,Cork North Garda Division,2015
+378.0,Cork,Damage to property and to the environment,Cork North Garda Division,2016
+370.0,Cork,Damage to property and to the environment,Cork North Garda Division,2017
+392.0,Cork,Damage to property and to the environment,Cork North Garda Division,2018
+723.0,Cork,Damage to property and to the environment,Cork North Garda Division,2019
+435.0,Cork,Damage to property and to the environment,Cork West Garda Division,2003
+515.0,Cork,Damage to property and to the environment,Cork West Garda Division,2004
+449.0,Cork,Damage to property and to the environment,Cork West Garda Division,2005
+693.0,Cork,Damage to property and to the environment,Cork West Garda Division,2006
+600.0,Cork,Damage to property and to the environment,Cork West Garda Division,2007
+647.0,Cork,Damage to property and to the environment,Cork West Garda Division,2008
+563.0,Cork,Damage to property and to the environment,Cork West Garda Division,2009
+465.0,Cork,Damage to property and to the environment,Cork West Garda Division,2010
+509.0,Cork,Damage to property and to the environment,Cork West Garda Division,2011
+390.0,Cork,Damage to property and to the environment,Cork West Garda Division,2012
+380.0,Cork,Damage to property and to the environment,Cork West Garda Division,2013
+366.0,Cork,Damage to property and to the environment,Cork West Garda Division,2014
+301.0,Cork,Damage to property and to the environment,Cork West Garda Division,2015
+269.0,Cork,Damage to property and to the environment,Cork West Garda Division,2016
+273.0,Cork,Damage to property and to the environment,Cork West Garda Division,2017
+278.0,Cork,Damage to property and to the environment,Cork West Garda Division,2018
+508.0,Cork,Damage to property and to the environment,Cork West Garda Division,2019
+528.0,Kerry,Damage to property and to the environment,Kerry Garda Division,2003
+610.0,Kerry,Damage to property and to the environment,Kerry Garda Division,2004
+545.0,Kerry,Damage to property and to the environment,Kerry Garda Division,2005
+733.0,Kerry,Damage to property and to the environment,Kerry Garda Division,2006
+828.0,Kerry,Damage to property and to the environment,Kerry Garda Division,2007
+774.0,Kerry,Damage to property and to the environment,Kerry Garda Division,2008
+712.0,Kerry,Damage to property and to the environment,Kerry Garda Division,2009
+631.0,Kerry,Damage to property and to the environment,Kerry Garda Division,2010
+545.0,Kerry,Damage to property and to the environment,Kerry Garda Division,2011
+474.0,Kerry,Damage to property and to the environment,Kerry Garda Division,2012
+421.0,Kerry,Damage to property and to the environment,Kerry Garda Division,2013
+371.0,Kerry,Damage to property and to the environment,Kerry Garda Division,2014
+393.0,Kerry,Damage to property and to the environment,Kerry Garda Division,2015
+333.0,Kerry,Damage to property and to the environment,Kerry Garda Division,2016
+337.0,Kerry,Damage to property and to the environment,Kerry Garda Division,2017
+377.0,Kerry,Damage to property and to the environment,Kerry Garda Division,2018
+663.0,Kerry,Damage to property and to the environment,Kerry Garda Division,2019
+2192.0,Limerick,Damage to property and to the environment,Limerick Garda Division,2003
+2096.0,Limerick,Damage to property and to the environment,Limerick Garda Division,2004
+2760.0,Limerick,Damage to property and to the environment,Limerick Garda Division,2005
+3059.0,Limerick,Damage to property and to the environment,Limerick Garda Division,2006
+3004.0,Limerick,Damage to property and to the environment,Limerick Garda Division,2007
+2974.0,Limerick,Damage to property and to the environment,Limerick Garda Division,2008
+2726.0,Limerick,Damage to property and to the environment,Limerick Garda Division,2009
+2485.0,Limerick,Damage to property and to the environment,Limerick Garda Division,2010
+2324.0,Limerick,Damage to property and to the environment,Limerick Garda Division,2011
+2082.0,Limerick,Damage to property and to the environment,Limerick Garda Division,2012
+1833.0,Limerick,Damage to property and to the environment,Limerick Garda Division,2013
+1503.0,Limerick,Damage to property and to the environment,Limerick Garda Division,2014
+1656.0,Limerick,Damage to property and to the environment,Limerick Garda Division,2015
+1202.0,Limerick,Damage to property and to the environment,Limerick Garda Division,2016
+1290.0,Limerick,Damage to property and to the environment,Limerick Garda Division,2017
+1304.0,Limerick,Damage to property and to the environment,Limerick Garda Division,2018
+2220.0,Limerick,Damage to property and to the environment,Limerick Garda Division,2019
+589.0,Meath,Damage to property and to the environment,Meath  Garda Division,2003
+735.0,Meath,Damage to property and to the environment,Meath  Garda Division,2004
+838.0,Meath,Damage to property and to the environment,Meath  Garda Division,2005
+1054.0,Meath,Damage to property and to the environment,Meath  Garda Division,2006
+993.0,Meath,Damage to property and to the environment,Meath  Garda Division,2007
+1099.0,Meath,Damage to property and to the environment,Meath  Garda Division,2008
+1125.0,Meath,Damage to property and to the environment,Meath  Garda Division,2009
+1081.0,Meath,Damage to property and to the environment,Meath  Garda Division,2010
+900.0,Meath,Damage to property and to the environment,Meath  Garda Division,2011
+827.0,Meath,Damage to property and to the environment,Meath  Garda Division,2012
+700.0,Meath,Damage to property and to the environment,Meath  Garda Division,2013
+729.0,Meath,Damage to property and to the environment,Meath  Garda Division,2014
+594.0,Meath,Damage to property and to the environment,Meath  Garda Division,2015
+574.0,Meath,Damage to property and to the environment,Meath  Garda Division,2016
+665.0,Meath,Damage to property and to the environment,Meath  Garda Division,2017
+646.0,Meath,Damage to property and to the environment,Meath  Garda Division,2018
+1130.0,Meath,Damage to property and to the environment,Meath  Garda Division,2019
+987.0,Wicklow,Damage to property and to the environment,Wicklow  Garda Division,2003
+1089.0,Wicklow,Damage to property and to the environment,Wicklow  Garda Division,2004
+1267.0,Wicklow,Damage to property and to the environment,Wicklow  Garda Division,2005
+1222.0,Wicklow,Damage to property and to the environment,Wicklow  Garda Division,2006
+1190.0,Wicklow,Damage to property and to the environment,Wicklow  Garda Division,2007
+1376.0,Wicklow,Damage to property and to the environment,Wicklow  Garda Division,2008
+1373.0,Wicklow,Damage to property and to the environment,Wicklow  Garda Division,2009
+1340.0,Wicklow,Damage to property and to the environment,Wicklow  Garda Division,2010
+1261.0,Wicklow,Damage to property and to the environment,Wicklow  Garda Division,2011
+991.0,Wicklow,Damage to property and to the environment,Wicklow  Garda Division,2012
+993.0,Wicklow,Damage to property and to the environment,Wicklow  Garda Division,2013
+878.0,Wicklow,Damage to property and to the environment,Wicklow  Garda Division,2014
+694.0,Wicklow,Damage to property and to the environment,Wicklow  Garda Division,2015
+576.0,Wicklow,Damage to property and to the environment,Wicklow  Garda Division,2016
+715.0,Wicklow,Damage to property and to the environment,Wicklow  Garda Division,2017
+556.0,Wicklow,Damage to property and to the environment,Wicklow  Garda Division,2018
+980.0,Wicklow,Damage to property and to the environment,Wicklow  Garda Division,2019
+623.0,Westmeath,Damage to property and to the environment,Westmeath  Garda Division,2003
+695.0,Westmeath,Damage to property and to the environment,Westmeath  Garda Division,2004
+768.0,Westmeath,Damage to property and to the environment,Westmeath  Garda Division,2005
+768.0,Westmeath,Damage to property and to the environment,Westmeath  Garda Division,2006
+991.0,Westmeath,Damage to property and to the environment,Westmeath  Garda Division,2007
+826.0,Westmeath,Damage to property and to the environment,Westmeath  Garda Division,2008
+799.0,Westmeath,Damage to property and to the environment,Westmeath  Garda Division,2009
+760.0,Westmeath,Damage to property and to the environment,Westmeath  Garda Division,2010
+626.0,Westmeath,Damage to property and to the environment,Westmeath  Garda Division,2011
+617.0,Westmeath,Damage to property and to the environment,Westmeath  Garda Division,2012
+540.0,Westmeath,Damage to property and to the environment,Westmeath  Garda Division,2013
+552.0,Westmeath,Damage to property and to the environment,Westmeath  Garda Division,2014
+463.0,Westmeath,Damage to property and to the environment,Westmeath  Garda Division,2015
+401.0,Westmeath,Damage to property and to the environment,Westmeath  Garda Division,2016
+417.0,Westmeath,Damage to property and to the environment,Westmeath  Garda Division,2017
+304.0,Westmeath,Damage to property and to the environment,Westmeath  Garda Division,2018
+548.0,Westmeath,Damage to property and to the environment,Westmeath  Garda Division,2019
+1097.0,Kildare,Damage to property and to the environment,Kildare  Garda Division,2003
+1140.0,Kildare,Damage to property and to the environment,Kildare  Garda Division,2004
+1183.0,Kildare,Damage to property and to the environment,Kildare  Garda Division,2005
+1452.0,Kildare,Damage to property and to the environment,Kildare  Garda Division,2006
+1582.0,Kildare,Damage to property and to the environment,Kildare  Garda Division,2007
+1683.0,Kildare,Damage to property and to the environment,Kildare  Garda Division,2008
+1554.0,Kildare,Damage to property and to the environment,Kildare  Garda Division,2009
+1462.0,Kildare,Damage to property and to the environment,Kildare  Garda Division,2010
+1421.0,Kildare,Damage to property and to the environment,Kildare  Garda Division,2011
+1259.0,Kildare,Damage to property and to the environment,Kildare  Garda Division,2012
+1073.0,Kildare,Damage to property and to the environment,Kildare  Garda Division,2013
+1006.0,Kildare,Damage to property and to the environment,Kildare  Garda Division,2014
+862.0,Kildare,Damage to property and to the environment,Kildare  Garda Division,2015
+713.0,Kildare,Damage to property and to the environment,Kildare  Garda Division,2016
+822.0,Kildare,Damage to property and to the environment,Kildare  Garda Division,2017
+725.0,Kildare,Damage to property and to the environment,Kildare  Garda Division,2018
+1244.0,Kildare,Damage to property and to the environment,Kildare  Garda Division,2019
+766.0,Tipperary,Damage to property and to the environment,Tipperary Garda Division,2003
+793.0,Tipperary,Damage to property and to the environment,Tipperary Garda Division,2004
+824.0,Tipperary,Damage to property and to the environment,Tipperary Garda Division,2005
+1013.0,Tipperary,Damage to property and to the environment,Tipperary Garda Division,2006
+1069.0,Tipperary,Damage to property and to the environment,Tipperary Garda Division,2007
+946.0,Tipperary,Damage to property and to the environment,Tipperary Garda Division,2008
+832.0,Tipperary,Damage to property and to the environment,Tipperary Garda Division,2009
+798.0,Tipperary,Damage to property and to the environment,Tipperary Garda Division,2010
+764.0,Tipperary,Damage to property and to the environment,Tipperary Garda Division,2011
+658.0,Tipperary,Damage to property and to the environment,Tipperary Garda Division,2012
+610.0,Tipperary,Damage to property and to the environment,Tipperary Garda Division,2013
+532.0,Tipperary,Damage to property and to the environment,Tipperary Garda Division,2014
+592.0,Tipperary,Damage to property and to the environment,Tipperary Garda Division,2015
+462.0,Tipperary,Damage to property and to the environment,Tipperary Garda Division,2016
+479.0,Tipperary,Damage to property and to the environment,Tipperary Garda Division,2017
+491.0,Tipperary,Damage to property and to the environment,Tipperary Garda Division,2018
+870.0,Tipperary,Damage to property and to the environment,Tipperary Garda Division,2019
+606.0,Wexford,Damage to property and to the environment,Wexford  Garda Division,2003
+668.0,Wexford,Damage to property and to the environment,Wexford  Garda Division,2004
+691.0,Wexford,Damage to property and to the environment,Wexford  Garda Division,2005
+971.0,Wexford,Damage to property and to the environment,Wexford  Garda Division,2006
+958.0,Wexford,Damage to property and to the environment,Wexford  Garda Division,2007
+1029.0,Wexford,Damage to property and to the environment,Wexford  Garda Division,2008
+1076.0,Wexford,Damage to property and to the environment,Wexford  Garda Division,2009
+951.0,Wexford,Damage to property and to the environment,Wexford  Garda Division,2010
+967.0,Wexford,Damage to property and to the environment,Wexford  Garda Division,2011
+959.0,Wexford,Damage to property and to the environment,Wexford  Garda Division,2012
+827.0,Wexford,Damage to property and to the environment,Wexford  Garda Division,2013
+758.0,Wexford,Damage to property and to the environment,Wexford  Garda Division,2014
+831.0,Wexford,Damage to property and to the environment,Wexford  Garda Division,2015
+703.0,Wexford,Damage to property and to the environment,Wexford  Garda Division,2016
+701.0,Wexford,Damage to property and to the environment,Wexford  Garda Division,2017
+628.0,Wexford,Damage to property and to the environment,Wexford  Garda Division,2018
+1076.0,Wexford,Damage to property and to the environment,Wexford  Garda Division,2019
+801.0,Waterford,Damage to property and to the environment,Waterford  Garda Division,2003
+778.0,Waterford,Damage to property and to the environment,Waterford  Garda Division,2004
+1024.0,Waterford,Damage to property and to the environment,Waterford  Garda Division,2005
+1420.0,Waterford,Damage to property and to the environment,Waterford  Garda Division,2006
+1392.0,Waterford,Damage to property and to the environment,Waterford  Garda Division,2007
+1324.0,Waterford,Damage to property and to the environment,Waterford  Garda Division,2008
+1287.0,Waterford,Damage to property and to the environment,Waterford  Garda Division,2009
+1337.0,Waterford,Damage to property and to the environment,Waterford  Garda Division,2010
+1089.0,Waterford,Damage to property and to the environment,Waterford  Garda Division,2011
+1035.0,Waterford,Damage to property and to the environment,Waterford  Garda Division,2012
+944.0,Waterford,Damage to property and to the environment,Waterford  Garda Division,2013
+765.0,Waterford,Damage to property and to the environment,Waterford  Garda Division,2014
+857.0,Waterford,Damage to property and to the environment,Waterford  Garda Division,2015
+698.0,Waterford,Damage to property and to the environment,Waterford  Garda Division,2016
+744.0,Waterford,Damage to property and to the environment,Waterford  Garda Division,2017
+688.0,Waterford,Damage to property and to the environment,Waterford  Garda Division,2018
+1149.0,Waterford,Damage to property and to the environment,Waterford  Garda Division,2019
+14046.0,Dublin,Damage to property and to the environment,Dublin Region,2003
+16682.0,Dublin,Damage to property and to the environment,Dublin Region,2004
+16751.0,Dublin,Damage to property and to the environment,Dublin Region,2005
+17223.0,Dublin,Damage to property and to the environment,Dublin Region,2006
+16009.0,Dublin,Damage to property and to the environment,Dublin Region,2007
+16384.0,Dublin,Damage to property and to the environment,Dublin Region,2008
+16278.0,Dublin,Damage to property and to the environment,Dublin Region,2009
+15148.0,Dublin,Damage to property and to the environment,Dublin Region,2010
+13727.0,Dublin,Damage to property and to the environment,Dublin Region,2011
+13056.0,Dublin,Damage to property and to the environment,Dublin Region,2012
+11400.0,Dublin,Damage to property and to the environment,Dublin Region,2013
+11381.0,Dublin,Damage to property and to the environment,Dublin Region,2014
+10536.0,Dublin,Damage to property and to the environment,Dublin Region,2015
+9034.0,Dublin,Damage to property and to the environment,Dublin Region,2016
+9130.0,Dublin,Damage to property and to the environment,Dublin Region,2017
+8488.0,Dublin,Damage to property and to the environment,Dublin Region,2018
+15410.0,Dublin,Damage to property and to the environment,Dublin Region,2019
+43.0,Donegal,Arson,Donegal Garda Division,2003
+39.0,Donegal,Arson,Donegal Garda Division,2004
+47.0,Donegal,Arson,Donegal Garda Division,2005
+62.0,Donegal,Arson,Donegal Garda Division,2006
+53.0,Donegal,Arson,Donegal Garda Division,2007
+86.0,Donegal,Arson,Donegal Garda Division,2008
+110.0,Donegal,Arson,Donegal Garda Division,2009
+65.0,Donegal,Arson,Donegal Garda Division,2010
+78.0,Donegal,Arson,Donegal Garda Division,2011
+60.0,Donegal,Arson,Donegal Garda Division,2012
+40.0,Donegal,Arson,Donegal Garda Division,2013
+41.0,Donegal,Arson,Donegal Garda Division,2014
+46.0,Donegal,Arson,Donegal Garda Division,2015
+51.0,Donegal,Arson,Donegal Garda Division,2016
+58.0,Donegal,Arson,Donegal Garda Division,2017
+55.0,Donegal,Arson,Donegal Garda Division,2018
+111.0,Donegal,Arson,Donegal Garda Division,2019
+89.0,Louth,Arson,Louth  Garda Division,2003
+90.0,Louth,Arson,Louth  Garda Division,2004
+69.0,Louth,Arson,Louth  Garda Division,2005
+93.0,Louth,Arson,Louth  Garda Division,2006
+123.0,Louth,Arson,Louth  Garda Division,2007
+133.0,Louth,Arson,Louth  Garda Division,2008
+124.0,Louth,Arson,Louth  Garda Division,2009
+88.0,Louth,Arson,Louth  Garda Division,2010
+89.0,Louth,Arson,Louth  Garda Division,2011
+79.0,Louth,Arson,Louth  Garda Division,2012
+110.0,Louth,Arson,Louth  Garda Division,2013
+102.0,Louth,Arson,Louth  Garda Division,2014
+99.0,Louth,Arson,Louth  Garda Division,2015
+90.0,Louth,Arson,Louth  Garda Division,2016
+106.0,Louth,Arson,Louth  Garda Division,2017
+125.0,Louth,Arson,Louth  Garda Division,2018
+220.0,Louth,Arson,Louth  Garda Division,2019
+40.0,Clare,Arson,Clare Garda Division,2003
+41.0,Clare,Arson,Clare Garda Division,2004
+49.0,Clare,Arson,Clare Garda Division,2005
+54.0,Clare,Arson,Clare Garda Division,2006
+47.0,Clare,Arson,Clare Garda Division,2007
+80.0,Clare,Arson,Clare Garda Division,2008
+73.0,Clare,Arson,Clare Garda Division,2009
+58.0,Clare,Arson,Clare Garda Division,2010
+37.0,Clare,Arson,Clare Garda Division,2011
+32.0,Clare,Arson,Clare Garda Division,2012
+35.0,Clare,Arson,Clare Garda Division,2013
+15.0,Clare,Arson,Clare Garda Division,2014
+31.0,Clare,Arson,Clare Garda Division,2015
+17.0,Clare,Arson,Clare Garda Division,2016
+36.0,Clare,Arson,Clare Garda Division,2017
+31.0,Clare,Arson,Clare Garda Division,2018
+54.0,Clare,Arson,Clare Garda Division,2019
+18.0,Mayo,Arson,Mayo Garda Division,2003
+16.0,Mayo,Arson,Mayo Garda Division,2004
+21.0,Mayo,Arson,Mayo Garda Division,2005
+27.0,Mayo,Arson,Mayo Garda Division,2006
+32.0,Mayo,Arson,Mayo Garda Division,2007
+42.0,Mayo,Arson,Mayo Garda Division,2008
+65.0,Mayo,Arson,Mayo Garda Division,2009
+36.0,Mayo,Arson,Mayo Garda Division,2010
+46.0,Mayo,Arson,Mayo Garda Division,2011
+32.0,Mayo,Arson,Mayo Garda Division,2012
+37.0,Mayo,Arson,Mayo Garda Division,2013
+26.0,Mayo,Arson,Mayo Garda Division,2014
+21.0,Mayo,Arson,Mayo Garda Division,2015
+15.0,Mayo,Arson,Mayo Garda Division,2016
+22.0,Mayo,Arson,Mayo Garda Division,2017
+16.0,Mayo,Arson,Mayo Garda Division,2018
+25.0,Mayo,Arson,Mayo Garda Division,2019
+35.0,Galway,Arson,Galway Garda Division,2003
+42.0,Galway,Arson,Galway Garda Division,2004
+41.0,Galway,Arson,Galway Garda Division,2005
+74.0,Galway,Arson,Galway Garda Division,2006
+80.0,Galway,Arson,Galway Garda Division,2007
+125.0,Galway,Arson,Galway Garda Division,2008
+139.0,Galway,Arson,Galway Garda Division,2009
+102.0,Galway,Arson,Galway Garda Division,2010
+92.0,Galway,Arson,Galway Garda Division,2011
+81.0,Galway,Arson,Galway Garda Division,2012
+58.0,Galway,Arson,Galway Garda Division,2013
+51.0,Galway,Arson,Galway Garda Division,2014
+48.0,Galway,Arson,Galway Garda Division,2015
+48.0,Galway,Arson,Galway Garda Division,2016
+54.0,Galway,Arson,Galway Garda Division,2017
+36.0,Galway,Arson,Galway Garda Division,2018
+69.0,Galway,Arson,Galway Garda Division,2019
+138.0,Cork,Arson,Cork City Garda Division,2003
+144.0,Cork,Arson,Cork City Garda Division,2004
+153.0,Cork,Arson,Cork City Garda Division,2005
+172.0,Cork,Arson,Cork City Garda Division,2006
+246.0,Cork,Arson,Cork City Garda Division,2007
+254.0,Cork,Arson,Cork City Garda Division,2008
+269.0,Cork,Arson,Cork City Garda Division,2009
+250.0,Cork,Arson,Cork City Garda Division,2010
+182.0,Cork,Arson,Cork City Garda Division,2011
+175.0,Cork,Arson,Cork City Garda Division,2012
+150.0,Cork,Arson,Cork City Garda Division,2013
+152.0,Cork,Arson,Cork City Garda Division,2014
+114.0,Cork,Arson,Cork City Garda Division,2015
+124.0,Cork,Arson,Cork City Garda Division,2016
+105.0,Cork,Arson,Cork City Garda Division,2017
+108.0,Cork,Arson,Cork City Garda Division,2018
+192.0,Cork,Arson,Cork City Garda Division,2019
+25.0,Cork,Arson,Cork North Garda Division,2003
+13.0,Cork,Arson,Cork North Garda Division,2004
+26.0,Cork,Arson,Cork North Garda Division,2005
+31.0,Cork,Arson,Cork North Garda Division,2006
+38.0,Cork,Arson,Cork North Garda Division,2007
+24.0,Cork,Arson,Cork North Garda Division,2008
+42.0,Cork,Arson,Cork North Garda Division,2009
+43.0,Cork,Arson,Cork North Garda Division,2010
+54.0,Cork,Arson,Cork North Garda Division,2011
+27.0,Cork,Arson,Cork North Garda Division,2012
+31.0,Cork,Arson,Cork North Garda Division,2013
+37.0,Cork,Arson,Cork North Garda Division,2014
+31.0,Cork,Arson,Cork North Garda Division,2015
+29.0,Cork,Arson,Cork North Garda Division,2016
+32.0,Cork,Arson,Cork North Garda Division,2017
+36.0,Cork,Arson,Cork North Garda Division,2018
+65.0,Cork,Arson,Cork North Garda Division,2019
+26.0,Cork,Arson,Cork West Garda Division,2003
+22.0,Cork,Arson,Cork West Garda Division,2004
+28.0,Cork,Arson,Cork West Garda Division,2005
+49.0,Cork,Arson,Cork West Garda Division,2006
+36.0,Cork,Arson,Cork West Garda Division,2007
+35.0,Cork,Arson,Cork West Garda Division,2008
+39.0,Cork,Arson,Cork West Garda Division,2009
+24.0,Cork,Arson,Cork West Garda Division,2010
+26.0,Cork,Arson,Cork West Garda Division,2011
+24.0,Cork,Arson,Cork West Garda Division,2012
+26.0,Cork,Arson,Cork West Garda Division,2013
+13.0,Cork,Arson,Cork West Garda Division,2014
+18.0,Cork,Arson,Cork West Garda Division,2015
+25.0,Cork,Arson,Cork West Garda Division,2016
+12.0,Cork,Arson,Cork West Garda Division,2017
+13.0,Cork,Arson,Cork West Garda Division,2018
+19.0,Cork,Arson,Cork West Garda Division,2019
+16.0,Kerry,Arson,Kerry Garda Division,2003
+41.0,Kerry,Arson,Kerry Garda Division,2004
+26.0,Kerry,Arson,Kerry Garda Division,2005
+31.0,Kerry,Arson,Kerry Garda Division,2006
+35.0,Kerry,Arson,Kerry Garda Division,2007
+54.0,Kerry,Arson,Kerry Garda Division,2008
+46.0,Kerry,Arson,Kerry Garda Division,2009
+44.0,Kerry,Arson,Kerry Garda Division,2010
+21.0,Kerry,Arson,Kerry Garda Division,2011
+27.0,Kerry,Arson,Kerry Garda Division,2012
+20.0,Kerry,Arson,Kerry Garda Division,2013
+19.0,Kerry,Arson,Kerry Garda Division,2014
+17.0,Kerry,Arson,Kerry Garda Division,2015
+12.0,Kerry,Arson,Kerry Garda Division,2016
+16.0,Kerry,Arson,Kerry Garda Division,2017
+15.0,Kerry,Arson,Kerry Garda Division,2018
+30.0,Kerry,Arson,Kerry Garda Division,2019
+130.0,Limerick,Arson,Limerick Garda Division,2003
+92.0,Limerick,Arson,Limerick Garda Division,2004
+137.0,Limerick,Arson,Limerick Garda Division,2005
+192.0,Limerick,Arson,Limerick Garda Division,2006
+209.0,Limerick,Arson,Limerick Garda Division,2007
+290.0,Limerick,Arson,Limerick Garda Division,2008
+303.0,Limerick,Arson,Limerick Garda Division,2009
+191.0,Limerick,Arson,Limerick Garda Division,2010
+165.0,Limerick,Arson,Limerick Garda Division,2011
+176.0,Limerick,Arson,Limerick Garda Division,2012
+130.0,Limerick,Arson,Limerick Garda Division,2013
+97.0,Limerick,Arson,Limerick Garda Division,2014
+112.0,Limerick,Arson,Limerick Garda Division,2015
+87.0,Limerick,Arson,Limerick Garda Division,2016
+77.0,Limerick,Arson,Limerick Garda Division,2017
+92.0,Limerick,Arson,Limerick Garda Division,2018
+154.0,Limerick,Arson,Limerick Garda Division,2019
+33.0,Meath,Arson,Meath  Garda Division,2003
+36.0,Meath,Arson,Meath  Garda Division,2004
+29.0,Meath,Arson,Meath  Garda Division,2005
+55.0,Meath,Arson,Meath  Garda Division,2006
+56.0,Meath,Arson,Meath  Garda Division,2007
+79.0,Meath,Arson,Meath  Garda Division,2008
+91.0,Meath,Arson,Meath  Garda Division,2009
+95.0,Meath,Arson,Meath  Garda Division,2010
+63.0,Meath,Arson,Meath  Garda Division,2011
+59.0,Meath,Arson,Meath  Garda Division,2012
+53.0,Meath,Arson,Meath  Garda Division,2013
+45.0,Meath,Arson,Meath  Garda Division,2014
+48.0,Meath,Arson,Meath  Garda Division,2015
+47.0,Meath,Arson,Meath  Garda Division,2016
+49.0,Meath,Arson,Meath  Garda Division,2017
+54.0,Meath,Arson,Meath  Garda Division,2018
+83.0,Meath,Arson,Meath  Garda Division,2019
+31.0,Wicklow,Arson,Wicklow  Garda Division,2003
+20.0,Wicklow,Arson,Wicklow  Garda Division,2004
+39.0,Wicklow,Arson,Wicklow  Garda Division,2005
+37.0,Wicklow,Arson,Wicklow  Garda Division,2006
+47.0,Wicklow,Arson,Wicklow  Garda Division,2007
+78.0,Wicklow,Arson,Wicklow  Garda Division,2008
+96.0,Wicklow,Arson,Wicklow  Garda Division,2009
+108.0,Wicklow,Arson,Wicklow  Garda Division,2010
+75.0,Wicklow,Arson,Wicklow  Garda Division,2011
+83.0,Wicklow,Arson,Wicklow  Garda Division,2012
+84.0,Wicklow,Arson,Wicklow  Garda Division,2013
+62.0,Wicklow,Arson,Wicklow  Garda Division,2014
+44.0,Wicklow,Arson,Wicklow  Garda Division,2015
+47.0,Wicklow,Arson,Wicklow  Garda Division,2016
+53.0,Wicklow,Arson,Wicklow  Garda Division,2017
+43.0,Wicklow,Arson,Wicklow  Garda Division,2018
+78.0,Wicklow,Arson,Wicklow  Garda Division,2019
+26.0,Westmeath,Arson,Westmeath  Garda Division,2003
+32.0,Westmeath,Arson,Westmeath  Garda Division,2004
+26.0,Westmeath,Arson,Westmeath  Garda Division,2005
+33.0,Westmeath,Arson,Westmeath  Garda Division,2006
+54.0,Westmeath,Arson,Westmeath  Garda Division,2007
+50.0,Westmeath,Arson,Westmeath  Garda Division,2008
+44.0,Westmeath,Arson,Westmeath  Garda Division,2009
+49.0,Westmeath,Arson,Westmeath  Garda Division,2010
+43.0,Westmeath,Arson,Westmeath  Garda Division,2011
+28.0,Westmeath,Arson,Westmeath  Garda Division,2012
+31.0,Westmeath,Arson,Westmeath  Garda Division,2013
+36.0,Westmeath,Arson,Westmeath  Garda Division,2014
+24.0,Westmeath,Arson,Westmeath  Garda Division,2015
+21.0,Westmeath,Arson,Westmeath  Garda Division,2016
+25.0,Westmeath,Arson,Westmeath  Garda Division,2017
+16.0,Westmeath,Arson,Westmeath  Garda Division,2018
+32.0,Westmeath,Arson,Westmeath  Garda Division,2019
+57.0,Kildare,Arson,Kildare  Garda Division,2003
+54.0,Kildare,Arson,Kildare  Garda Division,2004
+44.0,Kildare,Arson,Kildare  Garda Division,2005
+52.0,Kildare,Arson,Kildare  Garda Division,2006
+97.0,Kildare,Arson,Kildare  Garda Division,2007
+138.0,Kildare,Arson,Kildare  Garda Division,2008
+196.0,Kildare,Arson,Kildare  Garda Division,2009
+139.0,Kildare,Arson,Kildare  Garda Division,2010
+133.0,Kildare,Arson,Kildare  Garda Division,2011
+120.0,Kildare,Arson,Kildare  Garda Division,2012
+105.0,Kildare,Arson,Kildare  Garda Division,2013
+95.0,Kildare,Arson,Kildare  Garda Division,2014
+91.0,Kildare,Arson,Kildare  Garda Division,2015
+83.0,Kildare,Arson,Kildare  Garda Division,2016
+75.0,Kildare,Arson,Kildare  Garda Division,2017
+87.0,Kildare,Arson,Kildare  Garda Division,2018
+140.0,Kildare,Arson,Kildare  Garda Division,2019
+21.0,Tipperary,Arson,Tipperary Garda Division,2003
+30.0,Tipperary,Arson,Tipperary Garda Division,2004
+21.0,Tipperary,Arson,Tipperary Garda Division,2005
+20.0,Tipperary,Arson,Tipperary Garda Division,2006
+44.0,Tipperary,Arson,Tipperary Garda Division,2007
+49.0,Tipperary,Arson,Tipperary Garda Division,2008
+62.0,Tipperary,Arson,Tipperary Garda Division,2009
+55.0,Tipperary,Arson,Tipperary Garda Division,2010
+56.0,Tipperary,Arson,Tipperary Garda Division,2011
+41.0,Tipperary,Arson,Tipperary Garda Division,2012
+32.0,Tipperary,Arson,Tipperary Garda Division,2013
+38.0,Tipperary,Arson,Tipperary Garda Division,2014
+41.0,Tipperary,Arson,Tipperary Garda Division,2015
+44.0,Tipperary,Arson,Tipperary Garda Division,2016
+31.0,Tipperary,Arson,Tipperary Garda Division,2017
+36.0,Tipperary,Arson,Tipperary Garda Division,2018
+70.0,Tipperary,Arson,Tipperary Garda Division,2019
+16.0,Wexford,Arson,Wexford  Garda Division,2003
+20.0,Wexford,Arson,Wexford  Garda Division,2004
+21.0,Wexford,Arson,Wexford  Garda Division,2005
+17.0,Wexford,Arson,Wexford  Garda Division,2006
+34.0,Wexford,Arson,Wexford  Garda Division,2007
+43.0,Wexford,Arson,Wexford  Garda Division,2008
+65.0,Wexford,Arson,Wexford  Garda Division,2009
+51.0,Wexford,Arson,Wexford  Garda Division,2010
+70.0,Wexford,Arson,Wexford  Garda Division,2011
+54.0,Wexford,Arson,Wexford  Garda Division,2012
+45.0,Wexford,Arson,Wexford  Garda Division,2013
+45.0,Wexford,Arson,Wexford  Garda Division,2014
+62.0,Wexford,Arson,Wexford  Garda Division,2015
+54.0,Wexford,Arson,Wexford  Garda Division,2016
+43.0,Wexford,Arson,Wexford  Garda Division,2017
+60.0,Wexford,Arson,Wexford  Garda Division,2018
+91.0,Wexford,Arson,Wexford  Garda Division,2019
+41.0,Waterford,Arson,Waterford  Garda Division,2003
+25.0,Waterford,Arson,Waterford  Garda Division,2004
+69.0,Waterford,Arson,Waterford  Garda Division,2005
+78.0,Waterford,Arson,Waterford  Garda Division,2006
+81.0,Waterford,Arson,Waterford  Garda Division,2007
+65.0,Waterford,Arson,Waterford  Garda Division,2008
+109.0,Waterford,Arson,Waterford  Garda Division,2009
+115.0,Waterford,Arson,Waterford  Garda Division,2010
+94.0,Waterford,Arson,Waterford  Garda Division,2011
+89.0,Waterford,Arson,Waterford  Garda Division,2012
+74.0,Waterford,Arson,Waterford  Garda Division,2013
+82.0,Waterford,Arson,Waterford  Garda Division,2014
+117.0,Waterford,Arson,Waterford  Garda Division,2015
+46.0,Waterford,Arson,Waterford  Garda Division,2016
+71.0,Waterford,Arson,Waterford  Garda Division,2017
+52.0,Waterford,Arson,Waterford  Garda Division,2018
+87.0,Waterford,Arson,Waterford  Garda Division,2019
+471.0,Dublin,Arson,Dublin Region,2003
+579.0,Dublin,Arson,Dublin Region,2004
+432.0,Dublin,Arson,Dublin Region,2005
+426.0,Dublin,Arson,Dublin Region,2006
+542.0,Dublin,Arson,Dublin Region,2007
+404.0,Dublin,Arson,Dublin Region,2008
+770.0,Dublin,Arson,Dublin Region,2009
+740.0,Dublin,Arson,Dublin Region,2010
+719.0,Dublin,Arson,Dublin Region,2011
+686.0,Dublin,Arson,Dublin Region,2012
+632.0,Dublin,Arson,Dublin Region,2013
+561.0,Dublin,Arson,Dublin Region,2014
+563.0,Dublin,Arson,Dublin Region,2015
+596.0,Dublin,Arson,Dublin Region,2016
+646.0,Dublin,Arson,Dublin Region,2017
+614.0,Dublin,Arson,Dublin Region,2018
+1065.0,Dublin,Arson,Dublin Region,2019
+1156.0,Donegal,Criminal damage (not arson),Donegal Garda Division,2003
+1121.0,Donegal,Criminal damage (not arson),Donegal Garda Division,2004
+1227.0,Donegal,Criminal damage (not arson),Donegal Garda Division,2005
+1221.0,Donegal,Criminal damage (not arson),Donegal Garda Division,2006
+1310.0,Donegal,Criminal damage (not arson),Donegal Garda Division,2007
+1390.0,Donegal,Criminal damage (not arson),Donegal Garda Division,2008
+999.0,Donegal,Criminal damage (not arson),Donegal Garda Division,2009
+930.0,Donegal,Criminal damage (not arson),Donegal Garda Division,2010
+755.0,Donegal,Criminal damage (not arson),Donegal Garda Division,2011
+672.0,Donegal,Criminal damage (not arson),Donegal Garda Division,2012
+583.0,Donegal,Criminal damage (not arson),Donegal Garda Division,2013
+617.0,Donegal,Criminal damage (not arson),Donegal Garda Division,2014
+611.0,Donegal,Criminal damage (not arson),Donegal Garda Division,2015
+565.0,Donegal,Criminal damage (not arson),Donegal Garda Division,2016
+476.0,Donegal,Criminal damage (not arson),Donegal Garda Division,2017
+467.0,Donegal,Criminal damage (not arson),Donegal Garda Division,2018
+853.0,Donegal,Criminal damage (not arson),Donegal Garda Division,2019
+1012.0,Louth,Criminal damage (not arson),Louth  Garda Division,2003
+1066.0,Louth,Criminal damage (not arson),Louth  Garda Division,2004
+1177.0,Louth,Criminal damage (not arson),Louth  Garda Division,2005
+1342.0,Louth,Criminal damage (not arson),Louth  Garda Division,2006
+1655.0,Louth,Criminal damage (not arson),Louth  Garda Division,2007
+1726.0,Louth,Criminal damage (not arson),Louth  Garda Division,2008
+1444.0,Louth,Criminal damage (not arson),Louth  Garda Division,2009
+1273.0,Louth,Criminal damage (not arson),Louth  Garda Division,2010
+1167.0,Louth,Criminal damage (not arson),Louth  Garda Division,2011
+1102.0,Louth,Criminal damage (not arson),Louth  Garda Division,2012
+1039.0,Louth,Criminal damage (not arson),Louth  Garda Division,2013
+899.0,Louth,Criminal damage (not arson),Louth  Garda Division,2014
+932.0,Louth,Criminal damage (not arson),Louth  Garda Division,2015
+696.0,Louth,Criminal damage (not arson),Louth  Garda Division,2016
+771.0,Louth,Criminal damage (not arson),Louth  Garda Division,2017
+757.0,Louth,Criminal damage (not arson),Louth  Garda Division,2018
+1319.0,Louth,Criminal damage (not arson),Louth  Garda Division,2019
+656.0,Clare,Criminal damage (not arson),Clare Garda Division,2003
+647.0,Clare,Criminal damage (not arson),Clare Garda Division,2004
+699.0,Clare,Criminal damage (not arson),Clare Garda Division,2005
+754.0,Clare,Criminal damage (not arson),Clare Garda Division,2006
+731.0,Clare,Criminal damage (not arson),Clare Garda Division,2007
+841.0,Clare,Criminal damage (not arson),Clare Garda Division,2008
+696.0,Clare,Criminal damage (not arson),Clare Garda Division,2009
+666.0,Clare,Criminal damage (not arson),Clare Garda Division,2010
+525.0,Clare,Criminal damage (not arson),Clare Garda Division,2011
+479.0,Clare,Criminal damage (not arson),Clare Garda Division,2012
+448.0,Clare,Criminal damage (not arson),Clare Garda Division,2013
+375.0,Clare,Criminal damage (not arson),Clare Garda Division,2014
+401.0,Clare,Criminal damage (not arson),Clare Garda Division,2015
+393.0,Clare,Criminal damage (not arson),Clare Garda Division,2016
+400.0,Clare,Criminal damage (not arson),Clare Garda Division,2017
+367.0,Clare,Criminal damage (not arson),Clare Garda Division,2018
+621.0,Clare,Criminal damage (not arson),Clare Garda Division,2019
+704.0,Mayo,Criminal damage (not arson),Mayo Garda Division,2003
+626.0,Mayo,Criminal damage (not arson),Mayo Garda Division,2004
+640.0,Mayo,Criminal damage (not arson),Mayo Garda Division,2005
+837.0,Mayo,Criminal damage (not arson),Mayo Garda Division,2006
+836.0,Mayo,Criminal damage (not arson),Mayo Garda Division,2007
+766.0,Mayo,Criminal damage (not arson),Mayo Garda Division,2008
+771.0,Mayo,Criminal damage (not arson),Mayo Garda Division,2009
+677.0,Mayo,Criminal damage (not arson),Mayo Garda Division,2010
+603.0,Mayo,Criminal damage (not arson),Mayo Garda Division,2011
+556.0,Mayo,Criminal damage (not arson),Mayo Garda Division,2012
+500.0,Mayo,Criminal damage (not arson),Mayo Garda Division,2013
+430.0,Mayo,Criminal damage (not arson),Mayo Garda Division,2014
+426.0,Mayo,Criminal damage (not arson),Mayo Garda Division,2015
+325.0,Mayo,Criminal damage (not arson),Mayo Garda Division,2016
+346.0,Mayo,Criminal damage (not arson),Mayo Garda Division,2017
+384.0,Mayo,Criminal damage (not arson),Mayo Garda Division,2018
+611.0,Mayo,Criminal damage (not arson),Mayo Garda Division,2019
+1193.0,Galway,Criminal damage (not arson),Galway Garda Division,2003
+1144.0,Galway,Criminal damage (not arson),Galway Garda Division,2004
+1483.0,Galway,Criminal damage (not arson),Galway Garda Division,2005
+1549.0,Galway,Criminal damage (not arson),Galway Garda Division,2006
+1688.0,Galway,Criminal damage (not arson),Galway Garda Division,2007
+1822.0,Galway,Criminal damage (not arson),Galway Garda Division,2008
+1507.0,Galway,Criminal damage (not arson),Galway Garda Division,2009
+1266.0,Galway,Criminal damage (not arson),Galway Garda Division,2010
+1091.0,Galway,Criminal damage (not arson),Galway Garda Division,2011
+1032.0,Galway,Criminal damage (not arson),Galway Garda Division,2012
+867.0,Galway,Criminal damage (not arson),Galway Garda Division,2013
+842.0,Galway,Criminal damage (not arson),Galway Garda Division,2014
+768.0,Galway,Criminal damage (not arson),Galway Garda Division,2015
+711.0,Galway,Criminal damage (not arson),Galway Garda Division,2016
+871.0,Galway,Criminal damage (not arson),Galway Garda Division,2017
+639.0,Galway,Criminal damage (not arson),Galway Garda Division,2018
+1166.0,Galway,Criminal damage (not arson),Galway Garda Division,2019
+2145.0,Cork,Criminal damage (not arson),Cork City Garda Division,2003
+2409.0,Cork,Criminal damage (not arson),Cork City Garda Division,2004
+2590.0,Cork,Criminal damage (not arson),Cork City Garda Division,2005
+2728.0,Cork,Criminal damage (not arson),Cork City Garda Division,2006
+2471.0,Cork,Criminal damage (not arson),Cork City Garda Division,2007
+2612.0,Cork,Criminal damage (not arson),Cork City Garda Division,2008
+2331.0,Cork,Criminal damage (not arson),Cork City Garda Division,2009
+2121.0,Cork,Criminal damage (not arson),Cork City Garda Division,2010
+2035.0,Cork,Criminal damage (not arson),Cork City Garda Division,2011
+1658.0,Cork,Criminal damage (not arson),Cork City Garda Division,2012
+1521.0,Cork,Criminal damage (not arson),Cork City Garda Division,2013
+1518.0,Cork,Criminal damage (not arson),Cork City Garda Division,2014
+1351.0,Cork,Criminal damage (not arson),Cork City Garda Division,2015
+1348.0,Cork,Criminal damage (not arson),Cork City Garda Division,2016
+1288.0,Cork,Criminal damage (not arson),Cork City Garda Division,2017
+1195.0,Cork,Criminal damage (not arson),Cork City Garda Division,2018
+2158.0,Cork,Criminal damage (not arson),Cork City Garda Division,2019
+708.0,Cork,Criminal damage (not arson),Cork North Garda Division,2003
+686.0,Cork,Criminal damage (not arson),Cork North Garda Division,2004
+760.0,Cork,Criminal damage (not arson),Cork North Garda Division,2005
+796.0,Cork,Criminal damage (not arson),Cork North Garda Division,2006
+709.0,Cork,Criminal damage (not arson),Cork North Garda Division,2007
+780.0,Cork,Criminal damage (not arson),Cork North Garda Division,2008
+684.0,Cork,Criminal damage (not arson),Cork North Garda Division,2009
+722.0,Cork,Criminal damage (not arson),Cork North Garda Division,2010
+574.0,Cork,Criminal damage (not arson),Cork North Garda Division,2011
+514.0,Cork,Criminal damage (not arson),Cork North Garda Division,2012
+499.0,Cork,Criminal damage (not arson),Cork North Garda Division,2013
+445.0,Cork,Criminal damage (not arson),Cork North Garda Division,2014
+425.0,Cork,Criminal damage (not arson),Cork North Garda Division,2015
+342.0,Cork,Criminal damage (not arson),Cork North Garda Division,2016
+332.0,Cork,Criminal damage (not arson),Cork North Garda Division,2017
+352.0,Cork,Criminal damage (not arson),Cork North Garda Division,2018
+647.0,Cork,Criminal damage (not arson),Cork North Garda Division,2019
+407.0,Cork,Criminal damage (not arson),Cork West Garda Division,2003
+491.0,Cork,Criminal damage (not arson),Cork West Garda Division,2004
+421.0,Cork,Criminal damage (not arson),Cork West Garda Division,2005
+641.0,Cork,Criminal damage (not arson),Cork West Garda Division,2006
+557.0,Cork,Criminal damage (not arson),Cork West Garda Division,2007
+596.0,Cork,Criminal damage (not arson),Cork West Garda Division,2008
+518.0,Cork,Criminal damage (not arson),Cork West Garda Division,2009
+434.0,Cork,Criminal damage (not arson),Cork West Garda Division,2010
+473.0,Cork,Criminal damage (not arson),Cork West Garda Division,2011
+356.0,Cork,Criminal damage (not arson),Cork West Garda Division,2012
+345.0,Cork,Criminal damage (not arson),Cork West Garda Division,2013
+341.0,Cork,Criminal damage (not arson),Cork West Garda Division,2014
+276.0,Cork,Criminal damage (not arson),Cork West Garda Division,2015
+239.0,Cork,Criminal damage (not arson),Cork West Garda Division,2016
+256.0,Cork,Criminal damage (not arson),Cork West Garda Division,2017
+253.0,Cork,Criminal damage (not arson),Cork West Garda Division,2018
+468.0,Cork,Criminal damage (not arson),Cork West Garda Division,2019
+510.0,Kerry,Criminal damage (not arson),Kerry Garda Division,2003
+567.0,Kerry,Criminal damage (not arson),Kerry Garda Division,2004
+516.0,Kerry,Criminal damage (not arson),Kerry Garda Division,2005
+698.0,Kerry,Criminal damage (not arson),Kerry Garda Division,2006
+789.0,Kerry,Criminal damage (not arson),Kerry Garda Division,2007
+717.0,Kerry,Criminal damage (not arson),Kerry Garda Division,2008
+664.0,Kerry,Criminal damage (not arson),Kerry Garda Division,2009
+583.0,Kerry,Criminal damage (not arson),Kerry Garda Division,2010
+519.0,Kerry,Criminal damage (not arson),Kerry Garda Division,2011
+439.0,Kerry,Criminal damage (not arson),Kerry Garda Division,2012
+399.0,Kerry,Criminal damage (not arson),Kerry Garda Division,2013
+345.0,Kerry,Criminal damage (not arson),Kerry Garda Division,2014
+371.0,Kerry,Criminal damage (not arson),Kerry Garda Division,2015
+314.0,Kerry,Criminal damage (not arson),Kerry Garda Division,2016
+318.0,Kerry,Criminal damage (not arson),Kerry Garda Division,2017
+359.0,Kerry,Criminal damage (not arson),Kerry Garda Division,2018
+626.0,Kerry,Criminal damage (not arson),Kerry Garda Division,2019
+2058.0,Limerick,Criminal damage (not arson),Limerick Garda Division,2003
+1989.0,Limerick,Criminal damage (not arson),Limerick Garda Division,2004
+2613.0,Limerick,Criminal damage (not arson),Limerick Garda Division,2005
+2855.0,Limerick,Criminal damage (not arson),Limerick Garda Division,2006
+2779.0,Limerick,Criminal damage (not arson),Limerick Garda Division,2007
+2653.0,Limerick,Criminal damage (not arson),Limerick Garda Division,2008
+2404.0,Limerick,Criminal damage (not arson),Limerick Garda Division,2009
+2271.0,Limerick,Criminal damage (not arson),Limerick Garda Division,2010
+2145.0,Limerick,Criminal damage (not arson),Limerick Garda Division,2011
+1894.0,Limerick,Criminal damage (not arson),Limerick Garda Division,2012
+1690.0,Limerick,Criminal damage (not arson),Limerick Garda Division,2013
+1394.0,Limerick,Criminal damage (not arson),Limerick Garda Division,2014
+1532.0,Limerick,Criminal damage (not arson),Limerick Garda Division,2015
+1104.0,Limerick,Criminal damage (not arson),Limerick Garda Division,2016
+1203.0,Limerick,Criminal damage (not arson),Limerick Garda Division,2017
+1209.0,Limerick,Criminal damage (not arson),Limerick Garda Division,2018
+2056.0,Limerick,Criminal damage (not arson),Limerick Garda Division,2019
+553.0,Meath,Criminal damage (not arson),Meath  Garda Division,2003
+699.0,Meath,Criminal damage (not arson),Meath  Garda Division,2004
+803.0,Meath,Criminal damage (not arson),Meath  Garda Division,2005
+995.0,Meath,Criminal damage (not arson),Meath  Garda Division,2006
+930.0,Meath,Criminal damage (not arson),Meath  Garda Division,2007
+1006.0,Meath,Criminal damage (not arson),Meath  Garda Division,2008
+1022.0,Meath,Criminal damage (not arson),Meath  Garda Division,2009
+975.0,Meath,Criminal damage (not arson),Meath  Garda Division,2010
+826.0,Meath,Criminal damage (not arson),Meath  Garda Division,2011
+759.0,Meath,Criminal damage (not arson),Meath  Garda Division,2012
+640.0,Meath,Criminal damage (not arson),Meath  Garda Division,2013
+681.0,Meath,Criminal damage (not arson),Meath  Garda Division,2014
+539.0,Meath,Criminal damage (not arson),Meath  Garda Division,2015
+523.0,Meath,Criminal damage (not arson),Meath  Garda Division,2016
+613.0,Meath,Criminal damage (not arson),Meath  Garda Division,2017
+587.0,Meath,Criminal damage (not arson),Meath  Garda Division,2018
+1039.0,Meath,Criminal damage (not arson),Meath  Garda Division,2019
+952.0,Wicklow,Criminal damage (not arson),Wicklow  Garda Division,2003
+1059.0,Wicklow,Criminal damage (not arson),Wicklow  Garda Division,2004
+1217.0,Wicklow,Criminal damage (not arson),Wicklow  Garda Division,2005
+1183.0,Wicklow,Criminal damage (not arson),Wicklow  Garda Division,2006
+1137.0,Wicklow,Criminal damage (not arson),Wicklow  Garda Division,2007
+1283.0,Wicklow,Criminal damage (not arson),Wicklow  Garda Division,2008
+1259.0,Wicklow,Criminal damage (not arson),Wicklow  Garda Division,2009
+1224.0,Wicklow,Criminal damage (not arson),Wicklow  Garda Division,2010
+1179.0,Wicklow,Criminal damage (not arson),Wicklow  Garda Division,2011
+903.0,Wicklow,Criminal damage (not arson),Wicklow  Garda Division,2012
+907.0,Wicklow,Criminal damage (not arson),Wicklow  Garda Division,2013
+805.0,Wicklow,Criminal damage (not arson),Wicklow  Garda Division,2014
+645.0,Wicklow,Criminal damage (not arson),Wicklow  Garda Division,2015
+517.0,Wicklow,Criminal damage (not arson),Wicklow  Garda Division,2016
+654.0,Wicklow,Criminal damage (not arson),Wicklow  Garda Division,2017
+508.0,Wicklow,Criminal damage (not arson),Wicklow  Garda Division,2018
+894.0,Wicklow,Criminal damage (not arson),Wicklow  Garda Division,2019
+596.0,Westmeath,Criminal damage (not arson),Westmeath  Garda Division,2003
+663.0,Westmeath,Criminal damage (not arson),Westmeath  Garda Division,2004
+742.0,Westmeath,Criminal damage (not arson),Westmeath  Garda Division,2005
+735.0,Westmeath,Criminal damage (not arson),Westmeath  Garda Division,2006
+933.0,Westmeath,Criminal damage (not arson),Westmeath  Garda Division,2007
+771.0,Westmeath,Criminal damage (not arson),Westmeath  Garda Division,2008
+751.0,Westmeath,Criminal damage (not arson),Westmeath  Garda Division,2009
+707.0,Westmeath,Criminal damage (not arson),Westmeath  Garda Division,2010
+582.0,Westmeath,Criminal damage (not arson),Westmeath  Garda Division,2011
+587.0,Westmeath,Criminal damage (not arson),Westmeath  Garda Division,2012
+506.0,Westmeath,Criminal damage (not arson),Westmeath  Garda Division,2013
+515.0,Westmeath,Criminal damage (not arson),Westmeath  Garda Division,2014
+438.0,Westmeath,Criminal damage (not arson),Westmeath  Garda Division,2015
+377.0,Westmeath,Criminal damage (not arson),Westmeath  Garda Division,2016
+390.0,Westmeath,Criminal damage (not arson),Westmeath  Garda Division,2017
+286.0,Westmeath,Criminal damage (not arson),Westmeath  Garda Division,2018
+514.0,Westmeath,Criminal damage (not arson),Westmeath  Garda Division,2019
+1037.0,Kildare,Criminal damage (not arson),Kildare  Garda Division,2003
+1083.0,Kildare,Criminal damage (not arson),Kildare  Garda Division,2004
+1135.0,Kildare,Criminal damage (not arson),Kildare  Garda Division,2005
+1394.0,Kildare,Criminal damage (not arson),Kildare  Garda Division,2006
+1473.0,Kildare,Criminal damage (not arson),Kildare  Garda Division,2007
+1532.0,Kildare,Criminal damage (not arson),Kildare  Garda Division,2008
+1348.0,Kildare,Criminal damage (not arson),Kildare  Garda Division,2009
+1310.0,Kildare,Criminal damage (not arson),Kildare  Garda Division,2010
+1279.0,Kildare,Criminal damage (not arson),Kildare  Garda Division,2011
+1132.0,Kildare,Criminal damage (not arson),Kildare  Garda Division,2012
+962.0,Kildare,Criminal damage (not arson),Kildare  Garda Division,2013
+907.0,Kildare,Criminal damage (not arson),Kildare  Garda Division,2014
+767.0,Kildare,Criminal damage (not arson),Kildare  Garda Division,2015
+620.0,Kildare,Criminal damage (not arson),Kildare  Garda Division,2016
+744.0,Kildare,Criminal damage (not arson),Kildare  Garda Division,2017
+631.0,Kildare,Criminal damage (not arson),Kildare  Garda Division,2018
+1095.0,Kildare,Criminal damage (not arson),Kildare  Garda Division,2019
+745.0,Tipperary,Criminal damage (not arson),Tipperary Garda Division,2003
+758.0,Tipperary,Criminal damage (not arson),Tipperary Garda Division,2004
+801.0,Tipperary,Criminal damage (not arson),Tipperary Garda Division,2005
+991.0,Tipperary,Criminal damage (not arson),Tipperary Garda Division,2006
+1019.0,Tipperary,Criminal damage (not arson),Tipperary Garda Division,2007
+895.0,Tipperary,Criminal damage (not arson),Tipperary Garda Division,2008
+766.0,Tipperary,Criminal damage (not arson),Tipperary Garda Division,2009
+739.0,Tipperary,Criminal damage (not arson),Tipperary Garda Division,2010
+694.0,Tipperary,Criminal damage (not arson),Tipperary Garda Division,2011
+615.0,Tipperary,Criminal damage (not arson),Tipperary Garda Division,2012
+573.0,Tipperary,Criminal damage (not arson),Tipperary Garda Division,2013
+492.0,Tipperary,Criminal damage (not arson),Tipperary Garda Division,2014
+549.0,Tipperary,Criminal damage (not arson),Tipperary Garda Division,2015
+416.0,Tipperary,Criminal damage (not arson),Tipperary Garda Division,2016
+446.0,Tipperary,Criminal damage (not arson),Tipperary Garda Division,2017
+451.0,Tipperary,Criminal damage (not arson),Tipperary Garda Division,2018
+795.0,Tipperary,Criminal damage (not arson),Tipperary Garda Division,2019
+589.0,Wexford,Criminal damage (not arson),Wexford  Garda Division,2003
+647.0,Wexford,Criminal damage (not arson),Wexford  Garda Division,2004
+670.0,Wexford,Criminal damage (not arson),Wexford  Garda Division,2005
+952.0,Wexford,Criminal damage (not arson),Wexford  Garda Division,2006
+916.0,Wexford,Criminal damage (not arson),Wexford  Garda Division,2007
+980.0,Wexford,Criminal damage (not arson),Wexford  Garda Division,2008
+1009.0,Wexford,Criminal damage (not arson),Wexford  Garda Division,2009
+890.0,Wexford,Criminal damage (not arson),Wexford  Garda Division,2010
+894.0,Wexford,Criminal damage (not arson),Wexford  Garda Division,2011
+901.0,Wexford,Criminal damage (not arson),Wexford  Garda Division,2012
+781.0,Wexford,Criminal damage (not arson),Wexford  Garda Division,2013
+712.0,Wexford,Criminal damage (not arson),Wexford  Garda Division,2014
+767.0,Wexford,Criminal damage (not arson),Wexford  Garda Division,2015
+648.0,Wexford,Criminal damage (not arson),Wexford  Garda Division,2016
+654.0,Wexford,Criminal damage (not arson),Wexford  Garda Division,2017
+566.0,Wexford,Criminal damage (not arson),Wexford  Garda Division,2018
+982.0,Wexford,Criminal damage (not arson),Wexford  Garda Division,2019
+755.0,Waterford,Criminal damage (not arson),Waterford  Garda Division,2003
+749.0,Waterford,Criminal damage (not arson),Waterford  Garda Division,2004
+949.0,Waterford,Criminal damage (not arson),Waterford  Garda Division,2005
+1336.0,Waterford,Criminal damage (not arson),Waterford  Garda Division,2006
+1302.0,Waterford,Criminal damage (not arson),Waterford  Garda Division,2007
+1250.0,Waterford,Criminal damage (not arson),Waterford  Garda Division,2008
+1173.0,Waterford,Criminal damage (not arson),Waterford  Garda Division,2009
+1214.0,Waterford,Criminal damage (not arson),Waterford  Garda Division,2010
+983.0,Waterford,Criminal damage (not arson),Waterford  Garda Division,2011
+941.0,Waterford,Criminal damage (not arson),Waterford  Garda Division,2012
+867.0,Waterford,Criminal damage (not arson),Waterford  Garda Division,2013
+678.0,Waterford,Criminal damage (not arson),Waterford  Garda Division,2014
+738.0,Waterford,Criminal damage (not arson),Waterford  Garda Division,2015
+648.0,Waterford,Criminal damage (not arson),Waterford  Garda Division,2016
+672.0,Waterford,Criminal damage (not arson),Waterford  Garda Division,2017
+632.0,Waterford,Criminal damage (not arson),Waterford  Garda Division,2018
+1056.0,Waterford,Criminal damage (not arson),Waterford  Garda Division,2019
+13557.0,Dublin,Criminal damage (not arson),Dublin Region,2003
+16092.0,Dublin,Criminal damage (not arson),Dublin Region,2004
+16299.0,Dublin,Criminal damage (not arson),Dublin Region,2005
+16762.0,Dublin,Criminal damage (not arson),Dublin Region,2006
+15414.0,Dublin,Criminal damage (not arson),Dublin Region,2007
+15932.0,Dublin,Criminal damage (not arson),Dublin Region,2008
+15470.0,Dublin,Criminal damage (not arson),Dublin Region,2009
+14374.0,Dublin,Criminal damage (not arson),Dublin Region,2010
+12981.0,Dublin,Criminal damage (not arson),Dublin Region,2011
+12346.0,Dublin,Criminal damage (not arson),Dublin Region,2012
+10746.0,Dublin,Criminal damage (not arson),Dublin Region,2013
+10795.0,Dublin,Criminal damage (not arson),Dublin Region,2014
+9958.0,Dublin,Criminal damage (not arson),Dublin Region,2015
+8423.0,Dublin,Criminal damage (not arson),Dublin Region,2016
+8469.0,Dublin,Criminal damage (not arson),Dublin Region,2017
+7853.0,Dublin,Criminal damage (not arson),Dublin Region,2018
+14306.0,Dublin,Criminal damage (not arson),Dublin Region,2019

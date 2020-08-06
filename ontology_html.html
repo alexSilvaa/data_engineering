@@ -1,0 +1,2236 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+ <link rel="stylesheet" href="resources/primer.css" media="screen" />    <link rel="stylesheet" href="resources/rec.css" media="screen" />    <link rel="stylesheet" href="resources/extra.css" media="screen" />    <link rel="stylesheet" href="resources/owl.css" media="screen" />    <title>Weather and Ecomony</title>
+
+
+<!-- SCHEMA.ORG METADATA -->
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"TechArticle","url":"http://webprotege.stanford.edu/projectOntology","image":"http://vowl.visualdataweb.org/webvowl/#iri=http://webprotege.stanford.edu/projectOntology","name":"Weather and Ecomony", "headline":"Combining weather, crime, homlessness, salary and housing prices yearly per county to discover correlations", "datePublished":"Mon Nov 18 15:06:13 GMT 2019", "author":[{"@type":"Person","name":"Caoimhe Mooney"},{"@type":"Person","name":"Alexandra Silva"},{"@type":"Person","name":"Caleb Teo"},{"@type":"Person","name":"Arne Philipeit"},{"@type":"Person","name":"Patrick Hughes"}]}</script>
+
+<script src="resources/jquery.js"></script> 
+<script src="resources/marked.min.js"></script> 
+    <script> 
+function loadHash() {
+  jQuery(".markdown").each(function(el){jQuery(this).after(marked(jQuery(this).text())).remove()});
+	var hash = location.hash;
+	if($(hash).offset()!=null){
+	  $('html, body').animate({scrollTop: $(hash).offset().top}, 0);
+}
+	loadTOC();
+}
+function loadTOC(){
+	//process toc dynamically
+	  var t='<h2>Table of contents</h2><ul>';i = 1;j=0;
+	  jQuery(".list").each(function(){
+		if(jQuery(this).is('h2')){
+			if(j>0){
+				t+='</ul>';
+				j=0;
+			}
+			t+= '<li>'+i+'. <a href=#'+ jQuery(this).attr('id')+'>'+ jQuery(this).ignore("span").text()+'</a></li>';
+			i++;
+		}
+		if(jQuery(this).is('h3')){
+			if(j==0){
+				t+='<ul>';
+			}
+			j++;
+			t+= '<li>'+(i-1)+'.'+j+'. '+'<a href=#'+ jQuery(this).attr('id')+'>'+ jQuery(this).ignore("span").text()+'</a></li>';
+		}
+	  });
+	  t+='</ul>';
+	  $("#toc").html(t); 
+}
+ $.fn.ignore = function(sel){
+        return this.clone().find(sel||">*").remove().end();
+ }; 
+   </script> 
+  </head> 
+
+<body>
+<div class="container">
+<div class="head">
+<div style="float:right">language <a href="index-en.html"><b>en</b></a> </div>
+<h1>Weather and Ecomony</h1>
+
+
+<dl>
+<dt>Authors:</dt>
+<dd>Caoimhe Mooney</dd><dd>Alexandra Silva</dd><dd>Caleb Teo</dd><dd>Arne Philipeit</dd><dd>Patrick Hughes</dd>
+
+<dt>Download serialization:</dt><dd><span><a href="ontology.json" target="_blank"><img src="https://img.shields.io/badge/Format-JSON_LD-blue.svg" alt="JSON-LD" /></a> </span><span><a href="ontology.xml" target="_blank"><img src="https://img.shields.io/badge/Format-RDF/XML-blue.svg" alt="RDF/XML" /></a> </span><span><a href="ontology.nt" target="_blank"><img src="https://img.shields.io/badge/Format-N_Triples-blue.svg" alt="N-Triples" /></a> </span><span><a href="ontology.ttl" target="_blank"><img src="https://img.shields.io/badge/Format-TTL-blue.svg" alt="TTL" /></a> </span></dd><dt>License: </dt><dd><a href="http://insertlicenseURIhere.org" target="_blank"><img src="https://img.shields.io/badge/License-license%20name%20goes%20here-blue.svg" alt="http://insertlicenseURIhere.org" /></a>
+</dd></dl>
+
+<a href="provenance/provenance-en.html" target="_blank">Provenance of this page</a><hr/>
+</div>
+<div class="status">
+<div>
+<span>Ontology Specification Draft</span>
+</div>
+</div>     <div id="abstract"><h2>Abstract</h2><span class="markdown">
+Combining weather, crime, homlessness, salary and housing prices yearly per county to discover correlations</span>
+</div>
+<div id="toc"></div> 
+
+<!--INTRODUCTION SECTION-->
+    <div id="introduction"><h2 id="intro" class="list">Introduction <span class="backlink"> back to <a href="#toc">ToC</a></span></h2>
+<span class="markdown">
+This is a place holder text for the introduction. The introduction should briefly describe the ontology, its motivation, state of the art and goals.</span>
+<div id="namespacedeclarations">
+<h3 id="ns" class="list">Namespace declarations</h3>
+<div id="ns" align="center">
+<table>
+<caption> <a href="#ns"> Table 1</a>: Namespaces used in the document </caption>
+<tbody>
+<tr><td><b>[Ontology NS Prefix]</b></td><td>&lt;http://webprotege.stanford.edu/projectOntology&gt;</td></tr>
+<tr><td><b>webprotege-stanford-edu</b></td><td>&lt;http://webprotege.stanford.edu&gt;</td></tr>
+<tr><td><b>owl</b></td><td>&lt;http://www.w3.org/2002/07/owl&gt;</td></tr>
+<tr><td><b>rdf</b></td><td>&lt;http://www.w3.org/1999/02/22-rdf-syntax-ns&gt;</td></tr>
+<tr><td><b>xsd</b></td><td>&lt;http://www.w3.org/2001/XMLSchema&gt;</td></tr>
+<tr><td><b>rdfs</b></td><td>&lt;http://www.w3.org/2000/01/rdf-schema&gt;</td></tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+  
+
+<!--OVERVIEW SECTION-->
+    <div id="overview"><h2 id="overv" class="list">Weather and Economy in Ireland: Overview <span class="backlink"> back to <a href="#toc">ToC</a></span></h2>
+<span class="markdown">
+This ontology has the following classes and properties.</span>
+<h4>Classes</h4>
+<ul class="hlist">
+   <li>
+      <a href="#Area"
+         title="http://webprotege.stanford.edu/projectOntology#Area">Area</a>
+   </li>
+   <li>
+      <a href="#AttemptedMurder"
+         title="http://webprotege.stanford.edu/projectOntology#AttemptedMurder">AttemptedMurder</a>
+   </li>
+   <li>
+      <a href="#Country"
+         title="http://webprotege.stanford.edu/projectOntology#Country">Country</a>
+   </li>
+   <li>
+      <a href="#County"
+         title="http://webprotege.stanford.edu/projectOntology#County">County</a>
+   </li>
+   <li>
+      <a href="#Crime"
+         title="http://webprotege.stanford.edu/projectOntology#Crime">Crime</a>
+   </li>
+   <li>
+      <a href="#Division"
+         title="http://webprotege.stanford.edu/projectOntology#Division">Division</a>
+   </li>
+   <li>
+      <a href="#Driving"
+         title="http://webprotege.stanford.edu/projectOntology#Driving">Driving</a>
+   </li>
+   <li>
+      <a href="#Drug"
+         title="http://webprotege.stanford.edu/projectOntology#Drug">Drug</a>
+   </li>
+   <li>
+      <a href="#Harm"
+         title="http://webprotege.stanford.edu/projectOntology#Harm">Harm</a>
+   </li>
+   <li>
+      <a href="#Homelessness"
+         title="http://webprotege.stanford.edu/projectOntology#Homelessness">Homelessness</a>
+   </li>
+   <li>
+      <a href="#HousingPrices"
+         title="http://webprotege.stanford.edu/projectOntology#HousingPrices">HousingPrices</a>
+   </li>
+   <li>
+      <a href="#Kidnapping"
+         title="http://webprotege.stanford.edu/projectOntology#Kidnapping">Kidnapping</a>
+   </li>
+   <li>
+      <a href="#MurderDeath"
+         title="http://webprotege.stanford.edu/projectOntology#MurderDeath">MurderDeath</a>
+   </li>
+   <li>
+      <a href="#OtherOffences"
+         title="http://webprotege.stanford.edu/projectOntology#OtherOffences">OtherOffences</a>
+   </li>
+   <li>
+      <a href="#PropertyDamages"
+         title="http://webprotege.stanford.edu/projectOntology#PropertyDamages">PropertyDamages</a>
+   </li>
+   <li>
+      <a href="#Salaries"
+         title="http://webprotege.stanford.edu/projectOntology#Salaries">Salaries</a>
+   </li>
+   <li>
+      <a href="#SexualOffences"
+         title="http://webprotege.stanford.edu/projectOntology#SexualOffences">SexualOffences</a>
+   </li>
+   <li>
+      <a href="#Stats"
+         title="http://webprotege.stanford.edu/projectOntology#Stats">Stats</a>
+   </li>
+   <li>
+      <a href="#Theft"
+         title="http://webprotege.stanford.edu/projectOntology#Theft">Theft</a>
+   </li>
+   <li>
+      <a href="#Transport"
+         title="http://webprotege.stanford.edu/projectOntology#Transport">Transport</a>
+   </li>
+   <li>
+      <a href="#Weapons"
+         title="http://webprotege.stanford.edu/projectOntology#Weapons">Weapons</a>
+   </li>
+   <li>
+      <a href="#Weather"
+         title="http://webprotege.stanford.edu/projectOntology#Weather">Weather</a>
+   </li>
+   <li>
+      <a href="#Year"
+         title="http://webprotege.stanford.edu/projectOntology#Year">Year</a>
+   </li>
+</ul><h4>Object Properties</h4><ul class="hlist">
+   <li>
+      <a href="#adjacentTo"
+         title="http://webprotege.stanford.edu/projectOntology#adjacentTo">adjacentTo</a>
+   </li>
+   <li>
+      <a href="#has"
+         title="http://webprotege.stanford.edu/projectOntology#has">
+         <span>has</span>
+      </a>
+   </li>
+   <li>
+      <a href="#inArea"
+         title="http://webprotege.stanford.edu/projectOntology#inArea">
+         <span>in area</span>
+      </a>
+   </li>
+   <li>
+      <a href="#inYear"
+         title="http://webprotege.stanford.edu/projectOntology#inYear">inYear</a>
+   </li>
+   <li>
+      <a href="#nextYear"
+         title="http://webprotege.stanford.edu/projectOntology#nextYear">nextYear</a>
+   </li>
+   <li>
+      <a href="#previousYear"
+         title="http://webprotege.stanford.edu/projectOntology#previousYear">previousYear</a>
+   </li>
+</ul><h4>Data Properties</h4><ul class="hlist">
+   <li>
+      <a href="#18to24"
+         title="http://webprotege.stanford.edu/projectOntology#18to24">
+         <span>18to24</span>
+      </a>
+   </li>
+   <li>
+      <a href="#25to44"
+         title="http://webprotege.stanford.edu/projectOntology#25to44">
+         <span>25to44</span>
+      </a>
+   </li>
+   <li>
+      <a href="#45to64"
+         title="http://webprotege.stanford.edu/projectOntology#45to64">
+         <span>45to64</span>
+      </a>
+   </li>
+   <li>
+      <a href="#65plus"
+         title="http://webprotege.stanford.edu/projectOntology#65plus">
+         <span>65plus</span>
+      </a>
+   </li>
+   <li>
+      <a href="#AmountOfDrugsConfiscated"
+         title="http://webprotege.stanford.edu/projectOntology#AmountOfDrugsConfiscated">
+         <span>amount of drugs confiscated</span>
+      </a>
+   </li>
+   <li>
+      <a href="#AverageAgeOfKidnapped"
+         title="http://webprotege.stanford.edu/projectOntology#AverageAgeOfKidnapped">
+         <span>average age of kidnapped</span>
+      </a>
+   </li>
+   <li>
+      <a href="#AverageCostOfDamages"
+         title="http://webprotege.stanford.edu/projectOntology#AverageCostOfDamages">
+         <span>average cost of damages</span>
+      </a>
+   </li>
+   <li>
+      <a href="#AverageGreatestRainfall"
+         title="http://webprotege.stanford.edu/projectOntology#AverageGreatestRainfall">
+         <span>average greatest rainfall</span>
+      </a>
+   </li>
+   <li>
+      <a href="#AverageValueStolen"
+         title="http://webprotege.stanford.edu/projectOntology#AverageValueStolen">
+         <span>average value stolen</span>
+      </a>
+   </li>
+   <li>
+      <a href="#CountyName"
+         title="http://webprotege.stanford.edu/projectOntology#CountyName">
+         <span>county name</span>
+      </a>
+   </li>
+   <li>
+      <a href="#CrimeName"
+         title="http://webprotege.stanford.edu/projectOntology#CrimeName">CrimeName</a>
+   </li>
+   <li>
+      <a href="#DamagesToPublicProperty"
+         title="http://webprotege.stanford.edu/projectOntology#DamagesToPublicProperty">
+         <span>damages to public property</span>
+      </a>
+   </li>
+   <li>
+      <a href="#DivisionName"
+         title="http://webprotege.stanford.edu/projectOntology#DivisionName">
+         <span>division name</span>
+      </a>
+   </li>
+   <li>
+      <a href="#HousingPricesType"
+         title="http://webprotege.stanford.edu/projectOntology#HousingPricesType">
+         <span>housing prices type</span>
+      </a>
+   </li>
+   <li>
+      <a href="#MeanPrice"
+         title="http://webprotege.stanford.edu/projectOntology#MeanPrice">MeanPrice</a>
+   </li>
+   <li>
+      <a href="#ModeGenderVictim"
+         title="http://webprotege.stanford.edu/projectOntology#ModeGenderVictim">
+         <span>mode gender victim</span>
+      </a>
+   </li>
+   <li>
+      <a href="#ModeReportedWeapon"
+         title="http://webprotege.stanford.edu/projectOntology#ModeReportedWeapon">
+         <span>mode reported weapon</span>
+      </a>
+   </li>
+   <li>
+      <a href="#ModeVehiclesReported"
+         title="http://webprotege.stanford.edu/projectOntology#ModeVehiclesReported">
+         <span>mode vehicles reported</span>
+      </a>
+   </li>
+   <li>
+      <a href="#NumFemales"
+         title="http://webprotege.stanford.edu/projectOntology#NumFemales">
+         <span>num females</span>
+      </a>
+   </li>
+   <li>
+      <a href="#NumMales"
+         title="http://webprotege.stanford.edu/projectOntology#NumMales">
+         <span>num males</span>
+      </a>
+   </li>
+   <li>
+      <a href="#NumOfCaseRelatingToDomesticHarm"
+         title="http://webprotege.stanford.edu/projectOntology#NumOfCaseRelatingToDomesticHarm">
+         <span>num of case relating to domestic harm</span>
+      </a>
+   </li>
+   <li>
+      <a href="#NumOfRainDays"
+         title="http://webprotege.stanford.edu/projectOntology#NumOfRainDays">
+         <span>num of rain days</span>
+      </a>
+   </li>
+   <li>
+      <a href="#NumOfReportedArrests"
+         title="http://webprotege.stanford.edu/projectOntology#NumOfReportedArrests">
+         <span>num of reported arrests</span>
+      </a>
+   </li>
+   <li>
+      <a href="#NumOfWetDays"
+         title="http://webprotege.stanford.edu/projectOntology#NumOfWetDays">
+         <span>num of wet days</span>
+      </a>
+   </li>
+   <li>
+      <a href="#NumoOfAssaultsRelatingToDrugs"
+         title="http://webprotege.stanford.edu/projectOntology#NumoOfAssaultsRelatingToDrugs">
+         <span>numo of assaults relating to drugs</span>
+      </a>
+   </li>
+   <li>
+      <a href="#NumOfCrime"
+         title="http://webprotege.stanford.edu/projectOntology#NumOfCrime">NumOfCrime</a>
+   </li>
+   <li>
+      <a href="#NumOfHomeless"
+         title="http://webprotege.stanford.edu/projectOntology#NumOfHomeless">NumOfHomeless</a>
+   </li>
+   <li>
+      <a href="#Rainfall"
+         title="http://webprotege.stanford.edu/projectOntology#Rainfall">
+         <span>rainfall</span>
+      </a>
+   </li>
+   <li>
+      <a href="#SalaryValue"
+         title="http://webprotege.stanford.edu/projectOntology#SalaryValue">
+         <span>salary value</span>
+      </a>
+   </li>
+   <li>
+      <a href="#SalesValue"
+         title="http://webprotege.stanford.edu/projectOntology#SalesValue">SalesValue</a>
+   </li>
+   <li>
+      <a href="#SalesVolume"
+         title="http://webprotege.stanford.edu/projectOntology#SalesVolume">SalesVolume</a>
+   </li>
+   <li>
+      <a href="#YearValue"
+         title="http://webprotege.stanford.edu/projectOntology#YearValue">
+         <span>year value</span>
+      </a>
+   </li>
+</ul>
+</div>
+  
+
+<!--DESCRIPTION SECTION-->
+    <div id="description"><h2 id="desc" class="list">Weather and Economy in Ireland: Description <span class="backlink"> back to <a href="#toc">ToC</a></span></h2>
+<span class="markdown">
+This is a placeholder text for the description of your ontology. The description should include an explanation and a diagram explaining how the classes are related, examples of usage, etc.</span>
+
+</div>
+   
+
+<!--CROSSREF SECTION-->
+   <div id="crossref"><h2 id="crossreference" class="list">Cross reference for Weather and Economy in Ireland classes, properties and dataproperties <span class="backlink"> back to <a href="#toc">ToC</a></span></h2>
+This section provides details for each class and property defined by Weather and Economy in Ireland.
+<div id="classes">
+   <h3 id="classes-headline" class="list">Classes</h3>
+   <ul class="hlist">
+      <li>
+         <a href="#Area"
+            title="http://webprotege.stanford.edu/projectOntology#Area">Area</a>
+      </li>
+      <li>
+         <a href="#AttemptedMurder"
+            title="http://webprotege.stanford.edu/projectOntology#AttemptedMurder">AttemptedMurder</a>
+      </li>
+      <li>
+         <a href="#Country"
+            title="http://webprotege.stanford.edu/projectOntology#Country">Country</a>
+      </li>
+      <li>
+         <a href="#County"
+            title="http://webprotege.stanford.edu/projectOntology#County">County</a>
+      </li>
+      <li>
+         <a href="#Crime"
+            title="http://webprotege.stanford.edu/projectOntology#Crime">Crime</a>
+      </li>
+      <li>
+         <a href="#Division"
+            title="http://webprotege.stanford.edu/projectOntology#Division">Division</a>
+      </li>
+      <li>
+         <a href="#Driving"
+            title="http://webprotege.stanford.edu/projectOntology#Driving">Driving</a>
+      </li>
+      <li>
+         <a href="#Drug"
+            title="http://webprotege.stanford.edu/projectOntology#Drug">Drug</a>
+      </li>
+      <li>
+         <a href="#Harm"
+            title="http://webprotege.stanford.edu/projectOntology#Harm">Harm</a>
+      </li>
+      <li>
+         <a href="#Homelessness"
+            title="http://webprotege.stanford.edu/projectOntology#Homelessness">Homelessness</a>
+      </li>
+      <li>
+         <a href="#HousingPrices"
+            title="http://webprotege.stanford.edu/projectOntology#HousingPrices">HousingPrices</a>
+      </li>
+      <li>
+         <a href="#Kidnapping"
+            title="http://webprotege.stanford.edu/projectOntology#Kidnapping">Kidnapping</a>
+      </li>
+      <li>
+         <a href="#MurderDeath"
+            title="http://webprotege.stanford.edu/projectOntology#MurderDeath">MurderDeath</a>
+      </li>
+      <li>
+         <a href="#OtherOffences"
+            title="http://webprotege.stanford.edu/projectOntology#OtherOffences">OtherOffences</a>
+      </li>
+      <li>
+         <a href="#PropertyDamages"
+            title="http://webprotege.stanford.edu/projectOntology#PropertyDamages">PropertyDamages</a>
+      </li>
+      <li>
+         <a href="#Salaries"
+            title="http://webprotege.stanford.edu/projectOntology#Salaries">Salaries</a>
+      </li>
+      <li>
+         <a href="#SexualOffences"
+            title="http://webprotege.stanford.edu/projectOntology#SexualOffences">SexualOffences</a>
+      </li>
+      <li>
+         <a href="#Stats"
+            title="http://webprotege.stanford.edu/projectOntology#Stats">Stats</a>
+      </li>
+      <li>
+         <a href="#Theft"
+            title="http://webprotege.stanford.edu/projectOntology#Theft">Theft</a>
+      </li>
+      <li>
+         <a href="#Transport"
+            title="http://webprotege.stanford.edu/projectOntology#Transport">Transport</a>
+      </li>
+      <li>
+         <a href="#Weapons"
+            title="http://webprotege.stanford.edu/projectOntology#Weapons">Weapons</a>
+      </li>
+      <li>
+         <a href="#Weather"
+            title="http://webprotege.stanford.edu/projectOntology#Weather">Weather</a>
+      </li>
+      <li>
+         <a href="#Year"
+            title="http://webprotege.stanford.edu/projectOntology#Year">Year</a>
+      </li>
+   </ul>
+   <div class="entity" id="Area">
+      <h3>Area<sup class="type-c" title="class">c</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#classes">Class ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#Area</p>
+      <dl class="description">
+         <dt>has sub-classes</dt>
+         <dd>
+            <a href="#Country"
+               title="http://webprotege.stanford.edu/projectOntology#Country">Country</a>
+            <sup class="type-c" title="class">c</sup>, <a href="#County"
+               title="http://webprotege.stanford.edu/projectOntology#County">County</a>
+            <sup class="type-c" title="class">c</sup>, <a href="#Division"
+               title="http://webprotege.stanford.edu/projectOntology#Division">Division</a>
+            <sup class="type-c" title="class">c</sup>
+         </dd>
+         <dt>is in domain of</dt>
+         <dd>
+            <a href="#has"
+               title="http://webprotege.stanford.edu/projectOntology#has">has</a>
+            <sup class="type-op" title="object property">op</sup>
+         </dd>
+         <dt>is in range of</dt>
+         <dd>
+            <a href="#has"
+               title="http://webprotege.stanford.edu/projectOntology#has">has</a>
+            <sup class="type-op" title="object property">op</sup>, <a href="#inArea"
+               title="http://webprotege.stanford.edu/projectOntology#inArea">in area</a>
+            <sup class="type-op" title="object property">op</sup>
+         </dd>
+      </dl>
+   </div>
+   <div class="entity" id="AttemptedMurder">
+      <h3>AttemptedMurder<sup class="type-c" title="class">c</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#classes">Class ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#AttemptedMurder</p>
+      <dl class="description">
+         <dt>has super-classes</dt>
+         <dd>
+            <a href="#Crime"
+               title="http://webprotege.stanford.edu/projectOntology#Crime">Crime</a>
+            <sup class="type-c" title="class">c</sup>
+         </dd>
+         <dt>is in domain of</dt>
+         <dd>
+            <a href="#NumoOfAssaultsRelatingToDrugs"
+               title="http://webprotege.stanford.edu/projectOntology#NumoOfAssaultsRelatingToDrugs">numo of assaults relating to drugs</a>
+            <sup class="type-dp" title="data property">dp</sup>
+         </dd>
+      </dl>
+   </div>
+   <div class="entity" id="Country">
+      <h3>Country<sup class="type-c" title="class">c</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#classes">Class ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#Country</p>
+      <dl class="description">
+         <dt>has super-classes</dt>
+         <dd>
+            <a href="#Area"
+               title="http://webprotege.stanford.edu/projectOntology#Area">Area</a>
+            <sup class="type-c" title="class">c</sup>
+         </dd>
+      </dl>
+   </div>
+   <div class="entity" id="County">
+      <h3>County<sup class="type-c" title="class">c</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#classes">Class ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#County</p>
+      <dl class="description">
+         <dt>has super-classes</dt>
+         <dd>
+            <a href="#Area"
+               title="http://webprotege.stanford.edu/projectOntology#Area">Area</a>
+            <sup class="type-c" title="class">c</sup>
+         </dd>
+         <dt>is in domain of</dt>
+         <dd>
+            <a href="#adjacentTo"
+               title="http://webprotege.stanford.edu/projectOntology#adjacentTo">adjacentTo</a>
+            <sup class="type-op" title="object property">op</sup>, <a href="#CountyName"
+               title="http://webprotege.stanford.edu/projectOntology#CountyName">county name</a>
+            <sup class="type-dp" title="data property">dp</sup>
+         </dd>
+         <dt>is in range of</dt>
+         <dd>
+            <a href="#adjacentTo"
+               title="http://webprotege.stanford.edu/projectOntology#adjacentTo">adjacentTo</a>
+            <sup class="type-op" title="object property">op</sup>
+         </dd>
+      </dl>
+   </div>
+   <div class="entity" id="Crime">
+      <h3>Crime<sup class="type-c" title="class">c</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#classes">Class ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#Crime</p>
+      <dl class="description">
+         <dt>has super-classes</dt>
+         <dd>
+            <a href="#Stats"
+               title="http://webprotege.stanford.edu/projectOntology#Stats">Stats</a>
+            <sup class="type-c" title="class">c</sup>
+         </dd>
+         <dt>has sub-classes</dt>
+         <dd>
+            <a href="#AttemptedMurder"
+               title="http://webprotege.stanford.edu/projectOntology#AttemptedMurder">AttemptedMurder</a>
+            <sup class="type-c" title="class">c</sup>, <a href="#Driving"
+               title="http://webprotege.stanford.edu/projectOntology#Driving">Driving</a>
+            <sup class="type-c" title="class">c</sup>, <a href="#Drug"
+               title="http://webprotege.stanford.edu/projectOntology#Drug">Drug</a>
+            <sup class="type-c" title="class">c</sup>, <a href="#Harm"
+               title="http://webprotege.stanford.edu/projectOntology#Harm">Harm</a>
+            <sup class="type-c" title="class">c</sup>, <a href="#Kidnapping"
+               title="http://webprotege.stanford.edu/projectOntology#Kidnapping">Kidnapping</a>
+            <sup class="type-c" title="class">c</sup>, <a href="#MurderDeath"
+               title="http://webprotege.stanford.edu/projectOntology#MurderDeath">MurderDeath</a>
+            <sup class="type-c" title="class">c</sup>, <a href="#OtherOffences"
+               title="http://webprotege.stanford.edu/projectOntology#OtherOffences">OtherOffences</a>
+            <sup class="type-c" title="class">c</sup>, <a href="#PropertyDamages"
+               title="http://webprotege.stanford.edu/projectOntology#PropertyDamages">PropertyDamages</a>
+            <sup class="type-c" title="class">c</sup>, <a href="#SexualOffences"
+               title="http://webprotege.stanford.edu/projectOntology#SexualOffences">SexualOffences</a>
+            <sup class="type-c" title="class">c</sup>, <a href="#Theft"
+               title="http://webprotege.stanford.edu/projectOntology#Theft">Theft</a>
+            <sup class="type-c" title="class">c</sup>, <a href="#Transport"
+               title="http://webprotege.stanford.edu/projectOntology#Transport">Transport</a>
+            <sup class="type-c" title="class">c</sup>, <a href="#Weapons"
+               title="http://webprotege.stanford.edu/projectOntology#Weapons">Weapons</a>
+            <sup class="type-c" title="class">c</sup>
+         </dd>
+         <dt>is in domain of</dt>
+         <dd>
+            <a href="#CrimeName"
+               title="http://webprotege.stanford.edu/projectOntology#CrimeName">CrimeName</a>
+            <sup class="type-dp" title="data property">dp</sup>, <a href="#NumOfCrime"
+               title="http://webprotege.stanford.edu/projectOntology#NumOfCrime">NumOfCrime</a>
+            <sup class="type-dp" title="data property">dp</sup>
+         </dd>
+      </dl>
+   </div>
+   <div class="entity" id="Division">
+      <h3>Division<sup class="type-c" title="class">c</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#classes">Class ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#Division</p>
+      <dl class="description">
+         <dt>has super-classes</dt>
+         <dd>
+            <a href="#Area"
+               title="http://webprotege.stanford.edu/projectOntology#Area">Area</a>
+            <sup class="type-c" title="class">c</sup>
+         </dd>
+         <dt>is in domain of</dt>
+         <dd>
+            <a href="#DivisionName"
+               title="http://webprotege.stanford.edu/projectOntology#DivisionName">division name</a>
+            <sup class="type-dp" title="data property">dp</sup>
+         </dd>
+      </dl>
+   </div>
+   <div class="entity" id="Driving">
+      <h3>Driving<sup class="type-c" title="class">c</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#classes">Class ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#Driving</p>
+      <dl class="description">
+         <dt>has super-classes</dt>
+         <dd>
+            <a href="#Crime"
+               title="http://webprotege.stanford.edu/projectOntology#Crime">Crime</a>
+            <sup class="type-c" title="class">c</sup>
+         </dd>
+         <dt>is in domain of</dt>
+         <dd>
+            <a href="#DamagesToPublicProperty"
+               title="http://webprotege.stanford.edu/projectOntology#DamagesToPublicProperty">damages to public property</a>
+            <sup class="type-dp" title="data property">dp</sup>
+         </dd>
+      </dl>
+   </div>
+   <div class="entity" id="Drug">
+      <h3>Drug<sup class="type-c" title="class">c</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#classes">Class ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#Drug</p>
+      <dl class="description">
+         <dt>has super-classes</dt>
+         <dd>
+            <a href="#Crime"
+               title="http://webprotege.stanford.edu/projectOntology#Crime">Crime</a>
+            <sup class="type-c" title="class">c</sup>
+         </dd>
+         <dt>is in domain of</dt>
+         <dd>
+            <a href="#AmountOfDrugsConfiscated"
+               title="http://webprotege.stanford.edu/projectOntology#AmountOfDrugsConfiscated">amount of drugs confiscated</a>
+            <sup class="type-dp" title="data property">dp</sup>
+         </dd>
+      </dl>
+   </div>
+   <div class="entity" id="Harm">
+      <h3>Harm<sup class="type-c" title="class">c</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#classes">Class ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#Harm</p>
+      <dl class="description">
+         <dt>has super-classes</dt>
+         <dd>
+            <a href="#Crime"
+               title="http://webprotege.stanford.edu/projectOntology#Crime">Crime</a>
+            <sup class="type-c" title="class">c</sup>
+         </dd>
+         <dt>is in domain of</dt>
+         <dd>
+            <a href="#ModeReportedWeapon"
+               title="http://webprotege.stanford.edu/projectOntology#ModeReportedWeapon">mode reported weapon</a>
+            <sup class="type-dp" title="data property">dp</sup>
+         </dd>
+      </dl>
+   </div>
+   <div class="entity" id="Homelessness">
+      <h3>Homelessness<sup class="type-c" title="class">c</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#classes">Class ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#Homelessness</p>
+      <dl class="description">
+         <dt>has super-classes</dt>
+         <dd>
+            <a href="#Stats"
+               title="http://webprotege.stanford.edu/projectOntology#Stats">Stats</a>
+            <sup class="type-c" title="class">c</sup>
+         </dd>
+         <dt>is in domain of</dt>
+         <dd>
+            <a href="#18to24"
+               title="http://webprotege.stanford.edu/projectOntology#18to24">18to24</a>
+            <sup class="type-dp" title="data property">dp</sup>, <a href="#25to44"
+               title="http://webprotege.stanford.edu/projectOntology#25to44">25to44</a>
+            <sup class="type-dp" title="data property">dp</sup>, <a href="#45to64"
+               title="http://webprotege.stanford.edu/projectOntology#45to64">45to64</a>
+            <sup class="type-dp" title="data property">dp</sup>, <a href="#65plus"
+               title="http://webprotege.stanford.edu/projectOntology#65plus">65plus</a>
+            <sup class="type-dp" title="data property">dp</sup>, <a href="#NumOfHomeless"
+               title="http://webprotege.stanford.edu/projectOntology#NumOfHomeless">NumOfHomeless</a>
+            <sup class="type-dp" title="data property">dp</sup>, <a href="#NumFemales"
+               title="http://webprotege.stanford.edu/projectOntology#NumFemales">num females</a>
+            <sup class="type-dp" title="data property">dp</sup>, <a href="#NumMales"
+               title="http://webprotege.stanford.edu/projectOntology#NumMales">num males</a>
+            <sup class="type-dp" title="data property">dp</sup>
+         </dd>
+      </dl>
+   </div>
+   <div class="entity" id="HousingPrices">
+      <h3>HousingPrices<sup class="type-c" title="class">c</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#classes">Class ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#HousingPrices</p>
+      <dl class="description">
+         <dt>has super-classes</dt>
+         <dd>
+            <a href="#Stats"
+               title="http://webprotege.stanford.edu/projectOntology#Stats">Stats</a>
+            <sup class="type-c" title="class">c</sup>
+         </dd>
+         <dt>is in domain of</dt>
+         <dd>
+            <a href="#MeanPrice"
+               title="http://webprotege.stanford.edu/projectOntology#MeanPrice">MeanPrice</a>
+            <sup class="type-dp" title="data property">dp</sup>, <a href="#SalesValue"
+               title="http://webprotege.stanford.edu/projectOntology#SalesValue">SalesValue</a>
+            <sup class="type-dp" title="data property">dp</sup>, <a href="#SalesVolume"
+               title="http://webprotege.stanford.edu/projectOntology#SalesVolume">SalesVolume</a>
+            <sup class="type-dp" title="data property">dp</sup>, <a href="#HousingPricesType"
+               title="http://webprotege.stanford.edu/projectOntology#HousingPricesType">housing prices type</a>
+            <sup class="type-dp" title="data property">dp</sup>
+         </dd>
+      </dl>
+   </div>
+   <div class="entity" id="Kidnapping">
+      <h3>Kidnapping<sup class="type-c" title="class">c</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#classes">Class ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#Kidnapping</p>
+      <dl class="description">
+         <dt>has super-classes</dt>
+         <dd>
+            <a href="#Crime"
+               title="http://webprotege.stanford.edu/projectOntology#Crime">Crime</a>
+            <sup class="type-c" title="class">c</sup>
+         </dd>
+         <dt>is in domain of</dt>
+         <dd>
+            <a href="#AverageAgeOfKidnapped"
+               title="http://webprotege.stanford.edu/projectOntology#AverageAgeOfKidnapped">average age of kidnapped</a>
+            <sup class="type-dp" title="data property">dp</sup>
+         </dd>
+      </dl>
+   </div>
+   <div class="entity" id="MurderDeath">
+      <h3>MurderDeath<sup class="type-c" title="class">c</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#classes">Class ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#MurderDeath</p>
+      <dl class="description">
+         <dt>has super-classes</dt>
+         <dd>
+            <a href="#Crime"
+               title="http://webprotege.stanford.edu/projectOntology#Crime">Crime</a>
+            <sup class="type-c" title="class">c</sup>
+         </dd>
+         <dt>is in domain of</dt>
+         <dd>
+            <a href="#ModeGenderVictim"
+               title="http://webprotege.stanford.edu/projectOntology#ModeGenderVictim">mode gender victim</a>
+            <sup class="type-dp" title="data property">dp</sup>
+         </dd>
+      </dl>
+   </div>
+   <div class="entity" id="OtherOffences">
+      <h3>OtherOffences<sup class="type-c" title="class">c</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#classes">Class ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#OtherOffences</p>
+      <dl class="description">
+         <dt>has super-classes</dt>
+         <dd>
+            <a href="#Crime"
+               title="http://webprotege.stanford.edu/projectOntology#Crime">Crime</a>
+            <sup class="type-c" title="class">c</sup>
+         </dd>
+         <dt>is in domain of</dt>
+         <dd>
+            <a href="#NumOfReportedArrests"
+               title="http://webprotege.stanford.edu/projectOntology#NumOfReportedArrests">num of reported arrests</a>
+            <sup class="type-dp" title="data property">dp</sup>
+         </dd>
+      </dl>
+   </div>
+   <div class="entity" id="PropertyDamages">
+      <h3>PropertyDamages<sup class="type-c" title="class">c</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#classes">Class ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#PropertyDamages</p>
+      <dl class="description">
+         <dt>has super-classes</dt>
+         <dd>
+            <a href="#Crime"
+               title="http://webprotege.stanford.edu/projectOntology#Crime">Crime</a>
+            <sup class="type-c" title="class">c</sup>
+         </dd>
+         <dt>is in domain of</dt>
+         <dd>
+            <a href="#AverageCostOfDamages"
+               title="http://webprotege.stanford.edu/projectOntology#AverageCostOfDamages">average cost of damages</a>
+            <sup class="type-dp" title="data property">dp</sup>
+         </dd>
+      </dl>
+   </div>
+   <div class="entity" id="Salaries">
+      <h3>Salaries<sup class="type-c" title="class">c</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#classes">Class ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#Salaries</p>
+      <dl class="description">
+         <dt>has super-classes</dt>
+         <dd>
+            <a href="#Stats"
+               title="http://webprotege.stanford.edu/projectOntology#Stats">Stats</a>
+            <sup class="type-c" title="class">c</sup>
+         </dd>
+         <dt>is in domain of</dt>
+         <dd>
+            <a href="#SalaryValue"
+               title="http://webprotege.stanford.edu/projectOntology#SalaryValue">salary value</a>
+            <sup class="type-dp" title="data property">dp</sup>
+         </dd>
+      </dl>
+   </div>
+   <div class="entity" id="SexualOffences">
+      <h3>SexualOffences<sup class="type-c" title="class">c</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#classes">Class ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#SexualOffences</p>
+      <dl class="description">
+         <dt>has super-classes</dt>
+         <dd>
+            <a href="#Crime"
+               title="http://webprotege.stanford.edu/projectOntology#Crime">Crime</a>
+            <sup class="type-c" title="class">c</sup>
+         </dd>
+         <dt>is in domain of</dt>
+         <dd>
+            <a href="#NumOfCaseRelatingToDomesticHarm"
+               title="http://webprotege.stanford.edu/projectOntology#NumOfCaseRelatingToDomesticHarm">num of case relating to domestic harm</a>
+            <sup class="type-dp" title="data property">dp</sup>
+         </dd>
+      </dl>
+   </div>
+   <div class="entity" id="Stats">
+      <h3>Stats<sup class="type-c" title="class">c</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#classes">Class ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#Stats</p>
+      <dl class="description">
+         <dt>has sub-classes</dt>
+         <dd>
+            <a href="#Crime"
+               title="http://webprotege.stanford.edu/projectOntology#Crime">Crime</a>
+            <sup class="type-c" title="class">c</sup>, <a href="#Homelessness"
+               title="http://webprotege.stanford.edu/projectOntology#Homelessness">Homelessness</a>
+            <sup class="type-c" title="class">c</sup>, <a href="#HousingPrices"
+               title="http://webprotege.stanford.edu/projectOntology#HousingPrices">HousingPrices</a>
+            <sup class="type-c" title="class">c</sup>, <a href="#Salaries"
+               title="http://webprotege.stanford.edu/projectOntology#Salaries">Salaries</a>
+            <sup class="type-c" title="class">c</sup>, <a href="#Weather"
+               title="http://webprotege.stanford.edu/projectOntology#Weather">Weather</a>
+            <sup class="type-c" title="class">c</sup>
+         </dd>
+         <dt>is in domain of</dt>
+         <dd>
+            <a href="#inArea"
+               title="http://webprotege.stanford.edu/projectOntology#inArea">in area</a>
+            <sup class="type-op" title="object property">op</sup>, <a href="#inYear"
+               title="http://webprotege.stanford.edu/projectOntology#inYear">inYear</a>
+            <sup class="type-op" title="object property">op</sup>
+         </dd>
+      </dl>
+   </div>
+   <div class="entity" id="Theft">
+      <h3>Theft<sup class="type-c" title="class">c</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#classes">Class ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#Theft</p>
+      <dl class="description">
+         <dt>has super-classes</dt>
+         <dd>
+            <a href="#Crime"
+               title="http://webprotege.stanford.edu/projectOntology#Crime">Crime</a>
+            <sup class="type-c" title="class">c</sup>
+         </dd>
+         <dt>is in domain of</dt>
+         <dd>
+            <a href="#AverageValueStolen"
+               title="http://webprotege.stanford.edu/projectOntology#AverageValueStolen">average value stolen</a>
+            <sup class="type-dp" title="data property">dp</sup>
+         </dd>
+      </dl>
+   </div>
+   <div class="entity" id="Transport">
+      <h3>Transport<sup class="type-c" title="class">c</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#classes">Class ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#Transport</p>
+      <dl class="description">
+         <dt>has super-classes</dt>
+         <dd>
+            <a href="#Crime"
+               title="http://webprotege.stanford.edu/projectOntology#Crime">Crime</a>
+            <sup class="type-c" title="class">c</sup>
+         </dd>
+         <dt>is in domain of</dt>
+         <dd>
+            <a href="#ModeVehiclesReported"
+               title="http://webprotege.stanford.edu/projectOntology#ModeVehiclesReported">mode vehicles reported</a>
+            <sup class="type-dp" title="data property">dp</sup>
+         </dd>
+      </dl>
+   </div>
+   <div class="entity" id="Weapons">
+      <h3>Weapons<sup class="type-c" title="class">c</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#classes">Class ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#Weapons</p>
+      <dl class="description">
+         <dt>has super-classes</dt>
+         <dd>
+            <a href="#Crime"
+               title="http://webprotege.stanford.edu/projectOntology#Crime">Crime</a>
+            <sup class="type-c" title="class">c</sup>
+         </dd>
+         <dt>is in domain of</dt>
+         <dd>
+            <a href="#ModeReportedWeapon"
+               title="http://webprotege.stanford.edu/projectOntology#ModeReportedWeapon">mode reported weapon</a>
+            <sup class="type-dp" title="data property">dp</sup>
+         </dd>
+      </dl>
+   </div>
+   <div class="entity" id="Weather">
+      <h3>Weather<sup class="type-c" title="class">c</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#classes">Class ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#Weather</p>
+      <dl class="description">
+         <dt>has super-classes</dt>
+         <dd>
+            <a href="#Stats"
+               title="http://webprotege.stanford.edu/projectOntology#Stats">Stats</a>
+            <sup class="type-c" title="class">c</sup>
+         </dd>
+         <dt>is in domain of</dt>
+         <dd>
+            <a href="#AverageGreatestRainfall"
+               title="http://webprotege.stanford.edu/projectOntology#AverageGreatestRainfall">average greatest rainfall</a>
+            <sup class="type-dp" title="data property">dp</sup>, <a href="#NumOfRainDays"
+               title="http://webprotege.stanford.edu/projectOntology#NumOfRainDays">num of rain days</a>
+            <sup class="type-dp" title="data property">dp</sup>, <a href="#NumOfWetDays"
+               title="http://webprotege.stanford.edu/projectOntology#NumOfWetDays">num of wet days</a>
+            <sup class="type-dp" title="data property">dp</sup>, <a href="#Rainfall"
+               title="http://webprotege.stanford.edu/projectOntology#Rainfall">rainfall</a>
+            <sup class="type-dp" title="data property">dp</sup>
+         </dd>
+      </dl>
+   </div>
+   <div class="entity" id="Year">
+      <h3>Year<sup class="type-c" title="class">c</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#classes">Class ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#Year</p>
+      <dl class="description">
+         <dt>has super-classes</dt>
+         <dd>
+            <span class="dotted" title="http://www.w3.org/2002/07/owl#Thing">thing</span>
+            <sup class="type-c" title="class">c</sup>
+         </dd>
+         <dt>is in domain of</dt>
+         <dd>
+            <a href="#nextYear"
+               title="http://webprotege.stanford.edu/projectOntology#nextYear">nextYear</a>
+            <sup class="type-op" title="object property">op</sup>, <a href="#previousYear"
+               title="http://webprotege.stanford.edu/projectOntology#previousYear">previousYear</a>
+            <sup class="type-op" title="object property">op</sup>, <a href="#YearValue"
+               title="http://webprotege.stanford.edu/projectOntology#YearValue">year value</a>
+            <sup class="type-dp" title="data property">dp</sup>
+         </dd>
+         <dt>is in range of</dt>
+         <dd>
+            <a href="#inYear"
+               title="http://webprotege.stanford.edu/projectOntology#inYear">inYear</a>
+            <sup class="type-op" title="object property">op</sup>, <a href="#nextYear"
+               title="http://webprotege.stanford.edu/projectOntology#nextYear">nextYear</a>
+            <sup class="type-op" title="object property">op</sup>, <a href="#previousYear"
+               title="http://webprotege.stanford.edu/projectOntology#previousYear">previousYear</a>
+            <sup class="type-op" title="object property">op</sup>
+         </dd>
+      </dl>
+   </div>
+</div><div id="objectproperties">
+   <h3 id="properties" class="list">Object Properties</h3>
+   <ul class="hlist">
+      <li>
+         <a href="#adjacentTo"
+            title="http://webprotege.stanford.edu/projectOntology#adjacentTo">adjacentTo</a>
+      </li>
+      <li>
+         <a href="#has"
+            title="http://webprotege.stanford.edu/projectOntology#has">
+            <span>has</span>
+         </a>
+      </li>
+      <li>
+         <a href="#inArea"
+            title="http://webprotege.stanford.edu/projectOntology#inArea">
+            <span>in area</span>
+         </a>
+      </li>
+      <li>
+         <a href="#inYear"
+            title="http://webprotege.stanford.edu/projectOntology#inYear">inYear</a>
+      </li>
+      <li>
+         <a href="#nextYear"
+            title="http://webprotege.stanford.edu/projectOntology#nextYear">nextYear</a>
+      </li>
+      <li>
+         <a href="#previousYear"
+            title="http://webprotege.stanford.edu/projectOntology#previousYear">previousYear</a>
+      </li>
+   </ul>
+   <div class="entity" id="adjacentTo">
+      <h3>adjacentTo<sup class="type-op" title="object property">op</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#objectproperties">Object Property ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#adjacentTo</p>
+      <div class="description">
+         <p>
+            <strong>has characteristics:</strong> symmetric</p>
+         <dl>
+            <dt>has domain</dt>
+            <dd>
+               <a href="#County"
+                  title="http://webprotege.stanford.edu/projectOntology#County">County</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>has range</dt>
+            <dd>
+               <a href="#County"
+                  title="http://webprotege.stanford.edu/projectOntology#County">County</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+         </dl>
+      </div>
+   </div>
+   <div class="entity" id="has">
+      <h3>has<sup class="type-op" title="object property">op</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#objectproperties">Object Property ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#has</p>
+      <div class="description">
+         <p>
+            <strong>has characteristics:</strong> transitive</p>
+         <dl>
+            <dt>has domain</dt>
+            <dd>
+               <a href="#Area"
+                  title="http://webprotege.stanford.edu/projectOntology#Area">Area</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>has range</dt>
+            <dd>
+               <a href="#Area"
+                  title="http://webprotege.stanford.edu/projectOntology#Area">Area</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+         </dl>
+      </div>
+   </div>
+   <div class="entity" id="inArea">
+      <h3>in area<sup class="type-op" title="object property">op</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#objectproperties">Object Property ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#inArea</p>
+      <div class="description">
+         <dl>
+            <dt>has domain</dt>
+            <dd>
+               <a href="#Stats"
+                  title="http://webprotege.stanford.edu/projectOntology#Stats">Stats</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>has range</dt>
+            <dd>
+               <a href="#Area"
+                  title="http://webprotege.stanford.edu/projectOntology#Area">Area</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+         </dl>
+      </div>
+   </div>
+   <div class="entity" id="inYear">
+      <h3>inYear<sup class="type-op" title="object property">op</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#objectproperties">Object Property ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#inYear</p>
+      <div class="description">
+         <dl>
+            <dt>has domain</dt>
+            <dd>
+               <a href="#Stats"
+                  title="http://webprotege.stanford.edu/projectOntology#Stats">Stats</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>has range</dt>
+            <dd>
+               <a href="#Year"
+                  title="http://webprotege.stanford.edu/projectOntology#Year">Year</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+         </dl>
+      </div>
+   </div>
+   <div class="entity" id="nextYear">
+      <h3>nextYear<sup class="type-op" title="object property">op</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#objectproperties">Object Property ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#nextYear</p>
+      <div class="description">
+         <p>
+            <strong>has characteristics:</strong> inverse functional</p>
+         <dl>
+            <dt>has super-properties</dt>
+            <dd>
+               <span class="dotted" title="http://www.w3.org/2002/07/owl#topObjectProperty">top object property</span>
+            </dd>
+            <dt>has domain</dt>
+            <dd>
+               <a href="#Year"
+                  title="http://webprotege.stanford.edu/projectOntology#Year">Year</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>has range</dt>
+            <dd>
+               <a href="#Year"
+                  title="http://webprotege.stanford.edu/projectOntology#Year">Year</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>is inverse of</dt>
+            <dd>
+               <a href="#previousYear"
+                  title="http://webprotege.stanford.edu/projectOntology#previousYear">previousYear</a>
+               <sup class="type-op" title="object property">op</sup>
+            </dd>
+         </dl>
+      </div>
+   </div>
+   <div class="entity" id="previousYear">
+      <h3>previousYear<sup class="type-op" title="object property">op</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#objectproperties">Object Property ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#previousYear</p>
+      <div class="description">
+         <p>
+            <strong>has characteristics:</strong> inverse functional</p>
+         <dl>
+            <dt>has domain</dt>
+            <dd>
+               <a href="#Year"
+                  title="http://webprotege.stanford.edu/projectOntology#Year">Year</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>has range</dt>
+            <dd>
+               <a href="#Year"
+                  title="http://webprotege.stanford.edu/projectOntology#Year">Year</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>is inverse of</dt>
+            <dd>
+               <a href="#nextYear"
+                  title="http://webprotege.stanford.edu/projectOntology#nextYear">nextYear</a>
+               <sup class="type-op" title="object property">op</sup>
+            </dd>
+         </dl>
+      </div>
+   </div>
+</div><div id="dataproperties">
+   <h3 id="dataproperties-headline" class="list">Data Properties</h3>
+   <ul class="hlist">
+      <li>
+         <a href="#18to24"
+            title="http://webprotege.stanford.edu/projectOntology#18to24">
+            <span>18to24</span>
+         </a>
+      </li>
+      <li>
+         <a href="#25to44"
+            title="http://webprotege.stanford.edu/projectOntology#25to44">
+            <span>25to44</span>
+         </a>
+      </li>
+      <li>
+         <a href="#45to64"
+            title="http://webprotege.stanford.edu/projectOntology#45to64">
+            <span>45to64</span>
+         </a>
+      </li>
+      <li>
+         <a href="#65plus"
+            title="http://webprotege.stanford.edu/projectOntology#65plus">
+            <span>65plus</span>
+         </a>
+      </li>
+      <li>
+         <a href="#AmountOfDrugsConfiscated"
+            title="http://webprotege.stanford.edu/projectOntology#AmountOfDrugsConfiscated">
+            <span>amount of drugs confiscated</span>
+         </a>
+      </li>
+      <li>
+         <a href="#AverageAgeOfKidnapped"
+            title="http://webprotege.stanford.edu/projectOntology#AverageAgeOfKidnapped">
+            <span>average age of kidnapped</span>
+         </a>
+      </li>
+      <li>
+         <a href="#AverageCostOfDamages"
+            title="http://webprotege.stanford.edu/projectOntology#AverageCostOfDamages">
+            <span>average cost of damages</span>
+         </a>
+      </li>
+      <li>
+         <a href="#AverageGreatestRainfall"
+            title="http://webprotege.stanford.edu/projectOntology#AverageGreatestRainfall">
+            <span>average greatest rainfall</span>
+         </a>
+      </li>
+      <li>
+         <a href="#AverageValueStolen"
+            title="http://webprotege.stanford.edu/projectOntology#AverageValueStolen">
+            <span>average value stolen</span>
+         </a>
+      </li>
+      <li>
+         <a href="#CountyName"
+            title="http://webprotege.stanford.edu/projectOntology#CountyName">
+            <span>county name</span>
+         </a>
+      </li>
+      <li>
+         <a href="#CrimeName"
+            title="http://webprotege.stanford.edu/projectOntology#CrimeName">CrimeName</a>
+      </li>
+      <li>
+         <a href="#DamagesToPublicProperty"
+            title="http://webprotege.stanford.edu/projectOntology#DamagesToPublicProperty">
+            <span>damages to public property</span>
+         </a>
+      </li>
+      <li>
+         <a href="#DivisionName"
+            title="http://webprotege.stanford.edu/projectOntology#DivisionName">
+            <span>division name</span>
+         </a>
+      </li>
+      <li>
+         <a href="#HousingPricesType"
+            title="http://webprotege.stanford.edu/projectOntology#HousingPricesType">
+            <span>housing prices type</span>
+         </a>
+      </li>
+      <li>
+         <a href="#MeanPrice"
+            title="http://webprotege.stanford.edu/projectOntology#MeanPrice">MeanPrice</a>
+      </li>
+      <li>
+         <a href="#ModeGenderVictim"
+            title="http://webprotege.stanford.edu/projectOntology#ModeGenderVictim">
+            <span>mode gender victim</span>
+         </a>
+      </li>
+      <li>
+         <a href="#ModeReportedWeapon"
+            title="http://webprotege.stanford.edu/projectOntology#ModeReportedWeapon">
+            <span>mode reported weapon</span>
+         </a>
+      </li>
+      <li>
+         <a href="#ModeVehiclesReported"
+            title="http://webprotege.stanford.edu/projectOntology#ModeVehiclesReported">
+            <span>mode vehicles reported</span>
+         </a>
+      </li>
+      <li>
+         <a href="#NumFemales"
+            title="http://webprotege.stanford.edu/projectOntology#NumFemales">
+            <span>num females</span>
+         </a>
+      </li>
+      <li>
+         <a href="#NumMales"
+            title="http://webprotege.stanford.edu/projectOntology#NumMales">
+            <span>num males</span>
+         </a>
+      </li>
+      <li>
+         <a href="#NumOfCaseRelatingToDomesticHarm"
+            title="http://webprotege.stanford.edu/projectOntology#NumOfCaseRelatingToDomesticHarm">
+            <span>num of case relating to domestic harm</span>
+         </a>
+      </li>
+      <li>
+         <a href="#NumOfRainDays"
+            title="http://webprotege.stanford.edu/projectOntology#NumOfRainDays">
+            <span>num of rain days</span>
+         </a>
+      </li>
+      <li>
+         <a href="#NumOfReportedArrests"
+            title="http://webprotege.stanford.edu/projectOntology#NumOfReportedArrests">
+            <span>num of reported arrests</span>
+         </a>
+      </li>
+      <li>
+         <a href="#NumOfWetDays"
+            title="http://webprotege.stanford.edu/projectOntology#NumOfWetDays">
+            <span>num of wet days</span>
+         </a>
+      </li>
+      <li>
+         <a href="#NumoOfAssaultsRelatingToDrugs"
+            title="http://webprotege.stanford.edu/projectOntology#NumoOfAssaultsRelatingToDrugs">
+            <span>numo of assaults relating to drugs</span>
+         </a>
+      </li>
+      <li>
+         <a href="#NumOfCrime"
+            title="http://webprotege.stanford.edu/projectOntology#NumOfCrime">NumOfCrime</a>
+      </li>
+      <li>
+         <a href="#NumOfHomeless"
+            title="http://webprotege.stanford.edu/projectOntology#NumOfHomeless">NumOfHomeless</a>
+      </li>
+      <li>
+         <a href="#Rainfall"
+            title="http://webprotege.stanford.edu/projectOntology#Rainfall">
+            <span>rainfall</span>
+         </a>
+      </li>
+      <li>
+         <a href="#SalaryValue"
+            title="http://webprotege.stanford.edu/projectOntology#SalaryValue">
+            <span>salary value</span>
+         </a>
+      </li>
+      <li>
+         <a href="#SalesValue"
+            title="http://webprotege.stanford.edu/projectOntology#SalesValue">SalesValue</a>
+      </li>
+      <li>
+         <a href="#SalesVolume"
+            title="http://webprotege.stanford.edu/projectOntology#SalesVolume">SalesVolume</a>
+      </li>
+      <li>
+         <a href="#YearValue"
+            title="http://webprotege.stanford.edu/projectOntology#YearValue">
+            <span>year value</span>
+         </a>
+      </li>
+   </ul>
+   <div class="entity" id="18to24">
+      <h3>18to24<sup class="type-dp" title="data property">dp</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#dataproperties">Data Property ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#18to24</p>
+      <div class="description">
+         <dl>
+            <dt>has domain</dt>
+            <dd>
+               <a href="#Homelessness"
+                  title="http://webprotege.stanford.edu/projectOntology#Homelessness">Homelessness</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>has range</dt>
+            <dd>
+               <span class="dotted" title="http://www.w3.org/2001/XMLSchema#int">int</span>
+            </dd>
+         </dl>
+      </div>
+   </div>
+   <div class="entity" id="25to44">
+      <h3>25to44<sup class="type-dp" title="data property">dp</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#dataproperties">Data Property ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#25to44</p>
+      <div class="description">
+         <dl>
+            <dt>has domain</dt>
+            <dd>
+               <a href="#Homelessness"
+                  title="http://webprotege.stanford.edu/projectOntology#Homelessness">Homelessness</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>has range</dt>
+            <dd>
+               <span class="dotted" title="http://www.w3.org/2001/XMLSchema#int">int</span>
+            </dd>
+         </dl>
+      </div>
+   </div>
+   <div class="entity" id="45to64">
+      <h3>45to64<sup class="type-dp" title="data property">dp</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#dataproperties">Data Property ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#45to64</p>
+      <div class="description">
+         <dl>
+            <dt>has domain</dt>
+            <dd>
+               <a href="#Homelessness"
+                  title="http://webprotege.stanford.edu/projectOntology#Homelessness">Homelessness</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>has range</dt>
+            <dd>
+               <span class="dotted" title="http://www.w3.org/2001/XMLSchema#int">int</span>
+            </dd>
+         </dl>
+      </div>
+   </div>
+   <div class="entity" id="65plus">
+      <h3>65plus<sup class="type-dp" title="data property">dp</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#dataproperties">Data Property ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#65plus</p>
+      <div class="description">
+         <dl>
+            <dt>has domain</dt>
+            <dd>
+               <a href="#Homelessness"
+                  title="http://webprotege.stanford.edu/projectOntology#Homelessness">Homelessness</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>has range</dt>
+            <dd>
+               <span class="dotted" title="http://www.w3.org/2001/XMLSchema#int">int</span>
+            </dd>
+         </dl>
+      </div>
+   </div>
+   <div class="entity" id="AmountOfDrugsConfiscated">
+      <h3>amount of drugs confiscated<sup class="type-dp" title="data property">dp</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#dataproperties">Data Property ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#AmountOfDrugsConfiscated</p>
+      <div class="description">
+         <dl>
+            <dt>has domain</dt>
+            <dd>
+               <a href="#Drug"
+                  title="http://webprotege.stanford.edu/projectOntology#Drug">Drug</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>has range</dt>
+            <dd>
+               <span class="dotted" title="http://www.w3.org/2001/XMLSchema#float">float</span>
+            </dd>
+         </dl>
+      </div>
+   </div>
+   <div class="entity" id="AverageAgeOfKidnapped">
+      <h3>average age of kidnapped<sup class="type-dp" title="data property">dp</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#dataproperties">Data Property ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#AverageAgeOfKidnapped</p>
+      <div class="description">
+         <dl>
+            <dt>has domain</dt>
+            <dd>
+               <a href="#Kidnapping"
+                  title="http://webprotege.stanford.edu/projectOntology#Kidnapping">Kidnapping</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>has range</dt>
+            <dd>
+               <span class="dotted" title="http://www.w3.org/2001/XMLSchema#int">int</span>
+            </dd>
+         </dl>
+      </div>
+   </div>
+   <div class="entity" id="AverageCostOfDamages">
+      <h3>average cost of damages<sup class="type-dp" title="data property">dp</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#dataproperties">Data Property ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#AverageCostOfDamages</p>
+      <div class="description">
+         <dl>
+            <dt>has domain</dt>
+            <dd>
+               <a href="#PropertyDamages"
+                  title="http://webprotege.stanford.edu/projectOntology#PropertyDamages">PropertyDamages</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>has range</dt>
+            <dd>
+               <span class="dotted" title="http://www.w3.org/2001/XMLSchema#float">float</span>
+            </dd>
+         </dl>
+      </div>
+   </div>
+   <div class="entity" id="AverageGreatestRainfall">
+      <h3>average greatest rainfall<sup class="type-dp" title="data property">dp</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#dataproperties">Data Property ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#AverageGreatestRainfall</p>
+      <div class="description">
+         <dl>
+            <dt>has domain</dt>
+            <dd>
+               <a href="#Weather"
+                  title="http://webprotege.stanford.edu/projectOntology#Weather">Weather</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>has range</dt>
+            <dd>
+               <span class="dotted" title="http://www.w3.org/2001/XMLSchema#float">float</span>
+            </dd>
+         </dl>
+      </div>
+   </div>
+   <div class="entity" id="AverageValueStolen">
+      <h3>average value stolen<sup class="type-dp" title="data property">dp</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#dataproperties">Data Property ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#AverageValueStolen</p>
+      <div class="description">
+         <dl>
+            <dt>has domain</dt>
+            <dd>
+               <a href="#Theft"
+                  title="http://webprotege.stanford.edu/projectOntology#Theft">Theft</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>has range</dt>
+            <dd>
+               <span class="dotted" title="http://www.w3.org/2001/XMLSchema#float">float</span>
+            </dd>
+         </dl>
+      </div>
+   </div>
+   <div class="entity" id="CountyName">
+      <h3>county name<sup class="type-dp" title="data property">dp</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#dataproperties">Data Property ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#CountyName</p>
+      <div class="description">
+         <dl>
+            <dt>has domain</dt>
+            <dd>
+               <a href="#County"
+                  title="http://webprotege.stanford.edu/projectOntology#County">County</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>has range</dt>
+            <dd>
+               <span class="dotted" title="http://www.w3.org/2001/XMLSchema#string">string</span>
+            </dd>
+         </dl>
+      </div>
+   </div>
+   <div class="entity" id="CrimeName">
+      <h3>CrimeName<sup class="type-dp" title="data property">dp</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#dataproperties">Data Property ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#CrimeName</p>
+      <div class="description">
+         <dl>
+            <dt>has domain</dt>
+            <dd>
+               <a href="#Crime"
+                  title="http://webprotege.stanford.edu/projectOntology#Crime">Crime</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>has range</dt>
+            <dd>
+               <span class="dotted" title="http://www.w3.org/2001/XMLSchema#string">string</span>
+            </dd>
+         </dl>
+      </div>
+   </div>
+   <div class="entity" id="DamagesToPublicProperty">
+      <h3>damages to public property<sup class="type-dp" title="data property">dp</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#dataproperties">Data Property ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#DamagesToPublicProperty</p>
+      <div class="description">
+         <dl>
+            <dt>has domain</dt>
+            <dd>
+               <a href="#Driving"
+                  title="http://webprotege.stanford.edu/projectOntology#Driving">Driving</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>has range</dt>
+            <dd>
+               <span class="dotted" title="http://www.w3.org/2001/XMLSchema#float">float</span>
+            </dd>
+         </dl>
+      </div>
+   </div>
+   <div class="entity" id="DivisionName">
+      <h3>division name<sup class="type-dp" title="data property">dp</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#dataproperties">Data Property ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#DivisionName</p>
+      <div class="description">
+         <dl>
+            <dt>has domain</dt>
+            <dd>
+               <a href="#Division"
+                  title="http://webprotege.stanford.edu/projectOntology#Division">Division</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>has range</dt>
+            <dd>
+               <span class="dotted" title="http://www.w3.org/2001/XMLSchema#string">string</span>
+            </dd>
+         </dl>
+      </div>
+   </div>
+   <div class="entity" id="HousingPricesType">
+      <h3>housing prices type<sup class="type-dp" title="data property">dp</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#dataproperties">Data Property ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#HousingPricesType</p>
+      <div class="description">
+         <dl>
+            <dt>has domain</dt>
+            <dd>
+               <a href="#HousingPrices"
+                  title="http://webprotege.stanford.edu/projectOntology#HousingPrices">HousingPrices</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>has range</dt>
+            <dd>
+               <span class="dotted" title="http://www.w3.org/2001/XMLSchema#string">string</span>
+            </dd>
+         </dl>
+      </div>
+   </div>
+   <div class="entity" id="MeanPrice">
+      <h3>MeanPrice<sup class="type-dp" title="data property">dp</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#dataproperties">Data Property ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#MeanPrice</p>
+      <div class="description">
+         <dl>
+            <dt>has domain</dt>
+            <dd>
+               <a href="#HousingPrices"
+                  title="http://webprotege.stanford.edu/projectOntology#HousingPrices">HousingPrices</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>has range</dt>
+            <dd>
+               <span class="dotted" title="http://www.w3.org/2001/XMLSchema#float">float</span>
+            </dd>
+         </dl>
+      </div>
+   </div>
+   <div class="entity" id="ModeGenderVictim">
+      <h3>mode gender victim<sup class="type-dp" title="data property">dp</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#dataproperties">Data Property ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#ModeGenderVictim</p>
+      <div class="description">
+         <dl>
+            <dt>has domain</dt>
+            <dd>
+               <a href="#MurderDeath"
+                  title="http://webprotege.stanford.edu/projectOntology#MurderDeath">MurderDeath</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>has range</dt>
+            <dd>
+               <span class="dotted" title="http://www.w3.org/2001/XMLSchema#string">string</span>
+            </dd>
+         </dl>
+      </div>
+   </div>
+   <div class="entity" id="ModeReportedWeapon">
+      <h3>mode reported weapon<sup class="type-dp" title="data property">dp</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#dataproperties">Data Property ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#ModeReportedWeapon</p>
+      <div class="description">
+         <dl>
+            <dt>has domain</dt>
+            <dd>
+               <a href="#Harm"
+                  title="http://webprotege.stanford.edu/projectOntology#Harm">Harm</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dd>
+               <a href="#Weapons"
+                  title="http://webprotege.stanford.edu/projectOntology#Weapons">Weapons</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>has range</dt>
+            <dd>
+               <span class="dotted" title="http://www.w3.org/2001/XMLSchema#string">string</span>
+            </dd>
+         </dl>
+      </div>
+   </div>
+   <div class="entity" id="ModeVehiclesReported">
+      <h3>mode vehicles reported<sup class="type-dp" title="data property">dp</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#dataproperties">Data Property ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#ModeVehiclesReported</p>
+      <div class="description">
+         <dl>
+            <dt>has domain</dt>
+            <dd>
+               <a href="#Transport"
+                  title="http://webprotege.stanford.edu/projectOntology#Transport">Transport</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>has range</dt>
+            <dd>
+               <span class="dotted" title="http://www.w3.org/2001/XMLSchema#string">string</span>
+            </dd>
+         </dl>
+      </div>
+   </div>
+   <div class="entity" id="NumFemales">
+      <h3>num females<sup class="type-dp" title="data property">dp</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#dataproperties">Data Property ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#NumFemales</p>
+      <div class="description">
+         <dl>
+            <dt>has domain</dt>
+            <dd>
+               <a href="#Homelessness"
+                  title="http://webprotege.stanford.edu/projectOntology#Homelessness">Homelessness</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>has range</dt>
+            <dd>
+               <span class="dotted" title="http://www.w3.org/2001/XMLSchema#int">int</span>
+            </dd>
+         </dl>
+      </div>
+   </div>
+   <div class="entity" id="NumMales">
+      <h3>num males<sup class="type-dp" title="data property">dp</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#dataproperties">Data Property ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#NumMales</p>
+      <div class="description">
+         <dl>
+            <dt>has domain</dt>
+            <dd>
+               <a href="#Homelessness"
+                  title="http://webprotege.stanford.edu/projectOntology#Homelessness">Homelessness</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>has range</dt>
+            <dd>
+               <span class="dotted" title="http://www.w3.org/2001/XMLSchema#int">int</span>
+            </dd>
+         </dl>
+      </div>
+   </div>
+   <div class="entity" id="NumOfCaseRelatingToDomesticHarm">
+      <h3>num of case relating to domestic harm<sup class="type-dp" title="data property">dp</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#dataproperties">Data Property ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#NumOfCaseRelatingToDomesticHarm</p>
+      <div class="description">
+         <dl>
+            <dt>has domain</dt>
+            <dd>
+               <a href="#SexualOffences"
+                  title="http://webprotege.stanford.edu/projectOntology#SexualOffences">SexualOffences</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>has range</dt>
+            <dd>
+               <span class="dotted" title="http://www.w3.org/2001/XMLSchema#int">int</span>
+            </dd>
+         </dl>
+      </div>
+   </div>
+   <div class="entity" id="NumOfRainDays">
+      <h3>num of rain days<sup class="type-dp" title="data property">dp</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#dataproperties">Data Property ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#NumOfRainDays</p>
+      <div class="description">
+         <dl>
+            <dt>has domain</dt>
+            <dd>
+               <a href="#Weather"
+                  title="http://webprotege.stanford.edu/projectOntology#Weather">Weather</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>has range</dt>
+            <dd>
+               <span class="dotted" title="http://www.w3.org/2001/XMLSchema#float">float</span>
+            </dd>
+         </dl>
+      </div>
+   </div>
+   <div class="entity" id="NumOfReportedArrests">
+      <h3>num of reported arrests<sup class="type-dp" title="data property">dp</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#dataproperties">Data Property ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#NumOfReportedArrests</p>
+      <div class="description">
+         <dl>
+            <dt>has domain</dt>
+            <dd>
+               <a href="#OtherOffences"
+                  title="http://webprotege.stanford.edu/projectOntology#OtherOffences">OtherOffences</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>has range</dt>
+            <dd>
+               <span class="dotted" title="http://www.w3.org/2001/XMLSchema#int">int</span>
+            </dd>
+         </dl>
+      </div>
+   </div>
+   <div class="entity" id="NumOfWetDays">
+      <h3>num of wet days<sup class="type-dp" title="data property">dp</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#dataproperties">Data Property ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#NumOfWetDays</p>
+      <div class="description">
+         <dl>
+            <dt>has domain</dt>
+            <dd>
+               <a href="#Weather"
+                  title="http://webprotege.stanford.edu/projectOntology#Weather">Weather</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>has range</dt>
+            <dd>
+               <span class="dotted" title="http://www.w3.org/2001/XMLSchema#float">float</span>
+            </dd>
+         </dl>
+      </div>
+   </div>
+   <div class="entity" id="NumoOfAssaultsRelatingToDrugs">
+      <h3>numo of assaults relating to drugs<sup class="type-dp" title="data property">dp</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#dataproperties">Data Property ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#NumoOfAssaultsRelatingToDrugs</p>
+      <div class="description">
+         <dl>
+            <dt>has domain</dt>
+            <dd>
+               <a href="#AttemptedMurder"
+                  title="http://webprotege.stanford.edu/projectOntology#AttemptedMurder">AttemptedMurder</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>has range</dt>
+            <dd>
+               <span class="dotted" title="http://www.w3.org/2001/XMLSchema#int">int</span>
+            </dd>
+         </dl>
+      </div>
+   </div>
+   <div class="entity" id="NumOfCrime">
+      <h3>NumOfCrime<sup class="type-dp" title="data property">dp</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#dataproperties">Data Property ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#NumOfCrime</p>
+      <div class="description">
+         <dl>
+            <dt>has domain</dt>
+            <dd>
+               <a href="#Crime"
+                  title="http://webprotege.stanford.edu/projectOntology#Crime">Crime</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>has range</dt>
+            <dd>
+               <span class="dotted" title="http://www.w3.org/2001/XMLSchema#int">int</span>
+            </dd>
+         </dl>
+      </div>
+   </div>
+   <div class="entity" id="NumOfHomeless">
+      <h3>NumOfHomeless<sup class="type-dp" title="data property">dp</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#dataproperties">Data Property ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#NumOfHomeless</p>
+      <div class="description">
+         <dl>
+            <dt>has domain</dt>
+            <dd>
+               <a href="#Homelessness"
+                  title="http://webprotege.stanford.edu/projectOntology#Homelessness">Homelessness</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>has range</dt>
+            <dd>
+               <span class="dotted" title="http://www.w3.org/2001/XMLSchema#int">int</span>
+            </dd>
+         </dl>
+      </div>
+   </div>
+   <div class="entity" id="Rainfall">
+      <h3>rainfall<sup class="type-dp" title="data property">dp</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#dataproperties">Data Property ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#Rainfall</p>
+      <div class="description">
+         <dl>
+            <dt>has domain</dt>
+            <dd>
+               <a href="#Weather"
+                  title="http://webprotege.stanford.edu/projectOntology#Weather">Weather</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>has range</dt>
+            <dd>
+               <span class="dotted" title="http://www.w3.org/2001/XMLSchema#float">float</span>
+            </dd>
+         </dl>
+      </div>
+   </div>
+   <div class="entity" id="SalaryValue">
+      <h3>salary value<sup class="type-dp" title="data property">dp</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#dataproperties">Data Property ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#SalaryValue</p>
+      <div class="description">
+         <dl>
+            <dt>has domain</dt>
+            <dd>
+               <a href="#Salaries"
+                  title="http://webprotege.stanford.edu/projectOntology#Salaries">Salaries</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>has range</dt>
+            <dd>
+               <span class="dotted" title="http://www.w3.org/2001/XMLSchema#float">float</span>
+            </dd>
+         </dl>
+      </div>
+   </div>
+   <div class="entity" id="SalesValue">
+      <h3>SalesValue<sup class="type-dp" title="data property">dp</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#dataproperties">Data Property ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#SalesValue</p>
+      <div class="description">
+         <dl>
+            <dt>has domain</dt>
+            <dd>
+               <a href="#HousingPrices"
+                  title="http://webprotege.stanford.edu/projectOntology#HousingPrices">HousingPrices</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>has range</dt>
+            <dd>
+               <span class="dotted" title="http://www.w3.org/2001/XMLSchema#float">float</span>
+            </dd>
+         </dl>
+      </div>
+   </div>
+   <div class="entity" id="SalesVolume">
+      <h3>SalesVolume<sup class="type-dp" title="data property">dp</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#dataproperties">Data Property ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#SalesVolume</p>
+      <div class="description">
+         <dl>
+            <dt>has domain</dt>
+            <dd>
+               <a href="#HousingPrices"
+                  title="http://webprotege.stanford.edu/projectOntology#HousingPrices">HousingPrices</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>has range</dt>
+            <dd>
+               <span class="dotted" title="http://www.w3.org/2001/XMLSchema#float">float</span>
+            </dd>
+         </dl>
+      </div>
+   </div>
+   <div class="entity" id="YearValue">
+      <h3>year value<sup class="type-dp" title="data property">dp</sup>
+         <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#dataproperties">Data Property ToC</a>
+         </span>
+      </h3>
+      <p>
+         <strong>IRI:</strong> http://webprotege.stanford.edu/projectOntology#YearValue</p>
+      <div class="description">
+         <dl>
+            <dt>has domain</dt>
+            <dd>
+               <a href="#Year"
+                  title="http://webprotege.stanford.edu/projectOntology#Year">Year</a>
+               <sup class="type-c" title="class">c</sup>
+            </dd>
+            <dt>has range</dt>
+            <dd>
+               <span class="dotted" title="http://www.w3.org/2001/XMLSchema#int">int</span>
+            </dd>
+         </dl>
+      </div>
+   </div>
+</div><div id="legend">
+<h2>Legend <span class="backlink"> back to <a href="#toc">ToC</a></span></h2>
+<div   class="entity">
+<sup class="type-c" title="Classes">c</sup>: Classes <br/>
+<sup class="type-op" title="Object Properties">op</sup>: Object Properties <br/>
+<sup class="type-dp" title="Data Properties">dp</sup>: Data Properties <br/>
+<sup class="type-ni" title="Named Individuals">ni</sup>: Named Individuals
+</div>
+</div>
+</div>
+    
+
+<!--REFERENCES SECTION-->
+  <div id="references">
+<h2 id="ref" class="list">References <span class="backlink"> back to <a href="#toc">ToC</a></span></h2>
+<span class="markdown">
+Add your references here. It is recommended to have them as a list.</span>
+
+</div>
+<div id="acknowledgements">
+<h2 id="ack" class="list">Acknowledgements <span class="backlink"> back to <a href="#toc">ToC</a></span></h2>
+<p>
+The authors would like to thank <a href="http://www.essepuntato.it/">Silvio Peroni</a> for developing <a href="http://www.essepuntato.it/lode">LODE</a>, a Live OWL Documentation Environment, which is used for representing the Cross Referencing Section of this document and <a href="https://w3id.org/people/dgarijo">Daniel Garijo</a> for developing <a href="https://github.com/dgarijo/Widoco">Widoco</a>, the program used to create the template used in this documentation.</p>
+</div>
+
+
+</div>
+</body>
+</html>

@@ -1,0 +1,21 @@
+Monthly Elements:
+
+ID	        ELEMENT					Unit       
+
+year:  		Year
+month:   	Month
+rain:    	Precipitation Amount 			(mm)
+gdf:     	Greatest daily fall 			(mm)
+rd:      	Number of rain days (0.2 or more)	(mm)
+wd:      	Number of wet days (1.0 or more)	(mm)
+ind:   		Indicator
+
+
+Indicator:
+
+0.  Satisfactory.
+1.  Estimated
+9.  Daily values not accepted.
+
+
+

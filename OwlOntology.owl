@@ -1,0 +1,649 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://webprotege.stanford.edu/project/BxMFBM8T9mLb4rvDonTeq#"
+     xml:base="http://webprotege.stanford.edu/project/BxMFBM8T9mLb4rvDonTeq"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:webprotege="http://webprotege.stanford.edu/">
+    <owl:Ontology rdf:about="http://webprotege.stanford.edu/projectOntology"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#adjacentTo -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/projectOntology#adjacentTo">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/projectOntology#County"/>
+        <rdfs:range rdf:resource="http://webprotege.stanford.edu/projectOntology#County"/>
+        <rdfs:label>adjacentTo</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#has -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/projectOntology#has">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#TransitiveProperty"/>
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/projectOntology#Area"/>
+        <rdfs:range rdf:resource="http://webprotege.stanford.edu/projectOntology#Area"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#inArea -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/projectOntology#inArea">
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/projectOntology#Stats"/>
+        <rdfs:range rdf:resource="http://webprotege.stanford.edu/projectOntology#Area"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#inYear -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/projectOntology#inYear">
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/projectOntology#Stats"/>
+        <rdfs:range rdf:resource="http://webprotege.stanford.edu/projectOntology#Year"/>
+        <rdfs:label>inYear</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#nextYear -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/projectOntology#nextYear">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <owl:inverseOf rdf:resource="http://webprotege.stanford.edu/projectOntology#previousYear"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#InverseFunctionalProperty"/>
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/projectOntology#Year"/>
+        <rdfs:range rdf:resource="http://webprotege.stanford.edu/projectOntology#Year"/>
+        <rdfs:label>nextYear</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#previousYear -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/projectOntology#previousYear">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#InverseFunctionalProperty"/>
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/projectOntology#Year"/>
+        <rdfs:range rdf:resource="http://webprotege.stanford.edu/projectOntology#Year"/>
+        <rdfs:label>previousYear</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#AmountOfDrugsConfiscated -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/projectOntology#AmountOfDrugsConfiscated">
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/projectOntology#Drug"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#AverageAgeOfKidnapped -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/projectOntology#AverageAgeOfKidnapped">
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/projectOntology#Kidnapping"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#AverageCostOfDamages -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/projectOntology#AverageCostOfDamages">
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/projectOntology#PropertyDamages"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#AverageGreatestRainfall -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/projectOntology#AverageGreatestRainfall">
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/projectOntology#Weather"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#AverageValueStolen -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/projectOntology#AverageValueStolen">
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/projectOntology#Theft"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#CountyName -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/projectOntology#CountyName">
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/projectOntology#County"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#CrimeName -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/projectOntology#CrimeName">
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/projectOntology#Crime"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label>CrimeName</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#DamagesToPublicProperty -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/projectOntology#DamagesToPublicProperty">
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/projectOntology#Driving"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#DivisionName -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/projectOntology#DivisionName">
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/projectOntology#Division"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#HousingPricesType -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/projectOntology#HousingPricesType">
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/projectOntology#HousingPrices"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#MeanPrice -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/projectOntology#MeanPrice">
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/projectOntology#HousingPrices"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+        <rdfs:label>MeanPrice</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#ModeGenderVictim -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/projectOntology#ModeGenderVictim">
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/projectOntology#MurderDeath"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#ModeReportedWeapon -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/projectOntology#ModeReportedWeapon">
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/projectOntology#Harm"/>
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/projectOntology#Weapons"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#ModeVehiclesReported -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/projectOntology#ModeVehiclesReported">
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/projectOntology#Transport"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#NumFemales -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/projectOntology#NumFemales">
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/projectOntology#Homelessness"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#NumMales -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/projectOntology#NumMales">
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/projectOntology#Homelessness"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#NumOfCaseRelatingToDomesticHarm -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/projectOntology#NumOfCaseRelatingToDomesticHarm">
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/projectOntology#SexualOffences"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#NumOfCrime -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/projectOntology#NumOfCrime">
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/projectOntology#Crime"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+        <rdfs:label>NumOfCrime</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#NumOfHomeless -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/projectOntology#NumOfHomeless">
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/projectOntology#Homelessness"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+        <rdfs:label>NumOfHomeless</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#NumOfRainDays -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/projectOntology#NumOfRainDays">
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/projectOntology#Weather"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#NumOfReportedArrests -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/projectOntology#NumOfReportedArrests">
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/projectOntology#OtherOffences"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#NumOfWetDays -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/projectOntology#NumOfWetDays">
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/projectOntology#Weather"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#NumoOfAssaultsRelatingToDrugs -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/projectOntology#NumoOfAssaultsRelatingToDrugs">
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/projectOntology#AttemptedMurder"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#Rainfall -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/projectOntology#Rainfall">
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/projectOntology#Weather"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#SalaryValue -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/projectOntology#SalaryValue">
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/projectOntology#Salaries"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#SalesValue -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/projectOntology#SalesValue">
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/projectOntology#HousingPrices"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+        <rdfs:label>SalesValue</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#SalesVolume -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/projectOntology#SalesVolume">
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/projectOntology#HousingPrices"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+        <rdfs:label>SalesVolume</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#YearValue -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/projectOntology#YearValue">
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/projectOntology#Year"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#18to24 -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/projectOntology#18to24">
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/projectOntology#Homelessness"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#25to44 -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/projectOntology#25to44">
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/projectOntology#Homelessness"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#45to64 -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/projectOntology#45to64">
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/projectOntology#Homelessness"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#65plus -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/projectOntology#65plus">
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/projectOntology#Homelessness"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#Area -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/projectOntology#Area">
+        <rdfs:label>Area</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#AttemptedMurder -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/projectOntology#AttemptedMurder">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/projectOntology#Crime"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AttemptedMurder</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#Country -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/projectOntology#Country">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/projectOntology#Area"/>
+        <rdfs:label>Country</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#County -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/projectOntology#County">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/projectOntology#Area"/>
+        <rdfs:label>County</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#Crime -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/projectOntology#Crime">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/projectOntology#Stats"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/projectOntology#CrimeName"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/projectOntology#NumOfCrime"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:label>Crime</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#Division -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/projectOntology#Division">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/projectOntology#Area"/>
+        <rdfs:label>Division</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#Driving -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/projectOntology#Driving">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/projectOntology#Crime"/>
+        <rdfs:label>Driving</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#Drug -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/projectOntology#Drug">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/projectOntology#Crime"/>
+        <rdfs:label>Drug</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#Harm -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/projectOntology#Harm">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/projectOntology#Crime"/>
+        <rdfs:label>Harm</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#Homelessness -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/projectOntology#Homelessness">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/projectOntology#Stats"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/projectOntology#NumOfHomeless"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:label>Homelessness</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#HousingPrices -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/projectOntology#HousingPrices">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/projectOntology#Stats"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/projectOntology#MeanPrice"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/projectOntology#SalesValue"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/projectOntology#SalesVolume"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:label>HousingPrices</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#Kidnapping -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/projectOntology#Kidnapping">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/projectOntology#Crime"/>
+        <rdfs:label>Kidnapping</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#MurderDeath -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/projectOntology#MurderDeath">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/projectOntology#Crime"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MurderDeath</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#OtherOffences -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/projectOntology#OtherOffences">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/projectOntology#Crime"/>
+        <rdfs:label>OtherOffences</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#PropertyDamages -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/projectOntology#PropertyDamages">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/projectOntology#Crime"/>
+        <rdfs:label>PropertyDamages</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#Salaries -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/projectOntology#Salaries">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/projectOntology#Stats"/>
+        <rdfs:label>Salaries</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#SexualOffences -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/projectOntology#SexualOffences">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/projectOntology#Crime"/>
+        <rdfs:label>SexualOffences</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#Stats -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/projectOntology#Stats">
+        <rdfs:label>Stats</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#Theft -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/projectOntology#Theft">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/projectOntology#Crime"/>
+        <rdfs:label>Theft</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#Transport -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/projectOntology#Transport">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/projectOntology#Crime"/>
+        <rdfs:label>Transport</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#Weapons -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/projectOntology#Weapons">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/projectOntology#Crime"/>
+        <rdfs:label>Weapons</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#Weather -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/projectOntology#Weather">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/projectOntology#Stats"/>
+        <rdfs:label>Weather</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/projectOntology#Year -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/projectOntology#Year">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>Year</rdfs:label>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+

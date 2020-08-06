@@ -1,0 +1,26 @@
+PREFIX db: <http://dbpedia.org/ontology/>
+PREFIX ont: <http://webprotege.stanford.edu/projectOntology#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+SELECT ?old_year ?county ?old_price ?new_price ?old_homeless ?new_homeless WHERE {
+    ?x ont:CountyName ?county .
+    ?x db:Year ?old_year .
+    ?x ont:HousingPricesType '§0' .
+    ?x ont:MeanPrice ?old_price .
+
+    ?y ont:CountyName ?county .
+    ?y db:Year ?b .
+    ?y ont:HousingPricesType '§0' .
+    ?y ont:MeanPrice ?new_price .
+
+    ?s ont:CountyName ?county .
+    ?s db:Year ?old_year .
+    ?s ont:NumOfHomeless ?old_homeless .
+
+    ?t ont:CountyName ?county .
+    ?t db:Year ?b .
+    ?t ont:NumOfHomeless ?new_homeless .
+
+    FILTER (xsd:int(?old_year) + 1 = xsd:int(?b))
+    FILTER (xsd:float(?old_price) < xsd:float(?new_price))
+    FILTER (xsd:float(?old_homeless) >= xsd:float(?new_homeless))
+}

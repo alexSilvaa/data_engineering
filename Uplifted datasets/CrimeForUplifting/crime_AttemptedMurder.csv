@@ -1,0 +1,2143 @@
+count,county,crime,division,year
+761.0,Donegal,"Attempts/threats to murder, assaults, harassments and related offences",Donegal Garda Division,2003
+666.0,Donegal,"Attempts/threats to murder, assaults, harassments and related offences",Donegal Garda Division,2004
+769.0,Donegal,"Attempts/threats to murder, assaults, harassments and related offences",Donegal Garda Division,2005
+839.0,Donegal,"Attempts/threats to murder, assaults, harassments and related offences",Donegal Garda Division,2006
+990.0,Donegal,"Attempts/threats to murder, assaults, harassments and related offences",Donegal Garda Division,2007
+1091.0,Donegal,"Attempts/threats to murder, assaults, harassments and related offences",Donegal Garda Division,2008
+927.0,Donegal,"Attempts/threats to murder, assaults, harassments and related offences",Donegal Garda Division,2009
+818.0,Donegal,"Attempts/threats to murder, assaults, harassments and related offences",Donegal Garda Division,2010
+862.0,Donegal,"Attempts/threats to murder, assaults, harassments and related offences",Donegal Garda Division,2011
+738.0,Donegal,"Attempts/threats to murder, assaults, harassments and related offences",Donegal Garda Division,2012
+692.0,Donegal,"Attempts/threats to murder, assaults, harassments and related offences",Donegal Garda Division,2013
+745.0,Donegal,"Attempts/threats to murder, assaults, harassments and related offences",Donegal Garda Division,2014
+726.0,Donegal,"Attempts/threats to murder, assaults, harassments and related offences",Donegal Garda Division,2015
+701.0,Donegal,"Attempts/threats to murder, assaults, harassments and related offences",Donegal Garda Division,2016
+776.0,Donegal,"Attempts/threats to murder, assaults, harassments and related offences",Donegal Garda Division,2017
+695.0,Donegal,"Attempts/threats to murder, assaults, harassments and related offences",Donegal Garda Division,2018
+1242.0,Donegal,"Attempts/threats to murder, assaults, harassments and related offences",Donegal Garda Division,2019
+489.0,Louth,"Attempts/threats to murder, assaults, harassments and related offences",Louth  Garda Division,2003
+350.0,Louth,"Attempts/threats to murder, assaults, harassments and related offences",Louth  Garda Division,2004
+346.0,Louth,"Attempts/threats to murder, assaults, harassments and related offences",Louth  Garda Division,2005
+423.0,Louth,"Attempts/threats to murder, assaults, harassments and related offences",Louth  Garda Division,2006
+498.0,Louth,"Attempts/threats to murder, assaults, harassments and related offences",Louth  Garda Division,2007
+664.0,Louth,"Attempts/threats to murder, assaults, harassments and related offences",Louth  Garda Division,2008
+584.0,Louth,"Attempts/threats to murder, assaults, harassments and related offences",Louth  Garda Division,2009
+549.0,Louth,"Attempts/threats to murder, assaults, harassments and related offences",Louth  Garda Division,2010
+489.0,Louth,"Attempts/threats to murder, assaults, harassments and related offences",Louth  Garda Division,2011
+514.0,Louth,"Attempts/threats to murder, assaults, harassments and related offences",Louth  Garda Division,2012
+450.0,Louth,"Attempts/threats to murder, assaults, harassments and related offences",Louth  Garda Division,2013
+521.0,Louth,"Attempts/threats to murder, assaults, harassments and related offences",Louth  Garda Division,2014
+520.0,Louth,"Attempts/threats to murder, assaults, harassments and related offences",Louth  Garda Division,2015
+522.0,Louth,"Attempts/threats to murder, assaults, harassments and related offences",Louth  Garda Division,2016
+674.0,Louth,"Attempts/threats to murder, assaults, harassments and related offences",Louth  Garda Division,2017
+683.0,Louth,"Attempts/threats to murder, assaults, harassments and related offences",Louth  Garda Division,2018
+1228.0,Louth,"Attempts/threats to murder, assaults, harassments and related offences",Louth  Garda Division,2019
+375.0,Clare,"Attempts/threats to murder, assaults, harassments and related offences",Clare Garda Division,2003
+284.0,Clare,"Attempts/threats to murder, assaults, harassments and related offences",Clare Garda Division,2004
+303.0,Clare,"Attempts/threats to murder, assaults, harassments and related offences",Clare Garda Division,2005
+319.0,Clare,"Attempts/threats to murder, assaults, harassments and related offences",Clare Garda Division,2006
+375.0,Clare,"Attempts/threats to murder, assaults, harassments and related offences",Clare Garda Division,2007
+508.0,Clare,"Attempts/threats to murder, assaults, harassments and related offences",Clare Garda Division,2008
+478.0,Clare,"Attempts/threats to murder, assaults, harassments and related offences",Clare Garda Division,2009
+456.0,Clare,"Attempts/threats to murder, assaults, harassments and related offences",Clare Garda Division,2010
+361.0,Clare,"Attempts/threats to murder, assaults, harassments and related offences",Clare Garda Division,2011
+301.0,Clare,"Attempts/threats to murder, assaults, harassments and related offences",Clare Garda Division,2012
+286.0,Clare,"Attempts/threats to murder, assaults, harassments and related offences",Clare Garda Division,2013
+304.0,Clare,"Attempts/threats to murder, assaults, harassments and related offences",Clare Garda Division,2014
+373.0,Clare,"Attempts/threats to murder, assaults, harassments and related offences",Clare Garda Division,2015
+387.0,Clare,"Attempts/threats to murder, assaults, harassments and related offences",Clare Garda Division,2016
+380.0,Clare,"Attempts/threats to murder, assaults, harassments and related offences",Clare Garda Division,2017
+377.0,Clare,"Attempts/threats to murder, assaults, harassments and related offences",Clare Garda Division,2018
+648.0,Clare,"Attempts/threats to murder, assaults, harassments and related offences",Clare Garda Division,2019
+395.0,Mayo,"Attempts/threats to murder, assaults, harassments and related offences",Mayo Garda Division,2003
+410.0,Mayo,"Attempts/threats to murder, assaults, harassments and related offences",Mayo Garda Division,2004
+429.0,Mayo,"Attempts/threats to murder, assaults, harassments and related offences",Mayo Garda Division,2005
+505.0,Mayo,"Attempts/threats to murder, assaults, harassments and related offences",Mayo Garda Division,2006
+548.0,Mayo,"Attempts/threats to murder, assaults, harassments and related offences",Mayo Garda Division,2007
+603.0,Mayo,"Attempts/threats to murder, assaults, harassments and related offences",Mayo Garda Division,2008
+561.0,Mayo,"Attempts/threats to murder, assaults, harassments and related offences",Mayo Garda Division,2009
+454.0,Mayo,"Attempts/threats to murder, assaults, harassments and related offences",Mayo Garda Division,2010
+439.0,Mayo,"Attempts/threats to murder, assaults, harassments and related offences",Mayo Garda Division,2011
+431.0,Mayo,"Attempts/threats to murder, assaults, harassments and related offences",Mayo Garda Division,2012
+396.0,Mayo,"Attempts/threats to murder, assaults, harassments and related offences",Mayo Garda Division,2013
+379.0,Mayo,"Attempts/threats to murder, assaults, harassments and related offences",Mayo Garda Division,2014
+374.0,Mayo,"Attempts/threats to murder, assaults, harassments and related offences",Mayo Garda Division,2015
+350.0,Mayo,"Attempts/threats to murder, assaults, harassments and related offences",Mayo Garda Division,2016
+413.0,Mayo,"Attempts/threats to murder, assaults, harassments and related offences",Mayo Garda Division,2017
+415.0,Mayo,"Attempts/threats to murder, assaults, harassments and related offences",Mayo Garda Division,2018
+733.0,Mayo,"Attempts/threats to murder, assaults, harassments and related offences",Mayo Garda Division,2019
+619.0,Galway,"Attempts/threats to murder, assaults, harassments and related offences",Galway Garda Division,2003
+653.0,Galway,"Attempts/threats to murder, assaults, harassments and related offences",Galway Garda Division,2004
+741.0,Galway,"Attempts/threats to murder, assaults, harassments and related offences",Galway Garda Division,2005
+821.0,Galway,"Attempts/threats to murder, assaults, harassments and related offences",Galway Garda Division,2006
+910.0,Galway,"Attempts/threats to murder, assaults, harassments and related offences",Galway Garda Division,2007
+1042.0,Galway,"Attempts/threats to murder, assaults, harassments and related offences",Galway Garda Division,2008
+895.0,Galway,"Attempts/threats to murder, assaults, harassments and related offences",Galway Garda Division,2009
+817.0,Galway,"Attempts/threats to murder, assaults, harassments and related offences",Galway Garda Division,2010
+877.0,Galway,"Attempts/threats to murder, assaults, harassments and related offences",Galway Garda Division,2011
+788.0,Galway,"Attempts/threats to murder, assaults, harassments and related offences",Galway Garda Division,2012
+673.0,Galway,"Attempts/threats to murder, assaults, harassments and related offences",Galway Garda Division,2013
+739.0,Galway,"Attempts/threats to murder, assaults, harassments and related offences",Galway Garda Division,2014
+787.0,Galway,"Attempts/threats to murder, assaults, harassments and related offences",Galway Garda Division,2015
+712.0,Galway,"Attempts/threats to murder, assaults, harassments and related offences",Galway Garda Division,2016
+856.0,Galway,"Attempts/threats to murder, assaults, harassments and related offences",Galway Garda Division,2017
+923.0,Galway,"Attempts/threats to murder, assaults, harassments and related offences",Galway Garda Division,2018
+1574.0,Galway,"Attempts/threats to murder, assaults, harassments and related offences",Galway Garda Division,2019
+867.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork City Garda Division,2003
+819.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork City Garda Division,2004
+744.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork City Garda Division,2005
+839.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork City Garda Division,2006
+938.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork City Garda Division,2007
+1158.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork City Garda Division,2008
+1144.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork City Garda Division,2009
+1049.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork City Garda Division,2010
+1033.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork City Garda Division,2011
+1062.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork City Garda Division,2012
+960.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork City Garda Division,2013
+1063.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork City Garda Division,2014
+1092.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork City Garda Division,2015
+1034.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork City Garda Division,2016
+1217.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork City Garda Division,2017
+1107.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork City Garda Division,2018
+2025.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork City Garda Division,2019
+415.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork North Garda Division,2003
+369.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork North Garda Division,2004
+366.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork North Garda Division,2005
+361.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork North Garda Division,2006
+432.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork North Garda Division,2007
+492.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork North Garda Division,2008
+456.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork North Garda Division,2009
+417.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork North Garda Division,2010
+371.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork North Garda Division,2011
+338.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork North Garda Division,2012
+338.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork North Garda Division,2013
+421.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork North Garda Division,2014
+420.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork North Garda Division,2015
+412.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork North Garda Division,2016
+506.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork North Garda Division,2017
+498.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork North Garda Division,2018
+956.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork North Garda Division,2019
+337.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork West Garda Division,2003
+310.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork West Garda Division,2004
+289.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork West Garda Division,2005
+318.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork West Garda Division,2006
+425.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork West Garda Division,2007
+441.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork West Garda Division,2008
+411.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork West Garda Division,2009
+335.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork West Garda Division,2010
+313.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork West Garda Division,2011
+308.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork West Garda Division,2012
+289.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork West Garda Division,2013
+297.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork West Garda Division,2014
+386.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork West Garda Division,2015
+344.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork West Garda Division,2016
+405.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork West Garda Division,2017
+365.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork West Garda Division,2018
+629.0,Cork,"Attempts/threats to murder, assaults, harassments and related offences",Cork West Garda Division,2019
+385.0,Kerry,"Attempts/threats to murder, assaults, harassments and related offences",Kerry Garda Division,2003
+416.0,Kerry,"Attempts/threats to murder, assaults, harassments and related offences",Kerry Garda Division,2004
+401.0,Kerry,"Attempts/threats to murder, assaults, harassments and related offences",Kerry Garda Division,2005
+558.0,Kerry,"Attempts/threats to murder, assaults, harassments and related offences",Kerry Garda Division,2006
+623.0,Kerry,"Attempts/threats to murder, assaults, harassments and related offences",Kerry Garda Division,2007
+608.0,Kerry,"Attempts/threats to murder, assaults, harassments and related offences",Kerry Garda Division,2008
+572.0,Kerry,"Attempts/threats to murder, assaults, harassments and related offences",Kerry Garda Division,2009
+554.0,Kerry,"Attempts/threats to murder, assaults, harassments and related offences",Kerry Garda Division,2010
+464.0,Kerry,"Attempts/threats to murder, assaults, harassments and related offences",Kerry Garda Division,2011
+481.0,Kerry,"Attempts/threats to murder, assaults, harassments and related offences",Kerry Garda Division,2012
+446.0,Kerry,"Attempts/threats to murder, assaults, harassments and related offences",Kerry Garda Division,2013
+426.0,Kerry,"Attempts/threats to murder, assaults, harassments and related offences",Kerry Garda Division,2014
+474.0,Kerry,"Attempts/threats to murder, assaults, harassments and related offences",Kerry Garda Division,2015
+468.0,Kerry,"Attempts/threats to murder, assaults, harassments and related offences",Kerry Garda Division,2016
+528.0,Kerry,"Attempts/threats to murder, assaults, harassments and related offences",Kerry Garda Division,2017
+623.0,Kerry,"Attempts/threats to murder, assaults, harassments and related offences",Kerry Garda Division,2018
+1154.0,Kerry,"Attempts/threats to murder, assaults, harassments and related offences",Kerry Garda Division,2019
+709.0,Limerick,"Attempts/threats to murder, assaults, harassments and related offences",Limerick Garda Division,2003
+650.0,Limerick,"Attempts/threats to murder, assaults, harassments and related offences",Limerick Garda Division,2004
+794.0,Limerick,"Attempts/threats to murder, assaults, harassments and related offences",Limerick Garda Division,2005
+874.0,Limerick,"Attempts/threats to murder, assaults, harassments and related offences",Limerick Garda Division,2006
+1009.0,Limerick,"Attempts/threats to murder, assaults, harassments and related offences",Limerick Garda Division,2007
+1107.0,Limerick,"Attempts/threats to murder, assaults, harassments and related offences",Limerick Garda Division,2008
+956.0,Limerick,"Attempts/threats to murder, assaults, harassments and related offences",Limerick Garda Division,2009
+1003.0,Limerick,"Attempts/threats to murder, assaults, harassments and related offences",Limerick Garda Division,2010
+897.0,Limerick,"Attempts/threats to murder, assaults, harassments and related offences",Limerick Garda Division,2011
+845.0,Limerick,"Attempts/threats to murder, assaults, harassments and related offences",Limerick Garda Division,2012
+773.0,Limerick,"Attempts/threats to murder, assaults, harassments and related offences",Limerick Garda Division,2013
+643.0,Limerick,"Attempts/threats to murder, assaults, harassments and related offences",Limerick Garda Division,2014
+786.0,Limerick,"Attempts/threats to murder, assaults, harassments and related offences",Limerick Garda Division,2015
+789.0,Limerick,"Attempts/threats to murder, assaults, harassments and related offences",Limerick Garda Division,2016
+958.0,Limerick,"Attempts/threats to murder, assaults, harassments and related offences",Limerick Garda Division,2017
+935.0,Limerick,"Attempts/threats to murder, assaults, harassments and related offences",Limerick Garda Division,2018
+1632.0,Limerick,"Attempts/threats to murder, assaults, harassments and related offences",Limerick Garda Division,2019
+278.0,Meath,"Attempts/threats to murder, assaults, harassments and related offences",Meath  Garda Division,2003
+279.0,Meath,"Attempts/threats to murder, assaults, harassments and related offences",Meath  Garda Division,2004
+339.0,Meath,"Attempts/threats to murder, assaults, harassments and related offences",Meath  Garda Division,2005
+401.0,Meath,"Attempts/threats to murder, assaults, harassments and related offences",Meath  Garda Division,2006
+505.0,Meath,"Attempts/threats to murder, assaults, harassments and related offences",Meath  Garda Division,2007
+579.0,Meath,"Attempts/threats to murder, assaults, harassments and related offences",Meath  Garda Division,2008
+543.0,Meath,"Attempts/threats to murder, assaults, harassments and related offences",Meath  Garda Division,2009
+527.0,Meath,"Attempts/threats to murder, assaults, harassments and related offences",Meath  Garda Division,2010
+434.0,Meath,"Attempts/threats to murder, assaults, harassments and related offences",Meath  Garda Division,2011
+449.0,Meath,"Attempts/threats to murder, assaults, harassments and related offences",Meath  Garda Division,2012
+401.0,Meath,"Attempts/threats to murder, assaults, harassments and related offences",Meath  Garda Division,2013
+412.0,Meath,"Attempts/threats to murder, assaults, harassments and related offences",Meath  Garda Division,2014
+495.0,Meath,"Attempts/threats to murder, assaults, harassments and related offences",Meath  Garda Division,2015
+449.0,Meath,"Attempts/threats to murder, assaults, harassments and related offences",Meath  Garda Division,2016
+497.0,Meath,"Attempts/threats to murder, assaults, harassments and related offences",Meath  Garda Division,2017
+553.0,Meath,"Attempts/threats to murder, assaults, harassments and related offences",Meath  Garda Division,2018
+982.0,Meath,"Attempts/threats to murder, assaults, harassments and related offences",Meath  Garda Division,2019
+286.0,Wicklow,"Attempts/threats to murder, assaults, harassments and related offences",Wicklow  Garda Division,2003
+316.0,Wicklow,"Attempts/threats to murder, assaults, harassments and related offences",Wicklow  Garda Division,2004
+368.0,Wicklow,"Attempts/threats to murder, assaults, harassments and related offences",Wicklow  Garda Division,2005
+389.0,Wicklow,"Attempts/threats to murder, assaults, harassments and related offences",Wicklow  Garda Division,2006
+445.0,Wicklow,"Attempts/threats to murder, assaults, harassments and related offences",Wicklow  Garda Division,2007
+586.0,Wicklow,"Attempts/threats to murder, assaults, harassments and related offences",Wicklow  Garda Division,2008
+569.0,Wicklow,"Attempts/threats to murder, assaults, harassments and related offences",Wicklow  Garda Division,2009
+535.0,Wicklow,"Attempts/threats to murder, assaults, harassments and related offences",Wicklow  Garda Division,2010
+500.0,Wicklow,"Attempts/threats to murder, assaults, harassments and related offences",Wicklow  Garda Division,2011
+531.0,Wicklow,"Attempts/threats to murder, assaults, harassments and related offences",Wicklow  Garda Division,2012
+482.0,Wicklow,"Attempts/threats to murder, assaults, harassments and related offences",Wicklow  Garda Division,2013
+482.0,Wicklow,"Attempts/threats to murder, assaults, harassments and related offences",Wicklow  Garda Division,2014
+459.0,Wicklow,"Attempts/threats to murder, assaults, harassments and related offences",Wicklow  Garda Division,2015
+422.0,Wicklow,"Attempts/threats to murder, assaults, harassments and related offences",Wicklow  Garda Division,2016
+460.0,Wicklow,"Attempts/threats to murder, assaults, harassments and related offences",Wicklow  Garda Division,2017
+461.0,Wicklow,"Attempts/threats to murder, assaults, harassments and related offences",Wicklow  Garda Division,2018
+815.0,Wicklow,"Attempts/threats to murder, assaults, harassments and related offences",Wicklow  Garda Division,2019
+285.0,Westmeath,"Attempts/threats to murder, assaults, harassments and related offences",Westmeath  Garda Division,2003
+246.0,Westmeath,"Attempts/threats to murder, assaults, harassments and related offences",Westmeath  Garda Division,2004
+315.0,Westmeath,"Attempts/threats to murder, assaults, harassments and related offences",Westmeath  Garda Division,2005
+306.0,Westmeath,"Attempts/threats to murder, assaults, harassments and related offences",Westmeath  Garda Division,2006
+408.0,Westmeath,"Attempts/threats to murder, assaults, harassments and related offences",Westmeath  Garda Division,2007
+420.0,Westmeath,"Attempts/threats to murder, assaults, harassments and related offences",Westmeath  Garda Division,2008
+396.0,Westmeath,"Attempts/threats to murder, assaults, harassments and related offences",Westmeath  Garda Division,2009
+357.0,Westmeath,"Attempts/threats to murder, assaults, harassments and related offences",Westmeath  Garda Division,2010
+359.0,Westmeath,"Attempts/threats to murder, assaults, harassments and related offences",Westmeath  Garda Division,2011
+325.0,Westmeath,"Attempts/threats to murder, assaults, harassments and related offences",Westmeath  Garda Division,2012
+247.0,Westmeath,"Attempts/threats to murder, assaults, harassments and related offences",Westmeath  Garda Division,2013
+298.0,Westmeath,"Attempts/threats to murder, assaults, harassments and related offences",Westmeath  Garda Division,2014
+297.0,Westmeath,"Attempts/threats to murder, assaults, harassments and related offences",Westmeath  Garda Division,2015
+300.0,Westmeath,"Attempts/threats to murder, assaults, harassments and related offences",Westmeath  Garda Division,2016
+315.0,Westmeath,"Attempts/threats to murder, assaults, harassments and related offences",Westmeath  Garda Division,2017
+399.0,Westmeath,"Attempts/threats to murder, assaults, harassments and related offences",Westmeath  Garda Division,2018
+703.0,Westmeath,"Attempts/threats to murder, assaults, harassments and related offences",Westmeath  Garda Division,2019
+551.0,Kildare,"Attempts/threats to murder, assaults, harassments and related offences",Kildare  Garda Division,2003
+480.0,Kildare,"Attempts/threats to murder, assaults, harassments and related offences",Kildare  Garda Division,2004
+479.0,Kildare,"Attempts/threats to murder, assaults, harassments and related offences",Kildare  Garda Division,2005
+519.0,Kildare,"Attempts/threats to murder, assaults, harassments and related offences",Kildare  Garda Division,2006
+693.0,Kildare,"Attempts/threats to murder, assaults, harassments and related offences",Kildare  Garda Division,2007
+723.0,Kildare,"Attempts/threats to murder, assaults, harassments and related offences",Kildare  Garda Division,2008
+735.0,Kildare,"Attempts/threats to murder, assaults, harassments and related offences",Kildare  Garda Division,2009
+668.0,Kildare,"Attempts/threats to murder, assaults, harassments and related offences",Kildare  Garda Division,2010
+743.0,Kildare,"Attempts/threats to murder, assaults, harassments and related offences",Kildare  Garda Division,2011
+651.0,Kildare,"Attempts/threats to murder, assaults, harassments and related offences",Kildare  Garda Division,2012
+579.0,Kildare,"Attempts/threats to murder, assaults, harassments and related offences",Kildare  Garda Division,2013
+534.0,Kildare,"Attempts/threats to murder, assaults, harassments and related offences",Kildare  Garda Division,2014
+666.0,Kildare,"Attempts/threats to murder, assaults, harassments and related offences",Kildare  Garda Division,2015
+623.0,Kildare,"Attempts/threats to murder, assaults, harassments and related offences",Kildare  Garda Division,2016
+757.0,Kildare,"Attempts/threats to murder, assaults, harassments and related offences",Kildare  Garda Division,2017
+804.0,Kildare,"Attempts/threats to murder, assaults, harassments and related offences",Kildare  Garda Division,2018
+1378.0,Kildare,"Attempts/threats to murder, assaults, harassments and related offences",Kildare  Garda Division,2019
+419.0,Tipperary,"Attempts/threats to murder, assaults, harassments and related offences",Tipperary Garda Division,2003
+450.0,Tipperary,"Attempts/threats to murder, assaults, harassments and related offences",Tipperary Garda Division,2004
+472.0,Tipperary,"Attempts/threats to murder, assaults, harassments and related offences",Tipperary Garda Division,2005
+484.0,Tipperary,"Attempts/threats to murder, assaults, harassments and related offences",Tipperary Garda Division,2006
+540.0,Tipperary,"Attempts/threats to murder, assaults, harassments and related offences",Tipperary Garda Division,2007
+615.0,Tipperary,"Attempts/threats to murder, assaults, harassments and related offences",Tipperary Garda Division,2008
+573.0,Tipperary,"Attempts/threats to murder, assaults, harassments and related offences",Tipperary Garda Division,2009
+485.0,Tipperary,"Attempts/threats to murder, assaults, harassments and related offences",Tipperary Garda Division,2010
+505.0,Tipperary,"Attempts/threats to murder, assaults, harassments and related offences",Tipperary Garda Division,2011
+417.0,Tipperary,"Attempts/threats to murder, assaults, harassments and related offences",Tipperary Garda Division,2012
+408.0,Tipperary,"Attempts/threats to murder, assaults, harassments and related offences",Tipperary Garda Division,2013
+375.0,Tipperary,"Attempts/threats to murder, assaults, harassments and related offences",Tipperary Garda Division,2014
+457.0,Tipperary,"Attempts/threats to murder, assaults, harassments and related offences",Tipperary Garda Division,2015
+451.0,Tipperary,"Attempts/threats to murder, assaults, harassments and related offences",Tipperary Garda Division,2016
+522.0,Tipperary,"Attempts/threats to murder, assaults, harassments and related offences",Tipperary Garda Division,2017
+579.0,Tipperary,"Attempts/threats to murder, assaults, harassments and related offences",Tipperary Garda Division,2018
+965.0,Tipperary,"Attempts/threats to murder, assaults, harassments and related offences",Tipperary Garda Division,2019
+323.0,Wexford,"Attempts/threats to murder, assaults, harassments and related offences",Wexford  Garda Division,2003
+308.0,Wexford,"Attempts/threats to murder, assaults, harassments and related offences",Wexford  Garda Division,2004
+337.0,Wexford,"Attempts/threats to murder, assaults, harassments and related offences",Wexford  Garda Division,2005
+399.0,Wexford,"Attempts/threats to murder, assaults, harassments and related offences",Wexford  Garda Division,2006
+515.0,Wexford,"Attempts/threats to murder, assaults, harassments and related offences",Wexford  Garda Division,2007
+510.0,Wexford,"Attempts/threats to murder, assaults, harassments and related offences",Wexford  Garda Division,2008
+519.0,Wexford,"Attempts/threats to murder, assaults, harassments and related offences",Wexford  Garda Division,2009
+487.0,Wexford,"Attempts/threats to murder, assaults, harassments and related offences",Wexford  Garda Division,2010
+464.0,Wexford,"Attempts/threats to murder, assaults, harassments and related offences",Wexford  Garda Division,2011
+476.0,Wexford,"Attempts/threats to murder, assaults, harassments and related offences",Wexford  Garda Division,2012
+362.0,Wexford,"Attempts/threats to murder, assaults, harassments and related offences",Wexford  Garda Division,2013
+373.0,Wexford,"Attempts/threats to murder, assaults, harassments and related offences",Wexford  Garda Division,2014
+450.0,Wexford,"Attempts/threats to murder, assaults, harassments and related offences",Wexford  Garda Division,2015
+444.0,Wexford,"Attempts/threats to murder, assaults, harassments and related offences",Wexford  Garda Division,2016
+516.0,Wexford,"Attempts/threats to murder, assaults, harassments and related offences",Wexford  Garda Division,2017
+590.0,Wexford,"Attempts/threats to murder, assaults, harassments and related offences",Wexford  Garda Division,2018
+1011.0,Wexford,"Attempts/threats to murder, assaults, harassments and related offences",Wexford  Garda Division,2019
+378.0,Waterford,"Attempts/threats to murder, assaults, harassments and related offences",Waterford  Garda Division,2003
+383.0,Waterford,"Attempts/threats to murder, assaults, harassments and related offences",Waterford  Garda Division,2004
+448.0,Waterford,"Attempts/threats to murder, assaults, harassments and related offences",Waterford  Garda Division,2005
+592.0,Waterford,"Attempts/threats to murder, assaults, harassments and related offences",Waterford  Garda Division,2006
+687.0,Waterford,"Attempts/threats to murder, assaults, harassments and related offences",Waterford  Garda Division,2007
+603.0,Waterford,"Attempts/threats to murder, assaults, harassments and related offences",Waterford  Garda Division,2008
+659.0,Waterford,"Attempts/threats to murder, assaults, harassments and related offences",Waterford  Garda Division,2009
+582.0,Waterford,"Attempts/threats to murder, assaults, harassments and related offences",Waterford  Garda Division,2010
+615.0,Waterford,"Attempts/threats to murder, assaults, harassments and related offences",Waterford  Garda Division,2011
+595.0,Waterford,"Attempts/threats to murder, assaults, harassments and related offences",Waterford  Garda Division,2012
+510.0,Waterford,"Attempts/threats to murder, assaults, harassments and related offences",Waterford  Garda Division,2013
+488.0,Waterford,"Attempts/threats to murder, assaults, harassments and related offences",Waterford  Garda Division,2014
+589.0,Waterford,"Attempts/threats to murder, assaults, harassments and related offences",Waterford  Garda Division,2015
+446.0,Waterford,"Attempts/threats to murder, assaults, harassments and related offences",Waterford  Garda Division,2016
+554.0,Waterford,"Attempts/threats to murder, assaults, harassments and related offences",Waterford  Garda Division,2017
+627.0,Waterford,"Attempts/threats to murder, assaults, harassments and related offences",Waterford  Garda Division,2018
+1076.0,Waterford,"Attempts/threats to murder, assaults, harassments and related offences",Waterford  Garda Division,2019
+3686.0,Dublin,"Attempts/threats to murder, assaults, harassments and related offences",Dublin Region,2003
+3833.0,Dublin,"Attempts/threats to murder, assaults, harassments and related offences",Dublin Region,2004
+3635.0,Dublin,"Attempts/threats to murder, assaults, harassments and related offences",Dublin Region,2005
+4258.0,Dublin,"Attempts/threats to murder, assaults, harassments and related offences",Dublin Region,2006
+4816.0,Dublin,"Attempts/threats to murder, assaults, harassments and related offences",Dublin Region,2007
+5120.0,Dublin,"Attempts/threats to murder, assaults, harassments and related offences",Dublin Region,2008
+5128.0,Dublin,"Attempts/threats to murder, assaults, harassments and related offences",Dublin Region,2009
+5436.0,Dublin,"Attempts/threats to murder, assaults, harassments and related offences",Dublin Region,2010
+5087.0,Dublin,"Attempts/threats to murder, assaults, harassments and related offences",Dublin Region,2011
+4319.0,Dublin,"Attempts/threats to murder, assaults, harassments and related offences",Dublin Region,2012
+4125.0,Dublin,"Attempts/threats to murder, assaults, harassments and related offences",Dublin Region,2013
+4544.0,Dublin,"Attempts/threats to murder, assaults, harassments and related offences",Dublin Region,2014
+5210.0,Dublin,"Attempts/threats to murder, assaults, harassments and related offences",Dublin Region,2015
+5549.0,Dublin,"Attempts/threats to murder, assaults, harassments and related offences",Dublin Region,2016
+5953.0,Dublin,"Attempts/threats to murder, assaults, harassments and related offences",Dublin Region,2017
+6603.0,Dublin,"Attempts/threats to murder, assaults, harassments and related offences",Dublin Region,2018
+12048.0,Dublin,"Attempts/threats to murder, assaults, harassments and related offences",Dublin Region,2019
+0.0,Donegal,Murder-attempt,Donegal Garda Division,2003
+0.0,Donegal,Murder-attempt,Donegal Garda Division,2004
+0.0,Donegal,Murder-attempt,Donegal Garda Division,2005
+0.0,Donegal,Murder-attempt,Donegal Garda Division,2006
+1.0,Donegal,Murder-attempt,Donegal Garda Division,2007
+1.0,Donegal,Murder-attempt,Donegal Garda Division,2008
+0.0,Donegal,Murder-attempt,Donegal Garda Division,2009
+1.0,Donegal,Murder-attempt,Donegal Garda Division,2010
+1.0,Donegal,Murder-attempt,Donegal Garda Division,2011
+0.0,Donegal,Murder-attempt,Donegal Garda Division,2012
+0.0,Donegal,Murder-attempt,Donegal Garda Division,2013
+0.0,Donegal,Murder-attempt,Donegal Garda Division,2014
+0.0,Donegal,Murder-attempt,Donegal Garda Division,2015
+0.0,Donegal,Murder-attempt,Donegal Garda Division,2016
+0.0,Donegal,Murder-attempt,Donegal Garda Division,2017
+0.0,Donegal,Murder-attempt,Donegal Garda Division,2018
+0.0,Donegal,Murder-attempt,Donegal Garda Division,2019
+0.0,Louth,Murder-attempt,Louth  Garda Division,2003
+1.0,Louth,Murder-attempt,Louth  Garda Division,2004
+0.0,Louth,Murder-attempt,Louth  Garda Division,2005
+2.0,Louth,Murder-attempt,Louth  Garda Division,2006
+0.0,Louth,Murder-attempt,Louth  Garda Division,2007
+0.0,Louth,Murder-attempt,Louth  Garda Division,2008
+0.0,Louth,Murder-attempt,Louth  Garda Division,2009
+0.0,Louth,Murder-attempt,Louth  Garda Division,2010
+1.0,Louth,Murder-attempt,Louth  Garda Division,2011
+0.0,Louth,Murder-attempt,Louth  Garda Division,2012
+1.0,Louth,Murder-attempt,Louth  Garda Division,2013
+0.0,Louth,Murder-attempt,Louth  Garda Division,2014
+1.0,Louth,Murder-attempt,Louth  Garda Division,2015
+0.0,Louth,Murder-attempt,Louth  Garda Division,2016
+1.0,Louth,Murder-attempt,Louth  Garda Division,2017
+1.0,Louth,Murder-attempt,Louth  Garda Division,2018
+6.0,Louth,Murder-attempt,Louth  Garda Division,2019
+0.0,Clare,Murder-attempt,Clare Garda Division,2003
+0.0,Clare,Murder-attempt,Clare Garda Division,2004
+0.0,Clare,Murder-attempt,Clare Garda Division,2005
+0.0,Clare,Murder-attempt,Clare Garda Division,2006
+0.0,Clare,Murder-attempt,Clare Garda Division,2007
+0.0,Clare,Murder-attempt,Clare Garda Division,2008
+0.0,Clare,Murder-attempt,Clare Garda Division,2009
+0.0,Clare,Murder-attempt,Clare Garda Division,2010
+0.0,Clare,Murder-attempt,Clare Garda Division,2011
+0.0,Clare,Murder-attempt,Clare Garda Division,2012
+0.0,Clare,Murder-attempt,Clare Garda Division,2013
+0.0,Clare,Murder-attempt,Clare Garda Division,2014
+0.0,Clare,Murder-attempt,Clare Garda Division,2015
+0.0,Clare,Murder-attempt,Clare Garda Division,2016
+0.0,Clare,Murder-attempt,Clare Garda Division,2017
+1.0,Clare,Murder-attempt,Clare Garda Division,2018
+1.0,Clare,Murder-attempt,Clare Garda Division,2019
+0.0,Mayo,Murder-attempt,Mayo Garda Division,2003
+0.0,Mayo,Murder-attempt,Mayo Garda Division,2004
+0.0,Mayo,Murder-attempt,Mayo Garda Division,2005
+0.0,Mayo,Murder-attempt,Mayo Garda Division,2006
+0.0,Mayo,Murder-attempt,Mayo Garda Division,2007
+0.0,Mayo,Murder-attempt,Mayo Garda Division,2008
+0.0,Mayo,Murder-attempt,Mayo Garda Division,2009
+0.0,Mayo,Murder-attempt,Mayo Garda Division,2010
+0.0,Mayo,Murder-attempt,Mayo Garda Division,2011
+0.0,Mayo,Murder-attempt,Mayo Garda Division,2012
+1.0,Mayo,Murder-attempt,Mayo Garda Division,2013
+0.0,Mayo,Murder-attempt,Mayo Garda Division,2014
+0.0,Mayo,Murder-attempt,Mayo Garda Division,2015
+0.0,Mayo,Murder-attempt,Mayo Garda Division,2016
+0.0,Mayo,Murder-attempt,Mayo Garda Division,2017
+0.0,Mayo,Murder-attempt,Mayo Garda Division,2018
+0.0,Mayo,Murder-attempt,Mayo Garda Division,2019
+0.0,Galway,Murder-attempt,Galway Garda Division,2003
+0.0,Galway,Murder-attempt,Galway Garda Division,2004
+0.0,Galway,Murder-attempt,Galway Garda Division,2005
+0.0,Galway,Murder-attempt,Galway Garda Division,2006
+0.0,Galway,Murder-attempt,Galway Garda Division,2007
+0.0,Galway,Murder-attempt,Galway Garda Division,2008
+0.0,Galway,Murder-attempt,Galway Garda Division,2009
+0.0,Galway,Murder-attempt,Galway Garda Division,2010
+0.0,Galway,Murder-attempt,Galway Garda Division,2011
+0.0,Galway,Murder-attempt,Galway Garda Division,2012
+0.0,Galway,Murder-attempt,Galway Garda Division,2013
+0.0,Galway,Murder-attempt,Galway Garda Division,2014
+0.0,Galway,Murder-attempt,Galway Garda Division,2015
+0.0,Galway,Murder-attempt,Galway Garda Division,2016
+0.0,Galway,Murder-attempt,Galway Garda Division,2017
+0.0,Galway,Murder-attempt,Galway Garda Division,2018
+0.0,Galway,Murder-attempt,Galway Garda Division,2019
+0.0,Cork,Murder-attempt,Cork City Garda Division,2003
+0.0,Cork,Murder-attempt,Cork City Garda Division,2004
+0.0,Cork,Murder-attempt,Cork City Garda Division,2005
+0.0,Cork,Murder-attempt,Cork City Garda Division,2006
+0.0,Cork,Murder-attempt,Cork City Garda Division,2007
+1.0,Cork,Murder-attempt,Cork City Garda Division,2008
+0.0,Cork,Murder-attempt,Cork City Garda Division,2009
+0.0,Cork,Murder-attempt,Cork City Garda Division,2010
+0.0,Cork,Murder-attempt,Cork City Garda Division,2011
+0.0,Cork,Murder-attempt,Cork City Garda Division,2012
+0.0,Cork,Murder-attempt,Cork City Garda Division,2013
+0.0,Cork,Murder-attempt,Cork City Garda Division,2014
+0.0,Cork,Murder-attempt,Cork City Garda Division,2015
+0.0,Cork,Murder-attempt,Cork City Garda Division,2016
+0.0,Cork,Murder-attempt,Cork City Garda Division,2017
+0.0,Cork,Murder-attempt,Cork City Garda Division,2018
+0.0,Cork,Murder-attempt,Cork City Garda Division,2019
+0.0,Cork,Murder-attempt,Cork North Garda Division,2003
+0.0,Cork,Murder-attempt,Cork North Garda Division,2004
+0.0,Cork,Murder-attempt,Cork North Garda Division,2005
+0.0,Cork,Murder-attempt,Cork North Garda Division,2006
+0.0,Cork,Murder-attempt,Cork North Garda Division,2007
+0.0,Cork,Murder-attempt,Cork North Garda Division,2008
+0.0,Cork,Murder-attempt,Cork North Garda Division,2009
+0.0,Cork,Murder-attempt,Cork North Garda Division,2010
+0.0,Cork,Murder-attempt,Cork North Garda Division,2011
+0.0,Cork,Murder-attempt,Cork North Garda Division,2012
+0.0,Cork,Murder-attempt,Cork North Garda Division,2013
+1.0,Cork,Murder-attempt,Cork North Garda Division,2014
+1.0,Cork,Murder-attempt,Cork North Garda Division,2015
+0.0,Cork,Murder-attempt,Cork North Garda Division,2016
+0.0,Cork,Murder-attempt,Cork North Garda Division,2017
+2.0,Cork,Murder-attempt,Cork North Garda Division,2018
+3.0,Cork,Murder-attempt,Cork North Garda Division,2019
+0.0,Cork,Murder-attempt,Cork West Garda Division,2003
+0.0,Cork,Murder-attempt,Cork West Garda Division,2004
+0.0,Cork,Murder-attempt,Cork West Garda Division,2005
+0.0,Cork,Murder-attempt,Cork West Garda Division,2006
+0.0,Cork,Murder-attempt,Cork West Garda Division,2007
+0.0,Cork,Murder-attempt,Cork West Garda Division,2008
+0.0,Cork,Murder-attempt,Cork West Garda Division,2009
+0.0,Cork,Murder-attempt,Cork West Garda Division,2010
+0.0,Cork,Murder-attempt,Cork West Garda Division,2011
+0.0,Cork,Murder-attempt,Cork West Garda Division,2012
+0.0,Cork,Murder-attempt,Cork West Garda Division,2013
+0.0,Cork,Murder-attempt,Cork West Garda Division,2014
+0.0,Cork,Murder-attempt,Cork West Garda Division,2015
+0.0,Cork,Murder-attempt,Cork West Garda Division,2016
+0.0,Cork,Murder-attempt,Cork West Garda Division,2017
+0.0,Cork,Murder-attempt,Cork West Garda Division,2018
+0.0,Cork,Murder-attempt,Cork West Garda Division,2019
+0.0,Kerry,Murder-attempt,Kerry Garda Division,2003
+0.0,Kerry,Murder-attempt,Kerry Garda Division,2004
+0.0,Kerry,Murder-attempt,Kerry Garda Division,2005
+0.0,Kerry,Murder-attempt,Kerry Garda Division,2006
+0.0,Kerry,Murder-attempt,Kerry Garda Division,2007
+0.0,Kerry,Murder-attempt,Kerry Garda Division,2008
+0.0,Kerry,Murder-attempt,Kerry Garda Division,2009
+0.0,Kerry,Murder-attempt,Kerry Garda Division,2010
+0.0,Kerry,Murder-attempt,Kerry Garda Division,2011
+0.0,Kerry,Murder-attempt,Kerry Garda Division,2012
+0.0,Kerry,Murder-attempt,Kerry Garda Division,2013
+0.0,Kerry,Murder-attempt,Kerry Garda Division,2014
+0.0,Kerry,Murder-attempt,Kerry Garda Division,2015
+0.0,Kerry,Murder-attempt,Kerry Garda Division,2016
+0.0,Kerry,Murder-attempt,Kerry Garda Division,2017
+0.0,Kerry,Murder-attempt,Kerry Garda Division,2018
+0.0,Kerry,Murder-attempt,Kerry Garda Division,2019
+0.0,Limerick,Murder-attempt,Limerick Garda Division,2003
+0.0,Limerick,Murder-attempt,Limerick Garda Division,2004
+0.0,Limerick,Murder-attempt,Limerick Garda Division,2005
+1.0,Limerick,Murder-attempt,Limerick Garda Division,2006
+0.0,Limerick,Murder-attempt,Limerick Garda Division,2007
+0.0,Limerick,Murder-attempt,Limerick Garda Division,2008
+0.0,Limerick,Murder-attempt,Limerick Garda Division,2009
+1.0,Limerick,Murder-attempt,Limerick Garda Division,2010
+0.0,Limerick,Murder-attempt,Limerick Garda Division,2011
+1.0,Limerick,Murder-attempt,Limerick Garda Division,2012
+0.0,Limerick,Murder-attempt,Limerick Garda Division,2013
+0.0,Limerick,Murder-attempt,Limerick Garda Division,2014
+0.0,Limerick,Murder-attempt,Limerick Garda Division,2015
+1.0,Limerick,Murder-attempt,Limerick Garda Division,2016
+1.0,Limerick,Murder-attempt,Limerick Garda Division,2017
+0.0,Limerick,Murder-attempt,Limerick Garda Division,2018
+0.0,Limerick,Murder-attempt,Limerick Garda Division,2019
+1.0,Meath,Murder-attempt,Meath  Garda Division,2003
+0.0,Meath,Murder-attempt,Meath  Garda Division,2004
+0.0,Meath,Murder-attempt,Meath  Garda Division,2005
+1.0,Meath,Murder-attempt,Meath  Garda Division,2006
+1.0,Meath,Murder-attempt,Meath  Garda Division,2007
+0.0,Meath,Murder-attempt,Meath  Garda Division,2008
+0.0,Meath,Murder-attempt,Meath  Garda Division,2009
+0.0,Meath,Murder-attempt,Meath  Garda Division,2010
+0.0,Meath,Murder-attempt,Meath  Garda Division,2011
+0.0,Meath,Murder-attempt,Meath  Garda Division,2012
+0.0,Meath,Murder-attempt,Meath  Garda Division,2013
+1.0,Meath,Murder-attempt,Meath  Garda Division,2014
+0.0,Meath,Murder-attempt,Meath  Garda Division,2015
+1.0,Meath,Murder-attempt,Meath  Garda Division,2016
+1.0,Meath,Murder-attempt,Meath  Garda Division,2017
+0.0,Meath,Murder-attempt,Meath  Garda Division,2018
+0.0,Meath,Murder-attempt,Meath  Garda Division,2019
+0.0,Wicklow,Murder-attempt,Wicklow  Garda Division,2003
+0.0,Wicklow,Murder-attempt,Wicklow  Garda Division,2004
+0.0,Wicklow,Murder-attempt,Wicklow  Garda Division,2005
+0.0,Wicklow,Murder-attempt,Wicklow  Garda Division,2006
+0.0,Wicklow,Murder-attempt,Wicklow  Garda Division,2007
+0.0,Wicklow,Murder-attempt,Wicklow  Garda Division,2008
+1.0,Wicklow,Murder-attempt,Wicklow  Garda Division,2009
+0.0,Wicklow,Murder-attempt,Wicklow  Garda Division,2010
+0.0,Wicklow,Murder-attempt,Wicklow  Garda Division,2011
+0.0,Wicklow,Murder-attempt,Wicklow  Garda Division,2012
+0.0,Wicklow,Murder-attempt,Wicklow  Garda Division,2013
+0.0,Wicklow,Murder-attempt,Wicklow  Garda Division,2014
+1.0,Wicklow,Murder-attempt,Wicklow  Garda Division,2015
+6.0,Wicklow,Murder-attempt,Wicklow  Garda Division,2016
+0.0,Wicklow,Murder-attempt,Wicklow  Garda Division,2017
+2.0,Wicklow,Murder-attempt,Wicklow  Garda Division,2018
+3.0,Wicklow,Murder-attempt,Wicklow  Garda Division,2019
+0.0,Westmeath,Murder-attempt,Westmeath  Garda Division,2003
+0.0,Westmeath,Murder-attempt,Westmeath  Garda Division,2004
+1.0,Westmeath,Murder-attempt,Westmeath  Garda Division,2005
+0.0,Westmeath,Murder-attempt,Westmeath  Garda Division,2006
+0.0,Westmeath,Murder-attempt,Westmeath  Garda Division,2007
+0.0,Westmeath,Murder-attempt,Westmeath  Garda Division,2008
+0.0,Westmeath,Murder-attempt,Westmeath  Garda Division,2009
+0.0,Westmeath,Murder-attempt,Westmeath  Garda Division,2010
+0.0,Westmeath,Murder-attempt,Westmeath  Garda Division,2011
+0.0,Westmeath,Murder-attempt,Westmeath  Garda Division,2012
+0.0,Westmeath,Murder-attempt,Westmeath  Garda Division,2013
+0.0,Westmeath,Murder-attempt,Westmeath  Garda Division,2014
+0.0,Westmeath,Murder-attempt,Westmeath  Garda Division,2015
+0.0,Westmeath,Murder-attempt,Westmeath  Garda Division,2016
+0.0,Westmeath,Murder-attempt,Westmeath  Garda Division,2017
+0.0,Westmeath,Murder-attempt,Westmeath  Garda Division,2018
+0.0,Westmeath,Murder-attempt,Westmeath  Garda Division,2019
+0.0,Kildare,Murder-attempt,Kildare  Garda Division,2003
+0.0,Kildare,Murder-attempt,Kildare  Garda Division,2004
+0.0,Kildare,Murder-attempt,Kildare  Garda Division,2005
+0.0,Kildare,Murder-attempt,Kildare  Garda Division,2006
+0.0,Kildare,Murder-attempt,Kildare  Garda Division,2007
+1.0,Kildare,Murder-attempt,Kildare  Garda Division,2008
+0.0,Kildare,Murder-attempt,Kildare  Garda Division,2009
+0.0,Kildare,Murder-attempt,Kildare  Garda Division,2010
+1.0,Kildare,Murder-attempt,Kildare  Garda Division,2011
+2.0,Kildare,Murder-attempt,Kildare  Garda Division,2012
+0.0,Kildare,Murder-attempt,Kildare  Garda Division,2013
+0.0,Kildare,Murder-attempt,Kildare  Garda Division,2014
+0.0,Kildare,Murder-attempt,Kildare  Garda Division,2015
+0.0,Kildare,Murder-attempt,Kildare  Garda Division,2016
+0.0,Kildare,Murder-attempt,Kildare  Garda Division,2017
+0.0,Kildare,Murder-attempt,Kildare  Garda Division,2018
+0.0,Kildare,Murder-attempt,Kildare  Garda Division,2019
+0.0,Tipperary,Murder-attempt,Tipperary Garda Division,2003
+0.0,Tipperary,Murder-attempt,Tipperary Garda Division,2004
+0.0,Tipperary,Murder-attempt,Tipperary Garda Division,2005
+1.0,Tipperary,Murder-attempt,Tipperary Garda Division,2006
+0.0,Tipperary,Murder-attempt,Tipperary Garda Division,2007
+0.0,Tipperary,Murder-attempt,Tipperary Garda Division,2008
+0.0,Tipperary,Murder-attempt,Tipperary Garda Division,2009
+0.0,Tipperary,Murder-attempt,Tipperary Garda Division,2010
+0.0,Tipperary,Murder-attempt,Tipperary Garda Division,2011
+1.0,Tipperary,Murder-attempt,Tipperary Garda Division,2012
+0.0,Tipperary,Murder-attempt,Tipperary Garda Division,2013
+0.0,Tipperary,Murder-attempt,Tipperary Garda Division,2014
+0.0,Tipperary,Murder-attempt,Tipperary Garda Division,2015
+0.0,Tipperary,Murder-attempt,Tipperary Garda Division,2016
+0.0,Tipperary,Murder-attempt,Tipperary Garda Division,2017
+0.0,Tipperary,Murder-attempt,Tipperary Garda Division,2018
+0.0,Tipperary,Murder-attempt,Tipperary Garda Division,2019
+0.0,Wexford,Murder-attempt,Wexford  Garda Division,2003
+0.0,Wexford,Murder-attempt,Wexford  Garda Division,2004
+0.0,Wexford,Murder-attempt,Wexford  Garda Division,2005
+0.0,Wexford,Murder-attempt,Wexford  Garda Division,2006
+1.0,Wexford,Murder-attempt,Wexford  Garda Division,2007
+0.0,Wexford,Murder-attempt,Wexford  Garda Division,2008
+0.0,Wexford,Murder-attempt,Wexford  Garda Division,2009
+0.0,Wexford,Murder-attempt,Wexford  Garda Division,2010
+0.0,Wexford,Murder-attempt,Wexford  Garda Division,2011
+0.0,Wexford,Murder-attempt,Wexford  Garda Division,2012
+0.0,Wexford,Murder-attempt,Wexford  Garda Division,2013
+0.0,Wexford,Murder-attempt,Wexford  Garda Division,2014
+0.0,Wexford,Murder-attempt,Wexford  Garda Division,2015
+0.0,Wexford,Murder-attempt,Wexford  Garda Division,2016
+0.0,Wexford,Murder-attempt,Wexford  Garda Division,2017
+0.0,Wexford,Murder-attempt,Wexford  Garda Division,2018
+0.0,Wexford,Murder-attempt,Wexford  Garda Division,2019
+0.0,Waterford,Murder-attempt,Waterford  Garda Division,2003
+0.0,Waterford,Murder-attempt,Waterford  Garda Division,2004
+1.0,Waterford,Murder-attempt,Waterford  Garda Division,2005
+0.0,Waterford,Murder-attempt,Waterford  Garda Division,2006
+0.0,Waterford,Murder-attempt,Waterford  Garda Division,2007
+1.0,Waterford,Murder-attempt,Waterford  Garda Division,2008
+0.0,Waterford,Murder-attempt,Waterford  Garda Division,2009
+0.0,Waterford,Murder-attempt,Waterford  Garda Division,2010
+0.0,Waterford,Murder-attempt,Waterford  Garda Division,2011
+0.0,Waterford,Murder-attempt,Waterford  Garda Division,2012
+0.0,Waterford,Murder-attempt,Waterford  Garda Division,2013
+0.0,Waterford,Murder-attempt,Waterford  Garda Division,2014
+0.0,Waterford,Murder-attempt,Waterford  Garda Division,2015
+0.0,Waterford,Murder-attempt,Waterford  Garda Division,2016
+0.0,Waterford,Murder-attempt,Waterford  Garda Division,2017
+0.0,Waterford,Murder-attempt,Waterford  Garda Division,2018
+0.0,Waterford,Murder-attempt,Waterford  Garda Division,2019
+4.0,Dublin,Murder-attempt,Dublin Region,2003
+0.0,Dublin,Murder-attempt,Dublin Region,2004
+4.0,Dublin,Murder-attempt,Dublin Region,2005
+3.0,Dublin,Murder-attempt,Dublin Region,2006
+1.0,Dublin,Murder-attempt,Dublin Region,2007
+6.0,Dublin,Murder-attempt,Dublin Region,2008
+6.0,Dublin,Murder-attempt,Dublin Region,2009
+6.0,Dublin,Murder-attempt,Dublin Region,2010
+5.0,Dublin,Murder-attempt,Dublin Region,2011
+5.0,Dublin,Murder-attempt,Dublin Region,2012
+8.0,Dublin,Murder-attempt,Dublin Region,2013
+13.0,Dublin,Murder-attempt,Dublin Region,2014
+10.0,Dublin,Murder-attempt,Dublin Region,2015
+14.0,Dublin,Murder-attempt,Dublin Region,2016
+11.0,Dublin,Murder-attempt,Dublin Region,2017
+8.0,Dublin,Murder-attempt,Dublin Region,2018
+21.0,Dublin,Murder-attempt,Dublin Region,2019
+1.0,Donegal,Murder-threat,Donegal Garda Division,2003
+1.0,Donegal,Murder-threat,Donegal Garda Division,2004
+0.0,Donegal,Murder-threat,Donegal Garda Division,2005
+1.0,Donegal,Murder-threat,Donegal Garda Division,2006
+4.0,Donegal,Murder-threat,Donegal Garda Division,2007
+5.0,Donegal,Murder-threat,Donegal Garda Division,2008
+9.0,Donegal,Murder-threat,Donegal Garda Division,2009
+21.0,Donegal,Murder-threat,Donegal Garda Division,2010
+5.0,Donegal,Murder-threat,Donegal Garda Division,2011
+16.0,Donegal,Murder-threat,Donegal Garda Division,2012
+21.0,Donegal,Murder-threat,Donegal Garda Division,2013
+19.0,Donegal,Murder-threat,Donegal Garda Division,2014
+33.0,Donegal,Murder-threat,Donegal Garda Division,2015
+47.0,Donegal,Murder-threat,Donegal Garda Division,2016
+47.0,Donegal,Murder-threat,Donegal Garda Division,2017
+52.0,Donegal,Murder-threat,Donegal Garda Division,2018
+109.0,Donegal,Murder-threat,Donegal Garda Division,2019
+1.0,Louth,Murder-threat,Louth  Garda Division,2003
+0.0,Louth,Murder-threat,Louth  Garda Division,2004
+0.0,Louth,Murder-threat,Louth  Garda Division,2005
+0.0,Louth,Murder-threat,Louth  Garda Division,2006
+6.0,Louth,Murder-threat,Louth  Garda Division,2007
+2.0,Louth,Murder-threat,Louth  Garda Division,2008
+1.0,Louth,Murder-threat,Louth  Garda Division,2009
+7.0,Louth,Murder-threat,Louth  Garda Division,2010
+8.0,Louth,Murder-threat,Louth  Garda Division,2011
+9.0,Louth,Murder-threat,Louth  Garda Division,2012
+7.0,Louth,Murder-threat,Louth  Garda Division,2013
+17.0,Louth,Murder-threat,Louth  Garda Division,2014
+28.0,Louth,Murder-threat,Louth  Garda Division,2015
+24.0,Louth,Murder-threat,Louth  Garda Division,2016
+49.0,Louth,Murder-threat,Louth  Garda Division,2017
+65.0,Louth,Murder-threat,Louth  Garda Division,2018
+127.0,Louth,Murder-threat,Louth  Garda Division,2019
+1.0,Clare,Murder-threat,Clare Garda Division,2003
+1.0,Clare,Murder-threat,Clare Garda Division,2004
+2.0,Clare,Murder-threat,Clare Garda Division,2005
+1.0,Clare,Murder-threat,Clare Garda Division,2006
+2.0,Clare,Murder-threat,Clare Garda Division,2007
+2.0,Clare,Murder-threat,Clare Garda Division,2008
+3.0,Clare,Murder-threat,Clare Garda Division,2009
+8.0,Clare,Murder-threat,Clare Garda Division,2010
+6.0,Clare,Murder-threat,Clare Garda Division,2011
+6.0,Clare,Murder-threat,Clare Garda Division,2012
+9.0,Clare,Murder-threat,Clare Garda Division,2013
+12.0,Clare,Murder-threat,Clare Garda Division,2014
+13.0,Clare,Murder-threat,Clare Garda Division,2015
+16.0,Clare,Murder-threat,Clare Garda Division,2016
+23.0,Clare,Murder-threat,Clare Garda Division,2017
+22.0,Clare,Murder-threat,Clare Garda Division,2018
+35.0,Clare,Murder-threat,Clare Garda Division,2019
+0.0,Mayo,Murder-threat,Mayo Garda Division,2003
+0.0,Mayo,Murder-threat,Mayo Garda Division,2004
+0.0,Mayo,Murder-threat,Mayo Garda Division,2005
+1.0,Mayo,Murder-threat,Mayo Garda Division,2006
+4.0,Mayo,Murder-threat,Mayo Garda Division,2007
+1.0,Mayo,Murder-threat,Mayo Garda Division,2008
+2.0,Mayo,Murder-threat,Mayo Garda Division,2009
+4.0,Mayo,Murder-threat,Mayo Garda Division,2010
+1.0,Mayo,Murder-threat,Mayo Garda Division,2011
+2.0,Mayo,Murder-threat,Mayo Garda Division,2012
+3.0,Mayo,Murder-threat,Mayo Garda Division,2013
+9.0,Mayo,Murder-threat,Mayo Garda Division,2014
+10.0,Mayo,Murder-threat,Mayo Garda Division,2015
+6.0,Mayo,Murder-threat,Mayo Garda Division,2016
+12.0,Mayo,Murder-threat,Mayo Garda Division,2017
+19.0,Mayo,Murder-threat,Mayo Garda Division,2018
+35.0,Mayo,Murder-threat,Mayo Garda Division,2019
+0.0,Galway,Murder-threat,Galway Garda Division,2003
+0.0,Galway,Murder-threat,Galway Garda Division,2004
+4.0,Galway,Murder-threat,Galway Garda Division,2005
+2.0,Galway,Murder-threat,Galway Garda Division,2006
+0.0,Galway,Murder-threat,Galway Garda Division,2007
+7.0,Galway,Murder-threat,Galway Garda Division,2008
+3.0,Galway,Murder-threat,Galway Garda Division,2009
+8.0,Galway,Murder-threat,Galway Garda Division,2010
+13.0,Galway,Murder-threat,Galway Garda Division,2011
+15.0,Galway,Murder-threat,Galway Garda Division,2012
+12.0,Galway,Murder-threat,Galway Garda Division,2013
+11.0,Galway,Murder-threat,Galway Garda Division,2014
+13.0,Galway,Murder-threat,Galway Garda Division,2015
+19.0,Galway,Murder-threat,Galway Garda Division,2016
+31.0,Galway,Murder-threat,Galway Garda Division,2017
+28.0,Galway,Murder-threat,Galway Garda Division,2018
+46.0,Galway,Murder-threat,Galway Garda Division,2019
+2.0,Cork,Murder-threat,Cork City Garda Division,2003
+0.0,Cork,Murder-threat,Cork City Garda Division,2004
+2.0,Cork,Murder-threat,Cork City Garda Division,2005
+1.0,Cork,Murder-threat,Cork City Garda Division,2006
+3.0,Cork,Murder-threat,Cork City Garda Division,2007
+4.0,Cork,Murder-threat,Cork City Garda Division,2008
+17.0,Cork,Murder-threat,Cork City Garda Division,2009
+11.0,Cork,Murder-threat,Cork City Garda Division,2010
+7.0,Cork,Murder-threat,Cork City Garda Division,2011
+5.0,Cork,Murder-threat,Cork City Garda Division,2012
+7.0,Cork,Murder-threat,Cork City Garda Division,2013
+7.0,Cork,Murder-threat,Cork City Garda Division,2014
+11.0,Cork,Murder-threat,Cork City Garda Division,2015
+15.0,Cork,Murder-threat,Cork City Garda Division,2016
+10.0,Cork,Murder-threat,Cork City Garda Division,2017
+35.0,Cork,Murder-threat,Cork City Garda Division,2018
+67.0,Cork,Murder-threat,Cork City Garda Division,2019
+0.0,Cork,Murder-threat,Cork North Garda Division,2003
+0.0,Cork,Murder-threat,Cork North Garda Division,2004
+0.0,Cork,Murder-threat,Cork North Garda Division,2005
+0.0,Cork,Murder-threat,Cork North Garda Division,2006
+0.0,Cork,Murder-threat,Cork North Garda Division,2007
+0.0,Cork,Murder-threat,Cork North Garda Division,2008
+1.0,Cork,Murder-threat,Cork North Garda Division,2009
+4.0,Cork,Murder-threat,Cork North Garda Division,2010
+2.0,Cork,Murder-threat,Cork North Garda Division,2011
+3.0,Cork,Murder-threat,Cork North Garda Division,2012
+3.0,Cork,Murder-threat,Cork North Garda Division,2013
+8.0,Cork,Murder-threat,Cork North Garda Division,2014
+12.0,Cork,Murder-threat,Cork North Garda Division,2015
+17.0,Cork,Murder-threat,Cork North Garda Division,2016
+18.0,Cork,Murder-threat,Cork North Garda Division,2017
+25.0,Cork,Murder-threat,Cork North Garda Division,2018
+50.0,Cork,Murder-threat,Cork North Garda Division,2019
+0.0,Cork,Murder-threat,Cork West Garda Division,2003
+1.0,Cork,Murder-threat,Cork West Garda Division,2004
+2.0,Cork,Murder-threat,Cork West Garda Division,2005
+0.0,Cork,Murder-threat,Cork West Garda Division,2006
+0.0,Cork,Murder-threat,Cork West Garda Division,2007
+1.0,Cork,Murder-threat,Cork West Garda Division,2008
+1.0,Cork,Murder-threat,Cork West Garda Division,2009
+2.0,Cork,Murder-threat,Cork West Garda Division,2010
+5.0,Cork,Murder-threat,Cork West Garda Division,2011
+3.0,Cork,Murder-threat,Cork West Garda Division,2012
+4.0,Cork,Murder-threat,Cork West Garda Division,2013
+1.0,Cork,Murder-threat,Cork West Garda Division,2014
+8.0,Cork,Murder-threat,Cork West Garda Division,2015
+5.0,Cork,Murder-threat,Cork West Garda Division,2016
+11.0,Cork,Murder-threat,Cork West Garda Division,2017
+12.0,Cork,Murder-threat,Cork West Garda Division,2018
+20.0,Cork,Murder-threat,Cork West Garda Division,2019
+0.0,Kerry,Murder-threat,Kerry Garda Division,2003
+0.0,Kerry,Murder-threat,Kerry Garda Division,2004
+0.0,Kerry,Murder-threat,Kerry Garda Division,2005
+0.0,Kerry,Murder-threat,Kerry Garda Division,2006
+3.0,Kerry,Murder-threat,Kerry Garda Division,2007
+0.0,Kerry,Murder-threat,Kerry Garda Division,2008
+1.0,Kerry,Murder-threat,Kerry Garda Division,2009
+6.0,Kerry,Murder-threat,Kerry Garda Division,2010
+6.0,Kerry,Murder-threat,Kerry Garda Division,2011
+12.0,Kerry,Murder-threat,Kerry Garda Division,2012
+13.0,Kerry,Murder-threat,Kerry Garda Division,2013
+8.0,Kerry,Murder-threat,Kerry Garda Division,2014
+8.0,Kerry,Murder-threat,Kerry Garda Division,2015
+7.0,Kerry,Murder-threat,Kerry Garda Division,2016
+11.0,Kerry,Murder-threat,Kerry Garda Division,2017
+6.0,Kerry,Murder-threat,Kerry Garda Division,2018
+24.0,Kerry,Murder-threat,Kerry Garda Division,2019
+28.0,Limerick,Murder-threat,Limerick Garda Division,2003
+22.0,Limerick,Murder-threat,Limerick Garda Division,2004
+37.0,Limerick,Murder-threat,Limerick Garda Division,2005
+32.0,Limerick,Murder-threat,Limerick Garda Division,2006
+44.0,Limerick,Murder-threat,Limerick Garda Division,2007
+53.0,Limerick,Murder-threat,Limerick Garda Division,2008
+28.0,Limerick,Murder-threat,Limerick Garda Division,2009
+37.0,Limerick,Murder-threat,Limerick Garda Division,2010
+42.0,Limerick,Murder-threat,Limerick Garda Division,2011
+13.0,Limerick,Murder-threat,Limerick Garda Division,2012
+24.0,Limerick,Murder-threat,Limerick Garda Division,2013
+19.0,Limerick,Murder-threat,Limerick Garda Division,2014
+35.0,Limerick,Murder-threat,Limerick Garda Division,2015
+33.0,Limerick,Murder-threat,Limerick Garda Division,2016
+31.0,Limerick,Murder-threat,Limerick Garda Division,2017
+86.0,Limerick,Murder-threat,Limerick Garda Division,2018
+150.0,Limerick,Murder-threat,Limerick Garda Division,2019
+0.0,Meath,Murder-threat,Meath  Garda Division,2003
+0.0,Meath,Murder-threat,Meath  Garda Division,2004
+0.0,Meath,Murder-threat,Meath  Garda Division,2005
+0.0,Meath,Murder-threat,Meath  Garda Division,2006
+1.0,Meath,Murder-threat,Meath  Garda Division,2007
+5.0,Meath,Murder-threat,Meath  Garda Division,2008
+2.0,Meath,Murder-threat,Meath  Garda Division,2009
+14.0,Meath,Murder-threat,Meath  Garda Division,2010
+7.0,Meath,Murder-threat,Meath  Garda Division,2011
+12.0,Meath,Murder-threat,Meath  Garda Division,2012
+10.0,Meath,Murder-threat,Meath  Garda Division,2013
+11.0,Meath,Murder-threat,Meath  Garda Division,2014
+19.0,Meath,Murder-threat,Meath  Garda Division,2015
+5.0,Meath,Murder-threat,Meath  Garda Division,2016
+15.0,Meath,Murder-threat,Meath  Garda Division,2017
+27.0,Meath,Murder-threat,Meath  Garda Division,2018
+44.0,Meath,Murder-threat,Meath  Garda Division,2019
+0.0,Wicklow,Murder-threat,Wicklow  Garda Division,2003
+0.0,Wicklow,Murder-threat,Wicklow  Garda Division,2004
+0.0,Wicklow,Murder-threat,Wicklow  Garda Division,2005
+0.0,Wicklow,Murder-threat,Wicklow  Garda Division,2006
+3.0,Wicklow,Murder-threat,Wicklow  Garda Division,2007
+1.0,Wicklow,Murder-threat,Wicklow  Garda Division,2008
+4.0,Wicklow,Murder-threat,Wicklow  Garda Division,2009
+9.0,Wicklow,Murder-threat,Wicklow  Garda Division,2010
+10.0,Wicklow,Murder-threat,Wicklow  Garda Division,2011
+13.0,Wicklow,Murder-threat,Wicklow  Garda Division,2012
+19.0,Wicklow,Murder-threat,Wicklow  Garda Division,2013
+17.0,Wicklow,Murder-threat,Wicklow  Garda Division,2014
+29.0,Wicklow,Murder-threat,Wicklow  Garda Division,2015
+27.0,Wicklow,Murder-threat,Wicklow  Garda Division,2016
+28.0,Wicklow,Murder-threat,Wicklow  Garda Division,2017
+31.0,Wicklow,Murder-threat,Wicklow  Garda Division,2018
+63.0,Wicklow,Murder-threat,Wicklow  Garda Division,2019
+0.0,Westmeath,Murder-threat,Westmeath  Garda Division,2003
+0.0,Westmeath,Murder-threat,Westmeath  Garda Division,2004
+0.0,Westmeath,Murder-threat,Westmeath  Garda Division,2005
+0.0,Westmeath,Murder-threat,Westmeath  Garda Division,2006
+0.0,Westmeath,Murder-threat,Westmeath  Garda Division,2007
+2.0,Westmeath,Murder-threat,Westmeath  Garda Division,2008
+3.0,Westmeath,Murder-threat,Westmeath  Garda Division,2009
+4.0,Westmeath,Murder-threat,Westmeath  Garda Division,2010
+5.0,Westmeath,Murder-threat,Westmeath  Garda Division,2011
+3.0,Westmeath,Murder-threat,Westmeath  Garda Division,2012
+6.0,Westmeath,Murder-threat,Westmeath  Garda Division,2013
+9.0,Westmeath,Murder-threat,Westmeath  Garda Division,2014
+12.0,Westmeath,Murder-threat,Westmeath  Garda Division,2015
+6.0,Westmeath,Murder-threat,Westmeath  Garda Division,2016
+13.0,Westmeath,Murder-threat,Westmeath  Garda Division,2017
+17.0,Westmeath,Murder-threat,Westmeath  Garda Division,2018
+22.0,Westmeath,Murder-threat,Westmeath  Garda Division,2019
+0.0,Kildare,Murder-threat,Kildare  Garda Division,2003
+0.0,Kildare,Murder-threat,Kildare  Garda Division,2004
+1.0,Kildare,Murder-threat,Kildare  Garda Division,2005
+1.0,Kildare,Murder-threat,Kildare  Garda Division,2006
+2.0,Kildare,Murder-threat,Kildare  Garda Division,2007
+5.0,Kildare,Murder-threat,Kildare  Garda Division,2008
+4.0,Kildare,Murder-threat,Kildare  Garda Division,2009
+6.0,Kildare,Murder-threat,Kildare  Garda Division,2010
+6.0,Kildare,Murder-threat,Kildare  Garda Division,2011
+6.0,Kildare,Murder-threat,Kildare  Garda Division,2012
+7.0,Kildare,Murder-threat,Kildare  Garda Division,2013
+15.0,Kildare,Murder-threat,Kildare  Garda Division,2014
+30.0,Kildare,Murder-threat,Kildare  Garda Division,2015
+43.0,Kildare,Murder-threat,Kildare  Garda Division,2016
+30.0,Kildare,Murder-threat,Kildare  Garda Division,2017
+52.0,Kildare,Murder-threat,Kildare  Garda Division,2018
+90.0,Kildare,Murder-threat,Kildare  Garda Division,2019
+0.0,Tipperary,Murder-threat,Tipperary Garda Division,2003
+0.0,Tipperary,Murder-threat,Tipperary Garda Division,2004
+0.0,Tipperary,Murder-threat,Tipperary Garda Division,2005
+0.0,Tipperary,Murder-threat,Tipperary Garda Division,2006
+1.0,Tipperary,Murder-threat,Tipperary Garda Division,2007
+4.0,Tipperary,Murder-threat,Tipperary Garda Division,2008
+2.0,Tipperary,Murder-threat,Tipperary Garda Division,2009
+15.0,Tipperary,Murder-threat,Tipperary Garda Division,2010
+23.0,Tipperary,Murder-threat,Tipperary Garda Division,2011
+6.0,Tipperary,Murder-threat,Tipperary Garda Division,2012
+22.0,Tipperary,Murder-threat,Tipperary Garda Division,2013
+18.0,Tipperary,Murder-threat,Tipperary Garda Division,2014
+26.0,Tipperary,Murder-threat,Tipperary Garda Division,2015
+20.0,Tipperary,Murder-threat,Tipperary Garda Division,2016
+50.0,Tipperary,Murder-threat,Tipperary Garda Division,2017
+28.0,Tipperary,Murder-threat,Tipperary Garda Division,2018
+42.0,Tipperary,Murder-threat,Tipperary Garda Division,2019
+0.0,Wexford,Murder-threat,Wexford  Garda Division,2003
+0.0,Wexford,Murder-threat,Wexford  Garda Division,2004
+1.0,Wexford,Murder-threat,Wexford  Garda Division,2005
+1.0,Wexford,Murder-threat,Wexford  Garda Division,2006
+0.0,Wexford,Murder-threat,Wexford  Garda Division,2007
+0.0,Wexford,Murder-threat,Wexford  Garda Division,2008
+3.0,Wexford,Murder-threat,Wexford  Garda Division,2009
+2.0,Wexford,Murder-threat,Wexford  Garda Division,2010
+4.0,Wexford,Murder-threat,Wexford  Garda Division,2011
+8.0,Wexford,Murder-threat,Wexford  Garda Division,2012
+3.0,Wexford,Murder-threat,Wexford  Garda Division,2013
+5.0,Wexford,Murder-threat,Wexford  Garda Division,2014
+14.0,Wexford,Murder-threat,Wexford  Garda Division,2015
+15.0,Wexford,Murder-threat,Wexford  Garda Division,2016
+26.0,Wexford,Murder-threat,Wexford  Garda Division,2017
+39.0,Wexford,Murder-threat,Wexford  Garda Division,2018
+64.0,Wexford,Murder-threat,Wexford  Garda Division,2019
+0.0,Waterford,Murder-threat,Waterford  Garda Division,2003
+0.0,Waterford,Murder-threat,Waterford  Garda Division,2004
+1.0,Waterford,Murder-threat,Waterford  Garda Division,2005
+2.0,Waterford,Murder-threat,Waterford  Garda Division,2006
+7.0,Waterford,Murder-threat,Waterford  Garda Division,2007
+11.0,Waterford,Murder-threat,Waterford  Garda Division,2008
+14.0,Waterford,Murder-threat,Waterford  Garda Division,2009
+14.0,Waterford,Murder-threat,Waterford  Garda Division,2010
+13.0,Waterford,Murder-threat,Waterford  Garda Division,2011
+8.0,Waterford,Murder-threat,Waterford  Garda Division,2012
+11.0,Waterford,Murder-threat,Waterford  Garda Division,2013
+7.0,Waterford,Murder-threat,Waterford  Garda Division,2014
+20.0,Waterford,Murder-threat,Waterford  Garda Division,2015
+10.0,Waterford,Murder-threat,Waterford  Garda Division,2016
+13.0,Waterford,Murder-threat,Waterford  Garda Division,2017
+31.0,Waterford,Murder-threat,Waterford  Garda Division,2018
+51.0,Waterford,Murder-threat,Waterford  Garda Division,2019
+8.0,Dublin,Murder-threat,Dublin Region,2003
+22.0,Dublin,Murder-threat,Dublin Region,2004
+42.0,Dublin,Murder-threat,Dublin Region,2005
+50.0,Dublin,Murder-threat,Dublin Region,2006
+70.0,Dublin,Murder-threat,Dublin Region,2007
+86.0,Dublin,Murder-threat,Dublin Region,2008
+109.0,Dublin,Murder-threat,Dublin Region,2009
+176.0,Dublin,Murder-threat,Dublin Region,2010
+203.0,Dublin,Murder-threat,Dublin Region,2011
+110.0,Dublin,Murder-threat,Dublin Region,2012
+118.0,Dublin,Murder-threat,Dublin Region,2013
+167.0,Dublin,Murder-threat,Dublin Region,2014
+202.0,Dublin,Murder-threat,Dublin Region,2015
+219.0,Dublin,Murder-threat,Dublin Region,2016
+243.0,Dublin,Murder-threat,Dublin Region,2017
+360.0,Dublin,Murder-threat,Dublin Region,2018
+647.0,Dublin,Murder-threat,Dublin Region,2019
+106.0,Donegal,Harassment and related offences,Donegal Garda Division,2003
+75.0,Donegal,Harassment and related offences,Donegal Garda Division,2004
+108.0,Donegal,Harassment and related offences,Donegal Garda Division,2005
+113.0,Donegal,Harassment and related offences,Donegal Garda Division,2006
+181.0,Donegal,Harassment and related offences,Donegal Garda Division,2007
+241.0,Donegal,Harassment and related offences,Donegal Garda Division,2008
+192.0,Donegal,Harassment and related offences,Donegal Garda Division,2009
+161.0,Donegal,Harassment and related offences,Donegal Garda Division,2010
+136.0,Donegal,Harassment and related offences,Donegal Garda Division,2011
+107.0,Donegal,Harassment and related offences,Donegal Garda Division,2012
+94.0,Donegal,Harassment and related offences,Donegal Garda Division,2013
+100.0,Donegal,Harassment and related offences,Donegal Garda Division,2014
+89.0,Donegal,Harassment and related offences,Donegal Garda Division,2015
+92.0,Donegal,Harassment and related offences,Donegal Garda Division,2016
+72.0,Donegal,Harassment and related offences,Donegal Garda Division,2017
+71.0,Donegal,Harassment and related offences,Donegal Garda Division,2018
+130.0,Donegal,Harassment and related offences,Donegal Garda Division,2019
+36.0,Louth,Harassment and related offences,Louth  Garda Division,2003
+48.0,Louth,Harassment and related offences,Louth  Garda Division,2004
+40.0,Louth,Harassment and related offences,Louth  Garda Division,2005
+65.0,Louth,Harassment and related offences,Louth  Garda Division,2006
+79.0,Louth,Harassment and related offences,Louth  Garda Division,2007
+115.0,Louth,Harassment and related offences,Louth  Garda Division,2008
+118.0,Louth,Harassment and related offences,Louth  Garda Division,2009
+95.0,Louth,Harassment and related offences,Louth  Garda Division,2010
+76.0,Louth,Harassment and related offences,Louth  Garda Division,2011
+61.0,Louth,Harassment and related offences,Louth  Garda Division,2012
+35.0,Louth,Harassment and related offences,Louth  Garda Division,2013
+52.0,Louth,Harassment and related offences,Louth  Garda Division,2014
+33.0,Louth,Harassment and related offences,Louth  Garda Division,2015
+39.0,Louth,Harassment and related offences,Louth  Garda Division,2016
+40.0,Louth,Harassment and related offences,Louth  Garda Division,2017
+46.0,Louth,Harassment and related offences,Louth  Garda Division,2018
+89.0,Louth,Harassment and related offences,Louth  Garda Division,2019
+37.0,Clare,Harassment and related offences,Clare Garda Division,2003
+25.0,Clare,Harassment and related offences,Clare Garda Division,2004
+27.0,Clare,Harassment and related offences,Clare Garda Division,2005
+50.0,Clare,Harassment and related offences,Clare Garda Division,2006
+81.0,Clare,Harassment and related offences,Clare Garda Division,2007
+104.0,Clare,Harassment and related offences,Clare Garda Division,2008
+84.0,Clare,Harassment and related offences,Clare Garda Division,2009
+55.0,Clare,Harassment and related offences,Clare Garda Division,2010
+43.0,Clare,Harassment and related offences,Clare Garda Division,2011
+41.0,Clare,Harassment and related offences,Clare Garda Division,2012
+46.0,Clare,Harassment and related offences,Clare Garda Division,2013
+41.0,Clare,Harassment and related offences,Clare Garda Division,2014
+43.0,Clare,Harassment and related offences,Clare Garda Division,2015
+49.0,Clare,Harassment and related offences,Clare Garda Division,2016
+42.0,Clare,Harassment and related offences,Clare Garda Division,2017
+35.0,Clare,Harassment and related offences,Clare Garda Division,2018
+65.0,Clare,Harassment and related offences,Clare Garda Division,2019
+36.0,Mayo,Harassment and related offences,Mayo Garda Division,2003
+37.0,Mayo,Harassment and related offences,Mayo Garda Division,2004
+15.0,Mayo,Harassment and related offences,Mayo Garda Division,2005
+64.0,Mayo,Harassment and related offences,Mayo Garda Division,2006
+100.0,Mayo,Harassment and related offences,Mayo Garda Division,2007
+129.0,Mayo,Harassment and related offences,Mayo Garda Division,2008
+95.0,Mayo,Harassment and related offences,Mayo Garda Division,2009
+101.0,Mayo,Harassment and related offences,Mayo Garda Division,2010
+73.0,Mayo,Harassment and related offences,Mayo Garda Division,2011
+96.0,Mayo,Harassment and related offences,Mayo Garda Division,2012
+63.0,Mayo,Harassment and related offences,Mayo Garda Division,2013
+67.0,Mayo,Harassment and related offences,Mayo Garda Division,2014
+42.0,Mayo,Harassment and related offences,Mayo Garda Division,2015
+53.0,Mayo,Harassment and related offences,Mayo Garda Division,2016
+61.0,Mayo,Harassment and related offences,Mayo Garda Division,2017
+48.0,Mayo,Harassment and related offences,Mayo Garda Division,2018
+82.0,Mayo,Harassment and related offences,Mayo Garda Division,2019
+35.0,Galway,Harassment and related offences,Galway Garda Division,2003
+42.0,Galway,Harassment and related offences,Galway Garda Division,2004
+62.0,Galway,Harassment and related offences,Galway Garda Division,2005
+83.0,Galway,Harassment and related offences,Galway Garda Division,2006
+118.0,Galway,Harassment and related offences,Galway Garda Division,2007
+203.0,Galway,Harassment and related offences,Galway Garda Division,2008
+148.0,Galway,Harassment and related offences,Galway Garda Division,2009
+150.0,Galway,Harassment and related offences,Galway Garda Division,2010
+126.0,Galway,Harassment and related offences,Galway Garda Division,2011
+120.0,Galway,Harassment and related offences,Galway Garda Division,2012
+93.0,Galway,Harassment and related offences,Galway Garda Division,2013
+78.0,Galway,Harassment and related offences,Galway Garda Division,2014
+74.0,Galway,Harassment and related offences,Galway Garda Division,2015
+74.0,Galway,Harassment and related offences,Galway Garda Division,2016
+86.0,Galway,Harassment and related offences,Galway Garda Division,2017
+94.0,Galway,Harassment and related offences,Galway Garda Division,2018
+163.0,Galway,Harassment and related offences,Galway Garda Division,2019
+55.0,Cork,Harassment and related offences,Cork City Garda Division,2003
+39.0,Cork,Harassment and related offences,Cork City Garda Division,2004
+34.0,Cork,Harassment and related offences,Cork City Garda Division,2005
+52.0,Cork,Harassment and related offences,Cork City Garda Division,2006
+85.0,Cork,Harassment and related offences,Cork City Garda Division,2007
+126.0,Cork,Harassment and related offences,Cork City Garda Division,2008
+112.0,Cork,Harassment and related offences,Cork City Garda Division,2009
+98.0,Cork,Harassment and related offences,Cork City Garda Division,2010
+75.0,Cork,Harassment and related offences,Cork City Garda Division,2011
+88.0,Cork,Harassment and related offences,Cork City Garda Division,2012
+51.0,Cork,Harassment and related offences,Cork City Garda Division,2013
+72.0,Cork,Harassment and related offences,Cork City Garda Division,2014
+82.0,Cork,Harassment and related offences,Cork City Garda Division,2015
+65.0,Cork,Harassment and related offences,Cork City Garda Division,2016
+73.0,Cork,Harassment and related offences,Cork City Garda Division,2017
+58.0,Cork,Harassment and related offences,Cork City Garda Division,2018
+104.0,Cork,Harassment and related offences,Cork City Garda Division,2019
+59.0,Cork,Harassment and related offences,Cork North Garda Division,2003
+35.0,Cork,Harassment and related offences,Cork North Garda Division,2004
+38.0,Cork,Harassment and related offences,Cork North Garda Division,2005
+37.0,Cork,Harassment and related offences,Cork North Garda Division,2006
+64.0,Cork,Harassment and related offences,Cork North Garda Division,2007
+85.0,Cork,Harassment and related offences,Cork North Garda Division,2008
+71.0,Cork,Harassment and related offences,Cork North Garda Division,2009
+54.0,Cork,Harassment and related offences,Cork North Garda Division,2010
+39.0,Cork,Harassment and related offences,Cork North Garda Division,2011
+27.0,Cork,Harassment and related offences,Cork North Garda Division,2012
+35.0,Cork,Harassment and related offences,Cork North Garda Division,2013
+36.0,Cork,Harassment and related offences,Cork North Garda Division,2014
+45.0,Cork,Harassment and related offences,Cork North Garda Division,2015
+43.0,Cork,Harassment and related offences,Cork North Garda Division,2016
+37.0,Cork,Harassment and related offences,Cork North Garda Division,2017
+45.0,Cork,Harassment and related offences,Cork North Garda Division,2018
+81.0,Cork,Harassment and related offences,Cork North Garda Division,2019
+58.0,Cork,Harassment and related offences,Cork West Garda Division,2003
+34.0,Cork,Harassment and related offences,Cork West Garda Division,2004
+30.0,Cork,Harassment and related offences,Cork West Garda Division,2005
+58.0,Cork,Harassment and related offences,Cork West Garda Division,2006
+62.0,Cork,Harassment and related offences,Cork West Garda Division,2007
+82.0,Cork,Harassment and related offences,Cork West Garda Division,2008
+64.0,Cork,Harassment and related offences,Cork West Garda Division,2009
+74.0,Cork,Harassment and related offences,Cork West Garda Division,2010
+46.0,Cork,Harassment and related offences,Cork West Garda Division,2011
+57.0,Cork,Harassment and related offences,Cork West Garda Division,2012
+38.0,Cork,Harassment and related offences,Cork West Garda Division,2013
+43.0,Cork,Harassment and related offences,Cork West Garda Division,2014
+56.0,Cork,Harassment and related offences,Cork West Garda Division,2015
+47.0,Cork,Harassment and related offences,Cork West Garda Division,2016
+55.0,Cork,Harassment and related offences,Cork West Garda Division,2017
+41.0,Cork,Harassment and related offences,Cork West Garda Division,2018
+74.0,Cork,Harassment and related offences,Cork West Garda Division,2019
+26.0,Kerry,Harassment and related offences,Kerry Garda Division,2003
+25.0,Kerry,Harassment and related offences,Kerry Garda Division,2004
+39.0,Kerry,Harassment and related offences,Kerry Garda Division,2005
+78.0,Kerry,Harassment and related offences,Kerry Garda Division,2006
+79.0,Kerry,Harassment and related offences,Kerry Garda Division,2007
+87.0,Kerry,Harassment and related offences,Kerry Garda Division,2008
+70.0,Kerry,Harassment and related offences,Kerry Garda Division,2009
+62.0,Kerry,Harassment and related offences,Kerry Garda Division,2010
+51.0,Kerry,Harassment and related offences,Kerry Garda Division,2011
+44.0,Kerry,Harassment and related offences,Kerry Garda Division,2012
+37.0,Kerry,Harassment and related offences,Kerry Garda Division,2013
+29.0,Kerry,Harassment and related offences,Kerry Garda Division,2014
+48.0,Kerry,Harassment and related offences,Kerry Garda Division,2015
+30.0,Kerry,Harassment and related offences,Kerry Garda Division,2016
+43.0,Kerry,Harassment and related offences,Kerry Garda Division,2017
+57.0,Kerry,Harassment and related offences,Kerry Garda Division,2018
+92.0,Kerry,Harassment and related offences,Kerry Garda Division,2019
+65.0,Limerick,Harassment and related offences,Limerick Garda Division,2003
+48.0,Limerick,Harassment and related offences,Limerick Garda Division,2004
+115.0,Limerick,Harassment and related offences,Limerick Garda Division,2005
+130.0,Limerick,Harassment and related offences,Limerick Garda Division,2006
+171.0,Limerick,Harassment and related offences,Limerick Garda Division,2007
+181.0,Limerick,Harassment and related offences,Limerick Garda Division,2008
+132.0,Limerick,Harassment and related offences,Limerick Garda Division,2009
+151.0,Limerick,Harassment and related offences,Limerick Garda Division,2010
+116.0,Limerick,Harassment and related offences,Limerick Garda Division,2011
+126.0,Limerick,Harassment and related offences,Limerick Garda Division,2012
+79.0,Limerick,Harassment and related offences,Limerick Garda Division,2013
+50.0,Limerick,Harassment and related offences,Limerick Garda Division,2014
+50.0,Limerick,Harassment and related offences,Limerick Garda Division,2015
+80.0,Limerick,Harassment and related offences,Limerick Garda Division,2016
+72.0,Limerick,Harassment and related offences,Limerick Garda Division,2017
+79.0,Limerick,Harassment and related offences,Limerick Garda Division,2018
+137.0,Limerick,Harassment and related offences,Limerick Garda Division,2019
+16.0,Meath,Harassment and related offences,Meath  Garda Division,2003
+39.0,Meath,Harassment and related offences,Meath  Garda Division,2004
+49.0,Meath,Harassment and related offences,Meath  Garda Division,2005
+70.0,Meath,Harassment and related offences,Meath  Garda Division,2006
+76.0,Meath,Harassment and related offences,Meath  Garda Division,2007
+98.0,Meath,Harassment and related offences,Meath  Garda Division,2008
+119.0,Meath,Harassment and related offences,Meath  Garda Division,2009
+101.0,Meath,Harassment and related offences,Meath  Garda Division,2010
+85.0,Meath,Harassment and related offences,Meath  Garda Division,2011
+58.0,Meath,Harassment and related offences,Meath  Garda Division,2012
+50.0,Meath,Harassment and related offences,Meath  Garda Division,2013
+46.0,Meath,Harassment and related offences,Meath  Garda Division,2014
+46.0,Meath,Harassment and related offences,Meath  Garda Division,2015
+42.0,Meath,Harassment and related offences,Meath  Garda Division,2016
+61.0,Meath,Harassment and related offences,Meath  Garda Division,2017
+60.0,Meath,Harassment and related offences,Meath  Garda Division,2018
+106.0,Meath,Harassment and related offences,Meath  Garda Division,2019
+16.0,Wicklow,Harassment and related offences,Wicklow  Garda Division,2003
+21.0,Wicklow,Harassment and related offences,Wicklow  Garda Division,2004
+24.0,Wicklow,Harassment and related offences,Wicklow  Garda Division,2005
+46.0,Wicklow,Harassment and related offences,Wicklow  Garda Division,2006
+76.0,Wicklow,Harassment and related offences,Wicklow  Garda Division,2007
+87.0,Wicklow,Harassment and related offences,Wicklow  Garda Division,2008
+102.0,Wicklow,Harassment and related offences,Wicklow  Garda Division,2009
+81.0,Wicklow,Harassment and related offences,Wicklow  Garda Division,2010
+48.0,Wicklow,Harassment and related offences,Wicklow  Garda Division,2011
+66.0,Wicklow,Harassment and related offences,Wicklow  Garda Division,2012
+64.0,Wicklow,Harassment and related offences,Wicklow  Garda Division,2013
+66.0,Wicklow,Harassment and related offences,Wicklow  Garda Division,2014
+66.0,Wicklow,Harassment and related offences,Wicklow  Garda Division,2015
+36.0,Wicklow,Harassment and related offences,Wicklow  Garda Division,2016
+47.0,Wicklow,Harassment and related offences,Wicklow  Garda Division,2017
+45.0,Wicklow,Harassment and related offences,Wicklow  Garda Division,2018
+77.0,Wicklow,Harassment and related offences,Wicklow  Garda Division,2019
+24.0,Westmeath,Harassment and related offences,Westmeath  Garda Division,2003
+10.0,Westmeath,Harassment and related offences,Westmeath  Garda Division,2004
+19.0,Westmeath,Harassment and related offences,Westmeath  Garda Division,2005
+20.0,Westmeath,Harassment and related offences,Westmeath  Garda Division,2006
+48.0,Westmeath,Harassment and related offences,Westmeath  Garda Division,2007
+60.0,Westmeath,Harassment and related offences,Westmeath  Garda Division,2008
+64.0,Westmeath,Harassment and related offences,Westmeath  Garda Division,2009
+47.0,Westmeath,Harassment and related offences,Westmeath  Garda Division,2010
+56.0,Westmeath,Harassment and related offences,Westmeath  Garda Division,2011
+41.0,Westmeath,Harassment and related offences,Westmeath  Garda Division,2012
+27.0,Westmeath,Harassment and related offences,Westmeath  Garda Division,2013
+20.0,Westmeath,Harassment and related offences,Westmeath  Garda Division,2014
+25.0,Westmeath,Harassment and related offences,Westmeath  Garda Division,2015
+15.0,Westmeath,Harassment and related offences,Westmeath  Garda Division,2016
+25.0,Westmeath,Harassment and related offences,Westmeath  Garda Division,2017
+31.0,Westmeath,Harassment and related offences,Westmeath  Garda Division,2018
+58.0,Westmeath,Harassment and related offences,Westmeath  Garda Division,2019
+26.0,Kildare,Harassment and related offences,Kildare  Garda Division,2003
+32.0,Kildare,Harassment and related offences,Kildare  Garda Division,2004
+23.0,Kildare,Harassment and related offences,Kildare  Garda Division,2005
+59.0,Kildare,Harassment and related offences,Kildare  Garda Division,2006
+86.0,Kildare,Harassment and related offences,Kildare  Garda Division,2007
+116.0,Kildare,Harassment and related offences,Kildare  Garda Division,2008
+114.0,Kildare,Harassment and related offences,Kildare  Garda Division,2009
+114.0,Kildare,Harassment and related offences,Kildare  Garda Division,2010
+104.0,Kildare,Harassment and related offences,Kildare  Garda Division,2011
+101.0,Kildare,Harassment and related offences,Kildare  Garda Division,2012
+49.0,Kildare,Harassment and related offences,Kildare  Garda Division,2013
+48.0,Kildare,Harassment and related offences,Kildare  Garda Division,2014
+57.0,Kildare,Harassment and related offences,Kildare  Garda Division,2015
+47.0,Kildare,Harassment and related offences,Kildare  Garda Division,2016
+64.0,Kildare,Harassment and related offences,Kildare  Garda Division,2017
+79.0,Kildare,Harassment and related offences,Kildare  Garda Division,2018
+136.0,Kildare,Harassment and related offences,Kildare  Garda Division,2019
+35.0,Tipperary,Harassment and related offences,Tipperary Garda Division,2003
+24.0,Tipperary,Harassment and related offences,Tipperary Garda Division,2004
+35.0,Tipperary,Harassment and related offences,Tipperary Garda Division,2005
+36.0,Tipperary,Harassment and related offences,Tipperary Garda Division,2006
+59.0,Tipperary,Harassment and related offences,Tipperary Garda Division,2007
+57.0,Tipperary,Harassment and related offences,Tipperary Garda Division,2008
+69.0,Tipperary,Harassment and related offences,Tipperary Garda Division,2009
+49.0,Tipperary,Harassment and related offences,Tipperary Garda Division,2010
+52.0,Tipperary,Harassment and related offences,Tipperary Garda Division,2011
+58.0,Tipperary,Harassment and related offences,Tipperary Garda Division,2012
+30.0,Tipperary,Harassment and related offences,Tipperary Garda Division,2013
+30.0,Tipperary,Harassment and related offences,Tipperary Garda Division,2014
+23.0,Tipperary,Harassment and related offences,Tipperary Garda Division,2015
+32.0,Tipperary,Harassment and related offences,Tipperary Garda Division,2016
+42.0,Tipperary,Harassment and related offences,Tipperary Garda Division,2017
+37.0,Tipperary,Harassment and related offences,Tipperary Garda Division,2018
+57.0,Tipperary,Harassment and related offences,Tipperary Garda Division,2019
+47.0,Wexford,Harassment and related offences,Wexford  Garda Division,2003
+30.0,Wexford,Harassment and related offences,Wexford  Garda Division,2004
+27.0,Wexford,Harassment and related offences,Wexford  Garda Division,2005
+47.0,Wexford,Harassment and related offences,Wexford  Garda Division,2006
+80.0,Wexford,Harassment and related offences,Wexford  Garda Division,2007
+96.0,Wexford,Harassment and related offences,Wexford  Garda Division,2008
+92.0,Wexford,Harassment and related offences,Wexford  Garda Division,2009
+96.0,Wexford,Harassment and related offences,Wexford  Garda Division,2010
+95.0,Wexford,Harassment and related offences,Wexford  Garda Division,2011
+58.0,Wexford,Harassment and related offences,Wexford  Garda Division,2012
+57.0,Wexford,Harassment and related offences,Wexford  Garda Division,2013
+39.0,Wexford,Harassment and related offences,Wexford  Garda Division,2014
+52.0,Wexford,Harassment and related offences,Wexford  Garda Division,2015
+26.0,Wexford,Harassment and related offences,Wexford  Garda Division,2016
+41.0,Wexford,Harassment and related offences,Wexford  Garda Division,2017
+48.0,Wexford,Harassment and related offences,Wexford  Garda Division,2018
+82.0,Wexford,Harassment and related offences,Wexford  Garda Division,2019
+23.0,Waterford,Harassment and related offences,Waterford  Garda Division,2003
+25.0,Waterford,Harassment and related offences,Waterford  Garda Division,2004
+23.0,Waterford,Harassment and related offences,Waterford  Garda Division,2005
+62.0,Waterford,Harassment and related offences,Waterford  Garda Division,2006
+101.0,Waterford,Harassment and related offences,Waterford  Garda Division,2007
+76.0,Waterford,Harassment and related offences,Waterford  Garda Division,2008
+68.0,Waterford,Harassment and related offences,Waterford  Garda Division,2009
+62.0,Waterford,Harassment and related offences,Waterford  Garda Division,2010
+42.0,Waterford,Harassment and related offences,Waterford  Garda Division,2011
+37.0,Waterford,Harassment and related offences,Waterford  Garda Division,2012
+49.0,Waterford,Harassment and related offences,Waterford  Garda Division,2013
+45.0,Waterford,Harassment and related offences,Waterford  Garda Division,2014
+44.0,Waterford,Harassment and related offences,Waterford  Garda Division,2015
+22.0,Waterford,Harassment and related offences,Waterford  Garda Division,2016
+27.0,Waterford,Harassment and related offences,Waterford  Garda Division,2017
+48.0,Waterford,Harassment and related offences,Waterford  Garda Division,2018
+81.0,Waterford,Harassment and related offences,Waterford  Garda Division,2019
+204.0,Dublin,Harassment and related offences,Dublin Region,2003
+241.0,Dublin,Harassment and related offences,Dublin Region,2004
+229.0,Dublin,Harassment and related offences,Dublin Region,2005
+356.0,Dublin,Harassment and related offences,Dublin Region,2006
+621.0,Dublin,Harassment and related offences,Dublin Region,2007
+733.0,Dublin,Harassment and related offences,Dublin Region,2008
+684.0,Dublin,Harassment and related offences,Dublin Region,2009
+674.0,Dublin,Harassment and related offences,Dublin Region,2010
+507.0,Dublin,Harassment and related offences,Dublin Region,2011
+436.0,Dublin,Harassment and related offences,Dublin Region,2012
+353.0,Dublin,Harassment and related offences,Dublin Region,2013
+394.0,Dublin,Harassment and related offences,Dublin Region,2014
+389.0,Dublin,Harassment and related offences,Dublin Region,2015
+402.0,Dublin,Harassment and related offences,Dublin Region,2016
+474.0,Dublin,Harassment and related offences,Dublin Region,2017
+484.0,Dublin,Harassment and related offences,Dublin Region,2018
+853.0,Dublin,Harassment and related offences,Dublin Region,2019
+184.0,Donegal,"Assault causing harm, poisoning",Donegal Garda Division,2003
+156.0,Donegal,"Assault causing harm, poisoning",Donegal Garda Division,2004
+192.0,Donegal,"Assault causing harm, poisoning",Donegal Garda Division,2005
+237.0,Donegal,"Assault causing harm, poisoning",Donegal Garda Division,2006
+169.0,Donegal,"Assault causing harm, poisoning",Donegal Garda Division,2007
+182.0,Donegal,"Assault causing harm, poisoning",Donegal Garda Division,2008
+170.0,Donegal,"Assault causing harm, poisoning",Donegal Garda Division,2009
+148.0,Donegal,"Assault causing harm, poisoning",Donegal Garda Division,2010
+162.0,Donegal,"Assault causing harm, poisoning",Donegal Garda Division,2011
+140.0,Donegal,"Assault causing harm, poisoning",Donegal Garda Division,2012
+120.0,Donegal,"Assault causing harm, poisoning",Donegal Garda Division,2013
+158.0,Donegal,"Assault causing harm, poisoning",Donegal Garda Division,2014
+156.0,Donegal,"Assault causing harm, poisoning",Donegal Garda Division,2015
+135.0,Donegal,"Assault causing harm, poisoning",Donegal Garda Division,2016
+173.0,Donegal,"Assault causing harm, poisoning",Donegal Garda Division,2017
+142.0,Donegal,"Assault causing harm, poisoning",Donegal Garda Division,2018
+263.0,Donegal,"Assault causing harm, poisoning",Donegal Garda Division,2019
+113.0,Louth,"Assault causing harm, poisoning",Louth  Garda Division,2003
+89.0,Louth,"Assault causing harm, poisoning",Louth  Garda Division,2004
+88.0,Louth,"Assault causing harm, poisoning",Louth  Garda Division,2005
+102.0,Louth,"Assault causing harm, poisoning",Louth  Garda Division,2006
+137.0,Louth,"Assault causing harm, poisoning",Louth  Garda Division,2007
+117.0,Louth,"Assault causing harm, poisoning",Louth  Garda Division,2008
+103.0,Louth,"Assault causing harm, poisoning",Louth  Garda Division,2009
+137.0,Louth,"Assault causing harm, poisoning",Louth  Garda Division,2010
+99.0,Louth,"Assault causing harm, poisoning",Louth  Garda Division,2011
+134.0,Louth,"Assault causing harm, poisoning",Louth  Garda Division,2012
+126.0,Louth,"Assault causing harm, poisoning",Louth  Garda Division,2013
+127.0,Louth,"Assault causing harm, poisoning",Louth  Garda Division,2014
+101.0,Louth,"Assault causing harm, poisoning",Louth  Garda Division,2015
+118.0,Louth,"Assault causing harm, poisoning",Louth  Garda Division,2016
+159.0,Louth,"Assault causing harm, poisoning",Louth  Garda Division,2017
+206.0,Louth,"Assault causing harm, poisoning",Louth  Garda Division,2018
+359.0,Louth,"Assault causing harm, poisoning",Louth  Garda Division,2019
+94.0,Clare,"Assault causing harm, poisoning",Clare Garda Division,2003
+75.0,Clare,"Assault causing harm, poisoning",Clare Garda Division,2004
+74.0,Clare,"Assault causing harm, poisoning",Clare Garda Division,2005
+82.0,Clare,"Assault causing harm, poisoning",Clare Garda Division,2006
+71.0,Clare,"Assault causing harm, poisoning",Clare Garda Division,2007
+70.0,Clare,"Assault causing harm, poisoning",Clare Garda Division,2008
+75.0,Clare,"Assault causing harm, poisoning",Clare Garda Division,2009
+82.0,Clare,"Assault causing harm, poisoning",Clare Garda Division,2010
+67.0,Clare,"Assault causing harm, poisoning",Clare Garda Division,2011
+46.0,Clare,"Assault causing harm, poisoning",Clare Garda Division,2012
+56.0,Clare,"Assault causing harm, poisoning",Clare Garda Division,2013
+49.0,Clare,"Assault causing harm, poisoning",Clare Garda Division,2014
+71.0,Clare,"Assault causing harm, poisoning",Clare Garda Division,2015
+56.0,Clare,"Assault causing harm, poisoning",Clare Garda Division,2016
+58.0,Clare,"Assault causing harm, poisoning",Clare Garda Division,2017
+71.0,Clare,"Assault causing harm, poisoning",Clare Garda Division,2018
+118.0,Clare,"Assault causing harm, poisoning",Clare Garda Division,2019
+99.0,Mayo,"Assault causing harm, poisoning",Mayo Garda Division,2003
+101.0,Mayo,"Assault causing harm, poisoning",Mayo Garda Division,2004
+110.0,Mayo,"Assault causing harm, poisoning",Mayo Garda Division,2005
+103.0,Mayo,"Assault causing harm, poisoning",Mayo Garda Division,2006
+81.0,Mayo,"Assault causing harm, poisoning",Mayo Garda Division,2007
+119.0,Mayo,"Assault causing harm, poisoning",Mayo Garda Division,2008
+96.0,Mayo,"Assault causing harm, poisoning",Mayo Garda Division,2009
+66.0,Mayo,"Assault causing harm, poisoning",Mayo Garda Division,2010
+84.0,Mayo,"Assault causing harm, poisoning",Mayo Garda Division,2011
+65.0,Mayo,"Assault causing harm, poisoning",Mayo Garda Division,2012
+65.0,Mayo,"Assault causing harm, poisoning",Mayo Garda Division,2013
+53.0,Mayo,"Assault causing harm, poisoning",Mayo Garda Division,2014
+58.0,Mayo,"Assault causing harm, poisoning",Mayo Garda Division,2015
+52.0,Mayo,"Assault causing harm, poisoning",Mayo Garda Division,2016
+81.0,Mayo,"Assault causing harm, poisoning",Mayo Garda Division,2017
+72.0,Mayo,"Assault causing harm, poisoning",Mayo Garda Division,2018
+120.0,Mayo,"Assault causing harm, poisoning",Mayo Garda Division,2019
+189.0,Galway,"Assault causing harm, poisoning",Galway Garda Division,2003
+165.0,Galway,"Assault causing harm, poisoning",Galway Garda Division,2004
+172.0,Galway,"Assault causing harm, poisoning",Galway Garda Division,2005
+162.0,Galway,"Assault causing harm, poisoning",Galway Garda Division,2006
+172.0,Galway,"Assault causing harm, poisoning",Galway Garda Division,2007
+188.0,Galway,"Assault causing harm, poisoning",Galway Garda Division,2008
+193.0,Galway,"Assault causing harm, poisoning",Galway Garda Division,2009
+153.0,Galway,"Assault causing harm, poisoning",Galway Garda Division,2010
+198.0,Galway,"Assault causing harm, poisoning",Galway Garda Division,2011
+154.0,Galway,"Assault causing harm, poisoning",Galway Garda Division,2012
+119.0,Galway,"Assault causing harm, poisoning",Galway Garda Division,2013
+130.0,Galway,"Assault causing harm, poisoning",Galway Garda Division,2014
+155.0,Galway,"Assault causing harm, poisoning",Galway Garda Division,2015
+133.0,Galway,"Assault causing harm, poisoning",Galway Garda Division,2016
+153.0,Galway,"Assault causing harm, poisoning",Galway Garda Division,2017
+178.0,Galway,"Assault causing harm, poisoning",Galway Garda Division,2018
+292.0,Galway,"Assault causing harm, poisoning",Galway Garda Division,2019
+244.0,Cork,"Assault causing harm, poisoning",Cork City Garda Division,2003
+226.0,Cork,"Assault causing harm, poisoning",Cork City Garda Division,2004
+247.0,Cork,"Assault causing harm, poisoning",Cork City Garda Division,2005
+279.0,Cork,"Assault causing harm, poisoning",Cork City Garda Division,2006
+259.0,Cork,"Assault causing harm, poisoning",Cork City Garda Division,2007
+274.0,Cork,"Assault causing harm, poisoning",Cork City Garda Division,2008
+250.0,Cork,"Assault causing harm, poisoning",Cork City Garda Division,2009
+223.0,Cork,"Assault causing harm, poisoning",Cork City Garda Division,2010
+203.0,Cork,"Assault causing harm, poisoning",Cork City Garda Division,2011
+226.0,Cork,"Assault causing harm, poisoning",Cork City Garda Division,2012
+193.0,Cork,"Assault causing harm, poisoning",Cork City Garda Division,2013
+218.0,Cork,"Assault causing harm, poisoning",Cork City Garda Division,2014
+217.0,Cork,"Assault causing harm, poisoning",Cork City Garda Division,2015
+234.0,Cork,"Assault causing harm, poisoning",Cork City Garda Division,2016
+287.0,Cork,"Assault causing harm, poisoning",Cork City Garda Division,2017
+212.0,Cork,"Assault causing harm, poisoning",Cork City Garda Division,2018
+389.0,Cork,"Assault causing harm, poisoning",Cork City Garda Division,2019
+92.0,Cork,"Assault causing harm, poisoning",Cork North Garda Division,2003
+78.0,Cork,"Assault causing harm, poisoning",Cork North Garda Division,2004
+93.0,Cork,"Assault causing harm, poisoning",Cork North Garda Division,2005
+84.0,Cork,"Assault causing harm, poisoning",Cork North Garda Division,2006
+90.0,Cork,"Assault causing harm, poisoning",Cork North Garda Division,2007
+77.0,Cork,"Assault causing harm, poisoning",Cork North Garda Division,2008
+62.0,Cork,"Assault causing harm, poisoning",Cork North Garda Division,2009
+77.0,Cork,"Assault causing harm, poisoning",Cork North Garda Division,2010
+81.0,Cork,"Assault causing harm, poisoning",Cork North Garda Division,2011
+71.0,Cork,"Assault causing harm, poisoning",Cork North Garda Division,2012
+85.0,Cork,"Assault causing harm, poisoning",Cork North Garda Division,2013
+84.0,Cork,"Assault causing harm, poisoning",Cork North Garda Division,2014
+80.0,Cork,"Assault causing harm, poisoning",Cork North Garda Division,2015
+80.0,Cork,"Assault causing harm, poisoning",Cork North Garda Division,2016
+101.0,Cork,"Assault causing harm, poisoning",Cork North Garda Division,2017
+95.0,Cork,"Assault causing harm, poisoning",Cork North Garda Division,2018
+184.0,Cork,"Assault causing harm, poisoning",Cork North Garda Division,2019
+95.0,Cork,"Assault causing harm, poisoning",Cork West Garda Division,2003
+101.0,Cork,"Assault causing harm, poisoning",Cork West Garda Division,2004
+89.0,Cork,"Assault causing harm, poisoning",Cork West Garda Division,2005
+89.0,Cork,"Assault causing harm, poisoning",Cork West Garda Division,2006
+92.0,Cork,"Assault causing harm, poisoning",Cork West Garda Division,2007
+94.0,Cork,"Assault causing harm, poisoning",Cork West Garda Division,2008
+80.0,Cork,"Assault causing harm, poisoning",Cork West Garda Division,2009
+55.0,Cork,"Assault causing harm, poisoning",Cork West Garda Division,2010
+65.0,Cork,"Assault causing harm, poisoning",Cork West Garda Division,2011
+49.0,Cork,"Assault causing harm, poisoning",Cork West Garda Division,2012
+65.0,Cork,"Assault causing harm, poisoning",Cork West Garda Division,2013
+49.0,Cork,"Assault causing harm, poisoning",Cork West Garda Division,2014
+65.0,Cork,"Assault causing harm, poisoning",Cork West Garda Division,2015
+62.0,Cork,"Assault causing harm, poisoning",Cork West Garda Division,2016
+66.0,Cork,"Assault causing harm, poisoning",Cork West Garda Division,2017
+78.0,Cork,"Assault causing harm, poisoning",Cork West Garda Division,2018
+149.0,Cork,"Assault causing harm, poisoning",Cork West Garda Division,2019
+101.0,Kerry,"Assault causing harm, poisoning",Kerry Garda Division,2003
+125.0,Kerry,"Assault causing harm, poisoning",Kerry Garda Division,2004
+96.0,Kerry,"Assault causing harm, poisoning",Kerry Garda Division,2005
+150.0,Kerry,"Assault causing harm, poisoning",Kerry Garda Division,2006
+141.0,Kerry,"Assault causing harm, poisoning",Kerry Garda Division,2007
+139.0,Kerry,"Assault causing harm, poisoning",Kerry Garda Division,2008
+165.0,Kerry,"Assault causing harm, poisoning",Kerry Garda Division,2009
+146.0,Kerry,"Assault causing harm, poisoning",Kerry Garda Division,2010
+117.0,Kerry,"Assault causing harm, poisoning",Kerry Garda Division,2011
+120.0,Kerry,"Assault causing harm, poisoning",Kerry Garda Division,2012
+101.0,Kerry,"Assault causing harm, poisoning",Kerry Garda Division,2013
+114.0,Kerry,"Assault causing harm, poisoning",Kerry Garda Division,2014
+122.0,Kerry,"Assault causing harm, poisoning",Kerry Garda Division,2015
+106.0,Kerry,"Assault causing harm, poisoning",Kerry Garda Division,2016
+134.0,Kerry,"Assault causing harm, poisoning",Kerry Garda Division,2017
+155.0,Kerry,"Assault causing harm, poisoning",Kerry Garda Division,2018
+252.0,Kerry,"Assault causing harm, poisoning",Kerry Garda Division,2019
+177.0,Limerick,"Assault causing harm, poisoning",Limerick Garda Division,2003
+175.0,Limerick,"Assault causing harm, poisoning",Limerick Garda Division,2004
+174.0,Limerick,"Assault causing harm, poisoning",Limerick Garda Division,2005
+213.0,Limerick,"Assault causing harm, poisoning",Limerick Garda Division,2006
+203.0,Limerick,"Assault causing harm, poisoning",Limerick Garda Division,2007
+219.0,Limerick,"Assault causing harm, poisoning",Limerick Garda Division,2008
+174.0,Limerick,"Assault causing harm, poisoning",Limerick Garda Division,2009
+166.0,Limerick,"Assault causing harm, poisoning",Limerick Garda Division,2010
+184.0,Limerick,"Assault causing harm, poisoning",Limerick Garda Division,2011
+135.0,Limerick,"Assault causing harm, poisoning",Limerick Garda Division,2012
+157.0,Limerick,"Assault causing harm, poisoning",Limerick Garda Division,2013
+139.0,Limerick,"Assault causing harm, poisoning",Limerick Garda Division,2014
+165.0,Limerick,"Assault causing harm, poisoning",Limerick Garda Division,2015
+179.0,Limerick,"Assault causing harm, poisoning",Limerick Garda Division,2016
+167.0,Limerick,"Assault causing harm, poisoning",Limerick Garda Division,2017
+183.0,Limerick,"Assault causing harm, poisoning",Limerick Garda Division,2018
+332.0,Limerick,"Assault causing harm, poisoning",Limerick Garda Division,2019
+76.0,Meath,"Assault causing harm, poisoning",Meath  Garda Division,2003
+81.0,Meath,"Assault causing harm, poisoning",Meath  Garda Division,2004
+80.0,Meath,"Assault causing harm, poisoning",Meath  Garda Division,2005
+95.0,Meath,"Assault causing harm, poisoning",Meath  Garda Division,2006
+96.0,Meath,"Assault causing harm, poisoning",Meath  Garda Division,2007
+105.0,Meath,"Assault causing harm, poisoning",Meath  Garda Division,2008
+85.0,Meath,"Assault causing harm, poisoning",Meath  Garda Division,2009
+102.0,Meath,"Assault causing harm, poisoning",Meath  Garda Division,2010
+74.0,Meath,"Assault causing harm, poisoning",Meath  Garda Division,2011
+83.0,Meath,"Assault causing harm, poisoning",Meath  Garda Division,2012
+65.0,Meath,"Assault causing harm, poisoning",Meath  Garda Division,2013
+70.0,Meath,"Assault causing harm, poisoning",Meath  Garda Division,2014
+85.0,Meath,"Assault causing harm, poisoning",Meath  Garda Division,2015
+94.0,Meath,"Assault causing harm, poisoning",Meath  Garda Division,2016
+105.0,Meath,"Assault causing harm, poisoning",Meath  Garda Division,2017
+108.0,Meath,"Assault causing harm, poisoning",Meath  Garda Division,2018
+176.0,Meath,"Assault causing harm, poisoning",Meath  Garda Division,2019
+86.0,Wicklow,"Assault causing harm, poisoning",Wicklow  Garda Division,2003
+94.0,Wicklow,"Assault causing harm, poisoning",Wicklow  Garda Division,2004
+88.0,Wicklow,"Assault causing harm, poisoning",Wicklow  Garda Division,2005
+109.0,Wicklow,"Assault causing harm, poisoning",Wicklow  Garda Division,2006
+95.0,Wicklow,"Assault causing harm, poisoning",Wicklow  Garda Division,2007
+89.0,Wicklow,"Assault causing harm, poisoning",Wicklow  Garda Division,2008
+86.0,Wicklow,"Assault causing harm, poisoning",Wicklow  Garda Division,2009
+73.0,Wicklow,"Assault causing harm, poisoning",Wicklow  Garda Division,2010
+95.0,Wicklow,"Assault causing harm, poisoning",Wicklow  Garda Division,2011
+96.0,Wicklow,"Assault causing harm, poisoning",Wicklow  Garda Division,2012
+73.0,Wicklow,"Assault causing harm, poisoning",Wicklow  Garda Division,2013
+74.0,Wicklow,"Assault causing harm, poisoning",Wicklow  Garda Division,2014
+64.0,Wicklow,"Assault causing harm, poisoning",Wicklow  Garda Division,2015
+63.0,Wicklow,"Assault causing harm, poisoning",Wicklow  Garda Division,2016
+52.0,Wicklow,"Assault causing harm, poisoning",Wicklow  Garda Division,2017
+76.0,Wicklow,"Assault causing harm, poisoning",Wicklow  Garda Division,2018
+143.0,Wicklow,"Assault causing harm, poisoning",Wicklow  Garda Division,2019
+80.0,Westmeath,"Assault causing harm, poisoning",Westmeath  Garda Division,2003
+59.0,Westmeath,"Assault causing harm, poisoning",Westmeath  Garda Division,2004
+79.0,Westmeath,"Assault causing harm, poisoning",Westmeath  Garda Division,2005
+65.0,Westmeath,"Assault causing harm, poisoning",Westmeath  Garda Division,2006
+82.0,Westmeath,"Assault causing harm, poisoning",Westmeath  Garda Division,2007
+81.0,Westmeath,"Assault causing harm, poisoning",Westmeath  Garda Division,2008
+68.0,Westmeath,"Assault causing harm, poisoning",Westmeath  Garda Division,2009
+98.0,Westmeath,"Assault causing harm, poisoning",Westmeath  Garda Division,2010
+77.0,Westmeath,"Assault causing harm, poisoning",Westmeath  Garda Division,2011
+75.0,Westmeath,"Assault causing harm, poisoning",Westmeath  Garda Division,2012
+69.0,Westmeath,"Assault causing harm, poisoning",Westmeath  Garda Division,2013
+79.0,Westmeath,"Assault causing harm, poisoning",Westmeath  Garda Division,2014
+69.0,Westmeath,"Assault causing harm, poisoning",Westmeath  Garda Division,2015
+68.0,Westmeath,"Assault causing harm, poisoning",Westmeath  Garda Division,2016
+91.0,Westmeath,"Assault causing harm, poisoning",Westmeath  Garda Division,2017
+100.0,Westmeath,"Assault causing harm, poisoning",Westmeath  Garda Division,2018
+178.0,Westmeath,"Assault causing harm, poisoning",Westmeath  Garda Division,2019
+160.0,Kildare,"Assault causing harm, poisoning",Kildare  Garda Division,2003
+145.0,Kildare,"Assault causing harm, poisoning",Kildare  Garda Division,2004
+135.0,Kildare,"Assault causing harm, poisoning",Kildare  Garda Division,2005
+171.0,Kildare,"Assault causing harm, poisoning",Kildare  Garda Division,2006
+153.0,Kildare,"Assault causing harm, poisoning",Kildare  Garda Division,2007
+141.0,Kildare,"Assault causing harm, poisoning",Kildare  Garda Division,2008
+161.0,Kildare,"Assault causing harm, poisoning",Kildare  Garda Division,2009
+145.0,Kildare,"Assault causing harm, poisoning",Kildare  Garda Division,2010
+173.0,Kildare,"Assault causing harm, poisoning",Kildare  Garda Division,2011
+108.0,Kildare,"Assault causing harm, poisoning",Kildare  Garda Division,2012
+117.0,Kildare,"Assault causing harm, poisoning",Kildare  Garda Division,2013
+94.0,Kildare,"Assault causing harm, poisoning",Kildare  Garda Division,2014
+108.0,Kildare,"Assault causing harm, poisoning",Kildare  Garda Division,2015
+102.0,Kildare,"Assault causing harm, poisoning",Kildare  Garda Division,2016
+142.0,Kildare,"Assault causing harm, poisoning",Kildare  Garda Division,2017
+154.0,Kildare,"Assault causing harm, poisoning",Kildare  Garda Division,2018
+264.0,Kildare,"Assault causing harm, poisoning",Kildare  Garda Division,2019
+118.0,Tipperary,"Assault causing harm, poisoning",Tipperary Garda Division,2003
+114.0,Tipperary,"Assault causing harm, poisoning",Tipperary Garda Division,2004
+110.0,Tipperary,"Assault causing harm, poisoning",Tipperary Garda Division,2005
+116.0,Tipperary,"Assault causing harm, poisoning",Tipperary Garda Division,2006
+106.0,Tipperary,"Assault causing harm, poisoning",Tipperary Garda Division,2007
+136.0,Tipperary,"Assault causing harm, poisoning",Tipperary Garda Division,2008
+107.0,Tipperary,"Assault causing harm, poisoning",Tipperary Garda Division,2009
+98.0,Tipperary,"Assault causing harm, poisoning",Tipperary Garda Division,2010
+120.0,Tipperary,"Assault causing harm, poisoning",Tipperary Garda Division,2011
+94.0,Tipperary,"Assault causing harm, poisoning",Tipperary Garda Division,2012
+96.0,Tipperary,"Assault causing harm, poisoning",Tipperary Garda Division,2013
+88.0,Tipperary,"Assault causing harm, poisoning",Tipperary Garda Division,2014
+118.0,Tipperary,"Assault causing harm, poisoning",Tipperary Garda Division,2015
+127.0,Tipperary,"Assault causing harm, poisoning",Tipperary Garda Division,2016
+125.0,Tipperary,"Assault causing harm, poisoning",Tipperary Garda Division,2017
+155.0,Tipperary,"Assault causing harm, poisoning",Tipperary Garda Division,2018
+253.0,Tipperary,"Assault causing harm, poisoning",Tipperary Garda Division,2019
+73.0,Wexford,"Assault causing harm, poisoning",Wexford  Garda Division,2003
+76.0,Wexford,"Assault causing harm, poisoning",Wexford  Garda Division,2004
+74.0,Wexford,"Assault causing harm, poisoning",Wexford  Garda Division,2005
+84.0,Wexford,"Assault causing harm, poisoning",Wexford  Garda Division,2006
+111.0,Wexford,"Assault causing harm, poisoning",Wexford  Garda Division,2007
+96.0,Wexford,"Assault causing harm, poisoning",Wexford  Garda Division,2008
+79.0,Wexford,"Assault causing harm, poisoning",Wexford  Garda Division,2009
+69.0,Wexford,"Assault causing harm, poisoning",Wexford  Garda Division,2010
+51.0,Wexford,"Assault causing harm, poisoning",Wexford  Garda Division,2011
+66.0,Wexford,"Assault causing harm, poisoning",Wexford  Garda Division,2012
+58.0,Wexford,"Assault causing harm, poisoning",Wexford  Garda Division,2013
+72.0,Wexford,"Assault causing harm, poisoning",Wexford  Garda Division,2014
+65.0,Wexford,"Assault causing harm, poisoning",Wexford  Garda Division,2015
+86.0,Wexford,"Assault causing harm, poisoning",Wexford  Garda Division,2016
+105.0,Wexford,"Assault causing harm, poisoning",Wexford  Garda Division,2017
+128.0,Wexford,"Assault causing harm, poisoning",Wexford  Garda Division,2018
+220.0,Wexford,"Assault causing harm, poisoning",Wexford  Garda Division,2019
+146.0,Waterford,"Assault causing harm, poisoning",Waterford  Garda Division,2003
+135.0,Waterford,"Assault causing harm, poisoning",Waterford  Garda Division,2004
+134.0,Waterford,"Assault causing harm, poisoning",Waterford  Garda Division,2005
+126.0,Waterford,"Assault causing harm, poisoning",Waterford  Garda Division,2006
+139.0,Waterford,"Assault causing harm, poisoning",Waterford  Garda Division,2007
+126.0,Waterford,"Assault causing harm, poisoning",Waterford  Garda Division,2008
+158.0,Waterford,"Assault causing harm, poisoning",Waterford  Garda Division,2009
+151.0,Waterford,"Assault causing harm, poisoning",Waterford  Garda Division,2010
+135.0,Waterford,"Assault causing harm, poisoning",Waterford  Garda Division,2011
+138.0,Waterford,"Assault causing harm, poisoning",Waterford  Garda Division,2012
+129.0,Waterford,"Assault causing harm, poisoning",Waterford  Garda Division,2013
+113.0,Waterford,"Assault causing harm, poisoning",Waterford  Garda Division,2014
+137.0,Waterford,"Assault causing harm, poisoning",Waterford  Garda Division,2015
+104.0,Waterford,"Assault causing harm, poisoning",Waterford  Garda Division,2016
+135.0,Waterford,"Assault causing harm, poisoning",Waterford  Garda Division,2017
+142.0,Waterford,"Assault causing harm, poisoning",Waterford  Garda Division,2018
+250.0,Waterford,"Assault causing harm, poisoning",Waterford  Garda Division,2019
+1354.0,Dublin,"Assault causing harm, poisoning",Dublin Region,2003
+1384.0,Dublin,"Assault causing harm, poisoning",Dublin Region,2004
+1186.0,Dublin,"Assault causing harm, poisoning",Dublin Region,2005
+1199.0,Dublin,"Assault causing harm, poisoning",Dublin Region,2006
+1174.0,Dublin,"Assault causing harm, poisoning",Dublin Region,2007
+1119.0,Dublin,"Assault causing harm, poisoning",Dublin Region,2008
+1114.0,Dublin,"Assault causing harm, poisoning",Dublin Region,2009
+1177.0,Dublin,"Assault causing harm, poisoning",Dublin Region,2010
+1123.0,Dublin,"Assault causing harm, poisoning",Dublin Region,2011
+1007.0,Dublin,"Assault causing harm, poisoning",Dublin Region,2012
+963.0,Dublin,"Assault causing harm, poisoning",Dublin Region,2013
+1021.0,Dublin,"Assault causing harm, poisoning",Dublin Region,2014
+1211.0,Dublin,"Assault causing harm, poisoning",Dublin Region,2015
+1310.0,Dublin,"Assault causing harm, poisoning",Dublin Region,2016
+1317.0,Dublin,"Assault causing harm, poisoning",Dublin Region,2017
+1565.0,Dublin,"Assault causing harm, poisoning",Dublin Region,2018
+2824.0,Dublin,"Assault causing harm, poisoning",Dublin Region,2019
+470.0,Donegal,Other assault,Donegal Garda Division,2003
+434.0,Donegal,Other assault,Donegal Garda Division,2004
+469.0,Donegal,Other assault,Donegal Garda Division,2005
+488.0,Donegal,Other assault,Donegal Garda Division,2006
+635.0,Donegal,Other assault,Donegal Garda Division,2007
+662.0,Donegal,Other assault,Donegal Garda Division,2008
+556.0,Donegal,Other assault,Donegal Garda Division,2009
+487.0,Donegal,Other assault,Donegal Garda Division,2010
+558.0,Donegal,Other assault,Donegal Garda Division,2011
+475.0,Donegal,Other assault,Donegal Garda Division,2012
+457.0,Donegal,Other assault,Donegal Garda Division,2013
+468.0,Donegal,Other assault,Donegal Garda Division,2014
+448.0,Donegal,Other assault,Donegal Garda Division,2015
+427.0,Donegal,Other assault,Donegal Garda Division,2016
+484.0,Donegal,Other assault,Donegal Garda Division,2017
+430.0,Donegal,Other assault,Donegal Garda Division,2018
+740.0,Donegal,Other assault,Donegal Garda Division,2019
+339.0,Louth,Other assault,Louth  Garda Division,2003
+212.0,Louth,Other assault,Louth  Garda Division,2004
+218.0,Louth,Other assault,Louth  Garda Division,2005
+254.0,Louth,Other assault,Louth  Garda Division,2006
+276.0,Louth,Other assault,Louth  Garda Division,2007
+430.0,Louth,Other assault,Louth  Garda Division,2008
+362.0,Louth,Other assault,Louth  Garda Division,2009
+310.0,Louth,Other assault,Louth  Garda Division,2010
+305.0,Louth,Other assault,Louth  Garda Division,2011
+310.0,Louth,Other assault,Louth  Garda Division,2012
+281.0,Louth,Other assault,Louth  Garda Division,2013
+325.0,Louth,Other assault,Louth  Garda Division,2014
+357.0,Louth,Other assault,Louth  Garda Division,2015
+341.0,Louth,Other assault,Louth  Garda Division,2016
+425.0,Louth,Other assault,Louth  Garda Division,2017
+365.0,Louth,Other assault,Louth  Garda Division,2018
+647.0,Louth,Other assault,Louth  Garda Division,2019
+243.0,Clare,Other assault,Clare Garda Division,2003
+183.0,Clare,Other assault,Clare Garda Division,2004
+200.0,Clare,Other assault,Clare Garda Division,2005
+186.0,Clare,Other assault,Clare Garda Division,2006
+221.0,Clare,Other assault,Clare Garda Division,2007
+332.0,Clare,Other assault,Clare Garda Division,2008
+316.0,Clare,Other assault,Clare Garda Division,2009
+311.0,Clare,Other assault,Clare Garda Division,2010
+245.0,Clare,Other assault,Clare Garda Division,2011
+208.0,Clare,Other assault,Clare Garda Division,2012
+175.0,Clare,Other assault,Clare Garda Division,2013
+202.0,Clare,Other assault,Clare Garda Division,2014
+246.0,Clare,Other assault,Clare Garda Division,2015
+266.0,Clare,Other assault,Clare Garda Division,2016
+257.0,Clare,Other assault,Clare Garda Division,2017
+248.0,Clare,Other assault,Clare Garda Division,2018
+429.0,Clare,Other assault,Clare Garda Division,2019
+260.0,Mayo,Other assault,Mayo Garda Division,2003
+272.0,Mayo,Other assault,Mayo Garda Division,2004
+304.0,Mayo,Other assault,Mayo Garda Division,2005
+337.0,Mayo,Other assault,Mayo Garda Division,2006
+363.0,Mayo,Other assault,Mayo Garda Division,2007
+354.0,Mayo,Other assault,Mayo Garda Division,2008
+368.0,Mayo,Other assault,Mayo Garda Division,2009
+283.0,Mayo,Other assault,Mayo Garda Division,2010
+281.0,Mayo,Other assault,Mayo Garda Division,2011
+268.0,Mayo,Other assault,Mayo Garda Division,2012
+264.0,Mayo,Other assault,Mayo Garda Division,2013
+250.0,Mayo,Other assault,Mayo Garda Division,2014
+264.0,Mayo,Other assault,Mayo Garda Division,2015
+239.0,Mayo,Other assault,Mayo Garda Division,2016
+259.0,Mayo,Other assault,Mayo Garda Division,2017
+276.0,Mayo,Other assault,Mayo Garda Division,2018
+496.0,Mayo,Other assault,Mayo Garda Division,2019
+395.0,Galway,Other assault,Galway Garda Division,2003
+446.0,Galway,Other assault,Galway Garda Division,2004
+503.0,Galway,Other assault,Galway Garda Division,2005
+574.0,Galway,Other assault,Galway Garda Division,2006
+620.0,Galway,Other assault,Galway Garda Division,2007
+644.0,Galway,Other assault,Galway Garda Division,2008
+551.0,Galway,Other assault,Galway Garda Division,2009
+506.0,Galway,Other assault,Galway Garda Division,2010
+540.0,Galway,Other assault,Galway Garda Division,2011
+499.0,Galway,Other assault,Galway Garda Division,2012
+449.0,Galway,Other assault,Galway Garda Division,2013
+520.0,Galway,Other assault,Galway Garda Division,2014
+545.0,Galway,Other assault,Galway Garda Division,2015
+486.0,Galway,Other assault,Galway Garda Division,2016
+586.0,Galway,Other assault,Galway Garda Division,2017
+623.0,Galway,Other assault,Galway Garda Division,2018
+1073.0,Galway,Other assault,Galway Garda Division,2019
+566.0,Cork,Other assault,Cork City Garda Division,2003
+554.0,Cork,Other assault,Cork City Garda Division,2004
+461.0,Cork,Other assault,Cork City Garda Division,2005
+507.0,Cork,Other assault,Cork City Garda Division,2006
+591.0,Cork,Other assault,Cork City Garda Division,2007
+753.0,Cork,Other assault,Cork City Garda Division,2008
+765.0,Cork,Other assault,Cork City Garda Division,2009
+717.0,Cork,Other assault,Cork City Garda Division,2010
+748.0,Cork,Other assault,Cork City Garda Division,2011
+743.0,Cork,Other assault,Cork City Garda Division,2012
+709.0,Cork,Other assault,Cork City Garda Division,2013
+766.0,Cork,Other assault,Cork City Garda Division,2014
+782.0,Cork,Other assault,Cork City Garda Division,2015
+720.0,Cork,Other assault,Cork City Garda Division,2016
+847.0,Cork,Other assault,Cork City Garda Division,2017
+802.0,Cork,Other assault,Cork City Garda Division,2018
+1465.0,Cork,Other assault,Cork City Garda Division,2019
+264.0,Cork,Other assault,Cork North Garda Division,2003
+256.0,Cork,Other assault,Cork North Garda Division,2004
+235.0,Cork,Other assault,Cork North Garda Division,2005
+240.0,Cork,Other assault,Cork North Garda Division,2006
+278.0,Cork,Other assault,Cork North Garda Division,2007
+330.0,Cork,Other assault,Cork North Garda Division,2008
+322.0,Cork,Other assault,Cork North Garda Division,2009
+282.0,Cork,Other assault,Cork North Garda Division,2010
+249.0,Cork,Other assault,Cork North Garda Division,2011
+237.0,Cork,Other assault,Cork North Garda Division,2012
+215.0,Cork,Other assault,Cork North Garda Division,2013
+292.0,Cork,Other assault,Cork North Garda Division,2014
+282.0,Cork,Other assault,Cork North Garda Division,2015
+272.0,Cork,Other assault,Cork North Garda Division,2016
+350.0,Cork,Other assault,Cork North Garda Division,2017
+331.0,Cork,Other assault,Cork North Garda Division,2018
+638.0,Cork,Other assault,Cork North Garda Division,2019
+184.0,Cork,Other assault,Cork West Garda Division,2003
+174.0,Cork,Other assault,Cork West Garda Division,2004
+168.0,Cork,Other assault,Cork West Garda Division,2005
+171.0,Cork,Other assault,Cork West Garda Division,2006
+271.0,Cork,Other assault,Cork West Garda Division,2007
+264.0,Cork,Other assault,Cork West Garda Division,2008
+266.0,Cork,Other assault,Cork West Garda Division,2009
+204.0,Cork,Other assault,Cork West Garda Division,2010
+197.0,Cork,Other assault,Cork West Garda Division,2011
+199.0,Cork,Other assault,Cork West Garda Division,2012
+182.0,Cork,Other assault,Cork West Garda Division,2013
+204.0,Cork,Other assault,Cork West Garda Division,2014
+257.0,Cork,Other assault,Cork West Garda Division,2015
+230.0,Cork,Other assault,Cork West Garda Division,2016
+273.0,Cork,Other assault,Cork West Garda Division,2017
+234.0,Cork,Other assault,Cork West Garda Division,2018
+386.0,Cork,Other assault,Cork West Garda Division,2019
+258.0,Kerry,Other assault,Kerry Garda Division,2003
+266.0,Kerry,Other assault,Kerry Garda Division,2004
+266.0,Kerry,Other assault,Kerry Garda Division,2005
+330.0,Kerry,Other assault,Kerry Garda Division,2006
+400.0,Kerry,Other assault,Kerry Garda Division,2007
+382.0,Kerry,Other assault,Kerry Garda Division,2008
+336.0,Kerry,Other assault,Kerry Garda Division,2009
+340.0,Kerry,Other assault,Kerry Garda Division,2010
+290.0,Kerry,Other assault,Kerry Garda Division,2011
+305.0,Kerry,Other assault,Kerry Garda Division,2012
+295.0,Kerry,Other assault,Kerry Garda Division,2013
+275.0,Kerry,Other assault,Kerry Garda Division,2014
+296.0,Kerry,Other assault,Kerry Garda Division,2015
+325.0,Kerry,Other assault,Kerry Garda Division,2016
+340.0,Kerry,Other assault,Kerry Garda Division,2017
+405.0,Kerry,Other assault,Kerry Garda Division,2018
+786.0,Kerry,Other assault,Kerry Garda Division,2019
+439.0,Limerick,Other assault,Limerick Garda Division,2003
+405.0,Limerick,Other assault,Limerick Garda Division,2004
+468.0,Limerick,Other assault,Limerick Garda Division,2005
+498.0,Limerick,Other assault,Limerick Garda Division,2006
+591.0,Limerick,Other assault,Limerick Garda Division,2007
+654.0,Limerick,Other assault,Limerick Garda Division,2008
+622.0,Limerick,Other assault,Limerick Garda Division,2009
+648.0,Limerick,Other assault,Limerick Garda Division,2010
+555.0,Limerick,Other assault,Limerick Garda Division,2011
+570.0,Limerick,Other assault,Limerick Garda Division,2012
+513.0,Limerick,Other assault,Limerick Garda Division,2013
+435.0,Limerick,Other assault,Limerick Garda Division,2014
+536.0,Limerick,Other assault,Limerick Garda Division,2015
+496.0,Limerick,Other assault,Limerick Garda Division,2016
+687.0,Limerick,Other assault,Limerick Garda Division,2017
+587.0,Limerick,Other assault,Limerick Garda Division,2018
+1013.0,Limerick,Other assault,Limerick Garda Division,2019
+185.0,Meath,Other assault,Meath  Garda Division,2003
+159.0,Meath,Other assault,Meath  Garda Division,2004
+210.0,Meath,Other assault,Meath  Garda Division,2005
+235.0,Meath,Other assault,Meath  Garda Division,2006
+331.0,Meath,Other assault,Meath  Garda Division,2007
+371.0,Meath,Other assault,Meath  Garda Division,2008
+337.0,Meath,Other assault,Meath  Garda Division,2009
+310.0,Meath,Other assault,Meath  Garda Division,2010
+268.0,Meath,Other assault,Meath  Garda Division,2011
+296.0,Meath,Other assault,Meath  Garda Division,2012
+276.0,Meath,Other assault,Meath  Garda Division,2013
+284.0,Meath,Other assault,Meath  Garda Division,2014
+345.0,Meath,Other assault,Meath  Garda Division,2015
+307.0,Meath,Other assault,Meath  Garda Division,2016
+315.0,Meath,Other assault,Meath  Garda Division,2017
+358.0,Meath,Other assault,Meath  Garda Division,2018
+656.0,Meath,Other assault,Meath  Garda Division,2019
+184.0,Wicklow,Other assault,Wicklow  Garda Division,2003
+201.0,Wicklow,Other assault,Wicklow  Garda Division,2004
+256.0,Wicklow,Other assault,Wicklow  Garda Division,2005
+234.0,Wicklow,Other assault,Wicklow  Garda Division,2006
+271.0,Wicklow,Other assault,Wicklow  Garda Division,2007
+409.0,Wicklow,Other assault,Wicklow  Garda Division,2008
+376.0,Wicklow,Other assault,Wicklow  Garda Division,2009
+372.0,Wicklow,Other assault,Wicklow  Garda Division,2010
+347.0,Wicklow,Other assault,Wicklow  Garda Division,2011
+356.0,Wicklow,Other assault,Wicklow  Garda Division,2012
+326.0,Wicklow,Other assault,Wicklow  Garda Division,2013
+325.0,Wicklow,Other assault,Wicklow  Garda Division,2014
+299.0,Wicklow,Other assault,Wicklow  Garda Division,2015
+290.0,Wicklow,Other assault,Wicklow  Garda Division,2016
+333.0,Wicklow,Other assault,Wicklow  Garda Division,2017
+307.0,Wicklow,Other assault,Wicklow  Garda Division,2018
+529.0,Wicklow,Other assault,Wicklow  Garda Division,2019
+181.0,Westmeath,Other assault,Westmeath  Garda Division,2003
+177.0,Westmeath,Other assault,Westmeath  Garda Division,2004
+216.0,Westmeath,Other assault,Westmeath  Garda Division,2005
+221.0,Westmeath,Other assault,Westmeath  Garda Division,2006
+278.0,Westmeath,Other assault,Westmeath  Garda Division,2007
+277.0,Westmeath,Other assault,Westmeath  Garda Division,2008
+261.0,Westmeath,Other assault,Westmeath  Garda Division,2009
+208.0,Westmeath,Other assault,Westmeath  Garda Division,2010
+221.0,Westmeath,Other assault,Westmeath  Garda Division,2011
+206.0,Westmeath,Other assault,Westmeath  Garda Division,2012
+145.0,Westmeath,Other assault,Westmeath  Garda Division,2013
+190.0,Westmeath,Other assault,Westmeath  Garda Division,2014
+191.0,Westmeath,Other assault,Westmeath  Garda Division,2015
+211.0,Westmeath,Other assault,Westmeath  Garda Division,2016
+186.0,Westmeath,Other assault,Westmeath  Garda Division,2017
+251.0,Westmeath,Other assault,Westmeath  Garda Division,2018
+445.0,Westmeath,Other assault,Westmeath  Garda Division,2019
+365.0,Kildare,Other assault,Kildare  Garda Division,2003
+303.0,Kildare,Other assault,Kildare  Garda Division,2004
+320.0,Kildare,Other assault,Kildare  Garda Division,2005
+288.0,Kildare,Other assault,Kildare  Garda Division,2006
+452.0,Kildare,Other assault,Kildare  Garda Division,2007
+460.0,Kildare,Other assault,Kildare  Garda Division,2008
+456.0,Kildare,Other assault,Kildare  Garda Division,2009
+403.0,Kildare,Other assault,Kildare  Garda Division,2010
+459.0,Kildare,Other assault,Kildare  Garda Division,2011
+434.0,Kildare,Other assault,Kildare  Garda Division,2012
+406.0,Kildare,Other assault,Kildare  Garda Division,2013
+377.0,Kildare,Other assault,Kildare  Garda Division,2014
+471.0,Kildare,Other assault,Kildare  Garda Division,2015
+431.0,Kildare,Other assault,Kildare  Garda Division,2016
+521.0,Kildare,Other assault,Kildare  Garda Division,2017
+519.0,Kildare,Other assault,Kildare  Garda Division,2018
+888.0,Kildare,Other assault,Kildare  Garda Division,2019
+266.0,Tipperary,Other assault,Tipperary Garda Division,2003
+312.0,Tipperary,Other assault,Tipperary Garda Division,2004
+327.0,Tipperary,Other assault,Tipperary Garda Division,2005
+331.0,Tipperary,Other assault,Tipperary Garda Division,2006
+374.0,Tipperary,Other assault,Tipperary Garda Division,2007
+418.0,Tipperary,Other assault,Tipperary Garda Division,2008
+395.0,Tipperary,Other assault,Tipperary Garda Division,2009
+323.0,Tipperary,Other assault,Tipperary Garda Division,2010
+310.0,Tipperary,Other assault,Tipperary Garda Division,2011
+258.0,Tipperary,Other assault,Tipperary Garda Division,2012
+260.0,Tipperary,Other assault,Tipperary Garda Division,2013
+239.0,Tipperary,Other assault,Tipperary Garda Division,2014
+290.0,Tipperary,Other assault,Tipperary Garda Division,2015
+272.0,Tipperary,Other assault,Tipperary Garda Division,2016
+305.0,Tipperary,Other assault,Tipperary Garda Division,2017
+359.0,Tipperary,Other assault,Tipperary Garda Division,2018
+613.0,Tipperary,Other assault,Tipperary Garda Division,2019
+203.0,Wexford,Other assault,Wexford  Garda Division,2003
+202.0,Wexford,Other assault,Wexford  Garda Division,2004
+235.0,Wexford,Other assault,Wexford  Garda Division,2005
+267.0,Wexford,Other assault,Wexford  Garda Division,2006
+323.0,Wexford,Other assault,Wexford  Garda Division,2007
+318.0,Wexford,Other assault,Wexford  Garda Division,2008
+345.0,Wexford,Other assault,Wexford  Garda Division,2009
+320.0,Wexford,Other assault,Wexford  Garda Division,2010
+314.0,Wexford,Other assault,Wexford  Garda Division,2011
+344.0,Wexford,Other assault,Wexford  Garda Division,2012
+244.0,Wexford,Other assault,Wexford  Garda Division,2013
+257.0,Wexford,Other assault,Wexford  Garda Division,2014
+319.0,Wexford,Other assault,Wexford  Garda Division,2015
+317.0,Wexford,Other assault,Wexford  Garda Division,2016
+344.0,Wexford,Other assault,Wexford  Garda Division,2017
+375.0,Wexford,Other assault,Wexford  Garda Division,2018
+645.0,Wexford,Other assault,Wexford  Garda Division,2019
+209.0,Waterford,Other assault,Waterford  Garda Division,2003
+223.0,Waterford,Other assault,Waterford  Garda Division,2004
+289.0,Waterford,Other assault,Waterford  Garda Division,2005
+402.0,Waterford,Other assault,Waterford  Garda Division,2006
+440.0,Waterford,Other assault,Waterford  Garda Division,2007
+389.0,Waterford,Other assault,Waterford  Garda Division,2008
+419.0,Waterford,Other assault,Waterford  Garda Division,2009
+355.0,Waterford,Other assault,Waterford  Garda Division,2010
+425.0,Waterford,Other assault,Waterford  Garda Division,2011
+412.0,Waterford,Other assault,Waterford  Garda Division,2012
+321.0,Waterford,Other assault,Waterford  Garda Division,2013
+323.0,Waterford,Other assault,Waterford  Garda Division,2014
+388.0,Waterford,Other assault,Waterford  Garda Division,2015
+310.0,Waterford,Other assault,Waterford  Garda Division,2016
+379.0,Waterford,Other assault,Waterford  Garda Division,2017
+406.0,Waterford,Other assault,Waterford  Garda Division,2018
+694.0,Waterford,Other assault,Waterford  Garda Division,2019
+2116.0,Dublin,Other assault,Dublin Region,2003
+2186.0,Dublin,Other assault,Dublin Region,2004
+2174.0,Dublin,Other assault,Dublin Region,2005
+2650.0,Dublin,Other assault,Dublin Region,2006
+2950.0,Dublin,Other assault,Dublin Region,2007
+3176.0,Dublin,Other assault,Dublin Region,2008
+3215.0,Dublin,Other assault,Dublin Region,2009
+3403.0,Dublin,Other assault,Dublin Region,2010
+3249.0,Dublin,Other assault,Dublin Region,2011
+2761.0,Dublin,Other assault,Dublin Region,2012
+2683.0,Dublin,Other assault,Dublin Region,2013
+2949.0,Dublin,Other assault,Dublin Region,2014
+3398.0,Dublin,Other assault,Dublin Region,2015
+3604.0,Dublin,Other assault,Dublin Region,2016
+3908.0,Dublin,Other assault,Dublin Region,2017
+4186.0,Dublin,Other assault,Dublin Region,2018
+7703.0,Dublin,Other assault,Dublin Region,2019
+496.0,Donegal,Dangerous or negligent acts,Donegal Garda Division,2003
+456.0,Donegal,Dangerous or negligent acts,Donegal Garda Division,2004
+605.0,Donegal,Dangerous or negligent acts,Donegal Garda Division,2005
+864.0,Donegal,Dangerous or negligent acts,Donegal Garda Division,2006
+974.0,Donegal,Dangerous or negligent acts,Donegal Garda Division,2007
+752.0,Donegal,Dangerous or negligent acts,Donegal Garda Division,2008
+587.0,Donegal,Dangerous or negligent acts,Donegal Garda Division,2009
+454.0,Donegal,Dangerous or negligent acts,Donegal Garda Division,2010
+362.0,Donegal,Dangerous or negligent acts,Donegal Garda Division,2011
+370.0,Donegal,Dangerous or negligent acts,Donegal Garda Division,2012
+324.0,Donegal,Dangerous or negligent acts,Donegal Garda Division,2013
+299.0,Donegal,Dangerous or negligent acts,Donegal Garda Division,2014
+330.0,Donegal,Dangerous or negligent acts,Donegal Garda Division,2015
+366.0,Donegal,Dangerous or negligent acts,Donegal Garda Division,2016
+390.0,Donegal,Dangerous or negligent acts,Donegal Garda Division,2017
+378.0,Donegal,Dangerous or negligent acts,Donegal Garda Division,2018
+705.0,Donegal,Dangerous or negligent acts,Donegal Garda Division,2019
+472.0,Louth,Dangerous or negligent acts,Louth  Garda Division,2003
+405.0,Louth,Dangerous or negligent acts,Louth  Garda Division,2004
+504.0,Louth,Dangerous or negligent acts,Louth  Garda Division,2005
+648.0,Louth,Dangerous or negligent acts,Louth  Garda Division,2006
+680.0,Louth,Dangerous or negligent acts,Louth  Garda Division,2007
+656.0,Louth,Dangerous or negligent acts,Louth  Garda Division,2008
+579.0,Louth,Dangerous or negligent acts,Louth  Garda Division,2009
+382.0,Louth,Dangerous or negligent acts,Louth  Garda Division,2010
+304.0,Louth,Dangerous or negligent acts,Louth  Garda Division,2011
+222.0,Louth,Dangerous or negligent acts,Louth  Garda Division,2012
+160.0,Louth,Dangerous or negligent acts,Louth  Garda Division,2013
+184.0,Louth,Dangerous or negligent acts,Louth  Garda Division,2014
+159.0,Louth,Dangerous or negligent acts,Louth  Garda Division,2015
+206.0,Louth,Dangerous or negligent acts,Louth  Garda Division,2016
+197.0,Louth,Dangerous or negligent acts,Louth  Garda Division,2017
+254.0,Louth,Dangerous or negligent acts,Louth  Garda Division,2018
+433.0,Louth,Dangerous or negligent acts,Louth  Garda Division,2019
+206.0,Clare,Dangerous or negligent acts,Clare Garda Division,2003
+263.0,Clare,Dangerous or negligent acts,Clare Garda Division,2004
+297.0,Clare,Dangerous or negligent acts,Clare Garda Division,2005
+488.0,Clare,Dangerous or negligent acts,Clare Garda Division,2006
+551.0,Clare,Dangerous or negligent acts,Clare Garda Division,2007
+497.0,Clare,Dangerous or negligent acts,Clare Garda Division,2008
+375.0,Clare,Dangerous or negligent acts,Clare Garda Division,2009
+291.0,Clare,Dangerous or negligent acts,Clare Garda Division,2010
+248.0,Clare,Dangerous or negligent acts,Clare Garda Division,2011
+192.0,Clare,Dangerous or negligent acts,Clare Garda Division,2012
+178.0,Clare,Dangerous or negligent acts,Clare Garda Division,2013
+213.0,Clare,Dangerous or negligent acts,Clare Garda Division,2014
+175.0,Clare,Dangerous or negligent acts,Clare Garda Division,2015
+200.0,Clare,Dangerous or negligent acts,Clare Garda Division,2016
+193.0,Clare,Dangerous or negligent acts,Clare Garda Division,2017
+205.0,Clare,Dangerous or negligent acts,Clare Garda Division,2018
+375.0,Clare,Dangerous or negligent acts,Clare Garda Division,2019
+456.0,Mayo,Dangerous or negligent acts,Mayo Garda Division,2003
+334.0,Mayo,Dangerous or negligent acts,Mayo Garda Division,2004
+367.0,Mayo,Dangerous or negligent acts,Mayo Garda Division,2005
+490.0,Mayo,Dangerous or negligent acts,Mayo Garda Division,2006
+450.0,Mayo,Dangerous or negligent acts,Mayo Garda Division,2007
+466.0,Mayo,Dangerous or negligent acts,Mayo Garda Division,2008
+365.0,Mayo,Dangerous or negligent acts,Mayo Garda Division,2009
+276.0,Mayo,Dangerous or negligent acts,Mayo Garda Division,2010
+235.0,Mayo,Dangerous or negligent acts,Mayo Garda Division,2011
+206.0,Mayo,Dangerous or negligent acts,Mayo Garda Division,2012
+175.0,Mayo,Dangerous or negligent acts,Mayo Garda Division,2013
+182.0,Mayo,Dangerous or negligent acts,Mayo Garda Division,2014
+187.0,Mayo,Dangerous or negligent acts,Mayo Garda Division,2015
+204.0,Mayo,Dangerous or negligent acts,Mayo Garda Division,2016
+250.0,Mayo,Dangerous or negligent acts,Mayo Garda Division,2017
+253.0,Mayo,Dangerous or negligent acts,Mayo Garda Division,2018
+446.0,Mayo,Dangerous or negligent acts,Mayo Garda Division,2019
+579.0,Galway,Dangerous or negligent acts,Galway Garda Division,2003
+630.0,Galway,Dangerous or negligent acts,Galway Garda Division,2004
+702.0,Galway,Dangerous or negligent acts,Galway Garda Division,2005
+988.0,Galway,Dangerous or negligent acts,Galway Garda Division,2006
+990.0,Galway,Dangerous or negligent acts,Galway Garda Division,2007
+911.0,Galway,Dangerous or negligent acts,Galway Garda Division,2008
+747.0,Galway,Dangerous or negligent acts,Galway Garda Division,2009
+642.0,Galway,Dangerous or negligent acts,Galway Garda Division,2010
+502.0,Galway,Dangerous or negligent acts,Galway Garda Division,2011
+439.0,Galway,Dangerous or negligent acts,Galway Garda Division,2012
+461.0,Galway,Dangerous or negligent acts,Galway Garda Division,2013
+487.0,Galway,Dangerous or negligent acts,Galway Garda Division,2014
+478.0,Galway,Dangerous or negligent acts,Galway Garda Division,2015
+462.0,Galway,Dangerous or negligent acts,Galway Garda Division,2016
+480.0,Galway,Dangerous or negligent acts,Galway Garda Division,2017
+427.0,Galway,Dangerous or negligent acts,Galway Garda Division,2018
+725.0,Galway,Dangerous or negligent acts,Galway Garda Division,2019
+663.0,Cork,Dangerous or negligent acts,Cork City Garda Division,2003
+748.0,Cork,Dangerous or negligent acts,Cork City Garda Division,2004
+889.0,Cork,Dangerous or negligent acts,Cork City Garda Division,2005
+1144.0,Cork,Dangerous or negligent acts,Cork City Garda Division,2006
+1048.0,Cork,Dangerous or negligent acts,Cork City Garda Division,2007
+1005.0,Cork,Dangerous or negligent acts,Cork City Garda Division,2008
+685.0,Cork,Dangerous or negligent acts,Cork City Garda Division,2009
+609.0,Cork,Dangerous or negligent acts,Cork City Garda Division,2010
+584.0,Cork,Dangerous or negligent acts,Cork City Garda Division,2011
+515.0,Cork,Dangerous or negligent acts,Cork City Garda Division,2012
+406.0,Cork,Dangerous or negligent acts,Cork City Garda Division,2013
+374.0,Cork,Dangerous or negligent acts,Cork City Garda Division,2014
+345.0,Cork,Dangerous or negligent acts,Cork City Garda Division,2015
+354.0,Cork,Dangerous or negligent acts,Cork City Garda Division,2016
+387.0,Cork,Dangerous or negligent acts,Cork City Garda Division,2017
+382.0,Cork,Dangerous or negligent acts,Cork City Garda Division,2018
+658.0,Cork,Dangerous or negligent acts,Cork City Garda Division,2019
+347.0,Cork,Dangerous or negligent acts,Cork North Garda Division,2003
+412.0,Cork,Dangerous or negligent acts,Cork North Garda Division,2004
+431.0,Cork,Dangerous or negligent acts,Cork North Garda Division,2005
+638.0,Cork,Dangerous or negligent acts,Cork North Garda Division,2006
+683.0,Cork,Dangerous or negligent acts,Cork North Garda Division,2007
+631.0,Cork,Dangerous or negligent acts,Cork North Garda Division,2008
+522.0,Cork,Dangerous or negligent acts,Cork North Garda Division,2009
+436.0,Cork,Dangerous or negligent acts,Cork North Garda Division,2010
+326.0,Cork,Dangerous or negligent acts,Cork North Garda Division,2011
+287.0,Cork,Dangerous or negligent acts,Cork North Garda Division,2012
+282.0,Cork,Dangerous or negligent acts,Cork North Garda Division,2013
+286.0,Cork,Dangerous or negligent acts,Cork North Garda Division,2014
+273.0,Cork,Dangerous or negligent acts,Cork North Garda Division,2015
+302.0,Cork,Dangerous or negligent acts,Cork North Garda Division,2016
+325.0,Cork,Dangerous or negligent acts,Cork North Garda Division,2017
+343.0,Cork,Dangerous or negligent acts,Cork North Garda Division,2018
+594.0,Cork,Dangerous or negligent acts,Cork North Garda Division,2019
+272.0,Cork,Dangerous or negligent acts,Cork West Garda Division,2003
+271.0,Cork,Dangerous or negligent acts,Cork West Garda Division,2004
+279.0,Cork,Dangerous or negligent acts,Cork West Garda Division,2005
+441.0,Cork,Dangerous or negligent acts,Cork West Garda Division,2006
+400.0,Cork,Dangerous or negligent acts,Cork West Garda Division,2007
+450.0,Cork,Dangerous or negligent acts,Cork West Garda Division,2008
+299.0,Cork,Dangerous or negligent acts,Cork West Garda Division,2009
+272.0,Cork,Dangerous or negligent acts,Cork West Garda Division,2010
+213.0,Cork,Dangerous or negligent acts,Cork West Garda Division,2011
+222.0,Cork,Dangerous or negligent acts,Cork West Garda Division,2012
+237.0,Cork,Dangerous or negligent acts,Cork West Garda Division,2013
+185.0,Cork,Dangerous or negligent acts,Cork West Garda Division,2014
+207.0,Cork,Dangerous or negligent acts,Cork West Garda Division,2015
+216.0,Cork,Dangerous or negligent acts,Cork West Garda Division,2016
+235.0,Cork,Dangerous or negligent acts,Cork West Garda Division,2017
+251.0,Cork,Dangerous or negligent acts,Cork West Garda Division,2018
+457.0,Cork,Dangerous or negligent acts,Cork West Garda Division,2019
+526.0,Kerry,Dangerous or negligent acts,Kerry Garda Division,2003
+530.0,Kerry,Dangerous or negligent acts,Kerry Garda Division,2004
+522.0,Kerry,Dangerous or negligent acts,Kerry Garda Division,2005
+663.0,Kerry,Dangerous or negligent acts,Kerry Garda Division,2006
+549.0,Kerry,Dangerous or negligent acts,Kerry Garda Division,2007
+571.0,Kerry,Dangerous or negligent acts,Kerry Garda Division,2008
+408.0,Kerry,Dangerous or negligent acts,Kerry Garda Division,2009
+426.0,Kerry,Dangerous or negligent acts,Kerry Garda Division,2010
+349.0,Kerry,Dangerous or negligent acts,Kerry Garda Division,2011
+329.0,Kerry,Dangerous or negligent acts,Kerry Garda Division,2012
+315.0,Kerry,Dangerous or negligent acts,Kerry Garda Division,2013
+295.0,Kerry,Dangerous or negligent acts,Kerry Garda Division,2014
+318.0,Kerry,Dangerous or negligent acts,Kerry Garda Division,2015
+301.0,Kerry,Dangerous or negligent acts,Kerry Garda Division,2016
+330.0,Kerry,Dangerous or negligent acts,Kerry Garda Division,2017
+324.0,Kerry,Dangerous or negligent acts,Kerry Garda Division,2018
+580.0,Kerry,Dangerous or negligent acts,Kerry Garda Division,2019
+492.0,Limerick,Dangerous or negligent acts,Limerick Garda Division,2003
+560.0,Limerick,Dangerous or negligent acts,Limerick Garda Division,2004
+685.0,Limerick,Dangerous or negligent acts,Limerick Garda Division,2005
+832.0,Limerick,Dangerous or negligent acts,Limerick Garda Division,2006
+894.0,Limerick,Dangerous or negligent acts,Limerick Garda Division,2007
+935.0,Limerick,Dangerous or negligent acts,Limerick Garda Division,2008
+669.0,Limerick,Dangerous or negligent acts,Limerick Garda Division,2009
+548.0,Limerick,Dangerous or negligent acts,Limerick Garda Division,2010
+460.0,Limerick,Dangerous or negligent acts,Limerick Garda Division,2011
+399.0,Limerick,Dangerous or negligent acts,Limerick Garda Division,2012
+323.0,Limerick,Dangerous or negligent acts,Limerick Garda Division,2013
+331.0,Limerick,Dangerous or negligent acts,Limerick Garda Division,2014
+379.0,Limerick,Dangerous or negligent acts,Limerick Garda Division,2015
+417.0,Limerick,Dangerous or negligent acts,Limerick Garda Division,2016
+382.0,Limerick,Dangerous or negligent acts,Limerick Garda Division,2017
+364.0,Limerick,Dangerous or negligent acts,Limerick Garda Division,2018
+618.0,Limerick,Dangerous or negligent acts,Limerick Garda Division,2019
+372.0,Meath,Dangerous or negligent acts,Meath  Garda Division,2003
+449.0,Meath,Dangerous or negligent acts,Meath  Garda Division,2004
+504.0,Meath,Dangerous or negligent acts,Meath  Garda Division,2005
+614.0,Meath,Dangerous or negligent acts,Meath  Garda Division,2006
+683.0,Meath,Dangerous or negligent acts,Meath  Garda Division,2007
+642.0,Meath,Dangerous or negligent acts,Meath  Garda Division,2008
+556.0,Meath,Dangerous or negligent acts,Meath  Garda Division,2009
+404.0,Meath,Dangerous or negligent acts,Meath  Garda Division,2010
+336.0,Meath,Dangerous or negligent acts,Meath  Garda Division,2011
+275.0,Meath,Dangerous or negligent acts,Meath  Garda Division,2012
+269.0,Meath,Dangerous or negligent acts,Meath  Garda Division,2013
+228.0,Meath,Dangerous or negligent acts,Meath  Garda Division,2014
+240.0,Meath,Dangerous or negligent acts,Meath  Garda Division,2015
+285.0,Meath,Dangerous or negligent acts,Meath  Garda Division,2016
+304.0,Meath,Dangerous or negligent acts,Meath  Garda Division,2017
+322.0,Meath,Dangerous or negligent acts,Meath  Garda Division,2018
+542.0,Meath,Dangerous or negligent acts,Meath  Garda Division,2019
+315.0,Wicklow,Dangerous or negligent acts,Wicklow  Garda Division,2003
+330.0,Wicklow,Dangerous or negligent acts,Wicklow  Garda Division,2004
+375.0,Wicklow,Dangerous or negligent acts,Wicklow  Garda Division,2005
+470.0,Wicklow,Dangerous or negligent acts,Wicklow  Garda Division,2006
+656.0,Wicklow,Dangerous or negligent acts,Wicklow  Garda Division,2007
+520.0,Wicklow,Dangerous or negligent acts,Wicklow  Garda Division,2008
+453.0,Wicklow,Dangerous or negligent acts,Wicklow  Garda Division,2009
+329.0,Wicklow,Dangerous or negligent acts,Wicklow  Garda Division,2010
+247.0,Wicklow,Dangerous or negligent acts,Wicklow  Garda Division,2011
+195.0,Wicklow,Dangerous or negligent acts,Wicklow  Garda Division,2012
+185.0,Wicklow,Dangerous or negligent acts,Wicklow  Garda Division,2013
+150.0,Wicklow,Dangerous or negligent acts,Wicklow  Garda Division,2014
+184.0,Wicklow,Dangerous or negligent acts,Wicklow  Garda Division,2015
+200.0,Wicklow,Dangerous or negligent acts,Wicklow  Garda Division,2016
+168.0,Wicklow,Dangerous or negligent acts,Wicklow  Garda Division,2017
+158.0,Wicklow,Dangerous or negligent acts,Wicklow  Garda Division,2018
+285.0,Wicklow,Dangerous or negligent acts,Wicklow  Garda Division,2019
+195.0,Westmeath,Dangerous or negligent acts,Westmeath  Garda Division,2003
+247.0,Westmeath,Dangerous or negligent acts,Westmeath  Garda Division,2004
+347.0,Westmeath,Dangerous or negligent acts,Westmeath  Garda Division,2005
+528.0,Westmeath,Dangerous or negligent acts,Westmeath  Garda Division,2006
+574.0,Westmeath,Dangerous or negligent acts,Westmeath  Garda Division,2007
+495.0,Westmeath,Dangerous or negligent acts,Westmeath  Garda Division,2008
+381.0,Westmeath,Dangerous or negligent acts,Westmeath  Garda Division,2009
+260.0,Westmeath,Dangerous or negligent acts,Westmeath  Garda Division,2010
+225.0,Westmeath,Dangerous or negligent acts,Westmeath  Garda Division,2011
+228.0,Westmeath,Dangerous or negligent acts,Westmeath  Garda Division,2012
+179.0,Westmeath,Dangerous or negligent acts,Westmeath  Garda Division,2013
+183.0,Westmeath,Dangerous or negligent acts,Westmeath  Garda Division,2014
+197.0,Westmeath,Dangerous or negligent acts,Westmeath  Garda Division,2015
+222.0,Westmeath,Dangerous or negligent acts,Westmeath  Garda Division,2016
+255.0,Westmeath,Dangerous or negligent acts,Westmeath  Garda Division,2017
+204.0,Westmeath,Dangerous or negligent acts,Westmeath  Garda Division,2018
+357.0,Westmeath,Dangerous or negligent acts,Westmeath  Garda Division,2019
+478.0,Kildare,Dangerous or negligent acts,Kildare  Garda Division,2003
+551.0,Kildare,Dangerous or negligent acts,Kildare  Garda Division,2004
+547.0,Kildare,Dangerous or negligent acts,Kildare  Garda Division,2005
+669.0,Kildare,Dangerous or negligent acts,Kildare  Garda Division,2006
+739.0,Kildare,Dangerous or negligent acts,Kildare  Garda Division,2007
+716.0,Kildare,Dangerous or negligent acts,Kildare  Garda Division,2008
+512.0,Kildare,Dangerous or negligent acts,Kildare  Garda Division,2009
+405.0,Kildare,Dangerous or negligent acts,Kildare  Garda Division,2010
+342.0,Kildare,Dangerous or negligent acts,Kildare  Garda Division,2011
+343.0,Kildare,Dangerous or negligent acts,Kildare  Garda Division,2012
+336.0,Kildare,Dangerous or negligent acts,Kildare  Garda Division,2013
+272.0,Kildare,Dangerous or negligent acts,Kildare  Garda Division,2014
+271.0,Kildare,Dangerous or negligent acts,Kildare  Garda Division,2015
+308.0,Kildare,Dangerous or negligent acts,Kildare  Garda Division,2016
+384.0,Kildare,Dangerous or negligent acts,Kildare  Garda Division,2017
+502.0,Kildare,Dangerous or negligent acts,Kildare  Garda Division,2018
+886.0,Kildare,Dangerous or negligent acts,Kildare  Garda Division,2019
+428.0,Tipperary,Dangerous or negligent acts,Tipperary Garda Division,2003
+453.0,Tipperary,Dangerous or negligent acts,Tipperary Garda Division,2004
+470.0,Tipperary,Dangerous or negligent acts,Tipperary Garda Division,2005
+646.0,Tipperary,Dangerous or negligent acts,Tipperary Garda Division,2006
+786.0,Tipperary,Dangerous or negligent acts,Tipperary Garda Division,2007
+780.0,Tipperary,Dangerous or negligent acts,Tipperary Garda Division,2008
+606.0,Tipperary,Dangerous or negligent acts,Tipperary Garda Division,2009
+495.0,Tipperary,Dangerous or negligent acts,Tipperary Garda Division,2010
+390.0,Tipperary,Dangerous or negligent acts,Tipperary Garda Division,2011
+307.0,Tipperary,Dangerous or negligent acts,Tipperary Garda Division,2012
+315.0,Tipperary,Dangerous or negligent acts,Tipperary Garda Division,2013
+350.0,Tipperary,Dangerous or negligent acts,Tipperary Garda Division,2014
+320.0,Tipperary,Dangerous or negligent acts,Tipperary Garda Division,2015
+299.0,Tipperary,Dangerous or negligent acts,Tipperary Garda Division,2016
+422.0,Tipperary,Dangerous or negligent acts,Tipperary Garda Division,2017
+424.0,Tipperary,Dangerous or negligent acts,Tipperary Garda Division,2018
+746.0,Tipperary,Dangerous or negligent acts,Tipperary Garda Division,2019
+369.0,Wexford,Dangerous or negligent acts,Wexford  Garda Division,2003
+456.0,Wexford,Dangerous or negligent acts,Wexford  Garda Division,2004
+506.0,Wexford,Dangerous or negligent acts,Wexford  Garda Division,2005
+740.0,Wexford,Dangerous or negligent acts,Wexford  Garda Division,2006
+706.0,Wexford,Dangerous or negligent acts,Wexford  Garda Division,2007
+607.0,Wexford,Dangerous or negligent acts,Wexford  Garda Division,2008
+503.0,Wexford,Dangerous or negligent acts,Wexford  Garda Division,2009
+355.0,Wexford,Dangerous or negligent acts,Wexford  Garda Division,2010
+329.0,Wexford,Dangerous or negligent acts,Wexford  Garda Division,2011
+336.0,Wexford,Dangerous or negligent acts,Wexford  Garda Division,2012
+227.0,Wexford,Dangerous or negligent acts,Wexford  Garda Division,2013
+227.0,Wexford,Dangerous or negligent acts,Wexford  Garda Division,2014
+221.0,Wexford,Dangerous or negligent acts,Wexford  Garda Division,2015
+263.0,Wexford,Dangerous or negligent acts,Wexford  Garda Division,2016
+301.0,Wexford,Dangerous or negligent acts,Wexford  Garda Division,2017
+300.0,Wexford,Dangerous or negligent acts,Wexford  Garda Division,2018
+506.0,Wexford,Dangerous or negligent acts,Wexford  Garda Division,2019
+478.0,Waterford,Dangerous or negligent acts,Waterford  Garda Division,2003
+458.0,Waterford,Dangerous or negligent acts,Waterford  Garda Division,2004
+451.0,Waterford,Dangerous or negligent acts,Waterford  Garda Division,2005
+539.0,Waterford,Dangerous or negligent acts,Waterford  Garda Division,2006
+547.0,Waterford,Dangerous or negligent acts,Waterford  Garda Division,2007
+494.0,Waterford,Dangerous or negligent acts,Waterford  Garda Division,2008
+394.0,Waterford,Dangerous or negligent acts,Waterford  Garda Division,2009
+306.0,Waterford,Dangerous or negligent acts,Waterford  Garda Division,2010
+262.0,Waterford,Dangerous or negligent acts,Waterford  Garda Division,2011
+279.0,Waterford,Dangerous or negligent acts,Waterford  Garda Division,2012
+229.0,Waterford,Dangerous or negligent acts,Waterford  Garda Division,2013
+233.0,Waterford,Dangerous or negligent acts,Waterford  Garda Division,2014
+210.0,Waterford,Dangerous or negligent acts,Waterford  Garda Division,2015
+261.0,Waterford,Dangerous or negligent acts,Waterford  Garda Division,2016
+258.0,Waterford,Dangerous or negligent acts,Waterford  Garda Division,2017
+235.0,Waterford,Dangerous or negligent acts,Waterford  Garda Division,2018
+433.0,Waterford,Dangerous or negligent acts,Waterford  Garda Division,2019
+2937.0,Dublin,Dangerous or negligent acts,Dublin Region,2003
+3076.0,Dublin,Dangerous or negligent acts,Dublin Region,2004
+3813.0,Dublin,Dangerous or negligent acts,Dublin Region,2005
+4615.0,Dublin,Dangerous or negligent acts,Dublin Region,2006
+5548.0,Dublin,Dangerous or negligent acts,Dublin Region,2007
+5310.0,Dublin,Dangerous or negligent acts,Dublin Region,2008
+4292.0,Dublin,Dangerous or negligent acts,Dublin Region,2009
+3209.0,Dublin,Dangerous or negligent acts,Dublin Region,2010
+2583.0,Dublin,Dangerous or negligent acts,Dublin Region,2011
+2350.0,Dublin,Dangerous or negligent acts,Dublin Region,2012
+1819.0,Dublin,Dangerous or negligent acts,Dublin Region,2013
+1702.0,Dublin,Dangerous or negligent acts,Dublin Region,2014
+1570.0,Dublin,Dangerous or negligent acts,Dublin Region,2015
+1649.0,Dublin,Dangerous or negligent acts,Dublin Region,2016
+1732.0,Dublin,Dangerous or negligent acts,Dublin Region,2017
+1820.0,Dublin,Dangerous or negligent acts,Dublin Region,2018
+3262.0,Dublin,Dangerous or negligent acts,Dublin Region,2019

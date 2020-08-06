@@ -1,0 +1,919 @@
+count,county,crime,division,year
+0.0,Donegal,Unseaworthy/dangerous use of boat or ship,Donegal Garda Division,2003
+0.0,Donegal,Unseaworthy/dangerous use of boat or ship,Donegal Garda Division,2004
+0.0,Donegal,Unseaworthy/dangerous use of boat or ship,Donegal Garda Division,2005
+0.0,Donegal,Unseaworthy/dangerous use of boat or ship,Donegal Garda Division,2006
+0.0,Donegal,Unseaworthy/dangerous use of boat or ship,Donegal Garda Division,2007
+1.0,Donegal,Unseaworthy/dangerous use of boat or ship,Donegal Garda Division,2008
+1.0,Donegal,Unseaworthy/dangerous use of boat or ship,Donegal Garda Division,2009
+0.0,Donegal,Unseaworthy/dangerous use of boat or ship,Donegal Garda Division,2010
+0.0,Donegal,Unseaworthy/dangerous use of boat or ship,Donegal Garda Division,2011
+1.0,Donegal,Unseaworthy/dangerous use of boat or ship,Donegal Garda Division,2012
+0.0,Donegal,Unseaworthy/dangerous use of boat or ship,Donegal Garda Division,2013
+0.0,Donegal,Unseaworthy/dangerous use of boat or ship,Donegal Garda Division,2014
+0.0,Donegal,Unseaworthy/dangerous use of boat or ship,Donegal Garda Division,2015
+0.0,Donegal,Unseaworthy/dangerous use of boat or ship,Donegal Garda Division,2016
+0.0,Donegal,Unseaworthy/dangerous use of boat or ship,Donegal Garda Division,2017
+0.0,Donegal,Unseaworthy/dangerous use of boat or ship,Donegal Garda Division,2018
+0.0,Donegal,Unseaworthy/dangerous use of boat or ship,Donegal Garda Division,2019
+0.0,Louth,Unseaworthy/dangerous use of boat or ship,Louth  Garda Division,2003
+0.0,Louth,Unseaworthy/dangerous use of boat or ship,Louth  Garda Division,2004
+0.0,Louth,Unseaworthy/dangerous use of boat or ship,Louth  Garda Division,2005
+0.0,Louth,Unseaworthy/dangerous use of boat or ship,Louth  Garda Division,2006
+0.0,Louth,Unseaworthy/dangerous use of boat or ship,Louth  Garda Division,2007
+0.0,Louth,Unseaworthy/dangerous use of boat or ship,Louth  Garda Division,2008
+0.0,Louth,Unseaworthy/dangerous use of boat or ship,Louth  Garda Division,2009
+0.0,Louth,Unseaworthy/dangerous use of boat or ship,Louth  Garda Division,2010
+0.0,Louth,Unseaworthy/dangerous use of boat or ship,Louth  Garda Division,2011
+0.0,Louth,Unseaworthy/dangerous use of boat or ship,Louth  Garda Division,2012
+0.0,Louth,Unseaworthy/dangerous use of boat or ship,Louth  Garda Division,2013
+0.0,Louth,Unseaworthy/dangerous use of boat or ship,Louth  Garda Division,2014
+1.0,Louth,Unseaworthy/dangerous use of boat or ship,Louth  Garda Division,2015
+0.0,Louth,Unseaworthy/dangerous use of boat or ship,Louth  Garda Division,2016
+0.0,Louth,Unseaworthy/dangerous use of boat or ship,Louth  Garda Division,2017
+0.0,Louth,Unseaworthy/dangerous use of boat or ship,Louth  Garda Division,2018
+0.0,Louth,Unseaworthy/dangerous use of boat or ship,Louth  Garda Division,2019
+0.0,Clare,Unseaworthy/dangerous use of boat or ship,Clare Garda Division,2003
+0.0,Clare,Unseaworthy/dangerous use of boat or ship,Clare Garda Division,2004
+0.0,Clare,Unseaworthy/dangerous use of boat or ship,Clare Garda Division,2005
+0.0,Clare,Unseaworthy/dangerous use of boat or ship,Clare Garda Division,2006
+0.0,Clare,Unseaworthy/dangerous use of boat or ship,Clare Garda Division,2007
+1.0,Clare,Unseaworthy/dangerous use of boat or ship,Clare Garda Division,2008
+0.0,Clare,Unseaworthy/dangerous use of boat or ship,Clare Garda Division,2009
+1.0,Clare,Unseaworthy/dangerous use of boat or ship,Clare Garda Division,2010
+0.0,Clare,Unseaworthy/dangerous use of boat or ship,Clare Garda Division,2011
+0.0,Clare,Unseaworthy/dangerous use of boat or ship,Clare Garda Division,2012
+0.0,Clare,Unseaworthy/dangerous use of boat or ship,Clare Garda Division,2013
+0.0,Clare,Unseaworthy/dangerous use of boat or ship,Clare Garda Division,2014
+1.0,Clare,Unseaworthy/dangerous use of boat or ship,Clare Garda Division,2015
+0.0,Clare,Unseaworthy/dangerous use of boat or ship,Clare Garda Division,2016
+0.0,Clare,Unseaworthy/dangerous use of boat or ship,Clare Garda Division,2017
+1.0,Clare,Unseaworthy/dangerous use of boat or ship,Clare Garda Division,2018
+1.0,Clare,Unseaworthy/dangerous use of boat or ship,Clare Garda Division,2019
+0.0,Mayo,Unseaworthy/dangerous use of boat or ship,Mayo Garda Division,2003
+0.0,Mayo,Unseaworthy/dangerous use of boat or ship,Mayo Garda Division,2004
+0.0,Mayo,Unseaworthy/dangerous use of boat or ship,Mayo Garda Division,2005
+0.0,Mayo,Unseaworthy/dangerous use of boat or ship,Mayo Garda Division,2006
+0.0,Mayo,Unseaworthy/dangerous use of boat or ship,Mayo Garda Division,2007
+0.0,Mayo,Unseaworthy/dangerous use of boat or ship,Mayo Garda Division,2008
+0.0,Mayo,Unseaworthy/dangerous use of boat or ship,Mayo Garda Division,2009
+0.0,Mayo,Unseaworthy/dangerous use of boat or ship,Mayo Garda Division,2010
+1.0,Mayo,Unseaworthy/dangerous use of boat or ship,Mayo Garda Division,2011
+0.0,Mayo,Unseaworthy/dangerous use of boat or ship,Mayo Garda Division,2012
+0.0,Mayo,Unseaworthy/dangerous use of boat or ship,Mayo Garda Division,2013
+0.0,Mayo,Unseaworthy/dangerous use of boat or ship,Mayo Garda Division,2014
+0.0,Mayo,Unseaworthy/dangerous use of boat or ship,Mayo Garda Division,2015
+0.0,Mayo,Unseaworthy/dangerous use of boat or ship,Mayo Garda Division,2016
+0.0,Mayo,Unseaworthy/dangerous use of boat or ship,Mayo Garda Division,2017
+0.0,Mayo,Unseaworthy/dangerous use of boat or ship,Mayo Garda Division,2018
+0.0,Mayo,Unseaworthy/dangerous use of boat or ship,Mayo Garda Division,2019
+0.0,Galway,Unseaworthy/dangerous use of boat or ship,Galway Garda Division,2003
+0.0,Galway,Unseaworthy/dangerous use of boat or ship,Galway Garda Division,2004
+0.0,Galway,Unseaworthy/dangerous use of boat or ship,Galway Garda Division,2005
+0.0,Galway,Unseaworthy/dangerous use of boat or ship,Galway Garda Division,2006
+0.0,Galway,Unseaworthy/dangerous use of boat or ship,Galway Garda Division,2007
+0.0,Galway,Unseaworthy/dangerous use of boat or ship,Galway Garda Division,2008
+0.0,Galway,Unseaworthy/dangerous use of boat or ship,Galway Garda Division,2009
+1.0,Galway,Unseaworthy/dangerous use of boat or ship,Galway Garda Division,2010
+0.0,Galway,Unseaworthy/dangerous use of boat or ship,Galway Garda Division,2011
+0.0,Galway,Unseaworthy/dangerous use of boat or ship,Galway Garda Division,2012
+0.0,Galway,Unseaworthy/dangerous use of boat or ship,Galway Garda Division,2013
+0.0,Galway,Unseaworthy/dangerous use of boat or ship,Galway Garda Division,2014
+0.0,Galway,Unseaworthy/dangerous use of boat or ship,Galway Garda Division,2015
+1.0,Galway,Unseaworthy/dangerous use of boat or ship,Galway Garda Division,2016
+0.0,Galway,Unseaworthy/dangerous use of boat or ship,Galway Garda Division,2017
+0.0,Galway,Unseaworthy/dangerous use of boat or ship,Galway Garda Division,2018
+0.0,Galway,Unseaworthy/dangerous use of boat or ship,Galway Garda Division,2019
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork City Garda Division,2003
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork City Garda Division,2004
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork City Garda Division,2005
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork City Garda Division,2006
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork City Garda Division,2007
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork City Garda Division,2008
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork City Garda Division,2009
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork City Garda Division,2010
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork City Garda Division,2011
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork City Garda Division,2012
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork City Garda Division,2013
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork City Garda Division,2014
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork City Garda Division,2015
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork City Garda Division,2016
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork City Garda Division,2017
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork City Garda Division,2018
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork City Garda Division,2019
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork North Garda Division,2003
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork North Garda Division,2004
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork North Garda Division,2005
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork North Garda Division,2006
+1.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork North Garda Division,2007
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork North Garda Division,2008
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork North Garda Division,2009
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork North Garda Division,2010
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork North Garda Division,2011
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork North Garda Division,2012
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork North Garda Division,2013
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork North Garda Division,2014
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork North Garda Division,2015
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork North Garda Division,2016
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork North Garda Division,2017
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork North Garda Division,2018
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork North Garda Division,2019
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork West Garda Division,2003
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork West Garda Division,2004
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork West Garda Division,2005
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork West Garda Division,2006
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork West Garda Division,2007
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork West Garda Division,2008
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork West Garda Division,2009
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork West Garda Division,2010
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork West Garda Division,2011
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork West Garda Division,2012
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork West Garda Division,2013
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork West Garda Division,2014
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork West Garda Division,2015
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork West Garda Division,2016
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork West Garda Division,2017
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork West Garda Division,2018
+0.0,Cork,Unseaworthy/dangerous use of boat or ship,Cork West Garda Division,2019
+0.0,Kerry,Unseaworthy/dangerous use of boat or ship,Kerry Garda Division,2003
+0.0,Kerry,Unseaworthy/dangerous use of boat or ship,Kerry Garda Division,2004
+0.0,Kerry,Unseaworthy/dangerous use of boat or ship,Kerry Garda Division,2005
+0.0,Kerry,Unseaworthy/dangerous use of boat or ship,Kerry Garda Division,2006
+0.0,Kerry,Unseaworthy/dangerous use of boat or ship,Kerry Garda Division,2007
+0.0,Kerry,Unseaworthy/dangerous use of boat or ship,Kerry Garda Division,2008
+0.0,Kerry,Unseaworthy/dangerous use of boat or ship,Kerry Garda Division,2009
+0.0,Kerry,Unseaworthy/dangerous use of boat or ship,Kerry Garda Division,2010
+0.0,Kerry,Unseaworthy/dangerous use of boat or ship,Kerry Garda Division,2011
+0.0,Kerry,Unseaworthy/dangerous use of boat or ship,Kerry Garda Division,2012
+0.0,Kerry,Unseaworthy/dangerous use of boat or ship,Kerry Garda Division,2013
+0.0,Kerry,Unseaworthy/dangerous use of boat or ship,Kerry Garda Division,2014
+0.0,Kerry,Unseaworthy/dangerous use of boat or ship,Kerry Garda Division,2015
+0.0,Kerry,Unseaworthy/dangerous use of boat or ship,Kerry Garda Division,2016
+0.0,Kerry,Unseaworthy/dangerous use of boat or ship,Kerry Garda Division,2017
+0.0,Kerry,Unseaworthy/dangerous use of boat or ship,Kerry Garda Division,2018
+1.0,Kerry,Unseaworthy/dangerous use of boat or ship,Kerry Garda Division,2019
+0.0,Limerick,Unseaworthy/dangerous use of boat or ship,Limerick Garda Division,2003
+0.0,Limerick,Unseaworthy/dangerous use of boat or ship,Limerick Garda Division,2004
+0.0,Limerick,Unseaworthy/dangerous use of boat or ship,Limerick Garda Division,2005
+0.0,Limerick,Unseaworthy/dangerous use of boat or ship,Limerick Garda Division,2006
+0.0,Limerick,Unseaworthy/dangerous use of boat or ship,Limerick Garda Division,2007
+0.0,Limerick,Unseaworthy/dangerous use of boat or ship,Limerick Garda Division,2008
+0.0,Limerick,Unseaworthy/dangerous use of boat or ship,Limerick Garda Division,2009
+0.0,Limerick,Unseaworthy/dangerous use of boat or ship,Limerick Garda Division,2010
+0.0,Limerick,Unseaworthy/dangerous use of boat or ship,Limerick Garda Division,2011
+0.0,Limerick,Unseaworthy/dangerous use of boat or ship,Limerick Garda Division,2012
+0.0,Limerick,Unseaworthy/dangerous use of boat or ship,Limerick Garda Division,2013
+0.0,Limerick,Unseaworthy/dangerous use of boat or ship,Limerick Garda Division,2014
+0.0,Limerick,Unseaworthy/dangerous use of boat or ship,Limerick Garda Division,2015
+0.0,Limerick,Unseaworthy/dangerous use of boat or ship,Limerick Garda Division,2016
+0.0,Limerick,Unseaworthy/dangerous use of boat or ship,Limerick Garda Division,2017
+0.0,Limerick,Unseaworthy/dangerous use of boat or ship,Limerick Garda Division,2018
+0.0,Limerick,Unseaworthy/dangerous use of boat or ship,Limerick Garda Division,2019
+0.0,Meath,Unseaworthy/dangerous use of boat or ship,Meath  Garda Division,2003
+0.0,Meath,Unseaworthy/dangerous use of boat or ship,Meath  Garda Division,2004
+0.0,Meath,Unseaworthy/dangerous use of boat or ship,Meath  Garda Division,2005
+0.0,Meath,Unseaworthy/dangerous use of boat or ship,Meath  Garda Division,2006
+0.0,Meath,Unseaworthy/dangerous use of boat or ship,Meath  Garda Division,2007
+0.0,Meath,Unseaworthy/dangerous use of boat or ship,Meath  Garda Division,2008
+0.0,Meath,Unseaworthy/dangerous use of boat or ship,Meath  Garda Division,2009
+0.0,Meath,Unseaworthy/dangerous use of boat or ship,Meath  Garda Division,2010
+0.0,Meath,Unseaworthy/dangerous use of boat or ship,Meath  Garda Division,2011
+0.0,Meath,Unseaworthy/dangerous use of boat or ship,Meath  Garda Division,2012
+0.0,Meath,Unseaworthy/dangerous use of boat or ship,Meath  Garda Division,2013
+0.0,Meath,Unseaworthy/dangerous use of boat or ship,Meath  Garda Division,2014
+0.0,Meath,Unseaworthy/dangerous use of boat or ship,Meath  Garda Division,2015
+0.0,Meath,Unseaworthy/dangerous use of boat or ship,Meath  Garda Division,2016
+0.0,Meath,Unseaworthy/dangerous use of boat or ship,Meath  Garda Division,2017
+0.0,Meath,Unseaworthy/dangerous use of boat or ship,Meath  Garda Division,2018
+0.0,Meath,Unseaworthy/dangerous use of boat or ship,Meath  Garda Division,2019
+0.0,Wicklow,Unseaworthy/dangerous use of boat or ship,Wicklow  Garda Division,2003
+0.0,Wicklow,Unseaworthy/dangerous use of boat or ship,Wicklow  Garda Division,2004
+0.0,Wicklow,Unseaworthy/dangerous use of boat or ship,Wicklow  Garda Division,2005
+0.0,Wicklow,Unseaworthy/dangerous use of boat or ship,Wicklow  Garda Division,2006
+0.0,Wicklow,Unseaworthy/dangerous use of boat or ship,Wicklow  Garda Division,2007
+0.0,Wicklow,Unseaworthy/dangerous use of boat or ship,Wicklow  Garda Division,2008
+0.0,Wicklow,Unseaworthy/dangerous use of boat or ship,Wicklow  Garda Division,2009
+0.0,Wicklow,Unseaworthy/dangerous use of boat or ship,Wicklow  Garda Division,2010
+0.0,Wicklow,Unseaworthy/dangerous use of boat or ship,Wicklow  Garda Division,2011
+1.0,Wicklow,Unseaworthy/dangerous use of boat or ship,Wicklow  Garda Division,2012
+0.0,Wicklow,Unseaworthy/dangerous use of boat or ship,Wicklow  Garda Division,2013
+0.0,Wicklow,Unseaworthy/dangerous use of boat or ship,Wicklow  Garda Division,2014
+0.0,Wicklow,Unseaworthy/dangerous use of boat or ship,Wicklow  Garda Division,2015
+0.0,Wicklow,Unseaworthy/dangerous use of boat or ship,Wicklow  Garda Division,2016
+0.0,Wicklow,Unseaworthy/dangerous use of boat or ship,Wicklow  Garda Division,2017
+0.0,Wicklow,Unseaworthy/dangerous use of boat or ship,Wicklow  Garda Division,2018
+0.0,Wicklow,Unseaworthy/dangerous use of boat or ship,Wicklow  Garda Division,2019
+0.0,Westmeath,Unseaworthy/dangerous use of boat or ship,Westmeath  Garda Division,2003
+0.0,Westmeath,Unseaworthy/dangerous use of boat or ship,Westmeath  Garda Division,2004
+0.0,Westmeath,Unseaworthy/dangerous use of boat or ship,Westmeath  Garda Division,2005
+0.0,Westmeath,Unseaworthy/dangerous use of boat or ship,Westmeath  Garda Division,2006
+0.0,Westmeath,Unseaworthy/dangerous use of boat or ship,Westmeath  Garda Division,2007
+0.0,Westmeath,Unseaworthy/dangerous use of boat or ship,Westmeath  Garda Division,2008
+0.0,Westmeath,Unseaworthy/dangerous use of boat or ship,Westmeath  Garda Division,2009
+2.0,Westmeath,Unseaworthy/dangerous use of boat or ship,Westmeath  Garda Division,2010
+0.0,Westmeath,Unseaworthy/dangerous use of boat or ship,Westmeath  Garda Division,2011
+1.0,Westmeath,Unseaworthy/dangerous use of boat or ship,Westmeath  Garda Division,2012
+0.0,Westmeath,Unseaworthy/dangerous use of boat or ship,Westmeath  Garda Division,2013
+0.0,Westmeath,Unseaworthy/dangerous use of boat or ship,Westmeath  Garda Division,2014
+0.0,Westmeath,Unseaworthy/dangerous use of boat or ship,Westmeath  Garda Division,2015
+0.0,Westmeath,Unseaworthy/dangerous use of boat or ship,Westmeath  Garda Division,2016
+0.0,Westmeath,Unseaworthy/dangerous use of boat or ship,Westmeath  Garda Division,2017
+0.0,Westmeath,Unseaworthy/dangerous use of boat or ship,Westmeath  Garda Division,2018
+0.0,Westmeath,Unseaworthy/dangerous use of boat or ship,Westmeath  Garda Division,2019
+0.0,Kildare,Unseaworthy/dangerous use of boat or ship,Kildare  Garda Division,2003
+0.0,Kildare,Unseaworthy/dangerous use of boat or ship,Kildare  Garda Division,2004
+0.0,Kildare,Unseaworthy/dangerous use of boat or ship,Kildare  Garda Division,2005
+0.0,Kildare,Unseaworthy/dangerous use of boat or ship,Kildare  Garda Division,2006
+0.0,Kildare,Unseaworthy/dangerous use of boat or ship,Kildare  Garda Division,2007
+0.0,Kildare,Unseaworthy/dangerous use of boat or ship,Kildare  Garda Division,2008
+1.0,Kildare,Unseaworthy/dangerous use of boat or ship,Kildare  Garda Division,2009
+0.0,Kildare,Unseaworthy/dangerous use of boat or ship,Kildare  Garda Division,2010
+0.0,Kildare,Unseaworthy/dangerous use of boat or ship,Kildare  Garda Division,2011
+0.0,Kildare,Unseaworthy/dangerous use of boat or ship,Kildare  Garda Division,2012
+0.0,Kildare,Unseaworthy/dangerous use of boat or ship,Kildare  Garda Division,2013
+0.0,Kildare,Unseaworthy/dangerous use of boat or ship,Kildare  Garda Division,2014
+0.0,Kildare,Unseaworthy/dangerous use of boat or ship,Kildare  Garda Division,2015
+0.0,Kildare,Unseaworthy/dangerous use of boat or ship,Kildare  Garda Division,2016
+0.0,Kildare,Unseaworthy/dangerous use of boat or ship,Kildare  Garda Division,2017
+0.0,Kildare,Unseaworthy/dangerous use of boat or ship,Kildare  Garda Division,2018
+0.0,Kildare,Unseaworthy/dangerous use of boat or ship,Kildare  Garda Division,2019
+0.0,Tipperary,Unseaworthy/dangerous use of boat or ship,Tipperary Garda Division,2003
+0.0,Tipperary,Unseaworthy/dangerous use of boat or ship,Tipperary Garda Division,2004
+0.0,Tipperary,Unseaworthy/dangerous use of boat or ship,Tipperary Garda Division,2005
+0.0,Tipperary,Unseaworthy/dangerous use of boat or ship,Tipperary Garda Division,2006
+0.0,Tipperary,Unseaworthy/dangerous use of boat or ship,Tipperary Garda Division,2007
+0.0,Tipperary,Unseaworthy/dangerous use of boat or ship,Tipperary Garda Division,2008
+0.0,Tipperary,Unseaworthy/dangerous use of boat or ship,Tipperary Garda Division,2009
+0.0,Tipperary,Unseaworthy/dangerous use of boat or ship,Tipperary Garda Division,2010
+0.0,Tipperary,Unseaworthy/dangerous use of boat or ship,Tipperary Garda Division,2011
+0.0,Tipperary,Unseaworthy/dangerous use of boat or ship,Tipperary Garda Division,2012
+0.0,Tipperary,Unseaworthy/dangerous use of boat or ship,Tipperary Garda Division,2013
+0.0,Tipperary,Unseaworthy/dangerous use of boat or ship,Tipperary Garda Division,2014
+0.0,Tipperary,Unseaworthy/dangerous use of boat or ship,Tipperary Garda Division,2015
+0.0,Tipperary,Unseaworthy/dangerous use of boat or ship,Tipperary Garda Division,2016
+1.0,Tipperary,Unseaworthy/dangerous use of boat or ship,Tipperary Garda Division,2017
+0.0,Tipperary,Unseaworthy/dangerous use of boat or ship,Tipperary Garda Division,2018
+0.0,Tipperary,Unseaworthy/dangerous use of boat or ship,Tipperary Garda Division,2019
+0.0,Wexford,Unseaworthy/dangerous use of boat or ship,Wexford  Garda Division,2003
+0.0,Wexford,Unseaworthy/dangerous use of boat or ship,Wexford  Garda Division,2004
+0.0,Wexford,Unseaworthy/dangerous use of boat or ship,Wexford  Garda Division,2005
+0.0,Wexford,Unseaworthy/dangerous use of boat or ship,Wexford  Garda Division,2006
+0.0,Wexford,Unseaworthy/dangerous use of boat or ship,Wexford  Garda Division,2007
+0.0,Wexford,Unseaworthy/dangerous use of boat or ship,Wexford  Garda Division,2008
+0.0,Wexford,Unseaworthy/dangerous use of boat or ship,Wexford  Garda Division,2009
+3.0,Wexford,Unseaworthy/dangerous use of boat or ship,Wexford  Garda Division,2010
+1.0,Wexford,Unseaworthy/dangerous use of boat or ship,Wexford  Garda Division,2011
+0.0,Wexford,Unseaworthy/dangerous use of boat or ship,Wexford  Garda Division,2012
+0.0,Wexford,Unseaworthy/dangerous use of boat or ship,Wexford  Garda Division,2013
+0.0,Wexford,Unseaworthy/dangerous use of boat or ship,Wexford  Garda Division,2014
+0.0,Wexford,Unseaworthy/dangerous use of boat or ship,Wexford  Garda Division,2015
+0.0,Wexford,Unseaworthy/dangerous use of boat or ship,Wexford  Garda Division,2016
+0.0,Wexford,Unseaworthy/dangerous use of boat or ship,Wexford  Garda Division,2017
+0.0,Wexford,Unseaworthy/dangerous use of boat or ship,Wexford  Garda Division,2018
+0.0,Wexford,Unseaworthy/dangerous use of boat or ship,Wexford  Garda Division,2019
+0.0,Waterford,Unseaworthy/dangerous use of boat or ship,Waterford  Garda Division,2003
+0.0,Waterford,Unseaworthy/dangerous use of boat or ship,Waterford  Garda Division,2004
+0.0,Waterford,Unseaworthy/dangerous use of boat or ship,Waterford  Garda Division,2005
+0.0,Waterford,Unseaworthy/dangerous use of boat or ship,Waterford  Garda Division,2006
+0.0,Waterford,Unseaworthy/dangerous use of boat or ship,Waterford  Garda Division,2007
+0.0,Waterford,Unseaworthy/dangerous use of boat or ship,Waterford  Garda Division,2008
+0.0,Waterford,Unseaworthy/dangerous use of boat or ship,Waterford  Garda Division,2009
+0.0,Waterford,Unseaworthy/dangerous use of boat or ship,Waterford  Garda Division,2010
+1.0,Waterford,Unseaworthy/dangerous use of boat or ship,Waterford  Garda Division,2011
+1.0,Waterford,Unseaworthy/dangerous use of boat or ship,Waterford  Garda Division,2012
+1.0,Waterford,Unseaworthy/dangerous use of boat or ship,Waterford  Garda Division,2013
+0.0,Waterford,Unseaworthy/dangerous use of boat or ship,Waterford  Garda Division,2014
+0.0,Waterford,Unseaworthy/dangerous use of boat or ship,Waterford  Garda Division,2015
+0.0,Waterford,Unseaworthy/dangerous use of boat or ship,Waterford  Garda Division,2016
+0.0,Waterford,Unseaworthy/dangerous use of boat or ship,Waterford  Garda Division,2017
+0.0,Waterford,Unseaworthy/dangerous use of boat or ship,Waterford  Garda Division,2018
+0.0,Waterford,Unseaworthy/dangerous use of boat or ship,Waterford  Garda Division,2019
+0.0,Dublin,Unseaworthy/dangerous use of boat or ship,Dublin Region,2003
+0.0,Dublin,Unseaworthy/dangerous use of boat or ship,Dublin Region,2004
+0.0,Dublin,Unseaworthy/dangerous use of boat or ship,Dublin Region,2005
+0.0,Dublin,Unseaworthy/dangerous use of boat or ship,Dublin Region,2006
+0.0,Dublin,Unseaworthy/dangerous use of boat or ship,Dublin Region,2007
+0.0,Dublin,Unseaworthy/dangerous use of boat or ship,Dublin Region,2008
+1.0,Dublin,Unseaworthy/dangerous use of boat or ship,Dublin Region,2009
+2.0,Dublin,Unseaworthy/dangerous use of boat or ship,Dublin Region,2010
+0.0,Dublin,Unseaworthy/dangerous use of boat or ship,Dublin Region,2011
+0.0,Dublin,Unseaworthy/dangerous use of boat or ship,Dublin Region,2012
+1.0,Dublin,Unseaworthy/dangerous use of boat or ship,Dublin Region,2013
+0.0,Dublin,Unseaworthy/dangerous use of boat or ship,Dublin Region,2014
+3.0,Dublin,Unseaworthy/dangerous use of boat or ship,Dublin Region,2015
+0.0,Dublin,Unseaworthy/dangerous use of boat or ship,Dublin Region,2016
+3.0,Dublin,Unseaworthy/dangerous use of boat or ship,Dublin Region,2017
+1.0,Dublin,Unseaworthy/dangerous use of boat or ship,Dublin Region,2018
+1.0,Dublin,Unseaworthy/dangerous use of boat or ship,Dublin Region,2019
+0.0,Donegal,False alarm/interference with aircraft or air transport facilities,Donegal Garda Division,2003
+0.0,Donegal,False alarm/interference with aircraft or air transport facilities,Donegal Garda Division,2004
+0.0,Donegal,False alarm/interference with aircraft or air transport facilities,Donegal Garda Division,2005
+0.0,Donegal,False alarm/interference with aircraft or air transport facilities,Donegal Garda Division,2006
+0.0,Donegal,False alarm/interference with aircraft or air transport facilities,Donegal Garda Division,2007
+0.0,Donegal,False alarm/interference with aircraft or air transport facilities,Donegal Garda Division,2008
+0.0,Donegal,False alarm/interference with aircraft or air transport facilities,Donegal Garda Division,2009
+0.0,Donegal,False alarm/interference with aircraft or air transport facilities,Donegal Garda Division,2010
+0.0,Donegal,False alarm/interference with aircraft or air transport facilities,Donegal Garda Division,2011
+0.0,Donegal,False alarm/interference with aircraft or air transport facilities,Donegal Garda Division,2012
+0.0,Donegal,False alarm/interference with aircraft or air transport facilities,Donegal Garda Division,2013
+0.0,Donegal,False alarm/interference with aircraft or air transport facilities,Donegal Garda Division,2014
+0.0,Donegal,False alarm/interference with aircraft or air transport facilities,Donegal Garda Division,2015
+0.0,Donegal,False alarm/interference with aircraft or air transport facilities,Donegal Garda Division,2016
+0.0,Donegal,False alarm/interference with aircraft or air transport facilities,Donegal Garda Division,2017
+0.0,Donegal,False alarm/interference with aircraft or air transport facilities,Donegal Garda Division,2018
+0.0,Donegal,False alarm/interference with aircraft or air transport facilities,Donegal Garda Division,2019
+0.0,Louth,False alarm/interference with aircraft or air transport facilities,Louth  Garda Division,2003
+0.0,Louth,False alarm/interference with aircraft or air transport facilities,Louth  Garda Division,2004
+0.0,Louth,False alarm/interference with aircraft or air transport facilities,Louth  Garda Division,2005
+0.0,Louth,False alarm/interference with aircraft or air transport facilities,Louth  Garda Division,2006
+0.0,Louth,False alarm/interference with aircraft or air transport facilities,Louth  Garda Division,2007
+0.0,Louth,False alarm/interference with aircraft or air transport facilities,Louth  Garda Division,2008
+0.0,Louth,False alarm/interference with aircraft or air transport facilities,Louth  Garda Division,2009
+0.0,Louth,False alarm/interference with aircraft or air transport facilities,Louth  Garda Division,2010
+0.0,Louth,False alarm/interference with aircraft or air transport facilities,Louth  Garda Division,2011
+0.0,Louth,False alarm/interference with aircraft or air transport facilities,Louth  Garda Division,2012
+0.0,Louth,False alarm/interference with aircraft or air transport facilities,Louth  Garda Division,2013
+0.0,Louth,False alarm/interference with aircraft or air transport facilities,Louth  Garda Division,2014
+0.0,Louth,False alarm/interference with aircraft or air transport facilities,Louth  Garda Division,2015
+0.0,Louth,False alarm/interference with aircraft or air transport facilities,Louth  Garda Division,2016
+0.0,Louth,False alarm/interference with aircraft or air transport facilities,Louth  Garda Division,2017
+0.0,Louth,False alarm/interference with aircraft or air transport facilities,Louth  Garda Division,2018
+0.0,Louth,False alarm/interference with aircraft or air transport facilities,Louth  Garda Division,2019
+4.0,Clare,False alarm/interference with aircraft or air transport facilities,Clare Garda Division,2003
+1.0,Clare,False alarm/interference with aircraft or air transport facilities,Clare Garda Division,2004
+4.0,Clare,False alarm/interference with aircraft or air transport facilities,Clare Garda Division,2005
+3.0,Clare,False alarm/interference with aircraft or air transport facilities,Clare Garda Division,2006
+0.0,Clare,False alarm/interference with aircraft or air transport facilities,Clare Garda Division,2007
+2.0,Clare,False alarm/interference with aircraft or air transport facilities,Clare Garda Division,2008
+0.0,Clare,False alarm/interference with aircraft or air transport facilities,Clare Garda Division,2009
+0.0,Clare,False alarm/interference with aircraft or air transport facilities,Clare Garda Division,2010
+0.0,Clare,False alarm/interference with aircraft or air transport facilities,Clare Garda Division,2011
+0.0,Clare,False alarm/interference with aircraft or air transport facilities,Clare Garda Division,2012
+0.0,Clare,False alarm/interference with aircraft or air transport facilities,Clare Garda Division,2013
+2.0,Clare,False alarm/interference with aircraft or air transport facilities,Clare Garda Division,2014
+0.0,Clare,False alarm/interference with aircraft or air transport facilities,Clare Garda Division,2015
+1.0,Clare,False alarm/interference with aircraft or air transport facilities,Clare Garda Division,2016
+1.0,Clare,False alarm/interference with aircraft or air transport facilities,Clare Garda Division,2017
+0.0,Clare,False alarm/interference with aircraft or air transport facilities,Clare Garda Division,2018
+0.0,Clare,False alarm/interference with aircraft or air transport facilities,Clare Garda Division,2019
+0.0,Mayo,False alarm/interference with aircraft or air transport facilities,Mayo Garda Division,2003
+0.0,Mayo,False alarm/interference with aircraft or air transport facilities,Mayo Garda Division,2004
+0.0,Mayo,False alarm/interference with aircraft or air transport facilities,Mayo Garda Division,2005
+0.0,Mayo,False alarm/interference with aircraft or air transport facilities,Mayo Garda Division,2006
+0.0,Mayo,False alarm/interference with aircraft or air transport facilities,Mayo Garda Division,2007
+0.0,Mayo,False alarm/interference with aircraft or air transport facilities,Mayo Garda Division,2008
+0.0,Mayo,False alarm/interference with aircraft or air transport facilities,Mayo Garda Division,2009
+0.0,Mayo,False alarm/interference with aircraft or air transport facilities,Mayo Garda Division,2010
+0.0,Mayo,False alarm/interference with aircraft or air transport facilities,Mayo Garda Division,2011
+0.0,Mayo,False alarm/interference with aircraft or air transport facilities,Mayo Garda Division,2012
+0.0,Mayo,False alarm/interference with aircraft or air transport facilities,Mayo Garda Division,2013
+0.0,Mayo,False alarm/interference with aircraft or air transport facilities,Mayo Garda Division,2014
+0.0,Mayo,False alarm/interference with aircraft or air transport facilities,Mayo Garda Division,2015
+0.0,Mayo,False alarm/interference with aircraft or air transport facilities,Mayo Garda Division,2016
+1.0,Mayo,False alarm/interference with aircraft or air transport facilities,Mayo Garda Division,2017
+0.0,Mayo,False alarm/interference with aircraft or air transport facilities,Mayo Garda Division,2018
+0.0,Mayo,False alarm/interference with aircraft or air transport facilities,Mayo Garda Division,2019
+0.0,Galway,False alarm/interference with aircraft or air transport facilities,Galway Garda Division,2003
+0.0,Galway,False alarm/interference with aircraft or air transport facilities,Galway Garda Division,2004
+0.0,Galway,False alarm/interference with aircraft or air transport facilities,Galway Garda Division,2005
+0.0,Galway,False alarm/interference with aircraft or air transport facilities,Galway Garda Division,2006
+0.0,Galway,False alarm/interference with aircraft or air transport facilities,Galway Garda Division,2007
+0.0,Galway,False alarm/interference with aircraft or air transport facilities,Galway Garda Division,2008
+0.0,Galway,False alarm/interference with aircraft or air transport facilities,Galway Garda Division,2009
+0.0,Galway,False alarm/interference with aircraft or air transport facilities,Galway Garda Division,2010
+0.0,Galway,False alarm/interference with aircraft or air transport facilities,Galway Garda Division,2011
+0.0,Galway,False alarm/interference with aircraft or air transport facilities,Galway Garda Division,2012
+0.0,Galway,False alarm/interference with aircraft or air transport facilities,Galway Garda Division,2013
+0.0,Galway,False alarm/interference with aircraft or air transport facilities,Galway Garda Division,2014
+0.0,Galway,False alarm/interference with aircraft or air transport facilities,Galway Garda Division,2015
+0.0,Galway,False alarm/interference with aircraft or air transport facilities,Galway Garda Division,2016
+0.0,Galway,False alarm/interference with aircraft or air transport facilities,Galway Garda Division,2017
+0.0,Galway,False alarm/interference with aircraft or air transport facilities,Galway Garda Division,2018
+0.0,Galway,False alarm/interference with aircraft or air transport facilities,Galway Garda Division,2019
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork City Garda Division,2003
+1.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork City Garda Division,2004
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork City Garda Division,2005
+1.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork City Garda Division,2006
+1.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork City Garda Division,2007
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork City Garda Division,2008
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork City Garda Division,2009
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork City Garda Division,2010
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork City Garda Division,2011
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork City Garda Division,2012
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork City Garda Division,2013
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork City Garda Division,2014
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork City Garda Division,2015
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork City Garda Division,2016
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork City Garda Division,2017
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork City Garda Division,2018
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork City Garda Division,2019
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork North Garda Division,2003
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork North Garda Division,2004
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork North Garda Division,2005
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork North Garda Division,2006
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork North Garda Division,2007
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork North Garda Division,2008
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork North Garda Division,2009
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork North Garda Division,2010
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork North Garda Division,2011
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork North Garda Division,2012
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork North Garda Division,2013
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork North Garda Division,2014
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork North Garda Division,2015
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork North Garda Division,2016
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork North Garda Division,2017
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork North Garda Division,2018
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork North Garda Division,2019
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork West Garda Division,2003
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork West Garda Division,2004
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork West Garda Division,2005
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork West Garda Division,2006
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork West Garda Division,2007
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork West Garda Division,2008
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork West Garda Division,2009
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork West Garda Division,2010
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork West Garda Division,2011
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork West Garda Division,2012
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork West Garda Division,2013
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork West Garda Division,2014
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork West Garda Division,2015
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork West Garda Division,2016
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork West Garda Division,2017
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork West Garda Division,2018
+0.0,Cork,False alarm/interference with aircraft or air transport facilities,Cork West Garda Division,2019
+0.0,Kerry,False alarm/interference with aircraft or air transport facilities,Kerry Garda Division,2003
+0.0,Kerry,False alarm/interference with aircraft or air transport facilities,Kerry Garda Division,2004
+0.0,Kerry,False alarm/interference with aircraft or air transport facilities,Kerry Garda Division,2005
+0.0,Kerry,False alarm/interference with aircraft or air transport facilities,Kerry Garda Division,2006
+0.0,Kerry,False alarm/interference with aircraft or air transport facilities,Kerry Garda Division,2007
+0.0,Kerry,False alarm/interference with aircraft or air transport facilities,Kerry Garda Division,2008
+0.0,Kerry,False alarm/interference with aircraft or air transport facilities,Kerry Garda Division,2009
+0.0,Kerry,False alarm/interference with aircraft or air transport facilities,Kerry Garda Division,2010
+0.0,Kerry,False alarm/interference with aircraft or air transport facilities,Kerry Garda Division,2011
+0.0,Kerry,False alarm/interference with aircraft or air transport facilities,Kerry Garda Division,2012
+0.0,Kerry,False alarm/interference with aircraft or air transport facilities,Kerry Garda Division,2013
+0.0,Kerry,False alarm/interference with aircraft or air transport facilities,Kerry Garda Division,2014
+0.0,Kerry,False alarm/interference with aircraft or air transport facilities,Kerry Garda Division,2015
+0.0,Kerry,False alarm/interference with aircraft or air transport facilities,Kerry Garda Division,2016
+0.0,Kerry,False alarm/interference with aircraft or air transport facilities,Kerry Garda Division,2017
+0.0,Kerry,False alarm/interference with aircraft or air transport facilities,Kerry Garda Division,2018
+0.0,Kerry,False alarm/interference with aircraft or air transport facilities,Kerry Garda Division,2019
+0.0,Limerick,False alarm/interference with aircraft or air transport facilities,Limerick Garda Division,2003
+0.0,Limerick,False alarm/interference with aircraft or air transport facilities,Limerick Garda Division,2004
+0.0,Limerick,False alarm/interference with aircraft or air transport facilities,Limerick Garda Division,2005
+0.0,Limerick,False alarm/interference with aircraft or air transport facilities,Limerick Garda Division,2006
+0.0,Limerick,False alarm/interference with aircraft or air transport facilities,Limerick Garda Division,2007
+0.0,Limerick,False alarm/interference with aircraft or air transport facilities,Limerick Garda Division,2008
+0.0,Limerick,False alarm/interference with aircraft or air transport facilities,Limerick Garda Division,2009
+0.0,Limerick,False alarm/interference with aircraft or air transport facilities,Limerick Garda Division,2010
+0.0,Limerick,False alarm/interference with aircraft or air transport facilities,Limerick Garda Division,2011
+0.0,Limerick,False alarm/interference with aircraft or air transport facilities,Limerick Garda Division,2012
+0.0,Limerick,False alarm/interference with aircraft or air transport facilities,Limerick Garda Division,2013
+0.0,Limerick,False alarm/interference with aircraft or air transport facilities,Limerick Garda Division,2014
+0.0,Limerick,False alarm/interference with aircraft or air transport facilities,Limerick Garda Division,2015
+0.0,Limerick,False alarm/interference with aircraft or air transport facilities,Limerick Garda Division,2016
+0.0,Limerick,False alarm/interference with aircraft or air transport facilities,Limerick Garda Division,2017
+0.0,Limerick,False alarm/interference with aircraft or air transport facilities,Limerick Garda Division,2018
+0.0,Limerick,False alarm/interference with aircraft or air transport facilities,Limerick Garda Division,2019
+0.0,Meath,False alarm/interference with aircraft or air transport facilities,Meath  Garda Division,2003
+0.0,Meath,False alarm/interference with aircraft or air transport facilities,Meath  Garda Division,2004
+0.0,Meath,False alarm/interference with aircraft or air transport facilities,Meath  Garda Division,2005
+0.0,Meath,False alarm/interference with aircraft or air transport facilities,Meath  Garda Division,2006
+0.0,Meath,False alarm/interference with aircraft or air transport facilities,Meath  Garda Division,2007
+0.0,Meath,False alarm/interference with aircraft or air transport facilities,Meath  Garda Division,2008
+0.0,Meath,False alarm/interference with aircraft or air transport facilities,Meath  Garda Division,2009
+0.0,Meath,False alarm/interference with aircraft or air transport facilities,Meath  Garda Division,2010
+0.0,Meath,False alarm/interference with aircraft or air transport facilities,Meath  Garda Division,2011
+0.0,Meath,False alarm/interference with aircraft or air transport facilities,Meath  Garda Division,2012
+0.0,Meath,False alarm/interference with aircraft or air transport facilities,Meath  Garda Division,2013
+0.0,Meath,False alarm/interference with aircraft or air transport facilities,Meath  Garda Division,2014
+0.0,Meath,False alarm/interference with aircraft or air transport facilities,Meath  Garda Division,2015
+0.0,Meath,False alarm/interference with aircraft or air transport facilities,Meath  Garda Division,2016
+0.0,Meath,False alarm/interference with aircraft or air transport facilities,Meath  Garda Division,2017
+0.0,Meath,False alarm/interference with aircraft or air transport facilities,Meath  Garda Division,2018
+0.0,Meath,False alarm/interference with aircraft or air transport facilities,Meath  Garda Division,2019
+0.0,Wicklow,False alarm/interference with aircraft or air transport facilities,Wicklow  Garda Division,2003
+0.0,Wicklow,False alarm/interference with aircraft or air transport facilities,Wicklow  Garda Division,2004
+0.0,Wicklow,False alarm/interference with aircraft or air transport facilities,Wicklow  Garda Division,2005
+0.0,Wicklow,False alarm/interference with aircraft or air transport facilities,Wicklow  Garda Division,2006
+0.0,Wicklow,False alarm/interference with aircraft or air transport facilities,Wicklow  Garda Division,2007
+0.0,Wicklow,False alarm/interference with aircraft or air transport facilities,Wicklow  Garda Division,2008
+0.0,Wicklow,False alarm/interference with aircraft or air transport facilities,Wicklow  Garda Division,2009
+1.0,Wicklow,False alarm/interference with aircraft or air transport facilities,Wicklow  Garda Division,2010
+1.0,Wicklow,False alarm/interference with aircraft or air transport facilities,Wicklow  Garda Division,2011
+0.0,Wicklow,False alarm/interference with aircraft or air transport facilities,Wicklow  Garda Division,2012
+0.0,Wicklow,False alarm/interference with aircraft or air transport facilities,Wicklow  Garda Division,2013
+0.0,Wicklow,False alarm/interference with aircraft or air transport facilities,Wicklow  Garda Division,2014
+0.0,Wicklow,False alarm/interference with aircraft or air transport facilities,Wicklow  Garda Division,2015
+0.0,Wicklow,False alarm/interference with aircraft or air transport facilities,Wicklow  Garda Division,2016
+0.0,Wicklow,False alarm/interference with aircraft or air transport facilities,Wicklow  Garda Division,2017
+0.0,Wicklow,False alarm/interference with aircraft or air transport facilities,Wicklow  Garda Division,2018
+0.0,Wicklow,False alarm/interference with aircraft or air transport facilities,Wicklow  Garda Division,2019
+0.0,Westmeath,False alarm/interference with aircraft or air transport facilities,Westmeath  Garda Division,2003
+0.0,Westmeath,False alarm/interference with aircraft or air transport facilities,Westmeath  Garda Division,2004
+0.0,Westmeath,False alarm/interference with aircraft or air transport facilities,Westmeath  Garda Division,2005
+0.0,Westmeath,False alarm/interference with aircraft or air transport facilities,Westmeath  Garda Division,2006
+0.0,Westmeath,False alarm/interference with aircraft or air transport facilities,Westmeath  Garda Division,2007
+0.0,Westmeath,False alarm/interference with aircraft or air transport facilities,Westmeath  Garda Division,2008
+0.0,Westmeath,False alarm/interference with aircraft or air transport facilities,Westmeath  Garda Division,2009
+0.0,Westmeath,False alarm/interference with aircraft or air transport facilities,Westmeath  Garda Division,2010
+0.0,Westmeath,False alarm/interference with aircraft or air transport facilities,Westmeath  Garda Division,2011
+0.0,Westmeath,False alarm/interference with aircraft or air transport facilities,Westmeath  Garda Division,2012
+0.0,Westmeath,False alarm/interference with aircraft or air transport facilities,Westmeath  Garda Division,2013
+0.0,Westmeath,False alarm/interference with aircraft or air transport facilities,Westmeath  Garda Division,2014
+0.0,Westmeath,False alarm/interference with aircraft or air transport facilities,Westmeath  Garda Division,2015
+0.0,Westmeath,False alarm/interference with aircraft or air transport facilities,Westmeath  Garda Division,2016
+0.0,Westmeath,False alarm/interference with aircraft or air transport facilities,Westmeath  Garda Division,2017
+0.0,Westmeath,False alarm/interference with aircraft or air transport facilities,Westmeath  Garda Division,2018
+0.0,Westmeath,False alarm/interference with aircraft or air transport facilities,Westmeath  Garda Division,2019
+0.0,Kildare,False alarm/interference with aircraft or air transport facilities,Kildare  Garda Division,2003
+0.0,Kildare,False alarm/interference with aircraft or air transport facilities,Kildare  Garda Division,2004
+0.0,Kildare,False alarm/interference with aircraft or air transport facilities,Kildare  Garda Division,2005
+0.0,Kildare,False alarm/interference with aircraft or air transport facilities,Kildare  Garda Division,2006
+0.0,Kildare,False alarm/interference with aircraft or air transport facilities,Kildare  Garda Division,2007
+0.0,Kildare,False alarm/interference with aircraft or air transport facilities,Kildare  Garda Division,2008
+0.0,Kildare,False alarm/interference with aircraft or air transport facilities,Kildare  Garda Division,2009
+0.0,Kildare,False alarm/interference with aircraft or air transport facilities,Kildare  Garda Division,2010
+0.0,Kildare,False alarm/interference with aircraft or air transport facilities,Kildare  Garda Division,2011
+0.0,Kildare,False alarm/interference with aircraft or air transport facilities,Kildare  Garda Division,2012
+0.0,Kildare,False alarm/interference with aircraft or air transport facilities,Kildare  Garda Division,2013
+0.0,Kildare,False alarm/interference with aircraft or air transport facilities,Kildare  Garda Division,2014
+0.0,Kildare,False alarm/interference with aircraft or air transport facilities,Kildare  Garda Division,2015
+0.0,Kildare,False alarm/interference with aircraft or air transport facilities,Kildare  Garda Division,2016
+0.0,Kildare,False alarm/interference with aircraft or air transport facilities,Kildare  Garda Division,2017
+0.0,Kildare,False alarm/interference with aircraft or air transport facilities,Kildare  Garda Division,2018
+0.0,Kildare,False alarm/interference with aircraft or air transport facilities,Kildare  Garda Division,2019
+0.0,Tipperary,False alarm/interference with aircraft or air transport facilities,Tipperary Garda Division,2003
+0.0,Tipperary,False alarm/interference with aircraft or air transport facilities,Tipperary Garda Division,2004
+0.0,Tipperary,False alarm/interference with aircraft or air transport facilities,Tipperary Garda Division,2005
+0.0,Tipperary,False alarm/interference with aircraft or air transport facilities,Tipperary Garda Division,2006
+0.0,Tipperary,False alarm/interference with aircraft or air transport facilities,Tipperary Garda Division,2007
+0.0,Tipperary,False alarm/interference with aircraft or air transport facilities,Tipperary Garda Division,2008
+0.0,Tipperary,False alarm/interference with aircraft or air transport facilities,Tipperary Garda Division,2009
+0.0,Tipperary,False alarm/interference with aircraft or air transport facilities,Tipperary Garda Division,2010
+0.0,Tipperary,False alarm/interference with aircraft or air transport facilities,Tipperary Garda Division,2011
+0.0,Tipperary,False alarm/interference with aircraft or air transport facilities,Tipperary Garda Division,2012
+0.0,Tipperary,False alarm/interference with aircraft or air transport facilities,Tipperary Garda Division,2013
+0.0,Tipperary,False alarm/interference with aircraft or air transport facilities,Tipperary Garda Division,2014
+0.0,Tipperary,False alarm/interference with aircraft or air transport facilities,Tipperary Garda Division,2015
+0.0,Tipperary,False alarm/interference with aircraft or air transport facilities,Tipperary Garda Division,2016
+0.0,Tipperary,False alarm/interference with aircraft or air transport facilities,Tipperary Garda Division,2017
+0.0,Tipperary,False alarm/interference with aircraft or air transport facilities,Tipperary Garda Division,2018
+0.0,Tipperary,False alarm/interference with aircraft or air transport facilities,Tipperary Garda Division,2019
+0.0,Wexford,False alarm/interference with aircraft or air transport facilities,Wexford  Garda Division,2003
+0.0,Wexford,False alarm/interference with aircraft or air transport facilities,Wexford  Garda Division,2004
+0.0,Wexford,False alarm/interference with aircraft or air transport facilities,Wexford  Garda Division,2005
+0.0,Wexford,False alarm/interference with aircraft or air transport facilities,Wexford  Garda Division,2006
+0.0,Wexford,False alarm/interference with aircraft or air transport facilities,Wexford  Garda Division,2007
+0.0,Wexford,False alarm/interference with aircraft or air transport facilities,Wexford  Garda Division,2008
+0.0,Wexford,False alarm/interference with aircraft or air transport facilities,Wexford  Garda Division,2009
+0.0,Wexford,False alarm/interference with aircraft or air transport facilities,Wexford  Garda Division,2010
+0.0,Wexford,False alarm/interference with aircraft or air transport facilities,Wexford  Garda Division,2011
+0.0,Wexford,False alarm/interference with aircraft or air transport facilities,Wexford  Garda Division,2012
+0.0,Wexford,False alarm/interference with aircraft or air transport facilities,Wexford  Garda Division,2013
+0.0,Wexford,False alarm/interference with aircraft or air transport facilities,Wexford  Garda Division,2014
+0.0,Wexford,False alarm/interference with aircraft or air transport facilities,Wexford  Garda Division,2015
+0.0,Wexford,False alarm/interference with aircraft or air transport facilities,Wexford  Garda Division,2016
+0.0,Wexford,False alarm/interference with aircraft or air transport facilities,Wexford  Garda Division,2017
+0.0,Wexford,False alarm/interference with aircraft or air transport facilities,Wexford  Garda Division,2018
+0.0,Wexford,False alarm/interference with aircraft or air transport facilities,Wexford  Garda Division,2019
+0.0,Waterford,False alarm/interference with aircraft or air transport facilities,Waterford  Garda Division,2003
+0.0,Waterford,False alarm/interference with aircraft or air transport facilities,Waterford  Garda Division,2004
+0.0,Waterford,False alarm/interference with aircraft or air transport facilities,Waterford  Garda Division,2005
+0.0,Waterford,False alarm/interference with aircraft or air transport facilities,Waterford  Garda Division,2006
+0.0,Waterford,False alarm/interference with aircraft or air transport facilities,Waterford  Garda Division,2007
+0.0,Waterford,False alarm/interference with aircraft or air transport facilities,Waterford  Garda Division,2008
+0.0,Waterford,False alarm/interference with aircraft or air transport facilities,Waterford  Garda Division,2009
+0.0,Waterford,False alarm/interference with aircraft or air transport facilities,Waterford  Garda Division,2010
+0.0,Waterford,False alarm/interference with aircraft or air transport facilities,Waterford  Garda Division,2011
+0.0,Waterford,False alarm/interference with aircraft or air transport facilities,Waterford  Garda Division,2012
+0.0,Waterford,False alarm/interference with aircraft or air transport facilities,Waterford  Garda Division,2013
+0.0,Waterford,False alarm/interference with aircraft or air transport facilities,Waterford  Garda Division,2014
+0.0,Waterford,False alarm/interference with aircraft or air transport facilities,Waterford  Garda Division,2015
+0.0,Waterford,False alarm/interference with aircraft or air transport facilities,Waterford  Garda Division,2016
+0.0,Waterford,False alarm/interference with aircraft or air transport facilities,Waterford  Garda Division,2017
+0.0,Waterford,False alarm/interference with aircraft or air transport facilities,Waterford  Garda Division,2018
+0.0,Waterford,False alarm/interference with aircraft or air transport facilities,Waterford  Garda Division,2019
+8.0,Dublin,False alarm/interference with aircraft or air transport facilities,Dublin Region,2003
+17.0,Dublin,False alarm/interference with aircraft or air transport facilities,Dublin Region,2004
+14.0,Dublin,False alarm/interference with aircraft or air transport facilities,Dublin Region,2005
+12.0,Dublin,False alarm/interference with aircraft or air transport facilities,Dublin Region,2006
+20.0,Dublin,False alarm/interference with aircraft or air transport facilities,Dublin Region,2007
+39.0,Dublin,False alarm/interference with aircraft or air transport facilities,Dublin Region,2008
+21.0,Dublin,False alarm/interference with aircraft or air transport facilities,Dublin Region,2009
+6.0,Dublin,False alarm/interference with aircraft or air transport facilities,Dublin Region,2010
+4.0,Dublin,False alarm/interference with aircraft or air transport facilities,Dublin Region,2011
+8.0,Dublin,False alarm/interference with aircraft or air transport facilities,Dublin Region,2012
+4.0,Dublin,False alarm/interference with aircraft or air transport facilities,Dublin Region,2013
+3.0,Dublin,False alarm/interference with aircraft or air transport facilities,Dublin Region,2014
+2.0,Dublin,False alarm/interference with aircraft or air transport facilities,Dublin Region,2015
+2.0,Dublin,False alarm/interference with aircraft or air transport facilities,Dublin Region,2016
+4.0,Dublin,False alarm/interference with aircraft or air transport facilities,Dublin Region,2017
+0.0,Dublin,False alarm/interference with aircraft or air transport facilities,Dublin Region,2018
+1.0,Dublin,False alarm/interference with aircraft or air transport facilities,Dublin Region,2019
+14.0,Donegal,Endangering traffic offences,Donegal Garda Division,2003
+12.0,Donegal,Endangering traffic offences,Donegal Garda Division,2004
+16.0,Donegal,Endangering traffic offences,Donegal Garda Division,2005
+16.0,Donegal,Endangering traffic offences,Donegal Garda Division,2006
+7.0,Donegal,Endangering traffic offences,Donegal Garda Division,2007
+16.0,Donegal,Endangering traffic offences,Donegal Garda Division,2008
+12.0,Donegal,Endangering traffic offences,Donegal Garda Division,2009
+13.0,Donegal,Endangering traffic offences,Donegal Garda Division,2010
+14.0,Donegal,Endangering traffic offences,Donegal Garda Division,2011
+10.0,Donegal,Endangering traffic offences,Donegal Garda Division,2012
+4.0,Donegal,Endangering traffic offences,Donegal Garda Division,2013
+2.0,Donegal,Endangering traffic offences,Donegal Garda Division,2014
+3.0,Donegal,Endangering traffic offences,Donegal Garda Division,2015
+8.0,Donegal,Endangering traffic offences,Donegal Garda Division,2016
+8.0,Donegal,Endangering traffic offences,Donegal Garda Division,2017
+9.0,Donegal,Endangering traffic offences,Donegal Garda Division,2018
+16.0,Donegal,Endangering traffic offences,Donegal Garda Division,2019
+0.0,Louth,Endangering traffic offences,Louth  Garda Division,2003
+2.0,Louth,Endangering traffic offences,Louth  Garda Division,2004
+4.0,Louth,Endangering traffic offences,Louth  Garda Division,2005
+2.0,Louth,Endangering traffic offences,Louth  Garda Division,2006
+12.0,Louth,Endangering traffic offences,Louth  Garda Division,2007
+5.0,Louth,Endangering traffic offences,Louth  Garda Division,2008
+6.0,Louth,Endangering traffic offences,Louth  Garda Division,2009
+5.0,Louth,Endangering traffic offences,Louth  Garda Division,2010
+7.0,Louth,Endangering traffic offences,Louth  Garda Division,2011
+13.0,Louth,Endangering traffic offences,Louth  Garda Division,2012
+4.0,Louth,Endangering traffic offences,Louth  Garda Division,2013
+2.0,Louth,Endangering traffic offences,Louth  Garda Division,2014
+4.0,Louth,Endangering traffic offences,Louth  Garda Division,2015
+4.0,Louth,Endangering traffic offences,Louth  Garda Division,2016
+10.0,Louth,Endangering traffic offences,Louth  Garda Division,2017
+7.0,Louth,Endangering traffic offences,Louth  Garda Division,2018
+11.0,Louth,Endangering traffic offences,Louth  Garda Division,2019
+1.0,Clare,Endangering traffic offences,Clare Garda Division,2003
+1.0,Clare,Endangering traffic offences,Clare Garda Division,2004
+6.0,Clare,Endangering traffic offences,Clare Garda Division,2005
+2.0,Clare,Endangering traffic offences,Clare Garda Division,2006
+7.0,Clare,Endangering traffic offences,Clare Garda Division,2007
+8.0,Clare,Endangering traffic offences,Clare Garda Division,2008
+6.0,Clare,Endangering traffic offences,Clare Garda Division,2009
+3.0,Clare,Endangering traffic offences,Clare Garda Division,2010
+8.0,Clare,Endangering traffic offences,Clare Garda Division,2011
+3.0,Clare,Endangering traffic offences,Clare Garda Division,2012
+2.0,Clare,Endangering traffic offences,Clare Garda Division,2013
+3.0,Clare,Endangering traffic offences,Clare Garda Division,2014
+2.0,Clare,Endangering traffic offences,Clare Garda Division,2015
+3.0,Clare,Endangering traffic offences,Clare Garda Division,2016
+1.0,Clare,Endangering traffic offences,Clare Garda Division,2017
+5.0,Clare,Endangering traffic offences,Clare Garda Division,2018
+8.0,Clare,Endangering traffic offences,Clare Garda Division,2019
+4.0,Mayo,Endangering traffic offences,Mayo Garda Division,2003
+3.0,Mayo,Endangering traffic offences,Mayo Garda Division,2004
+2.0,Mayo,Endangering traffic offences,Mayo Garda Division,2005
+3.0,Mayo,Endangering traffic offences,Mayo Garda Division,2006
+0.0,Mayo,Endangering traffic offences,Mayo Garda Division,2007
+7.0,Mayo,Endangering traffic offences,Mayo Garda Division,2008
+3.0,Mayo,Endangering traffic offences,Mayo Garda Division,2009
+3.0,Mayo,Endangering traffic offences,Mayo Garda Division,2010
+0.0,Mayo,Endangering traffic offences,Mayo Garda Division,2011
+1.0,Mayo,Endangering traffic offences,Mayo Garda Division,2012
+4.0,Mayo,Endangering traffic offences,Mayo Garda Division,2013
+1.0,Mayo,Endangering traffic offences,Mayo Garda Division,2014
+5.0,Mayo,Endangering traffic offences,Mayo Garda Division,2015
+2.0,Mayo,Endangering traffic offences,Mayo Garda Division,2016
+1.0,Mayo,Endangering traffic offences,Mayo Garda Division,2017
+8.0,Mayo,Endangering traffic offences,Mayo Garda Division,2018
+15.0,Mayo,Endangering traffic offences,Mayo Garda Division,2019
+2.0,Galway,Endangering traffic offences,Galway Garda Division,2003
+4.0,Galway,Endangering traffic offences,Galway Garda Division,2004
+5.0,Galway,Endangering traffic offences,Galway Garda Division,2005
+5.0,Galway,Endangering traffic offences,Galway Garda Division,2006
+11.0,Galway,Endangering traffic offences,Galway Garda Division,2007
+10.0,Galway,Endangering traffic offences,Galway Garda Division,2008
+13.0,Galway,Endangering traffic offences,Galway Garda Division,2009
+12.0,Galway,Endangering traffic offences,Galway Garda Division,2010
+8.0,Galway,Endangering traffic offences,Galway Garda Division,2011
+13.0,Galway,Endangering traffic offences,Galway Garda Division,2012
+6.0,Galway,Endangering traffic offences,Galway Garda Division,2013
+7.0,Galway,Endangering traffic offences,Galway Garda Division,2014
+4.0,Galway,Endangering traffic offences,Galway Garda Division,2015
+5.0,Galway,Endangering traffic offences,Galway Garda Division,2016
+7.0,Galway,Endangering traffic offences,Galway Garda Division,2017
+9.0,Galway,Endangering traffic offences,Galway Garda Division,2018
+15.0,Galway,Endangering traffic offences,Galway Garda Division,2019
+6.0,Cork,Endangering traffic offences,Cork City Garda Division,2003
+7.0,Cork,Endangering traffic offences,Cork City Garda Division,2004
+5.0,Cork,Endangering traffic offences,Cork City Garda Division,2005
+6.0,Cork,Endangering traffic offences,Cork City Garda Division,2006
+6.0,Cork,Endangering traffic offences,Cork City Garda Division,2007
+6.0,Cork,Endangering traffic offences,Cork City Garda Division,2008
+4.0,Cork,Endangering traffic offences,Cork City Garda Division,2009
+8.0,Cork,Endangering traffic offences,Cork City Garda Division,2010
+6.0,Cork,Endangering traffic offences,Cork City Garda Division,2011
+11.0,Cork,Endangering traffic offences,Cork City Garda Division,2012
+2.0,Cork,Endangering traffic offences,Cork City Garda Division,2013
+6.0,Cork,Endangering traffic offences,Cork City Garda Division,2014
+6.0,Cork,Endangering traffic offences,Cork City Garda Division,2015
+6.0,Cork,Endangering traffic offences,Cork City Garda Division,2016
+10.0,Cork,Endangering traffic offences,Cork City Garda Division,2017
+43.0,Cork,Endangering traffic offences,Cork City Garda Division,2018
+71.0,Cork,Endangering traffic offences,Cork City Garda Division,2019
+3.0,Cork,Endangering traffic offences,Cork North Garda Division,2003
+1.0,Cork,Endangering traffic offences,Cork North Garda Division,2004
+2.0,Cork,Endangering traffic offences,Cork North Garda Division,2005
+3.0,Cork,Endangering traffic offences,Cork North Garda Division,2006
+6.0,Cork,Endangering traffic offences,Cork North Garda Division,2007
+5.0,Cork,Endangering traffic offences,Cork North Garda Division,2008
+1.0,Cork,Endangering traffic offences,Cork North Garda Division,2009
+0.0,Cork,Endangering traffic offences,Cork North Garda Division,2010
+2.0,Cork,Endangering traffic offences,Cork North Garda Division,2011
+3.0,Cork,Endangering traffic offences,Cork North Garda Division,2012
+4.0,Cork,Endangering traffic offences,Cork North Garda Division,2013
+2.0,Cork,Endangering traffic offences,Cork North Garda Division,2014
+3.0,Cork,Endangering traffic offences,Cork North Garda Division,2015
+0.0,Cork,Endangering traffic offences,Cork North Garda Division,2016
+1.0,Cork,Endangering traffic offences,Cork North Garda Division,2017
+5.0,Cork,Endangering traffic offences,Cork North Garda Division,2018
+9.0,Cork,Endangering traffic offences,Cork North Garda Division,2019
+1.0,Cork,Endangering traffic offences,Cork West Garda Division,2003
+1.0,Cork,Endangering traffic offences,Cork West Garda Division,2004
+1.0,Cork,Endangering traffic offences,Cork West Garda Division,2005
+3.0,Cork,Endangering traffic offences,Cork West Garda Division,2006
+2.0,Cork,Endangering traffic offences,Cork West Garda Division,2007
+7.0,Cork,Endangering traffic offences,Cork West Garda Division,2008
+8.0,Cork,Endangering traffic offences,Cork West Garda Division,2009
+2.0,Cork,Endangering traffic offences,Cork West Garda Division,2010
+2.0,Cork,Endangering traffic offences,Cork West Garda Division,2011
+1.0,Cork,Endangering traffic offences,Cork West Garda Division,2012
+3.0,Cork,Endangering traffic offences,Cork West Garda Division,2013
+1.0,Cork,Endangering traffic offences,Cork West Garda Division,2014
+0.0,Cork,Endangering traffic offences,Cork West Garda Division,2015
+4.0,Cork,Endangering traffic offences,Cork West Garda Division,2016
+1.0,Cork,Endangering traffic offences,Cork West Garda Division,2017
+2.0,Cork,Endangering traffic offences,Cork West Garda Division,2018
+3.0,Cork,Endangering traffic offences,Cork West Garda Division,2019
+4.0,Kerry,Endangering traffic offences,Kerry Garda Division,2003
+2.0,Kerry,Endangering traffic offences,Kerry Garda Division,2004
+0.0,Kerry,Endangering traffic offences,Kerry Garda Division,2005
+3.0,Kerry,Endangering traffic offences,Kerry Garda Division,2006
+1.0,Kerry,Endangering traffic offences,Kerry Garda Division,2007
+3.0,Kerry,Endangering traffic offences,Kerry Garda Division,2008
+5.0,Kerry,Endangering traffic offences,Kerry Garda Division,2009
+10.0,Kerry,Endangering traffic offences,Kerry Garda Division,2010
+4.0,Kerry,Endangering traffic offences,Kerry Garda Division,2011
+2.0,Kerry,Endangering traffic offences,Kerry Garda Division,2012
+4.0,Kerry,Endangering traffic offences,Kerry Garda Division,2013
+3.0,Kerry,Endangering traffic offences,Kerry Garda Division,2014
+4.0,Kerry,Endangering traffic offences,Kerry Garda Division,2015
+1.0,Kerry,Endangering traffic offences,Kerry Garda Division,2016
+5.0,Kerry,Endangering traffic offences,Kerry Garda Division,2017
+6.0,Kerry,Endangering traffic offences,Kerry Garda Division,2018
+10.0,Kerry,Endangering traffic offences,Kerry Garda Division,2019
+3.0,Limerick,Endangering traffic offences,Limerick Garda Division,2003
+2.0,Limerick,Endangering traffic offences,Limerick Garda Division,2004
+12.0,Limerick,Endangering traffic offences,Limerick Garda Division,2005
+8.0,Limerick,Endangering traffic offences,Limerick Garda Division,2006
+10.0,Limerick,Endangering traffic offences,Limerick Garda Division,2007
+13.0,Limerick,Endangering traffic offences,Limerick Garda Division,2008
+7.0,Limerick,Endangering traffic offences,Limerick Garda Division,2009
+26.0,Limerick,Endangering traffic offences,Limerick Garda Division,2010
+15.0,Limerick,Endangering traffic offences,Limerick Garda Division,2011
+9.0,Limerick,Endangering traffic offences,Limerick Garda Division,2012
+17.0,Limerick,Endangering traffic offences,Limerick Garda Division,2013
+18.0,Limerick,Endangering traffic offences,Limerick Garda Division,2014
+34.0,Limerick,Endangering traffic offences,Limerick Garda Division,2015
+24.0,Limerick,Endangering traffic offences,Limerick Garda Division,2016
+19.0,Limerick,Endangering traffic offences,Limerick Garda Division,2017
+39.0,Limerick,Endangering traffic offences,Limerick Garda Division,2018
+68.0,Limerick,Endangering traffic offences,Limerick Garda Division,2019
+4.0,Meath,Endangering traffic offences,Meath  Garda Division,2003
+5.0,Meath,Endangering traffic offences,Meath  Garda Division,2004
+6.0,Meath,Endangering traffic offences,Meath  Garda Division,2005
+2.0,Meath,Endangering traffic offences,Meath  Garda Division,2006
+5.0,Meath,Endangering traffic offences,Meath  Garda Division,2007
+7.0,Meath,Endangering traffic offences,Meath  Garda Division,2008
+11.0,Meath,Endangering traffic offences,Meath  Garda Division,2009
+15.0,Meath,Endangering traffic offences,Meath  Garda Division,2010
+6.0,Meath,Endangering traffic offences,Meath  Garda Division,2011
+9.0,Meath,Endangering traffic offences,Meath  Garda Division,2012
+11.0,Meath,Endangering traffic offences,Meath  Garda Division,2013
+3.0,Meath,Endangering traffic offences,Meath  Garda Division,2014
+6.0,Meath,Endangering traffic offences,Meath  Garda Division,2015
+7.0,Meath,Endangering traffic offences,Meath  Garda Division,2016
+9.0,Meath,Endangering traffic offences,Meath  Garda Division,2017
+15.0,Meath,Endangering traffic offences,Meath  Garda Division,2018
+23.0,Meath,Endangering traffic offences,Meath  Garda Division,2019
+5.0,Wicklow,Endangering traffic offences,Wicklow  Garda Division,2003
+1.0,Wicklow,Endangering traffic offences,Wicklow  Garda Division,2004
+2.0,Wicklow,Endangering traffic offences,Wicklow  Garda Division,2005
+7.0,Wicklow,Endangering traffic offences,Wicklow  Garda Division,2006
+8.0,Wicklow,Endangering traffic offences,Wicklow  Garda Division,2007
+11.0,Wicklow,Endangering traffic offences,Wicklow  Garda Division,2008
+11.0,Wicklow,Endangering traffic offences,Wicklow  Garda Division,2009
+18.0,Wicklow,Endangering traffic offences,Wicklow  Garda Division,2010
+9.0,Wicklow,Endangering traffic offences,Wicklow  Garda Division,2011
+8.0,Wicklow,Endangering traffic offences,Wicklow  Garda Division,2012
+5.0,Wicklow,Endangering traffic offences,Wicklow  Garda Division,2013
+8.0,Wicklow,Endangering traffic offences,Wicklow  Garda Division,2014
+14.0,Wicklow,Endangering traffic offences,Wicklow  Garda Division,2015
+5.0,Wicklow,Endangering traffic offences,Wicklow  Garda Division,2016
+1.0,Wicklow,Endangering traffic offences,Wicklow  Garda Division,2017
+7.0,Wicklow,Endangering traffic offences,Wicklow  Garda Division,2018
+10.0,Wicklow,Endangering traffic offences,Wicklow  Garda Division,2019
+4.0,Westmeath,Endangering traffic offences,Westmeath  Garda Division,2003
+1.0,Westmeath,Endangering traffic offences,Westmeath  Garda Division,2004
+5.0,Westmeath,Endangering traffic offences,Westmeath  Garda Division,2005
+4.0,Westmeath,Endangering traffic offences,Westmeath  Garda Division,2006
+3.0,Westmeath,Endangering traffic offences,Westmeath  Garda Division,2007
+5.0,Westmeath,Endangering traffic offences,Westmeath  Garda Division,2008
+5.0,Westmeath,Endangering traffic offences,Westmeath  Garda Division,2009
+3.0,Westmeath,Endangering traffic offences,Westmeath  Garda Division,2010
+4.0,Westmeath,Endangering traffic offences,Westmeath  Garda Division,2011
+5.0,Westmeath,Endangering traffic offences,Westmeath  Garda Division,2012
+7.0,Westmeath,Endangering traffic offences,Westmeath  Garda Division,2013
+3.0,Westmeath,Endangering traffic offences,Westmeath  Garda Division,2014
+12.0,Westmeath,Endangering traffic offences,Westmeath  Garda Division,2015
+6.0,Westmeath,Endangering traffic offences,Westmeath  Garda Division,2016
+9.0,Westmeath,Endangering traffic offences,Westmeath  Garda Division,2017
+14.0,Westmeath,Endangering traffic offences,Westmeath  Garda Division,2018
+19.0,Westmeath,Endangering traffic offences,Westmeath  Garda Division,2019
+10.0,Kildare,Endangering traffic offences,Kildare  Garda Division,2003
+7.0,Kildare,Endangering traffic offences,Kildare  Garda Division,2004
+3.0,Kildare,Endangering traffic offences,Kildare  Garda Division,2005
+8.0,Kildare,Endangering traffic offences,Kildare  Garda Division,2006
+9.0,Kildare,Endangering traffic offences,Kildare  Garda Division,2007
+8.0,Kildare,Endangering traffic offences,Kildare  Garda Division,2008
+11.0,Kildare,Endangering traffic offences,Kildare  Garda Division,2009
+13.0,Kildare,Endangering traffic offences,Kildare  Garda Division,2010
+14.0,Kildare,Endangering traffic offences,Kildare  Garda Division,2011
+15.0,Kildare,Endangering traffic offences,Kildare  Garda Division,2012
+5.0,Kildare,Endangering traffic offences,Kildare  Garda Division,2013
+6.0,Kildare,Endangering traffic offences,Kildare  Garda Division,2014
+13.0,Kildare,Endangering traffic offences,Kildare  Garda Division,2015
+9.0,Kildare,Endangering traffic offences,Kildare  Garda Division,2016
+8.0,Kildare,Endangering traffic offences,Kildare  Garda Division,2017
+8.0,Kildare,Endangering traffic offences,Kildare  Garda Division,2018
+14.0,Kildare,Endangering traffic offences,Kildare  Garda Division,2019
+4.0,Tipperary,Endangering traffic offences,Tipperary Garda Division,2003
+3.0,Tipperary,Endangering traffic offences,Tipperary Garda Division,2004
+6.0,Tipperary,Endangering traffic offences,Tipperary Garda Division,2005
+5.0,Tipperary,Endangering traffic offences,Tipperary Garda Division,2006
+9.0,Tipperary,Endangering traffic offences,Tipperary Garda Division,2007
+1.0,Tipperary,Endangering traffic offences,Tipperary Garda Division,2008
+12.0,Tipperary,Endangering traffic offences,Tipperary Garda Division,2009
+8.0,Tipperary,Endangering traffic offences,Tipperary Garda Division,2010
+4.0,Tipperary,Endangering traffic offences,Tipperary Garda Division,2011
+0.0,Tipperary,Endangering traffic offences,Tipperary Garda Division,2012
+7.0,Tipperary,Endangering traffic offences,Tipperary Garda Division,2013
+2.0,Tipperary,Endangering traffic offences,Tipperary Garda Division,2014
+7.0,Tipperary,Endangering traffic offences,Tipperary Garda Division,2015
+1.0,Tipperary,Endangering traffic offences,Tipperary Garda Division,2016
+2.0,Tipperary,Endangering traffic offences,Tipperary Garda Division,2017
+13.0,Tipperary,Endangering traffic offences,Tipperary Garda Division,2018
+20.0,Tipperary,Endangering traffic offences,Tipperary Garda Division,2019
+1.0,Wexford,Endangering traffic offences,Wexford  Garda Division,2003
+1.0,Wexford,Endangering traffic offences,Wexford  Garda Division,2004
+5.0,Wexford,Endangering traffic offences,Wexford  Garda Division,2005
+2.0,Wexford,Endangering traffic offences,Wexford  Garda Division,2006
+3.0,Wexford,Endangering traffic offences,Wexford  Garda Division,2007
+9.0,Wexford,Endangering traffic offences,Wexford  Garda Division,2008
+8.0,Wexford,Endangering traffic offences,Wexford  Garda Division,2009
+4.0,Wexford,Endangering traffic offences,Wexford  Garda Division,2010
+2.0,Wexford,Endangering traffic offences,Wexford  Garda Division,2011
+7.0,Wexford,Endangering traffic offences,Wexford  Garda Division,2012
+2.0,Wexford,Endangering traffic offences,Wexford  Garda Division,2013
+1.0,Wexford,Endangering traffic offences,Wexford  Garda Division,2014
+2.0,Wexford,Endangering traffic offences,Wexford  Garda Division,2015
+3.0,Wexford,Endangering traffic offences,Wexford  Garda Division,2016
+9.0,Wexford,Endangering traffic offences,Wexford  Garda Division,2017
+9.0,Wexford,Endangering traffic offences,Wexford  Garda Division,2018
+18.0,Wexford,Endangering traffic offences,Wexford  Garda Division,2019
+3.0,Waterford,Endangering traffic offences,Waterford  Garda Division,2003
+4.0,Waterford,Endangering traffic offences,Waterford  Garda Division,2004
+3.0,Waterford,Endangering traffic offences,Waterford  Garda Division,2005
+2.0,Waterford,Endangering traffic offences,Waterford  Garda Division,2006
+9.0,Waterford,Endangering traffic offences,Waterford  Garda Division,2007
+10.0,Waterford,Endangering traffic offences,Waterford  Garda Division,2008
+6.0,Waterford,Endangering traffic offences,Waterford  Garda Division,2009
+6.0,Waterford,Endangering traffic offences,Waterford  Garda Division,2010
+7.0,Waterford,Endangering traffic offences,Waterford  Garda Division,2011
+7.0,Waterford,Endangering traffic offences,Waterford  Garda Division,2012
+1.0,Waterford,Endangering traffic offences,Waterford  Garda Division,2013
+5.0,Waterford,Endangering traffic offences,Waterford  Garda Division,2014
+2.0,Waterford,Endangering traffic offences,Waterford  Garda Division,2015
+3.0,Waterford,Endangering traffic offences,Waterford  Garda Division,2016
+1.0,Waterford,Endangering traffic offences,Waterford  Garda Division,2017
+7.0,Waterford,Endangering traffic offences,Waterford  Garda Division,2018
+14.0,Waterford,Endangering traffic offences,Waterford  Garda Division,2019
+61.0,Dublin,Endangering traffic offences,Dublin Region,2003
+56.0,Dublin,Endangering traffic offences,Dublin Region,2004
+58.0,Dublin,Endangering traffic offences,Dublin Region,2005
+63.0,Dublin,Endangering traffic offences,Dublin Region,2006
+95.0,Dublin,Endangering traffic offences,Dublin Region,2007
+98.0,Dublin,Endangering traffic offences,Dublin Region,2008
+96.0,Dublin,Endangering traffic offences,Dublin Region,2009
+103.0,Dublin,Endangering traffic offences,Dublin Region,2010
+72.0,Dublin,Endangering traffic offences,Dublin Region,2011
+68.0,Dublin,Endangering traffic offences,Dublin Region,2012
+59.0,Dublin,Endangering traffic offences,Dublin Region,2013
+52.0,Dublin,Endangering traffic offences,Dublin Region,2014
+50.0,Dublin,Endangering traffic offences,Dublin Region,2015
+48.0,Dublin,Endangering traffic offences,Dublin Region,2016
+78.0,Dublin,Endangering traffic offences,Dublin Region,2017
+105.0,Dublin,Endangering traffic offences,Dublin Region,2018
+184.0,Dublin,Endangering traffic offences,Dublin Region,2019
