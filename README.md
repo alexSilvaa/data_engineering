@@ -1,21 +1,21 @@
-### Knowledge and Data Engineering Ontology
+# Knowledge and Data Engineering Ontology
 
 Ontology represents crime, housing prices, average salaries, weather and homelessness for different Counties and years.
 Application helps provide information on statistics and make correlations or connections between the different statistics.
 
-# 1. RDF Mappings
+### 1. RDF Mappings
 https://github.com/alexSilvaa/data_engineering/blob/master/r2rml.pdf
 
-# 2. Ontology in Turtle
+### 2. Ontology in Turtle
 https://github.com/alexSilvaa/data_engineering/blob/master/ontology.ttl
 
-# 3. Ontology in Owl
+### 3. Ontology in Owl
 https://github.com/alexSilvaa/data_engineering/blob/master/OwlOntology.owl
 
-# 4. SPARQL Queries
+### 4. SPARQL Queries
 https://github.com/alexSilvaa/data_engineering/tree/master/Queries
 
-# 5. Application for creating new and running existing SPARQL queries on Ontology
+### 5. Application for creating new and running existing SPARQL queries on Ontology
 https://github.com/alexSilvaa/data_engineering/tree/master/App/teamo
 
 
