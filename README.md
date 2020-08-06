@@ -4,5 +4,5 @@ Ontology represents crime, housing prices, average salaries, weather and homeles
 Application helps provide information on statistics and make correlations or connections between the different statistics.
 
 1. Uplifted Datasets (CSV to RDF)
-(https://github.com/alexSilvaa/data_engineering/tree/master/Uplifted%20datasets)
+https://github.com/alexSilvaa/data_engineering/tree/master/Uplifted%20datasets
 
